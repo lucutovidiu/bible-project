@@ -1,40 +1,35 @@
 <div class="py-4 ">
   <div class="container background wrapper">
     <div class="h2 fw-bold py-3">Cartea:</div>
-    <ng-container
-      *ngFor="let menuData of menuData$ | async"
-    >
+    @for (menuData of menuData$ | async; track menuData.bookId) {
       <button class="btn me-2 mb-2"
               [ngClass]="selectedBook.bookName === menuData.name ? 'btn-dark' : 'btn-outline-dark'"
               (click)="selectBook(menuData)"
       >{{ menuData.name }}
       </button>
-    </ng-container>
+    }
     <br/>
-    <ng-container
-      *ngIf="chapterNumbers"
-    >
+    @if (chapterNumbers) {
       <div class="h2 fw-bold py-3">Capitolul:</div>
-      <ng-container
-        *ngFor="let chapterNumber of chapterNumbers"
-      >
+      @for (chapterNumber of chapterNumbers; track chapterNumber) {
         <button class="btn me-2 mb-2"
                 [ngClass]="chapterNumber === selectedBook.chapterNumber ? 'btn-dark' : 'btn-outline-dark'"
                 (click)="loadChapter(chapterNumber)"
         >{{ chapterNumber }}
         </button>
-      </ng-container>
-    </ng-container>
+      }
+    }
 
-    <ng-container *ngIf="bibleVerse$ | async as bibleVerses">
-      <div class="fw-bold fs-2 py-2 text-center">{{selectedBook.bookName}} {{selectedBook.chapterNumber}}</div>
-      <ng-container *ngFor="let bibleVerse of bibleVerses">
-        <div class="fw-bold fs-5 px-4 py-1"
-             [id]="selectedBook.verseNumber == bibleVerse.verseNumber ? 'jump_section': ''"
-             [ngClass]="selectedBook.verseNumber == bibleVerse.verseNumber ? 'text-red':'' "
-        >{{bibleVerse.verseNumber}}. {{bibleVerse.textWithDiacritics}}</div>
-      </ng-container>
-    </ng-container>
+    @if (bibleVerse$ | async; as bibleVerses) {
+      <div class="fw-bold fs-2 py-2 text-center">{{ selectedBook.bookName }} {{ selectedBook.chapterNumber }}</div>
+        @for (bibleVerse of bibleVerses; track bibleVerse.verseNumber) {
+          <div class="fw-bold fs-5 px-4 py-1"
+               [id]="selectedBook.verseNumber == bibleVerse.verseNumber ? 'jump_section': ''"
+               [ngClass]="selectedBook.verseNumber == bibleVerse.verseNumber ? 'text-red':'' "
+          >{{ bibleVerse.verseNumber }}. {{ bibleVerse.textWithDiacritics }}
+          </div>
+        }
+    }
   </div>
 </div>
 
