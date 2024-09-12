@@ -1,0 +1,29 @@
+quarkus:
+  http:
+    port: 8989
+  # Health check probes
+  smallrye-health:
+    root-path: /health
+  #Swagger Configurations
+  swagger-ui:
+    enable: true
+    path: /q/swagger-ui
+  smallrye-openapi:
+    path: /q/openapi
+  log:
+    level: INFO
+    #Log in console in json format
+    console:
+      json: true
+  # db connection settings: https://quarkus.io/guides/liquibase
+  datasource:
+    db-kind: postgresql
+    username: ${datasource_username:default}
+    password: ${datasource_password:default}
+    jdbc:
+      url: ${datasource_jdbc_url:default}
+      acquisition-timeout: 15000
+  flyway:
+    migrate-at-start: true
+    baseline-on-migrate: true
+    schemas: public

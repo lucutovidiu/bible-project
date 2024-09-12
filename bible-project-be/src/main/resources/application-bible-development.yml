@@ -1,0 +1,9 @@
+quarkus:
+  #Configure CORS policies
+  http:
+    cors:
+      ~: true
+      origins: '*'
+  #Swagger Configurations
+  swagger-ui:
+    enable: true

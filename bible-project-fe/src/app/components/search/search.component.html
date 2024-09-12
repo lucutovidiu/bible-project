@@ -1,0 +1,45 @@
+<div class="py-4">
+  <div class="container background wrapper">
+    <ng-container *ngIf="bibleVerses$ | async as bibleVerses">
+      <ng-container *ngIf="bibleVerses.length>0; else noResults">
+        <div class="fw-bold h3 mb-3">Rezultate Cautare:</div>
+        <div class="fw-bold h4">
+          <div class="row g-3">
+            <div class="col-12 col-lg-6" *ngFor="let bibleVerse of bibleVerses">
+              <div class="verse-box h-100 d-flex flex-wrap align-content-between">
+                <div>
+                  <span
+                    *ngFor="let word of bibleVerse.text.split(' ')"
+                  >
+                    <span [ngClass]="shouldColoredTheText(word) ? 'red-color' : ''">
+                    {{ word }}
+                    </span>
+                  </span>
+                </div>
+                <div class="mt-2">
+                  <a class="btn btn-outline-dark"
+                     [routerLink]="['']"
+                     [queryParams]="{
+                     bookName: bibleVerse.chapter.book.name,
+                     bookId: bibleVerse.chapter.book.bookId,
+                     chapterNumber: bibleVerse.chapter.number,
+                     verseNumber: bibleVerse.verseNumber,
+                     }">
+                    {{ bibleVerse.chapter.book.name }} {{ bibleVerse.chapter.number }}:{{ bibleVerse.verseNumber }}
+                  </a>
+                  <button class="btn btn-outline-dark ms-3" (click)="copyTextToClipboard(bibleVerse)">
+                    Copiaza textul
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </ng-container>
+    </ng-container>
+  </div>
+</div>
+
+<ng-template #noResults>
+  <div class="fw-bold h3">No Results</div>
+</ng-template>
