@@ -1,10 +1,10 @@
 import {ChangeDetectionStrategy, Component, OnInit} from '@angular/core';
 import {ActivatedRoute, RouterLink} from "@angular/router";
-import {BehaviorSubject} from "rxjs";
 import {AsyncPipe, NgClass, NgForOf, NgIf} from "@angular/common";
 
-import {BibleBookService} from "../../services/bible-book/bible-book.service";
-import {BibleVerse} from "../../services/dto/bible-verse";
+import {BibleVerse} from "../../model/bible-verse";
+import {LoadingIndicatorBoxComponent} from "../loading-indicator-box/loading-indicator-box.component";
+import {SearchPageService} from "../../services/search-page-service/search-page.service";
 
 @Component({
   selector: 'bible-search',
@@ -16,15 +16,17 @@ import {BibleVerse} from "../../services/dto/bible-verse";
     AsyncPipe,
     NgForOf,
     NgClass,
-    RouterLink
+    RouterLink,
+    LoadingIndicatorBoxComponent
   ],
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class SearchComponent implements OnInit {
-  protected readonly bibleVerses$ = new BehaviorSubject<BibleVerse[]>([]);
+  protected readonly bibleVerses$ = this.searchPageService.searchPageBibleVerseResult$
   protected searchTextWords: string[] = [];
+  protected readonly searchPageLoading$ = this.searchPageService.searchPageLoading$;
 
-  constructor(private readonly bibleBookService: BibleBookService,
+  constructor(private readonly searchPageService: SearchPageService,
               private readonly route: ActivatedRoute) {
   }
 
@@ -44,8 +46,7 @@ export class SearchComponent implements OnInit {
 
   search(searchText: string | null) {
     if (searchText && searchText.length > 2) {
-      this.bibleBookService.findPlacesInTheBibleByVerseText(searchText)
-        .subscribe(bibleVerses => this.bibleVerses$.next(bibleVerses))
+      this.searchPageService.findPlacesInTheBibleByVerseText(searchText);
     }
   }
 
@@ -55,4 +56,6 @@ export class SearchComponent implements OnInit {
     navigator.clipboard.writeText(text)
       .catch(console.error);
   }
+
+  protected readonly Math = Math;
 }

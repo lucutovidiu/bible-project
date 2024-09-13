@@ -1,45 +1,50 @@
 <div class="py-4">
-  <div class="container background wrapper">
-    <ng-container *ngIf="bibleVerses$ | async as bibleVerses">
-      <ng-container *ngIf="bibleVerses.length>0; else noResults">
-        <div class="fw-bold h3 mb-3">Rezultate Cautare:</div>
-        <div class="fw-bold h4">
-          <div class="row g-3">
-            <div class="col-12 col-lg-6" *ngFor="let bibleVerse of bibleVerses">
-              <div class="verse-box h-100 d-flex flex-wrap align-content-between">
-                <div>
-                  <span
-                    *ngFor="let word of bibleVerse.text.split(' ')"
-                  >
-                    <span [ngClass]="shouldColoredTheText(word) ? 'red-color' : ''">
+    <bible-loading-indicator-box
+      [isLoading]="searchPageLoading$ | async">
+      @if (bibleVerses$ | async; as bibleVerses) {
+        <div class="container main-text-background px-sm-3 px-md-4 px-lg-5 py-2 py-sm-2 py-md-3 py-lg-4">
+        @if (bibleVerses.length > 0) {
+          <div class="fw-bold h3 mb-3 text-title-colour">Rezultate Cautare:</div>
+          <div class="fw-bold h4">
+            <div class="row g-3">
+              <div class="col-12 col-lg-6" *ngFor="let bibleVerse of bibleVerses">
+                <div class="verse-box h-100 d-flex flex-wrap align-content-between">
+                  <div>
+                    @for (word of bibleVerse.text.split(' '); track word+Math.random()) {
+                      <span [ngClass]="shouldColoredTheText(word) ? 'text-mark-highlight-colour' : ''">
                     {{ word }}
                     </span>
-                  </span>
-                </div>
-                <div class="mt-2">
-                  <a class="btn btn-outline-dark"
-                     [routerLink]="['']"
-                     [queryParams]="{
+                    }
+                  </div>
+                  <div class="mt-2 w-100">
+                    <div class="row g-2">
+                      <div class="col-12 col-md-7">
+                        <a class="btn btn-outline-dark"
+                           [routerLink]="['/display-chapter']"
+                           [queryParams]="{
                      bookName: bibleVerse.chapter.book.name,
                      bookId: bibleVerse.chapter.book.bookId,
                      chapterNumber: bibleVerse.chapter.number,
                      verseNumber: bibleVerse.verseNumber,
                      }">
-                    {{ bibleVerse.chapter.book.name }} {{ bibleVerse.chapter.number }}:{{ bibleVerse.verseNumber }}
-                  </a>
-                  <button class="btn btn-outline-dark ms-3" (click)="copyTextToClipboard(bibleVerse)">
-                    Copiaza textul
-                  </button>
+                          {{ bibleVerse.chapter.book.name }} {{ bibleVerse.chapter.number }}:{{ bibleVerse.verseNumber }}
+                        </a>
+                      </div>
+                      <div class="col-12 col-md-5">
+                        <button class="btn btn-outline-dark" (click)="copyTextToClipboard(bibleVerse)">
+                          Copiaza textul
+                        </button>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
+        } @else {
+          <div class="fw-bold h3 text-title-colour">No Results</div>
+        }
         </div>
-      </ng-container>
-    </ng-container>
-  </div>
+      }
+    </bible-loading-indicator-box>
 </div>
-
-<ng-template #noResults>
-  <div class="fw-bold h3">No Results</div>
-</ng-template>

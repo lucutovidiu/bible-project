@@ -1,7 +1,9 @@
-import {ChangeDetectionStrategy, Component} from '@angular/core';
+import {ChangeDetectionStrategy, Component, OnInit} from '@angular/core';
 import {NgOptimizedImage} from "@angular/common";
 import {FormBuilder, FormControl, ReactiveFormsModule, Validators} from "@angular/forms";
 import {Router, RouterLink} from "@angular/router";
+import {NavBarService} from "../../services/nav-bar-service/nav-bar.service";
+import {takeUntilDestroyed} from "@angular/core/rxjs-interop";
 
 @Component({
   selector: 'bible-nav-bar',
@@ -15,7 +17,7 @@ import {Router, RouterLink} from "@angular/router";
   styleUrl: './nav-bar.component.scss',
   changeDetection: ChangeDetectionStrategy.OnPush
 })
-export class NavBarComponent {
+export class NavBarComponent implements OnInit {
   searchForm = this.fb.group({
     searchBox: new FormControl<string | null>(null, {
       validators: [
@@ -24,15 +26,30 @@ export class NavBarComponent {
       nonNullable: true,
     }),
   });
-
   constructor(private readonly fb: FormBuilder,
-              private readonly router: Router,) {
+              private readonly router: Router,
+              private readonly navBarService: NavBarService,) {
+    this.navBarService.navBarSearchBox$.pipe(
+      takeUntilDestroyed()
+    ).subscribe(searchText => {
+      this.searchForm.controls.searchBox.patchValue(searchText, {emitEvent: false, onlySelf: true})
+    })
+  }
+
+  ngOnInit(): void {
+    this.searchForm.controls.searchBox.valueChanges.subscribe(
+      searchText=> {
+        if(searchText){
+          this.navBarService.updateNavbarSearchBox(searchText)
+        }
+      }
+    )
   }
 
   search() {
     const searchTerm = this.searchForm.controls.searchBox.value;
     if (searchTerm && searchTerm.length > 2) {
-      this.router.navigate(['/search/'+searchTerm])
+      this.router.navigate(['/search/' + searchTerm])
         .catch(console.error);
     }
   }

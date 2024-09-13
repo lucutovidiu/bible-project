@@ -4,11 +4,10 @@ import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 import ro.bible.db.pojo.BookPojo;
+import ro.bible.yahwehtora.dto.BookInfo;
 
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 @Getter
 @Setter
@@ -22,6 +21,14 @@ public class BookEntity extends BaseEntity {
     private String abbreviation;
     @Column(name = "testament", length = 30)
     private String testament;
+    @Column(name = "exp_chapters_count")
+    private Integer expChaptersCount;
+    @Column(name = "exp_total_verses")
+    private Integer expTotalVerses;
+    @Column(name = "downloaded_link")
+    private String downloadedLink;
+    @Column(name = "requires_update")
+    private boolean requiresUpdate;
     @OneToMany(fetch = FetchType.LAZY, cascade = CascadeType.ALL, orphanRemoval = true, mappedBy = "book")
     private List<ChapterEntity> chapters = new ArrayList<>();
 
@@ -35,6 +42,17 @@ public class BookEntity extends BaseEntity {
                 .name(name)
                 .abbreviation(abbreviation)
                 .testament(testament)
+                .expChaptersCount(expChaptersCount)
+                .expTotalVerses(expTotalVerses)
+                .downloadedLink(downloadedLink)
+                .requiresUpdate(requiresUpdate)
                 .build();
+    }
+
+    public void updateBook(BookInfo bookInfo) {
+        this.abbreviation = bookInfo.abbreviation();
+        this.testament = bookInfo.testament();
+        this.expChaptersCount = bookInfo.chaptersCount();
+        this.expTotalVerses = bookInfo.totalVerses();
     }
 }

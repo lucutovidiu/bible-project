@@ -14,4 +14,8 @@ public class BookPojo {
     private String name;
     private String abbreviation;
     private String testament;
+    private Integer expChaptersCount;
+    private Integer expTotalVerses;
+    private String downloadedLink;
+    private Boolean requiresUpdate;
 }

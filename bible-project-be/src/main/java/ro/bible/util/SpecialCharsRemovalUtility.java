@@ -22,10 +22,4 @@ public class SpecialCharsRemovalUtility {
                 .replaceAll("ț", "t")
                 .replaceAll("ţ", "t");
     }
-
-    public String removeSpecialChars(String text) {
-        return text
-                .replaceAll("\\*", "")
-                .replaceAll("♦", "");
-    }
 }

@@ -6,17 +6,15 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import ro.bible.db.service.BibleService;
+import ro.bible.db.service.BookService;
 import ro.bible.filewriter.BibleFileWriter;
+import ro.bible.util.BibleStringUtils;
 import ro.bible.util.SpecialCharsRemovalUtility;
 import ro.bible.yahwehtora.dto.BibleBookLink;
 import ro.bible.yahwehtora.dto.BibleVerseDto;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
@@ -28,20 +26,20 @@ public class VersesExtractor {
 
     private final String chapterKeyName;
 
-    private BibleService bibleService;
+    private BookService bookService;
 
     public VersesExtractor(String chapterKeyName) {
         this.chapterKeyName = chapterKeyName;
     }
 
     public void extractVersesFromBook(BibleBookLink bibleBookLink) {
-        BibleFileWriter bibleFileWriter = new BibleFileWriter(bibleBookLink.bookTitle());
+        BibleFileWriter bibleFileWriter = new BibleFileWriter(bibleBookLink.bookName());
 
         try {
             Document doc = Jsoup.connect(bibleBookLink.url()).get();
             Elements chapters = doc.select("h2:contains(" + chapterKeyName + ")");
 
-            System.out.println("writeHtmlPageItself: " + bibleBookLink.bookTitle());
+            System.out.println("writeHtmlPageItself: " + bibleBookLink.bookName());
             bibleFileWriter.writeHtmlPageItself(doc.html());
             for (Element chapter : chapters) {
                 String chapterTitle = chapter.text();
@@ -64,19 +62,19 @@ public class VersesExtractor {
 
                 mapVersesElementToText(getVersesByNo(verses)).forEach((verseNumber, verseText) -> {
                     try {
-                        Log.infof("At book: %s, and chapter: %s, verseNumber: %s", bibleBookLink.bookTitle(), chapterTitle, verseNumber);
+                        Log.infof("At book: %s, and chapter: %s, verseNumber: %s", bibleBookLink.bookName(), chapterTitle, verseNumber);
 
                         int chapterNumer = Integer.parseInt(chapterTitle.split(" ")[1]);
-                        bibleService.writeBibleVerse(
+                        bookService.writeBibleVerse(
                                 BibleVerseDto.builder()
-                                        .bookName(bibleBookLink.bookTitle())
+                                        .bookName(bibleBookLink.bookName())
                                         .chapterNumer(chapterNumer)
                                         .verseNumber(verseNumber)
-                                        .verseText(SpecialCharsRemovalUtility.removeSpecialChars(SpecialCharsRemovalUtility.removeDiacritics(verseText)))
-                                        .verseTextWithDiacritics(SpecialCharsRemovalUtility.removeSpecialChars(verseText))
+                                        .verseText(BibleStringUtils.removeSpecialChars(SpecialCharsRemovalUtility.removeDiacritics(verseText)))
+                                        .verseTextWithDiacritics(BibleStringUtils.removeSpecialChars(verseText))
                                         .build());
                     } catch (NumberFormatException e) {
-                        Log.errorf("ERROR! At book: %s, and chapter: %s", bibleBookLink.bookTitle(), chapterTitle);
+                        Log.errorf("ERROR! At book: %s, and chapter: %s", bibleBookLink.bookName(), chapterTitle);
                     }
                 });
             }
@@ -174,7 +172,8 @@ public class VersesExtractor {
     private String normaliseString(String text) {
         return text.replaceAll("\\R+", " ")
                 .replaceAll("-", "")
-                .replaceAll(" {2,}", " ");
+                .replaceAll(" {2,}", " ")
+                .trim();
     }
 
     private String removeReOrderNumbers(String text) {

@@ -3,6 +3,9 @@ import { RouterModule, Routes } from '@angular/router';
 
 import {HomeComponent} from "./components/home/home.component";
 import {SearchComponent} from "./components/search/search.component";
+import {
+  ResultDisplayFullChapterComponent
+} from "./components/result-display-full-chapter/result-display-full-chapter.component";
 
 const routes: Routes = [
   {
@@ -12,6 +15,10 @@ const routes: Routes = [
   {
     path: 'search/:searchText',
     component: SearchComponent,
+  },
+  {
+    path: 'display-chapter',
+    component: ResultDisplayFullChapterComponent,
   },
   { path: '**', redirectTo: '/' },
 ];

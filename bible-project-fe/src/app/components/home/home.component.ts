@@ -1,11 +1,16 @@
-import {ChangeDetectionStrategy, Component, OnInit} from '@angular/core';
+import {ChangeDetectionStrategy, Component, OnDestroy, OnInit} from '@angular/core';
 import {CommonModule} from "@angular/common";
-import {BehaviorSubject} from "rxjs";
-
-import {BibleBookService} from "../../services/bible-book/bible-book.service";
-import {BibleBook, createSelectedBook, SelectedBibleBook} from "../../services/dto/bible-book";
-import {BibleVerse} from "../../services/dto/bible-verse";
-import {ActivatedRoute, Router} from "@angular/router";
+import {BehaviorSubject, catchError, throwError} from "rxjs";
+import {BibleBook} from "../../model/bible-book";
+import {BibleVerse} from "../../model/bible-verse";
+import {LoadingIndicatorBoxComponent} from "../loading-indicator-box/loading-indicator-box.component";
+import {HomeService} from "../../services/home-service/home.service";
+import {InfiniteLoadingComponent} from "../infinite-loading/infinite-loading.component";
+import {HtmlFunctions} from "../utility/html-functions";
+import {takeUntilDestroyed} from "@angular/core/rxjs-interop";
+import {SelectedBibleBook} from "../../store/site-state";
+import {error} from "@angular/compiler-cli/src/transformers/util";
+import {BibleToastrService} from "../utility/jetty-toastr-service/bible-toastr.service";
 
 @Component({
   selector: 'bible-home',
@@ -13,86 +18,59 @@ import {ActivatedRoute, Router} from "@angular/router";
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss',
   imports: [
-    CommonModule
+    CommonModule,
+    LoadingIndicatorBoxComponent,
+    InfiniteLoadingComponent
   ],
   changeDetection: ChangeDetectionStrategy.OnPush
 })
-export class HomeComponent implements OnInit {
-  protected readonly menuData$ = this.bibleBookService.getMenuData();
-  protected chapterNumbers: number[] | null = null;
-  protected selectedBook = createSelectedBook();
+export class HomeComponent implements OnInit, OnDestroy {
+  protected readonly bibleBooks$ = this.homeService.homePageBibleBooks$;
+  protected homePageLoading$ = this.homeService.homePageLoading$;
+  protected selectedBook: SelectedBibleBook | null = null;
   protected readonly bibleVerse$ = new BehaviorSubject<BibleVerse[] | null>(null);
 
-  constructor(private readonly bibleBookService: BibleBookService,
-              private readonly activatedRoute: ActivatedRoute,
-              private router: Router,) {
-  }
-
-  ngOnInit() {
-    this.activatedRoute.queryParams.subscribe(params => {
-      if (params['bookName'] && params['bookId'] && params['chapterNumber'] && params['verseNumber']) {
-        this.selectedBook = {...params as SelectedBibleBook}
-        this.getRequestedBook();
-      }
-      if (params['bookName'] && params['bookId'] && params['chapterNumbers']) {
-        this.selectedBook = createSelectedBook();
-        this.selectedBook.bookName = params['bookName'];
-        this.selectedBook.bookId = params['bookId'];
-        this.chapterNumbers = Array.from({length: params['chapterNumbers']}, (_, i) => i + 1);
-      }
-    });
+  constructor(private readonly homeService: HomeService,
+              private readonly bibleToastrService: BibleToastrService) {
+    this.homeService.homePageSelectedBibleBook$.pipe(
+      takeUntilDestroyed(),
+    )
+      .subscribe(selectedBook => {
+          this.selectedBook = selectedBook;
+        }
+      )
   }
 
   selectBook(bibleBookInfo: BibleBook) {
-    if (!!this.selectedBook.chapterNumber && !!this.selectedBook.verseNumber) {
-      this.router.navigate([''], {
-        queryParams: {
-          bookName: bibleBookInfo.name,
-          bookId: bibleBookInfo.bookId,
-          chapterNumbers: bibleBookInfo.chaptersCount
-        }
-      })
-      return;
-    }
-    this.selectedBook = createSelectedBook();
-    this.selectedBook.bookName = bibleBookInfo.name;
-    this.selectedBook.bookId = bibleBookInfo.bookId;
     this.bibleVerse$.next(null);
-    this.chapterNumbers = Array.from({length: bibleBookInfo.chaptersCount}, (_, i) => i + 1);
+    this.homeService.updateSelectedBibleBook(bibleBookInfo.name, bibleBookInfo.bookId, bibleBookInfo.chaptersCount)
   }
 
   loadChapter(chapterNumber: number) {
-    this.selectedBook.chapterNumber = chapterNumber;
+    this.homeService.updateSelectedBibleBookChapterNumber(chapterNumber);
     this.findChapterNumberByBook();
   }
 
-  jumpToSelectedSection(): void {
-    setTimeout(() => {
-      const targetElement = document.getElementById("jump_section");
-      if (targetElement) {
-        // Get the position of the target element
-        const rect = targetElement.getBoundingClientRect();
-        // Scroll with an offset (e.g., 100px from the top)
-        window.scrollTo({
-          top: rect.top + window.scrollY - 200, // Adjust the offset value as needed
-          behavior: 'smooth'
-        });
-      }
-    }, 300)
-  }
-
-  private getRequestedBook() {
-    this.findChapterNumberByBook()
+  ngOnInit(): void {
+    this.homeService.getMenuData();
+    this.findChapterNumberByBook();
   }
 
   private findChapterNumberByBook() {
-    if (this.selectedBook.chapterNumber && this.selectedBook.bookId) {
-      this.bibleBookService.findChapterNumberByBook(this.selectedBook.chapterNumber, this.selectedBook.bookId)
-        .subscribe(bibleVerses => {
-          this.bibleVerse$.next(bibleVerses);
-          this.jumpToSelectedSection();
-        })
-    }
+    this.homeService.findChapterNumberByBook().pipe(
+      catchError(error => {
+        this.bibleVerse$.next(null);
+        this.bibleToastrService.error("Incearca mai tarziu la acest capitol", "Eroare de server", false, 2000)
+        return throwError(() => error);
+      })
+    ).subscribe(bibleVerses => {
+      this.bibleVerse$.next(bibleVerses);
+      HtmlFunctions.jumpToSection("section_chapter", 100);
+    })
+  }
+
+  ngOnDestroy(): void {
+    this.homeService.updateSelectedBibleBook(null, null,null)
   }
 }
 

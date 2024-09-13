@@ -22,4 +22,8 @@ public class VerseRepository implements PanacheRepository<VerseEntity> {
     public List<VerseEntity> findPlacesInTheBibleByVerseText(String verseText) {
         return list("text like ?1", "%" + verseText + "%");
     }
+
+    public long getVerseCountByBookId(long bookId) {
+        return count("SELECT count(v) FROM VerseEntity v WHERE v.chapter.book.id = ?1", bookId);
+    }
 }

@@ -2,8 +2,8 @@ import { Injectable } from '@angular/core';
 
 import {BibleBookApiService} from "../bible-book-api/bible-book-api.service";
 import {Observable} from "rxjs";
-import {BibleBook} from "../dto/bible-book";
-import {BibleVerse} from "../dto/bible-verse";
+import {BibleBook} from "../../model/bible-book";
+import {BibleVerse} from "../../model/bible-verse";
 
 @Injectable({
   providedIn: 'root'

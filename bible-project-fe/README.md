@@ -1,3 +1,9 @@
+# Free images
+https://pixabay.com/images/search/pattern/
+
+# Bootstrap icons website
+https://icons.getbootstrap.com/
+
 # BibleProjectFe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.

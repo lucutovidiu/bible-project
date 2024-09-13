@@ -3,8 +3,10 @@ html, body {
   height: auto;
   margin: 0;
   padding: 0;
-  background-image: url("/assets/images/background/bible-background-1.jpg");
-  background-size: contain;
+  background-image: url("/assets/images/background/pattern17.jpg");
+  background-repeat: repeat-y;
+  background-position: top;
+  background-size: 100%;
 }
 
 #bible-root {
@@ -13,4 +15,17 @@ html, body {
 
 .no-scroll {
   overflow: hidden;
+}
+
+.main-text-background {
+  background-color: rgba(200, 198, 208, 0.8);
+  color: #4f362b;
+}
+
+.text-mark-highlight-colour {
+  color: #a82727!important;
+}
+
+.text-title-colour {
+  color: #0a0a0a!important;
 }

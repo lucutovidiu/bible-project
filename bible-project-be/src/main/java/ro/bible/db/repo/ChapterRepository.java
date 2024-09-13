@@ -17,4 +17,8 @@ public class ChapterRepository implements PanacheRepository<ChapterEntity> {
                 chapterNumer, bookId)
                 .firstResultOptional();
     }
+
+    public long getChapterCountByBookId(long bookId) {
+        return count("SELECT count(c) FROM ChapterEntity c WHERE c.book.id = ?1", bookId);
+    }
 }

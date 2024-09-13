@@ -1,36 +1,42 @@
-<div class="py-4 ">
-  <div class="container background wrapper">
-    <div class="h2 fw-bold py-3">Cartea:</div>
-    @for (menuData of menuData$ | async; track menuData.bookId) {
-      <button class="btn me-2 mb-2"
-              [ngClass]="selectedBook.bookName === menuData.name ? 'btn-dark' : 'btn-outline-dark'"
-              (click)="selectBook(menuData)"
-      >{{ menuData.name }}
-      </button>
-    }
-    <br/>
-    @if (chapterNumbers) {
-      <div class="h2 fw-bold py-3">Capitolul:</div>
-      @for (chapterNumber of chapterNumbers; track chapterNumber) {
-        <button class="btn me-2 mb-2"
-                [ngClass]="chapterNumber === selectedBook.chapterNumber ? 'btn-dark' : 'btn-outline-dark'"
-                (click)="loadChapter(chapterNumber)"
-        >{{ chapterNumber }}
-        </button>
-      }
-    }
-
-    @if (bibleVerse$ | async; as bibleVerses) {
-      <div class="fw-bold fs-2 py-2 text-center">{{ selectedBook.bookName }} {{ selectedBook.chapterNumber }}</div>
-        @for (bibleVerse of bibleVerses; track bibleVerse.verseNumber) {
-          <div class="fw-bold fs-5 px-4 py-1"
-               [id]="selectedBook.verseNumber == bibleVerse.verseNumber ? 'jump_section': ''"
-               [ngClass]="selectedBook.verseNumber == bibleVerse.verseNumber ? 'text-red':'' "
-          >{{ bibleVerse.verseNumber }}. {{ bibleVerse.textWithDiacritics }}
-          </div>
+<div class="py-4">
+  <bible-loading-indicator-box
+    [isLoading]="homePageLoading$ | async"
+  >
+    @if (bibleBooks$ | async; as bibleBooks){
+      <div class="container main-text-background px-sm-3 px-md-4 px-lg-5 py-sm-1 py-md-3">
+        <div class="h2 fw-bold py-3 text-title-colour">Cartea:</div>
+        @for (bibleBook of bibleBooks; track bibleBook.bookId) {
+          <button class="btn me-2 mb-2"
+                  [ngClass]="selectedBook?.bookName === bibleBook.name ? 'btn-dark' : 'btn-outline-dark'"
+                  (click)="selectBook(bibleBook)"
+          >{{ bibleBook.abbreviation }}
+          </button>
         }
+        <br/>
+        @if (selectedBook?.chapterNumbers) {
+          <div id="section_chapter" class="h2 fw-bold py-3 text-title-colour">Capitolul:</div>
+          @for (chapterNumber of selectedBook?.chapterNumbers; track chapterNumber) {
+            <button class="btn me-2 mb-2"
+                    [ngClass]="chapterNumber === selectedBook?.chapterNumber ? 'btn-dark' : 'btn-outline-dark'"
+                    (click)="loadChapter(chapterNumber)"
+            >{{ chapterNumber }}
+            </button>
+          }
+        }
+
+        @if (bibleVerse$ | async; as bibleVerses) {
+          <div
+            class="fw-bold fs-2 py-2 text-center text-title-colour">{{ selectedBook?.bookName }} {{ selectedBook?.chapterNumber }}
+          </div>
+          @for (bibleVerse of bibleVerses; track bibleVerse.verseNumber) {
+            <div class="fw-bold fs-5 py-1"
+            >{{ bibleVerse.verseNumber }}. {{ bibleVerse.textWithDiacritics }}
+            </div>
+          }
+        }
+      </div>
     }
-  </div>
+  </bible-loading-indicator-box>
 </div>
 
 
