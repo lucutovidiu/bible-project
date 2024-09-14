@@ -57,9 +57,15 @@ class VersesExtractorTest {
     }
 
     @Test
-    public void test_downloadAllRequiredHtmlSources() {
+    public void test_createAllRequiredHtmlLocalSources() {
         BibleSourceDocuments bibleSourceDocuments = new BibleSourceDocuments();
-        bibleSourceDocuments.downloadAllRequiredHtmlSources();
+        bibleSourceDocuments.createAllRequiredHtmlLocalSources();
+    }
+
+    @Test
+    public void test_getDocumentForBook() {
+        BibleSourceDocuments bibleSourceDocuments = new BibleSourceDocuments();
+        System.out.println(bibleSourceDocuments.getDocumentForBook("1 Corinteni – Corintiyah Alef").title());
     }
 
     @Test

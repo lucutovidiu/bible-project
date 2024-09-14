@@ -1,8 +1,8 @@
 package ro.bible.yahwehtora.service;
 
-import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Node;
+import ro.bible.yahwehtora.YahwehtoraDocumentDownloader;
 import ro.bible.yahwehtora.dto.BibleBookLink;
 
 import java.io.IOException;
@@ -15,7 +15,7 @@ import static java.util.stream.Collectors.toList;
 public class MenuExtractor {
 
     public static List<BibleBookLink> extractBibleMenus() throws IOException {
-        Document doc = Jsoup.connect("https://yahwehtora.ro/").get();
+        Document doc = YahwehtoraDocumentDownloader.downloadDocument("https://yahwehtora.ro/").get();
         return doc.select(".menu-item a")
                 .stream().map((a) -> new BibleBookLink(extractBookNameRegex(extractBookMenuNames(a.childNodes())), a.attr("href"))
                 ).collect(toList());

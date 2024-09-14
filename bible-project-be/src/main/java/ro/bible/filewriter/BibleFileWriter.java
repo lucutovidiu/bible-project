@@ -13,7 +13,7 @@ public class BibleFileWriter {
     private static final String basePathPath = "/Users/ovidiulucut/Desktop/RestornedNamesRomanianBible";
     private static final String fileSeparator = File.separator;
     private static final String versesFileName = "verses.txt";
-    private static final String htmlPageName = "htmlPage.html";
+    private static final String htmlPageName = "menu.html";
     private final String bookTitle;
 
     public BibleFileWriter(String bookTitle) {

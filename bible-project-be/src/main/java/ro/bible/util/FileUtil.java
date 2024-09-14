@@ -1,5 +1,6 @@
 package ro.bible.util;
 
+import io.quarkus.logging.Log;
 import lombok.experimental.UtilityClass;
 
 import java.io.BufferedReader;
@@ -26,21 +27,9 @@ public class FileUtil {
         }
     }
 
-    public static Optional<String> getFileFromResourceAsString(String path) {
-        try (InputStream resourceAsStream = Thread.currentThread().getContextClassLoader().getResourceAsStream(path)) {
-            assert resourceAsStream != null;
-            if(resourceAsStream.available() > 0 ) {
-                return Optional.of(resourceAsStream.toString());
-            }
-            return Optional.empty();
-        } catch (IOException e) {
-            return Optional.empty();
-        }
-    }
-
-    // under resources folder just get path inside like: bible-source-documents/htmlPage.html
+    // under resources folder just get path inside like: bible-source-documents/menu.html
     public Optional<String> getFileFromClasspath(String path) {
-        try (InputStream resourceAsStream = Thread.currentThread().getContextClassLoader().getResourceAsStream("bible-source-documents/htmlPage.html")) {
+        try (InputStream resourceAsStream = Thread.currentThread().getContextClassLoader().getResourceAsStream(path)) {
             assert resourceAsStream != null;
             if(resourceAsStream.available() > 0 ) {
                 try (BufferedReader reader = new BufferedReader(new InputStreamReader(resourceAsStream, StandardCharsets.UTF_8))) {
@@ -61,11 +50,11 @@ public class FileUtil {
 
         if (!doesFolderExists(folderPath)) {
             try {
-                System.out.println("creating folder: " + folderPath);
+                Log.infof("creating folder: '%s'", folderPath);
                 Files.createDirectory(path);
                 return true;
             } catch (IOException e) {
-                System.out.println("Can't create directory: " + folderPath);
+                Log.errorf("Can't create directory: '%s'", folderPath);
             }
         }
 
@@ -97,5 +86,21 @@ public class FileUtil {
         Path path = Paths.get(filePath);
 
         return Files.exists(path) && Files.isRegularFile(path);
+    }
+
+    public boolean writeContentToFile(String filePath, String content) {
+        // Define the path to the resources folder (works in dev mode)
+        Path path = Paths.get(filePath);
+
+        // Write the content to the file
+        try {
+            Files.writeString(path, content);
+            Log.infof("File writen to location: '%s'", filePath);
+            return true;
+        } catch (IOException e) {
+            Log.errorf("Fail to Write file to location: '%s'", filePath);
+        }
+
+        return false;
     }
 }
