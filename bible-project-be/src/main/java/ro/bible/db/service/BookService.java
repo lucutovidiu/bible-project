@@ -18,7 +18,7 @@ import java.util.Optional;
 
 @ApplicationScoped
 public class BookService {
-    private static final String PLACE_HOLDER_MSG = "TO_BE_DONE_LATER";
+    public static final String PLACE_HOLDER_MSG = "TO_BE_DONE_LATER";
 
     @Inject
     BookRepository bookRepository;
@@ -66,6 +66,7 @@ public class BookService {
             chapterEntity.setBook(bookEntity);
             bookEntity.addChapter(chapterEntity);
 
+            chapterRepository.persist(chapterEntity);
             return chapterEntity;
         }
 
@@ -81,7 +82,10 @@ public class BookService {
             bookEntity.setName(bookName);
             bookEntity.setAbbreviation(PLACE_HOLDER_MSG);
             bookEntity.setTestament(PLACE_HOLDER_MSG);
+            bookEntity.setExpChaptersCount(0);
+            bookEntity.setExpTotalVerses(0);
 
+            bookRepository.persist(bookEntity);
             return bookEntity;
         }
 
@@ -90,7 +94,7 @@ public class BookService {
 
     @Transactional
     public Optional<BookPojo> getOrCreateBookPojo(String bookName) {
-       return bookRepository.findByBookName(bookName).map(BookEntity::getBookPojoNoChapters);
+        return bookRepository.findByBookName(bookName).map(BookEntity::getBookPojoNoChapters);
     }
 
     @Transactional
@@ -101,13 +105,27 @@ public class BookService {
     }
 
     @Transactional
-    public void updateBook(BookInfo bookInfo) {
+    public void updateOrCreateBook(BookInfo bookInfo) {
         getOrCreateBookEntity(bookInfo.bookName()).updateBook(bookInfo);
     }
 
     @Transactional
-    public void updateBookUrl(String bookName, String downloadLink) {
+    public void setBookUpdatedStatus(String bookName, boolean status) {
         bookRepository.findByBookName(bookName)
-                .ifPresent(bookEntity -> bookEntity.setDownloadedLink(downloadLink));
+                .ifPresent(bookEntity -> {
+                    bookEntity.setRequiresUpdate(status);
+                    bookEntity.setInProgress(status);
+                });
+    }
+
+    @Transactional
+    public boolean isBoolAlreadyTakenIfNotMarketItAsTaken(long bookId) {
+        BookEntity bookEntity = bookRepository.findById(bookId);
+        if(!bookEntity.isInProgress()) {
+            bookEntity.setInProgress(true);
+            return false;
+        }
+
+        return true;
     }
 }

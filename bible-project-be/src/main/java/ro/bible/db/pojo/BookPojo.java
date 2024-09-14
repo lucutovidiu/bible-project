@@ -18,4 +18,10 @@ public class BookPojo {
     private Integer expTotalVerses;
     private String downloadedLink;
     private Boolean requiresUpdate;
+    private Boolean inProgress;
+    private int bookOrder;
+
+    public String chapterKey() {
+        return name.equalsIgnoreCase("Psalmii – Tehillim") ? "Psalmul" : "Capitolul";
+    }
 }

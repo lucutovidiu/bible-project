@@ -13,4 +13,28 @@ export class HtmlFunctions {
       }
     }, timeout)
   }
+
+  public static copyTextToClipboard(text: string) {
+    if (navigator && navigator.clipboard) {
+      navigator.clipboard.writeText(text).then(() => {
+        console.log('Text copied to clipboard successfully');
+      }).catch((err) => {
+        console.error('Failed to copy text to clipboard', err);
+      });
+    } else if (document.queryCommandSupported && document.queryCommandSupported('copy')) {
+      const textarea = document.createElement('textarea');
+      textarea.value = text;
+      document.body.appendChild(textarea);
+      textarea.select();
+      try {
+        document.execCommand('copy');
+        console.log('Fallback: Text copied to clipboard');
+      } catch (err) {
+        console.error('Fallback: Failed to copy text to clipboard', err);
+      }
+      document.body.removeChild(textarea);
+    } else {
+      console.error('Clipboard API not supported and no fallback available');
+    }
+  }
 }

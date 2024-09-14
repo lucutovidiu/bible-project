@@ -1,9 +1,11 @@
 package ro.bible;
 
 import io.quarkus.runtime.Startup;
+import io.quarkus.scheduler.Scheduled;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import ro.bible.db.service.BookService;
+import ro.bible.maintanance.service.BibleMigrationService;
 import ro.bible.maintanance.service.BookMaintenanceService;
 import ro.bible.maintanance.service.BookReportingService;
 
@@ -17,7 +19,7 @@ public class StartupListener {
     @Inject
     BookMaintenanceService bookMaintenanceService;
     @Inject
-    BookReportingService bookReportingService;
+    BibleMigrationService bibleMigrationService;
 
     AtomicBoolean atomicBoolean = new AtomicBoolean(true);
 
@@ -40,14 +42,13 @@ public class StartupListener {
 //        Log.info("Db population is finished");
     }
 
-//    @Scheduled(every = "10s")
-        // Every hour, on the hour
+    @Scheduled(every = "5s")
     void runDailyTask() {
-        if (atomicBoolean.get()) {
-            atomicBoolean.set(false);
-//            bookMaintenanceService.patchAllBooks();
-//            bookReportingService.runBookReport();
-        }
-        System.out.println("not runnign...");
+//        if (atomicBoolean.get()) {
+//            atomicBoolean.set(false);
+            bibleMigrationService.migrateRequiredBooks();
+//            bibleMigrationService.migrateBooksFromYahwehtora();
+//        }
+//        System.out.println("not runnign...");
     }
 }

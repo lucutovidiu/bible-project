@@ -5,6 +5,7 @@ import {AsyncPipe, NgClass, NgForOf, NgIf} from "@angular/common";
 import {BibleVerse} from "../../model/bible-verse";
 import {LoadingIndicatorBoxComponent} from "../loading-indicator-box/loading-indicator-box.component";
 import {SearchPageService} from "../../services/search-page-service/search-page.service";
+import {HtmlFunctions} from "../utility/html-functions";
 
 @Component({
   selector: 'bible-search',
@@ -53,8 +54,7 @@ export class SearchComponent implements OnInit {
   copyTextToClipboard(bibleVerse: BibleVerse) {
     const text = `${bibleVerse.textWithDiacritics}\n(${bibleVerse.chapter.book.name} ${bibleVerse.chapter.number}:${bibleVerse.verseNumber})`;
     // Copy the text to the clipboard
-    navigator.clipboard.writeText(text)
-      .catch(console.error);
+    HtmlFunctions.copyTextToClipboard(text)
   }
 
   protected readonly Math = Math;

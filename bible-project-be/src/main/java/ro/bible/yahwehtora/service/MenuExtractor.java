@@ -18,7 +18,6 @@ public class MenuExtractor {
         Document doc = Jsoup.connect("https://yahwehtora.ro/").get();
         return doc.select(".menu-item a")
                 .stream().map((a) -> new BibleBookLink(extractBookNameRegex(extractBookMenuNames(a.childNodes())), a.attr("href"))
-
                 ).collect(toList());
     }
 

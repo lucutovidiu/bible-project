@@ -16,12 +16,14 @@ public class BibleBookInfoDto {
     private String abbreviation;
     private String testament;
     private long chaptersCount;
+    private int bookOrder;
 
     public BibleBookInfoDto setFromBookPojo(BookPojo bookPojo) {
         this.bookId = bookPojo.getBookId();
         this.name = bookPojo.getName();
         this.abbreviation = bookPojo.getAbbreviation();
         this.testament = bookPojo.getTestament();
+        this.bookOrder = bookPojo.getBookOrder();
 
         return this;
     }

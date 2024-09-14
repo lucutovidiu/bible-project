@@ -29,6 +29,10 @@ public class BookEntity extends BaseEntity {
     private String downloadedLink;
     @Column(name = "requires_update")
     private boolean requiresUpdate;
+    @Column(name = "in_progress")
+    private boolean inProgress;
+    @Column(name = "book_order")
+    private int bookOrder;
     @OneToMany(fetch = FetchType.LAZY, cascade = CascadeType.ALL, orphanRemoval = true, mappedBy = "book")
     private List<ChapterEntity> chapters = new ArrayList<>();
 
@@ -46,6 +50,8 @@ public class BookEntity extends BaseEntity {
                 .expTotalVerses(expTotalVerses)
                 .downloadedLink(downloadedLink)
                 .requiresUpdate(requiresUpdate)
+                .inProgress(inProgress)
+                .bookOrder(bookOrder)
                 .build();
     }
 
@@ -54,5 +60,7 @@ public class BookEntity extends BaseEntity {
         this.testament = bookInfo.testament();
         this.expChaptersCount = bookInfo.chaptersCount();
         this.expTotalVerses = bookInfo.totalVerses();
+        this.downloadedLink = bookInfo.downloadUrl();
+        this.bookOrder = bookInfo.bookOrder();
     }
 }

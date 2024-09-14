@@ -13,9 +13,9 @@ public class BaseEntity extends PanacheEntity {
 
     @Column(name = "created_at")
     @CreationTimestamp
-    private LocalDateTime createdAt;
+    private LocalDateTime createdAt = LocalDateTime.now();
 
     @Column(name = "updated_at")
     @UpdateTimestamp
-    private LocalDateTime updateDateTime;
+    private LocalDateTime updateDateTime = LocalDateTime.now();;
 }

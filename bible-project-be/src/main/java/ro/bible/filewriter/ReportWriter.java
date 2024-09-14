@@ -7,15 +7,18 @@ import java.io.PrintWriter;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.List;
+import java.time.LocalDateTime;
+
+import static ro.bible.maintanance.service.BookReportingService.DATE_TIME_FORMATTER;
 
 public class ReportWriter {
     private static final String basePathPath = "/Users/ovidiulucut/Desktop/BibleReport";
     private static final String fileSeparator = File.separator;
-    private static final String reportFilePath = basePathPath + fileSeparator + "report-data.txt";
+    private static String reportFilePath;
 
     public ReportWriter() {
         createFolderIfNotExists(basePathPath);
+        reportFilePath = basePathPath + fileSeparator + "report-data-"+LocalDateTime.now().format(DATE_TIME_FORMATTER)+".txt";
         createFileIfNotExists(reportFilePath);
     }
 

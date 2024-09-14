@@ -7,6 +7,7 @@ import jakarta.ws.rs.core.MediaType;
 import ro.bible.db.pojo.VersePojo;
 import ro.bible.resourses.service.BibleFinderService;
 
+import java.util.Comparator;
 import java.util.List;
 
 @Produces(MediaType.APPLICATION_JSON)
@@ -23,7 +24,9 @@ public class BibleFinderResource {
                                                    @PathParam("bookId") long bookId) {
         Log.info("Get findChapterNumberByBook");
 
-        return bibleFinderService.getChapterVerses(chapterNumer, bookId);
+        return bibleFinderService.getChapterVerses(chapterNumer, bookId).stream()
+                .sorted(Comparator.comparing(VersePojo::getVerseNumber))
+                .toList();
     }
 
     @GET
@@ -31,6 +34,8 @@ public class BibleFinderResource {
     public List<VersePojo> findPlacesInTheBibleByVerseText(@PathParam("verseText") String verseText) {
         Log.info("Get findPlacesInTheBibleByVerseText");
 
-        return bibleFinderService.findPlacesInTheBibleByVerseText(verseText);
+        return bibleFinderService.findPlacesInTheBibleByVerseText(verseText).stream()
+                .sorted(Comparator.comparing(verse -> verse.getChapter().getBook().getTestament()))
+                .toList();
     }
 }

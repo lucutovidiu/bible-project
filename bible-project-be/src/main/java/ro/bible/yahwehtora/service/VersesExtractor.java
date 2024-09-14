@@ -9,7 +9,6 @@ import org.jsoup.select.Elements;
 import ro.bible.db.service.BookService;
 import ro.bible.filewriter.BibleFileWriter;
 import ro.bible.util.BibleStringUtils;
-import ro.bible.util.SpecialCharsRemovalUtility;
 import ro.bible.yahwehtora.dto.BibleBookLink;
 import ro.bible.yahwehtora.dto.BibleVerseDto;
 
@@ -70,7 +69,7 @@ public class VersesExtractor {
                                         .bookName(bibleBookLink.bookName())
                                         .chapterNumer(chapterNumer)
                                         .verseNumber(verseNumber)
-                                        .verseText(BibleStringUtils.removeSpecialChars(SpecialCharsRemovalUtility.removeDiacritics(verseText)))
+                                        .verseText(BibleStringUtils.removeSpecialChars(BibleStringUtils.removeDiacritics(verseText)))
                                         .verseTextWithDiacritics(BibleStringUtils.removeSpecialChars(verseText))
                                         .build());
                     } catch (NumberFormatException e) {

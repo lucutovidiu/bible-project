@@ -10,6 +10,7 @@ import jakarta.ws.rs.core.MediaType;
 import ro.bible.resourses.dto.BibleBookInfoDto;
 import ro.bible.resourses.service.MenuService;
 
+import java.util.Comparator;
 import java.util.List;
 
 @Produces(MediaType.APPLICATION_JSON)
@@ -23,6 +24,8 @@ public class MenuResource {
     @GET
     public List<BibleBookInfoDto> getMenu() {
         Log.info("Get menu");
-        return menuService.getBibleBooks();
+        return menuService.getBibleBooks().stream()
+                .sorted(Comparator.comparing(BibleBookInfoDto::getBookOrder))
+                .toList();
     }
 }

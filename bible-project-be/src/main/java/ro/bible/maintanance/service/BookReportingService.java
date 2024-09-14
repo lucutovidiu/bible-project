@@ -27,7 +27,7 @@ public class BookReportingService {
     ChapterRepository chapterRepository;
     @Inject
     VerseRepository verseRepository;
-    DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss");
+    public static final DateTimeFormatter DATE_TIME_FORMATTER = DateTimeFormatter.ofPattern("dd-MM-yyyy-HH-mm-ss");
 
     public void runBookReport() {
         List<BookPojo> bookPojos = bookRepository.findAll().stream()
@@ -40,7 +40,7 @@ public class BookReportingService {
         // Report Header
         ReportWriter reportWriter = new ReportWriter();
         reportWriter.writeLine("######################");
-        reportWriter.writeLine("Begin Report date: " + LocalDateTime.now().format(dateTimeFormatter));
+        reportWriter.writeLine("Begin Report date: " + LocalDateTime.now().format(DATE_TIME_FORMATTER));
         reportWriter.writeLine("");
         // missing books report
         verifyMissingBooks(books, reportWriter);
@@ -49,7 +49,7 @@ public class BookReportingService {
         // Report per book
         books.forEach(book -> reportPerBook(book, reportWriter));
         // Report Footer
-        reportWriter.writeLine("End Report date" + LocalDateTime.now().format(dateTimeFormatter));
+        reportWriter.writeLine("End Report date" + LocalDateTime.now().format(DATE_TIME_FORMATTER));
         reportWriter.writeLine("######################");
     }
 
