@@ -75,6 +75,11 @@ class VersesExtractorTest {
     }
 
     @Test
+    public void test_FileUtil() {
+        System.out.println(FileUtil.doesFileExists("src/main/resources/bible-source-documents/apocalipsa/apocalipsa.html"));
+    }
+
+    @Test
     public void create_BookPaths() {
         BibleUtil.bookInfoList.forEach(book -> {
             String bookBegining = book.bookName().split(" ")[0];

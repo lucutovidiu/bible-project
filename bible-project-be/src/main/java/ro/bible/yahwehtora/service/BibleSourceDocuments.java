@@ -112,12 +112,12 @@ public class BibleSourceDocuments {
     }
 
     private Optional<String> getSourceDocument(BookLocalPaths bookLocalPaths) {
-        if (FileUtil.doesFileExists(bookLocalPaths.getFileFullPath())) {
+        if (FileUtil.doesFileExists(bookLocalPaths.getWritableFullPath())) {
             Log.info("Getting local document for book" + bookLocalPaths.getBookName());
 
-            return FileUtil.getFileFromClasspath(bookLocalPaths.getFileFullPath());
+            return FileUtil.getFileFromClasspath(bookLocalPaths.getReadablePath());
         }
-        Log.infof("Document NOT found Locally for book: %s but trying remotely" + bookLocalPaths.getBookName());
+        Log.infof("Document NOT found Locally for path: '%s' for book: '%s' but trying remotely", bookLocalPaths.getWritableFullPath(), bookLocalPaths.getBookName());
         return downloadDocumentFromMainRepository(bookLocalPaths)
                 .map(htmlStringDocument -> {
                     saveDocumentToLocal(bookLocalPaths, htmlStringDocument);
@@ -132,7 +132,7 @@ public class BibleSourceDocuments {
 
     private void createLocalDocument(BookLocalPaths bookLocalPaths) {
         Log.infof("Creating local document for book name: '%s'", bookLocalPaths.getBookName());
-        if (FileUtil.doesFileExists(bookLocalPaths.getFileFullPath())) {
+        if (FileUtil.doesFileExists(bookLocalPaths.getWritableFullPath())) {
             Log.infof("Local document already exists for book name: '%s'", bookLocalPaths.getBookName());
             return;
         }
@@ -161,8 +161,8 @@ public class BibleSourceDocuments {
     private void saveDocumentToLocal(BookLocalPaths bookLocalPaths, String htmlStringDocument) {
         Log.infof("Saving local document for book name: '%s'", bookLocalPaths.getBookName());
 
-        FileUtil.createFolderIfNotExists(bookLocalPaths.getBookBaseFolderPath());
-        FileUtil.writeContentToFile(bookLocalPaths.getFileFullPath(), htmlStringDocument);
+        FileUtil.createFolderIfNotExists(bookLocalPaths.getWritableBasePath());
+        FileUtil.writeContentToFile(bookLocalPaths.getWritableFullPath(), htmlStringDocument);
     }
 }
 
@@ -173,7 +173,15 @@ class BookLocalPaths {
     private String bookBaseFolderPath;
     private String bookFileName;
 
-    public String getFileFullPath() {
+    public String getWritableFullPath() {
+        return FileUtil.RESOURCE_FOLDER + File.separator + bookBaseFolderPath + File.separator + bookFileName;
+    }
+
+    public String getWritableBasePath() {
+        return FileUtil.RESOURCE_FOLDER + File.separator + bookBaseFolderPath;
+    }
+
+    public String getReadablePath() {
         return bookBaseFolderPath + File.separator + bookFileName;
     }
 }

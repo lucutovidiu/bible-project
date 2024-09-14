@@ -30,7 +30,9 @@ public class FileUtil {
     // under resources folder just get path inside like: bible-source-documents/menu.html
     public Optional<String> getFileFromClasspath(String path) {
         try (InputStream resourceAsStream = Thread.currentThread().getContextClassLoader().getResourceAsStream(path)) {
-            assert resourceAsStream != null;
+            if(resourceAsStream == null) {
+                return Optional.empty();
+            }
             if(resourceAsStream.available() > 0 ) {
                 try (BufferedReader reader = new BufferedReader(new InputStreamReader(resourceAsStream, StandardCharsets.UTF_8))) {
                     String collect = reader.lines().collect(Collectors.joining(System.lineSeparator()));
