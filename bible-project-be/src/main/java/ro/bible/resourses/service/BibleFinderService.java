@@ -21,7 +21,7 @@ public class BibleFinderService {
     VerseRepository verseRepository;
 
     public List<VersePojo> getChapterVerses(Integer chapterNumer, long bookId) {
-        ChapterEntity chapter = chapterRepository.getChapterByBookAndChapterNumber(chapterNumer, bookId).orElseThrow(() -> new RuntimeException("Chapter not found"));
+        ChapterEntity chapter = chapterRepository.getChapterByBookAndChapterNumber(bookId, chapterNumer).orElseThrow(() -> new RuntimeException("Chapter not found"));
 
         return chapter.getVerses().stream()
                 .map(VerseEntity::getVersePojo)

@@ -65,7 +65,7 @@ public class BibleUtil {
     bookInfoList.add(new BookInfo("3 Macabei", 51,"3Macab.", "Vechiul Testament", 7, 206,"https://yahwehtora.ro/3-macabei"));
     bookInfoList.add(new BookInfo("Rugăciunea regelui Manase", 52,"Manase.", "Vechiul Testament", 1, 15,"https://yahwehtora.ro/rugaciunea-regelui-manase"));
     bookInfoList.add(new BookInfo("Cartea lui Enoh", 53,"Enoh.", "Vechiul Testament", 107, 1061,"https://yahwehtora.ro/cartea-lui-enoh"));
-    bookInfoList.add(new BookInfo("Matei – Mattityahu", 54,"Mat.", "Vechiul Testament", 28, 1071,"https://yahwehtora.ro/matei-mattityahu"));
+    bookInfoList.add(new BookInfo("Matei – Mattityahu", 54,"Mat.", "Noul Testament", 28, 1071,"https://yahwehtora.ro/matei-mattityahu"));
     bookInfoList.add(new BookInfo("Marcu – Moshe", 55,"Marcu.", "Noul Testament", 16, 678,"https://yahwehtora.ro/marcu-moshe"));
     bookInfoList.add(new BookInfo("Luca – Luka", 56,"Luca.", "Noul Testament", 24, 1151,"https://yahwehtora.ro/luca-luka"));
     bookInfoList.add(new BookInfo("Ioan – Yochanan", 57,"Ioan.", "Noul Testament", 21, 879,"https://yahwehtora.ro/ioan-yochanan"));

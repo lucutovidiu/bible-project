@@ -15,7 +15,8 @@ import static java.util.stream.Collectors.toList;
 public class MenuExtractor {
 
     public static List<BibleBookLink> extractBibleMenus() throws IOException {
-        Document doc = YahwehtoraDocumentDownloader.downloadDocument("https://yahwehtora.ro/").get();
+        BibleSourceDocuments bibleSourceDocuments = new BibleSourceDocuments();
+        Document doc = bibleSourceDocuments.getDocumentForBook("menu");
         return doc.select(".menu-item a")
                 .stream().map((a) -> new BibleBookLink(extractBookNameRegex(extractBookMenuNames(a.childNodes())), a.attr("href"))
                 ).collect(toList());

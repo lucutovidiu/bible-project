@@ -24,8 +24,6 @@ public class BibleMigrationService {
     BookService bookService;
     @Inject
     BookReportingService bookReportingService;
-    @Inject
-    ChapterExtractor chapterExtractor;
 
     public void migrateBooksFromYahwehtora() {
         try {
@@ -94,10 +92,9 @@ public class BibleMigrationService {
     }
 
     public void patchChapter(BookPojo bookPojo, int chapterNumber) {
-        String downloadedLink = bookPojo.getDownloadedLink();
-        Log.infof("Patching book: %s, chapter: %s, url: %s", bookPojo.getName(), chapterNumber, downloadedLink);
-
-        Map<Integer, String> chapterFromBook = chapterExtractor.getChapterFromBook(bookPojo.getName(), downloadedLink, bookPojo.chapterKey() + " " + chapterNumber, bookPojo.chapterKey());
+        Log.infof("Patching book: %s, chapter: %s", bookPojo.getName(), chapterNumber);
+        ChapterExtractor chapterExtractor = new ChapterExtractor(bookPojo.getName(), bookPojo.chapterKey() + " " + chapterNumber, bookPojo.chapterKey());
+        Map<Integer, String> chapterFromBook = chapterExtractor.getChapterFromBook();
         if (chapterFromBook != null) {
             patchVersesToDb(bookPojo, chapterNumber, chapterFromBook);
         } else {

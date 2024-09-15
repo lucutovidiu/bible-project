@@ -6,9 +6,7 @@ import lombok.Setter;
 import ro.bible.db.pojo.ChapterPojo;
 
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 @Getter
 @Setter
@@ -24,10 +22,18 @@ public class ChapterEntity extends BaseEntity {
     @OneToMany(fetch = FetchType.LAZY, cascade = CascadeType.ALL, orphanRemoval = true, mappedBy = "chapter")
     private List<VerseEntity> verses = new ArrayList<>();
 
-    public ChapterPojo getChapterPojoInclBook() {
+    public ChapterPojo getChapterPojo() {
         return ChapterPojo.builder()
                 .number(number)
                 .book(book.getBookPojoNoChapters())
+                .build();
+    }
+
+    public ChapterPojo getChapterPojoInlVerses() {
+        return ChapterPojo.builder()
+                .number(number)
+                .book(book.getBookPojoNoChapters())
+                .versePojo(verses.stream().map(VerseEntity::getVersePojo).toList())
                 .build();
     }
 }

@@ -4,15 +4,9 @@ import org.junit.jupiter.api.Test;
 import ro.bible.util.BibleStringUtils;
 import ro.bible.util.BibleUtil;
 import ro.bible.util.FileUtil;
-import ro.bible.yahwehtora.dto.BookInfo;
 
 import java.io.IOException;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.text.Bidi;
-import java.util.Comparator;
 import java.util.Map;
-import java.util.Optional;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -20,40 +14,48 @@ import java.util.regex.Pattern;
 class VersesExtractorTest {
 
     @Test
-    public void extractVerses() throws IOException {
-        ChapterExtractor chapterExtractor = new ChapterExtractor();
-        Map<Integer, String> chapterFromBook = chapterExtractor.getChapterFromBook("Ioan", "https://yahwehtora.ro/ioan-yochanan", "Capitolul 1", "Capitolul");
+    public void extractVerses() {
+        ChapterExtractor chapterExtractor = new ChapterExtractor("1 Macabei", "Capitolul 3", "Capitolul");
+        Map<Integer, String> chapterFromBook = chapterExtractor.getChapterFromBook();
         chapterFromBook.entrySet().stream()
                 .sorted(Map.Entry.comparingByKey())
                 .forEach((entry) -> System.out.printf("%s. %s\n", entry.getKey(), entry.getValue()));
+    }
 
-//         String currentVerse1="30. Toate lucrurile au fost create prin El; şi nimic din ce a fost creat, n-a fost creat fără El.";
-//         String currentVerse="3. Toate lucrurile au fost create prin El; şi nimic din ce a fost creat, n-a fost creat fără El.4. În El* era viaţa, şi** viaţa era lumina oamenilor.";
-//         String currentVerse1="42. Şi l-a adus la  Yașua.  Yașua l-a privit şi i-a zis: „Tu eşti Simon, fiul lui Iona; tu* te vei chema Chifa” [care tălmăcit înseamnă Petru].  Tora - Pericopa 7 - Vayetze 28 : 10 - 32 : 3 Haftarah - Osea / Hoshea 12 : 13 - 14 : 10 Legămîntul Înnoit - Ioan / Yochanan 1 : 43 - 51";
-//        final String VERSE_PATTERN = "\\d{1,3}\\.?\\s*.+\\w{3,}.+";
-//        final String VERSE_STRUCTURE_PATTERN_2_VERSES_IN_ONE_LINE = "^("+VERSE_PATTERN+")("+VERSE_PATTERN+")$";
-//
-//        Pattern pattern = Pattern.compile(VERSE_STRUCTURE_PATTERN_2_VERSES_IN_ONE_LINE);
-//        Matcher verseMatcher = pattern.matcher(currentVerse1);
-//        if(verseMatcher.find()) {
-//            System.out.println(verseMatcher.group(1));
-//            System.out.println(verseMatcher.group(2));
-//        } else {
-//            System.out.println(currentVerse1.toString());
-//        }
+    @Test
+    public void inlineVerses() {
+        String string = "17. „În* zilele de pe urmă, zice  YaHWeH, voi** turna din Duhul Meu peste orice Om!; feciorii voştri şi fetele♦ voastre vor proroci, tinerii voştri vor avea vedenii, şi bătrînii voştri vor visa vise! [ Fap 2:17.Evr.: Ba-sar : pentru . Oricine-i Om or Adam ]";
+        String string1 = ".20 Şi învăţaţi ucenicii* să păzească tot ce v-am poruncit. Şi iată că Eu sunt cu voi în toate zilele, pînă la sfîrşitul veacului.” HalelluYa. [ Vers.19 : manuscrisurile tradiționale au forma :numele Tatalui, Fiului si al Duhului Sfint ]";
+
+        String INVERSE_NUMBER_PATTERN = "^\\s*\\.\\s*(\\d{1,3})\\s*(.*)$";
+        Pattern r = Pattern.compile(INVERSE_NUMBER_PATTERN);
+        Matcher m = r.matcher(string);
+        if (m.find()) {
+            String verseNo = m.group(1);
+            String verseText = m.group(2);
+            System.out.println(verseNo+". "+verseText);
+        }
 
 
-//        System.out.println(forceLeftToRight(" 1.יהוה"));
-//        String VERSE_STRUCTURE_PATTERN_2_VERSES_IN_ONE_LINE = "(.*)(\\.\\s*\\d{1,3}\\s*.*)";
-//        String verse = "8. Însă Cain a zis fratelui său Abel: „Haidem săieşim la cîmp.” Dar pe cînd erau la cîmp, Cain saridicat împotriva fratelui său Abel şi la omorît.Pedeapsa lui Cain . 9 YaHWeH a zis lui Cain: „Unde este frateletău Abel?” El a răspuns: „Nu ştiu. Sunt eupăzitorul fratelui meu?”";
-//
-//        Pattern pattern = Pattern.compile(VERSE_STRUCTURE_PATTERN_2_VERSES_IN_ONE_LINE);
-//        Matcher verseMatcher = pattern.matcher(verse);
-//
-//        if(verseMatcher.find()) {
-//            System.out.println(verseMatcher.group(1));
-//            System.out.println(verseMatcher.group(2));
-//        }
+
+    }
+
+    @Test
+    public void test_versePattern() throws IOException {
+        String verse = "23. De acolo s-a suit la Beer-Şeba.    24.  YaHWeH i S-a arătat chiar în noaptea aceea şi i-a zis: „Eu* sunt Eylohim al tatălui tău, Avraam; nu te teme**, căci Eu sunt♦ cu tine; te voi binecuvînta şi îţi voi înmulţi sămînţa, din pricina robului Meu, Avraam.”  ";
+
+        String VERSE_PATTERN_PART1 = "\\d{1,3}\\s*\\.?\\s*.+\\w{3,}.+\\D+";
+        String VERSE_PATTERN_PART2 = "\\d{1,3}\\s*\\.?\\s*.+\\w{3,}.+";
+//        String VERSE_PATTERN = "\\d{1,3}\\.?\\s*[^\\d]+";
+        String VERSE_STRUCTURE_PATTERN_2_VERSES_IN_ONE_LINE = "^(" + VERSE_PATTERN_PART1 + ")(" + VERSE_PATTERN_PART2 + ")$";
+        Pattern pattern = Pattern.compile(VERSE_STRUCTURE_PATTERN_2_VERSES_IN_ONE_LINE);
+        Matcher verseMatcher = pattern.matcher(verse);
+        if (verseMatcher.find()) {
+            String group1 = verseMatcher.group(1);
+            String group2 = verseMatcher.group(2);
+            System.out.println(group1);
+            System.out.println(group2);
+        }
     }
 
     @Test
@@ -65,13 +67,13 @@ class VersesExtractorTest {
     @Test
     public void test_getDocumentForBook() {
         BibleSourceDocuments bibleSourceDocuments = new BibleSourceDocuments();
-        System.out.println(bibleSourceDocuments.getDocumentForBook("1 Corinteni – Corintiyah Alef").title());
+        System.out.println(bibleSourceDocuments.getDocumentForBook("menu").title());
     }
 
     @Test
     public void test_Path() {
-        FileUtil.createFolderIfNotExists("src/main/resources/ovi");
-        FileUtil.createFileIfNotExists("src/main/resources/ovi/test.htmly");
+//        FileUtil.createFolderIfNotExists("src/main/resources/ovi");
+//        FileUtil.createFileIfNotExists("src/main/resources/ovi/test.htmly");
     }
 
     @Test
@@ -83,8 +85,8 @@ class VersesExtractorTest {
     public void create_BookPaths() {
         BibleUtil.bookInfoList.forEach(book -> {
             String bookBegining = book.bookName().split(" ")[0];
-            if(bookBegining.matches("\\d+")) {
-                bookBegining= book.bookName().split(" ")[0]+book.bookName().split(" ")[1];
+            if (bookBegining.matches("\\d+")) {
+                bookBegining = book.bookName().split(" ")[0] + book.bookName().split(" ")[1];
             }
             System.out.printf("booksPath.add(new BookLocalPaths(\"%s\", \"src/main/resources/bible-source-documents/%s\",\"%s.html\"));\n", book.bookName(),
                     BibleStringUtils.removeDiacritics(bookBegining.toLowerCase().replaceAll("[.-]", "")),

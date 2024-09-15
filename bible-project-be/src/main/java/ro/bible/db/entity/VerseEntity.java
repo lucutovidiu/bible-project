@@ -34,7 +34,7 @@ public class VerseEntity extends BaseEntity {
                 .verseNumber(verseNumber)
                 .text(text)
                 .textWithDiacritics(textWithDiacritics)
-                .chapter(chapter.getChapterPojoInclBook())
+                .chapter(chapter.getChapterPojo())
                 .build();
     }
 }

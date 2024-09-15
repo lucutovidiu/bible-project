@@ -5,24 +5,19 @@ import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import ro.bible.db.entity.ChapterEntity;
 import ro.bible.db.pojo.BookPojo;
-import ro.bible.db.repo.ChapterRepository;
+import ro.bible.db.pojo.ChapterPojo;
 import ro.bible.db.service.BookService;
-import ro.bible.util.BibleStringUtils;
+import ro.bible.db.service.ChapterService;
 import ro.bible.util.BibleUtil;
-import ro.bible.yahwehtora.dto.BibleVerseDto;
-import ro.bible.yahwehtora.service.ChapterExtractor;
-import ro.bible.yahwehtora.service.MenuExtractor;
 
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 import java.util.Optional;
 
 @ApplicationScoped
 public class BookMaintenanceService {
     @Inject
-    ChapterRepository chapterRepository;
+    ChapterService chapterService;
     @Inject
     BookService bookService;
 
@@ -61,8 +56,8 @@ public class BookMaintenanceService {
     private List<Integer> buildMissingChapters(BookPojo bookPojo) {
         List<Integer> missingChapter = new ArrayList<>();
         for (int i = 1; i <= bookPojo.getExpChaptersCount(); i++) {
-            Optional<ChapterEntity> chapterEntity = chapterRepository.getChapterByBookAndChapterNumber(i, bookPojo.getBookId());
-            if (chapterEntity.isEmpty()) {
+            Optional<ChapterPojo> chapterPojo = chapterService.getChapterByBookAndChapterNumber(bookPojo.getBookId(), i);
+            if (chapterPojo.isEmpty()) {
                 missingChapter.add(i);
             }
         }
@@ -71,7 +66,7 @@ public class BookMaintenanceService {
     }
 
     private boolean verifyChaptersCount(BookPojo bookPojo) {
-        long actualCount = chapterRepository.getChapterCountByBookId(bookPojo.getBookId());
+        long actualCount = chapterService.getChapterCountByBookId(bookPojo.getBookId());
         return actualCount == bookPojo.getExpChaptersCount();
     }
 

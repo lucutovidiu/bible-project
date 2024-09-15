@@ -1,8 +1,5 @@
-# bible-project-be
-
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
-
-If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
+# Carti
+Enoth: https://zsummeryan.wordpress.com/wp-content/uploads/2008/06/cartea-enoch.pdf
 
 ## Running the application in dev mode
 

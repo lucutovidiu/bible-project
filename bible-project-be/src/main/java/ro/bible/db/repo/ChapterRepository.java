@@ -12,7 +12,7 @@ public class ChapterRepository implements PanacheRepository<ChapterEntity> {
         return count("SELECT COUNT(c) FROM ChapterEntity c WHERE c.book.id = ?1", bookId);
     }
 
-    public Optional<ChapterEntity> getChapterByBookAndChapterNumber(Integer chapterNumer, long bookId) {
+    public Optional<ChapterEntity> getChapterByBookAndChapterNumber(long bookId, Integer chapterNumer) {
         return find("SELECT c FROM ChapterEntity c WHERE c.number = ?1 and c.book.id = ?2",
                 chapterNumer, bookId)
                 .firstResultOptional();

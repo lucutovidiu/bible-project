@@ -7,6 +7,8 @@ import lombok.NoArgsConstructor;
 import ro.bible.db.entity.BookEntity;
 import ro.bible.db.entity.ChapterEntity;
 
+import java.util.List;
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
@@ -14,4 +16,5 @@ import ro.bible.db.entity.ChapterEntity;
 public class ChapterPojo {
     private int number;
     private BookPojo book;
+    private List<VersePojo> versePojo;
 }

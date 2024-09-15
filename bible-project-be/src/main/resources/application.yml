@@ -1,4 +1,8 @@
 quarkus:
+  vertx:
+    max-event-loop-execute-time: 200000
+    max-worker-execute-time: 200000
+    warning-exception-time: 300000
   http:
     port: 8989
   # Health check probes
