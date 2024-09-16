@@ -24,7 +24,7 @@ public class StartupListener {
 
     }
 
-    @Scheduled(every = "5s")
+    @Scheduled(every = "30s")
     void runDailyTask() {
 //        if (atomicBoolean.get()) {
 //            atomicBoolean.set(false);

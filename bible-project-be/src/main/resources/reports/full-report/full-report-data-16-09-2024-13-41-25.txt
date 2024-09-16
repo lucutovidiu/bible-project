@@ -1,5 +1,5 @@
 ######################
-Begin Report date: 16-09-2024-12-47-19
+Begin Report date: 16-09-2024-13-41-25
 
 Chapter missing books result:
 Pass: true
@@ -404,21 +404,17 @@ Pass: false
 Missing verses Report: 
 
 ######################
-Book Name: Cînt. Cîntări. – Shir HaShirim
+Book Name: Cartea lui Tobit – Tobiyah
 
 Chapter verification result:
-Expected chapter Count: 8
-Actual chapter Count: 0
-Pass: false
-########
-Missing chapters: 
-[1, 2, 3, 4, 5, 6, 7, 8]
-########
+Expected chapter Count: 14
+Actual chapter Count: 14
+Pass: true
 
 Verses verification result:
-Expected verses Count: 117
-Actual verses Count: 0
-Pass: false
+Expected verses Count: 247
+Actual verses Count: 247
+Pass: true
 
 Missing verses Report: 
 
@@ -746,25 +742,6 @@ Pass: false
 Missing verses Report: 
 
 ######################
-Book Name: Cartea lui Tobit – Tobiyah
-
-Chapter verification result:
-Expected chapter Count: 14
-Actual chapter Count: 0
-Pass: false
-########
-Missing chapters: 
-[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
-########
-
-Verses verification result:
-Expected verses Count: 247
-Actual verses Count: 0
-Pass: false
-
-Missing verses Report: 
-
-######################
 Book Name: Cartea Iuditei
 
 Chapter verification result:
@@ -856,6 +833,21 @@ Verses verification result:
 Expected verses Count: 468
 Actual verses Count: 0
 Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Cînt. Cîntări. – Shir HaShirim
+
+Chapter verification result:
+Expected chapter Count: 8
+Actual chapter Count: 8
+Pass: true
+
+Verses verification result:
+Expected verses Count: 117
+Actual verses Count: 117
+Pass: true
 
 Missing verses Report: 
 
@@ -1335,6 +1327,21 @@ Pass: false
 Missing verses Report: 
 
 ######################
+Book Name: 1 Ioan – Yochanan Alef
+
+Chapter verification result:
+Expected chapter Count: 5
+Actual chapter Count: 5
+Pass: true
+
+Verses verification result:
+Expected verses Count: 105
+Actual verses Count: 105
+Pass: true
+
+Missing verses Report: 
+
+######################
 Book Name: 2 Ioan – Yochanan Bet
 
 Chapter verification result:
@@ -1463,21 +1470,6 @@ Pass: true
 Missing verses Report: 
 
 ######################
-Book Name: 1 Ioan – Yochanan Alef
-
-Chapter verification result:
-Expected chapter Count: 5
-Actual chapter Count: 5
-Pass: true
-
-Verses verification result:
-Expected verses Count: 105
-Actual verses Count: 105
-Pass: true
-
-Missing verses Report: 
-
-######################
 Book Name: 3 Ioan – Yochanan Gimel
 
 Chapter verification result:
@@ -1493,5 +1485,5 @@ Pass: true
 Missing verses Report: 
 
 ######################
-End Report date16-09-2024-12-47-20
+End Report date16-09-2024-13-41-26
 ######################

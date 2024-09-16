@@ -239,7 +239,7 @@
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/cintarea-cintarilor-shir-hashirim",
     "baseFolderPath": "bible-source-documents/cint_cantarilor",
-    "storedFileName": "cint.html"
+    "storedFileName": "cint_cantarilor.html"
   },
   {
     "bookOrder": 23,
@@ -437,7 +437,7 @@
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/cartea-lui-tobit-tobiyah",
     "baseFolderPath": "bible-source-documents/cartea_tobit",
-    "storedFileName": "cartea.html"
+    "storedFileName": "cartea_lui_tobit.html"
   },
   {
     "bookOrder": 41,
@@ -448,7 +448,7 @@
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/cartea-iuditei",
     "baseFolderPath": "bible-source-documents/cartea_iuditei",
-    "storedFileName": "cartea.html"
+    "storedFileName": "cartea_iuditei.html"
   },
   {
     "bookOrder": 42,
@@ -459,7 +459,7 @@
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/cartea-lui-baruh",
     "baseFolderPath": "bible-source-documents/cartea_baruh",
-    "storedFileName": "cartea.html"
+    "storedFileName": "cartea_lui_baruh.html"
   },
   {
     "bookOrder": 43,
@@ -469,8 +469,8 @@
     "abbreviation": "EpisIerem.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/epistola-lui-ieremia",
-    "baseFolderPath": "bible-source-documents/epistola_ieremia",
-    "storedFileName": "epistola.html"
+    "baseFolderPath": "bible-source-documents/epistola_lui_ieremia",
+    "storedFileName": "epistola_lui_ieremia.html"
   },
   {
     "bookOrder": 44,
@@ -481,7 +481,7 @@
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/cantarea-celor-trei-tineri",
     "baseFolderPath": "bible-source-documents/cantarea_celor_trei_tineri",
-    "storedFileName": "cantarea.html"
+    "storedFileName": "cantarea_celor_trei_tineri.html"
   },
   {
     "bookOrder": 45,
@@ -492,7 +492,7 @@
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/cartea-a-treia-a-lui-ezra",
     "baseFolderPath": "bible-source-documents/cartea_ezra",
-    "storedFileName": "cartea.html"
+    "storedFileName": "cartea_lui_ezra.html"
   },
   {
     "bookOrder": 46,
@@ -502,8 +502,8 @@
     "abbreviation": "IntelpSolomon.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/cartea-intelepciunii-lui-solomon",
-    "baseFolderPath": "bible-source-documents/cartea_solomon",
-    "storedFileName": "cartea.html"
+    "baseFolderPath": "bible-source-documents/cartea_intelepciunii_lui_solomon",
+    "storedFileName": "cartea_intelepciunii_lui_solomon.html"
   },
   {
     "bookOrder": 47,
@@ -514,7 +514,7 @@
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/istoria-susanei",
     "baseFolderPath": "bible-source-documents/istoria_susanei",
-    "storedFileName": "istoria.html"
+    "storedFileName": "istoria_susanei.html"
   },
   {
     "bookOrder": 48,
@@ -524,8 +524,8 @@
     "abbreviation": "IstOmorBal.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/istoria-omorarii-balaurului-si-a-sfaramarii-lui-bel",
-    "baseFolderPath": "bible-source-documents/istoria_balaurului",
-    "storedFileName": "istoria.html"
+    "baseFolderPath": "bible-source-documents/istoria_omorarii_balaurului",
+    "storedFileName": "istoria_omorarii_balaurului.html"
   },
   {
     "bookOrder": 49,
@@ -568,8 +568,8 @@
     "abbreviation": "Manase.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/rugaciunea-regelui-manase",
-    "baseFolderPath": "bible-source-documents/rugaciunea_manase",
-    "storedFileName": "rugaciunea.html"
+    "baseFolderPath": "bible-source-documents/rugaciunea_regelui_manase",
+    "storedFileName": "rugaciunea_regelui_manase.html"
   },
   {
     "bookOrder": 53,
@@ -579,8 +579,8 @@
     "abbreviation": "Enoh.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/cartea-lui-enoh",
-    "baseFolderPath": "bible-source-documents/cartea_enoh",
-    "storedFileName": "cartea.html"
+    "baseFolderPath": "bible-source-documents/cartea_lui_enoh",
+    "storedFileName": "cartea_lui_enoh.html"
   },
   {
     "bookOrder": 54,

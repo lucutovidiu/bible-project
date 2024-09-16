@@ -13,26 +13,43 @@ import java.util.Optional;
 public class BibleSourceDocuments {
 
     public Document getDocumentForBook(String bookName) {
-        return BibleUtil.getBookInfoList().stream()
+        Optional<BookInfo> bookInfoOptional = BibleUtil.getBookInfoList().stream()
                 .filter(bookPaths -> bookPaths.getBookName().equals(bookName))
-                .findFirst()
-                .flatMap(this::getSourceDocument)
-                .map(JSoapUtil::stringToDocument)
-                .orElse(null);
+                .findFirst();
+
+        if (bookInfoOptional.isPresent()) {
+            Optional<String> sourceDocument = getSourceLocalDocument(bookInfoOptional.get());
+            if (sourceDocument.isPresent()) {
+                return JSoapUtil.stringToDocument(sourceDocument.get());
+            } else {
+                Log.errorf("Document not found locally for book: '%s'", bookName);
+                Optional<Document> documentFromMainRepository = getSourceRemoteDocument(bookInfoOptional.get());
+                if (documentFromMainRepository.isPresent()) {
+                    saveDocumentToLocal(bookInfoOptional.get(), documentFromMainRepository.get().html());
+                    return documentFromMainRepository.get();
+                }
+            }
+        }
+
+        return null;
     }
 
-    private Optional<String> getSourceDocument(BookInfo bookLocalPaths) {
+    private Optional<String> getSourceLocalDocument(BookInfo bookLocalPaths) {
         if (FileUtil.doesFileExists(bookLocalPaths.getWritableFullPath())) {
-            Log.info("Getting local document for book" + bookLocalPaths.getBookName());
+            Log.infof("Getting local document for book: '%s'", bookLocalPaths.getBookName());
 
             return FileUtil.getFileFromClasspath(bookLocalPaths.getReadablePath());
         }
-        Log.infof("Document NOT found Locally for path: '%s' for book: '%s' but trying remotely", bookLocalPaths.getWritableFullPath(), bookLocalPaths.getBookName());
-        return downloadDocumentFromMainRepository(bookLocalPaths)
-                .map(htmlStringDocument -> {
-                    saveDocumentToLocal(bookLocalPaths, htmlStringDocument);
-                    return htmlStringDocument;
-                });
+
+        return Optional.empty();
+    }
+
+    private Optional<Document> getSourceRemoteDocument(BookInfo bookLocalPaths) {
+        Log.infof("Trying to source document for book: '%s' remotely", bookLocalPaths.getBookName());
+        Optional<String> documentFromMainRepository = downloadDocumentFromMainRepository(bookLocalPaths);
+
+        return documentFromMainRepository.map(JSoapUtil::stringToDocument);
+
     }
 
     public void createAllRequiredHtmlLocalSources() {
