@@ -12,19 +12,21 @@ import java.time.LocalDateTime;
 import static ro.bible.maintanance.service.BookReportingService.DATE_TIME_FORMATTER;
 
 public class ReportWriter {
-    private static final String basePathPath = "src/main/resources/reports";
+    public static final String REPORT_BASE_PATH_FULL_REPORT = "src/main/resources/reports/full-report";
+    public static final String REPORT_BASE_PATH_MIGRATION_REPORT = "src/main/resources/reports/migration-report";
     private static final String fileSeparator = File.separator;
     private static String reportFilePath;
+    public static final String REPORT_PRE_EXTENSION = "full-report-data-";
 
     public ReportWriter() {
-        FileUtil.createFolderIfNotExists(basePathPath);
-        reportFilePath = basePathPath + fileSeparator + "full-report-data-" + getDateNowFormatted() + ".txt";
+        FileUtil.createFolderIfNotExists(REPORT_BASE_PATH_FULL_REPORT);
+        reportFilePath = REPORT_BASE_PATH_FULL_REPORT + fileSeparator + REPORT_PRE_EXTENSION + getDateNowFormatted() + ".txt";
         FileUtil.createFileIfNotExists(reportFilePath);
     }
 
     public ReportWriter(String appendToReportName) {
-        FileUtil.createFolderIfNotExists(basePathPath);
-        reportFilePath = basePathPath + fileSeparator + appendToReportName + ".txt";
+        FileUtil.createFolderIfNotExists(REPORT_BASE_PATH_MIGRATION_REPORT);
+        reportFilePath = REPORT_BASE_PATH_MIGRATION_REPORT + fileSeparator + appendToReportName + ".txt";
         FileUtil.createFileIfNotExists(reportFilePath);
     }
 

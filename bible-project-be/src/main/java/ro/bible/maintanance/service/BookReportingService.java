@@ -142,10 +142,10 @@ public class BookReportingService {
     private void verifyMissingBooks(List<BookPojo> books, ReportWriter reportWriter) {
         reportWriter.writeLine("Chapter missing books result:");
         AtomicBoolean pass = new AtomicBoolean(true);
-        BibleUtil.bookInfoList.forEach(bookInfo -> {
-            if (books.stream().filter(bi -> bi.getName().equals(bookInfo.bookName())).findAny().isEmpty()) {
+        BibleUtil.getBookInfoList().forEach(bookInfo -> {
+            if (books.stream().filter(bi -> bi.getName().equals(bookInfo.getBookName())).findAny().isEmpty()) {
                 pass.set(false);
-                reportWriter.writeLine("Missing book: " + bookInfo.bookName());
+                reportWriter.writeLine("Missing book: " + bookInfo.getBookName());
             }
         });
         reportWriter.writeLine("Pass: " + pass.get());

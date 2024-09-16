@@ -28,4 +28,15 @@ public class ConvertUtil {
             throw new RuntimeException(e);
         }
     }
+
+    public String toJson(Object obj) {
+        ObjectMapper objectMapper = new ObjectMapper();
+        String jsonString = null;
+        try {
+            jsonString = objectMapper.writeValueAsString(obj);
+        } catch (JsonProcessingException e) {
+            throw new RuntimeException(e);
+        }
+        return jsonString;
+    }
 }

@@ -5,14 +5,18 @@ import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import ro.bible.db.pojo.BookPojo;
 import ro.bible.db.service.BookService;
+import ro.bible.db.service.VerseService;
+import ro.bible.filewriter.ReportWriter;
 import ro.bible.util.BibleStringUtils;
 import ro.bible.util.BibleUtil;
+import ro.bible.util.FileUtil;
 import ro.bible.yahwehtora.dto.BibleVerseDto;
 import ro.bible.yahwehtora.dto.BookInfo;
 import ro.bible.yahwehtora.service.ChapterExtractor;
 import ro.bible.yahwehtora.service.MenuExtractor;
 
 import java.io.IOException;
+import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 
@@ -23,21 +27,31 @@ public class BibleMigrationService {
     @Inject
     BookService bookService;
     @Inject
+    VerseService verseService;
+    @Inject
     BookReportingService bookReportingService;
 
-    public void migrateBooksFromYahwehtora() {
+    public void populateBookTableFromYahwehtora() {
         try {
             Log.infof("Running migrate books from Yahwehtora");
             // try extract all books from https://yahwehtora.ro/
             MenuExtractor.extractBibleMenus().forEach(bibleBookLink -> {
                 Log.info("Check if book already exists in bookInfoList");
-                Optional<BookInfo> bookInfoOptional = BibleUtil.bookInfoList.stream().filter(book -> book.bookName().equalsIgnoreCase(bibleBookLink.bookName())).findAny();
+                Optional<BookInfo> bookInfoOptional = BibleUtil.getBookInfoList().stream().filter(book -> book.getBookName().equalsIgnoreCase(bibleBookLink.bookName())).findAny();
 
                 if (!bibleBookLink.bookName().equalsIgnoreCase("Prefața")) {
                     Log.info("Update or create book");
                     if (bookInfoOptional.isEmpty()) {
                         Log.infof("Book: '%s' NOT found in bookInfoList", bibleBookLink.bookName());
-                        BookInfo bookInfo = new BookInfo(bibleBookLink.bookName(),0, PLACE_HOLDER_MSG, PLACE_HOLDER_MSG, 0, 0, bibleBookLink.url());
+                        BookInfo bookInfo = BookInfo.builder()
+                                .bookName(bibleBookLink.bookName())
+                                .bookOrder(0)
+                                .abbreviation(PLACE_HOLDER_MSG)
+                                .testament(PLACE_HOLDER_MSG)
+                                .expChaptersCount(0)
+                                .expTotalVerses(0)
+                                .downloadUrl(bibleBookLink.url())
+                                .build();
                         bookService.updateOrCreateBook(bookInfo);
                     } else {
                         Log.infof("Book: '%s' found and updating", bibleBookLink.bookName());
@@ -47,6 +61,16 @@ public class BibleMigrationService {
             });
         } catch (IOException e) {
             Log.error("Could not download menu", e);
+        }
+    }
+
+    public void populateBooksTableIfRequired() {
+        List<BookInfo> bookInfoList = BibleUtil.getBookInfoList();
+        if (bookService.getBookCount() < bookInfoList.size()) {
+            bookInfoList.forEach(bookInfo -> {
+                Log.infof("Update or create book: '%s'", bookInfo.getBookName());
+                bookService.updateOrCreateBook(bookInfo);
+            });
         }
     }
 
@@ -80,6 +104,11 @@ public class BibleMigrationService {
         bookService.setBookUpdatedStatus(bookPojo.getName(), false);
         Log.infof("Run report for new updates!");
         bookReportingService.runBookReport();
+        Log.infof("Run vector update for full search capability!");
+        verseService.updateSearchVector(bookPojo.getBookId());
+        Log.infof("Clean report files, Only leave top 3 most recent Files!");
+        FileUtil.dropFilesApartFromMostRecent(ReportWriter.REPORT_BASE_PATH_FULL_REPORT,
+                ReportWriter.REPORT_PRE_EXTENSION, 3);
     }
 
     public void patchWholeBookByName(String bookName) {

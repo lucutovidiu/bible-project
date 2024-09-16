@@ -1,0 +1,8 @@
+#####################
+Date '16-09-2024-12-47-19'
+Report for book '1 Ioan – Yochanan Alef'
+Chapter 'Capitolul 1'
+
+#####
+Local HTML verseNo: '6' but sequence no is: '7' - Will add the sequence no in the db
+##########-Report end-###########

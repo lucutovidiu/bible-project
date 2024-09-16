@@ -4,9 +4,7 @@ import io.quarkus.hibernate.orm.panache.PanacheRepository;
 import jakarta.enterprise.context.ApplicationScoped;
 import ro.bible.db.entity.VerseEntity;
 
-import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 @ApplicationScoped
 public class VerseRepository implements PanacheRepository<VerseEntity> {
@@ -17,6 +15,13 @@ public class VerseRepository implements PanacheRepository<VerseEntity> {
         return getEntityManager().createNativeQuery(sql, VerseEntity.class)
                 .setParameter("searchText", String.join(" | ", verseText.split(" ")))
                 .getResultList();
+    }
+
+    public int updateSearchVector(long bookId) {
+        String spql = "UPDATE verses v SET search_vector = to_tsvector('english', text || ' ') where v.chapter_id in (select id from chapters c where c.book_id=:bookId)";
+        return getEntityManager().createNativeQuery(spql)
+                .setParameter("bookId", bookId)
+                .executeUpdate();
     }
 
     public List<VerseEntity> findPlacesInTheBibleByVerseText(String verseText) {

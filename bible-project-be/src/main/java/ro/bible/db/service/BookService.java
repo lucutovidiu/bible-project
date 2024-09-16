@@ -106,7 +106,7 @@ public class BookService {
 
     @Transactional
     public void updateOrCreateBook(BookInfo bookInfo) {
-        getOrCreateBookEntity(bookInfo.bookName()).updateBook(bookInfo);
+        getOrCreateBookEntity(bookInfo.getBookName()).updateBook(bookInfo);
     }
 
     @Transactional
@@ -127,5 +127,9 @@ public class BookService {
         }
 
         return true;
+    }
+
+    public long getBookCount() {
+        return bookRepository.count();
     }
 }

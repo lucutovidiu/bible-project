@@ -17,6 +17,10 @@ public class BookRepository implements PanacheRepository<BookEntity> {
         return find("name", bookName).firstResultOptional();
     }
 
+    public long findBookCount(String bookName) {
+        return count();
+    }
+
     public List<BookPojo> getAllBookPojoNoChapters() {
         return findAll().list().stream()
                 .map(BookEntity::getBookPojoNoChapters)

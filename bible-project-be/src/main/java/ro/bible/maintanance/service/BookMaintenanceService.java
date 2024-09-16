@@ -23,13 +23,13 @@ public class BookMaintenanceService {
 
     // if you want to re-update with all static bookInfoList
     public void updateAllBooksFromStatic() {
-        BibleUtil.bookInfoList
+        BibleUtil.getBookInfoList()
                 .forEach(bookInfo -> {
                     try {
                         bookService.updateOrCreateBook(bookInfo);
-                        Log.infof("Book %s updated", bookInfo.bookName());
+                        Log.infof("Book %s updated", bookInfo.getBookName());
                     } catch (Exception e) {
-                        Log.errorf("Error getting bookInfo info for %s", bookInfo.bookName());
+                        Log.errorf("Error getting bookInfo info for %s", bookInfo.getBookName());
                     }
                 });
     }

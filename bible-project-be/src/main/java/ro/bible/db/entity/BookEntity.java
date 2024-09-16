@@ -56,11 +56,11 @@ public class BookEntity extends BaseEntity {
     }
 
     public void updateBook(BookInfo bookInfo) {
-        this.abbreviation = bookInfo.abbreviation();
-        this.testament = bookInfo.testament();
-        this.expChaptersCount = bookInfo.chaptersCount();
-        this.expTotalVerses = bookInfo.totalVerses();
-        this.downloadedLink = bookInfo.downloadUrl();
-        this.bookOrder = bookInfo.bookOrder();
+        this.abbreviation = bookInfo.getAbbreviation();
+        this.testament = bookInfo.getTestament();
+        this.expChaptersCount = bookInfo.getExpChaptersCount();
+        this.expTotalVerses = bookInfo.getExpTotalVerses();
+        this.downloadedLink = bookInfo.getDownloadUrl();
+        this.bookOrder = bookInfo.getBookOrder();
     }
 }

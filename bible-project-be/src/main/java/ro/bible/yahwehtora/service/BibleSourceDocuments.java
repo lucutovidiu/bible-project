@@ -16,7 +16,7 @@ import java.util.Optional;
 
 public class BibleSourceDocuments {
 
-    private static final List<BookLocalPaths> booksPath = new ArrayList<>();
+    public static final List<BookLocalPaths> booksPath = new ArrayList<>();
 
     static {
         booksPath.add(new BookLocalPaths("Genesa – Bereshith", "bible-source-documents/genesa", "genesa.html"));
@@ -147,7 +147,7 @@ public class BibleSourceDocuments {
         try {
             Optional<String> htmlStringDocument = YahwehtoraDocumentDownloader
                     .downloadHtmlStringDocument(
-                            BibleUtil.getBookInfoByBookName(bookLocalPaths.getBookName()).downloadUrl());
+                            BibleUtil.getBookInfoByBookName(bookLocalPaths.getBookName()).getDownloadUrl());
             Log.infof("Downloaded local document for book name: '%s'", bookLocalPaths.getBookName());
 
             return htmlStringDocument;

@@ -3,9 +3,12 @@ package ro.bible.yahwehtora.service;
 import org.junit.jupiter.api.Test;
 import ro.bible.util.BibleStringUtils;
 import ro.bible.util.BibleUtil;
+import ro.bible.util.ConvertUtil;
 import ro.bible.util.FileUtil;
+import ro.bible.yahwehtora.dto.BookInfo;
 
 import java.io.IOException;
+import java.util.List;
 import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -33,9 +36,8 @@ class VersesExtractorTest {
         if (m.find()) {
             String verseNo = m.group(1);
             String verseText = m.group(2);
-            System.out.println(verseNo+". "+verseText);
+            System.out.println(verseNo + ". " + verseText);
         }
-
 
 
     }
@@ -46,7 +48,6 @@ class VersesExtractorTest {
 
         String VERSE_PATTERN_PART1 = "\\d{1,3}\\s*\\.?\\s*.+\\w{3,}.+\\D+";
         String VERSE_PATTERN_PART2 = "\\d{1,3}\\s*\\.?\\s*.+\\w{3,}.+";
-//        String VERSE_PATTERN = "\\d{1,3}\\.?\\s*[^\\d]+";
         String VERSE_STRUCTURE_PATTERN_2_VERSES_IN_ONE_LINE = "^(" + VERSE_PATTERN_PART1 + ")(" + VERSE_PATTERN_PART2 + ")$";
         Pattern pattern = Pattern.compile(VERSE_STRUCTURE_PATTERN_2_VERSES_IN_ONE_LINE);
         Matcher verseMatcher = pattern.matcher(verse);
@@ -83,14 +84,42 @@ class VersesExtractorTest {
 
     @Test
     public void create_BookPaths() {
-        BibleUtil.bookInfoList.forEach(book -> {
-            String bookBegining = book.bookName().split(" ")[0];
+        BibleUtil.getBookInfoList().forEach(book -> {
+            String bookBegining = book.getBookName().split(" ")[0];
             if (bookBegining.matches("\\d+")) {
-                bookBegining = book.bookName().split(" ")[0] + book.bookName().split(" ")[1];
+                bookBegining = book.getBookName().split(" ")[0] + book.getBookName().split(" ")[1];
             }
-            System.out.printf("booksPath.add(new BookLocalPaths(\"%s\", \"src/main/resources/bible-source-documents/%s\",\"%s.html\"));\n", book.bookName(),
+            System.out.printf("booksPath.add(new BookLocalPaths(\"%s\", \"src/main/resources/bible-source-documents/%s\",\"%s.html\"));\n", book.getBookName(),
                     BibleStringUtils.removeDiacritics(bookBegining.toLowerCase().replaceAll("[.-]", "")),
                     BibleStringUtils.removeDiacritics(bookBegining.toLowerCase().replaceAll("[.-]", "")));
         });
+    }
+
+    @Test
+    public void create_menu_from_bookInfoList() {
+//        System.out.println(BibleUtil.getBookInfoList());
+//        BibleUtil.getBookInfoList()
+//                .forEach(book -> {
+//                    System.out.println(book.toJson());
+//        });
+        List<BookInfo> list = BibleUtil.getBookInfoList().stream()
+                .map(book -> {
+                    BookLocalPaths bookLocalPaths = BibleSourceDocuments.booksPath.stream()
+                            .filter(path -> path.getBookName().equals(book.getBookName())).findFirst().get();
+                    book.setBaseFolderPath(bookLocalPaths.getBookBaseFolderPath());
+                    book.setStoredFileName(bookLocalPaths.getBookFileName());
+                    return book;
+                }).toList();
+        System.out.println(ConvertUtil.toJson(list));
+    }
+
+
+    @Test
+    public void dropFilesApartFromMostRecent() {
+        String basePath = "src/main/resources/reports";
+        String fileStartingWith = "full-report-data";
+        int limit = 3;
+
+        FileUtil.dropFilesApartFromMostRecent(basePath, fileStartingWith, limit);
     }
 }

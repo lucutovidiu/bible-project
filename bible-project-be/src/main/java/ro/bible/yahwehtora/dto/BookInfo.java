@@ -1,5 +1,23 @@
 package ro.bible.yahwehtora.dto;
 
-public record BookInfo(String bookName, int bookOrder, String abbreviation, String testament, int chaptersCount, int totalVerses, String downloadUrl) {
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
+@Builder
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class BookInfo {
+    private int bookOrder;
+    private String bookName;
+    private int expChaptersCount;
+    private int expTotalVerses;
+    private String abbreviation;
+    private String testament;
+    private String downloadUrl;
+    private String baseFolderPath;
+    private String storedFileName;
 }
+

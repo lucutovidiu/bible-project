@@ -7,10 +7,6 @@ import jakarta.inject.Inject;
 import ro.bible.db.service.BookService;
 import ro.bible.maintanance.service.BibleMigrationService;
 import ro.bible.maintanance.service.BookMaintenanceService;
-import ro.bible.maintanance.service.BookReportingService;
-
-import java.io.IOException;
-import java.util.concurrent.atomic.AtomicBoolean;
 
 @ApplicationScoped
 public class StartupListener {
@@ -21,25 +17,11 @@ public class StartupListener {
     @Inject
     BibleMigrationService bibleMigrationService;
 
-    AtomicBoolean atomicBoolean = new AtomicBoolean(true);
 
     @Startup
-    void onStart() throws IOException, InterruptedException {
-//        bookMaintenanceService.buildMissingChapters();
+    void onStart() {
+        bibleMigrationService.populateBooksTableIfRequired();
 
-//        bookMaintenanceService.updateBookLinks();
-//        Log.info("Db population is starting");
-//        MenuExtractor.extractBibleMenus()
-//                .forEach(bibleBookLink -> {
-//                    VersesExtractor versesExtractor = new VersesExtractor(
-//                            bibleBookLink.bookName().trim()
-//                                    .equalsIgnoreCase("Psalmii - Tehillim") ? "Psalmul" : "Capitolul");
-//
-//                    versesExtractor.setBibleService(bibleService);
-//                    versesExtractor
-//                            .extractBibleFromWebAndWriteToDB(bibleBookLink);
-//                });
-//        Log.info("Db population is finished");
     }
 
     @Scheduled(every = "5s")
