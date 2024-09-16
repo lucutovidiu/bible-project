@@ -4,6 +4,9 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import ro.bible.util.FileUtil;
+
+import java.io.File;
 
 @Builder
 @Data
@@ -19,5 +22,17 @@ public class BookInfo {
     private String downloadUrl;
     private String baseFolderPath;
     private String storedFileName;
+
+    public String getWritableFullPath() {
+        return FileUtil.RESOURCE_FOLDER + File.separator + baseFolderPath + File.separator + storedFileName;
+    }
+
+    public String getWritableBasePath() {
+        return FileUtil.RESOURCE_FOLDER + File.separator + baseFolderPath;
+    }
+
+    public String getReadablePath() {
+        return baseFolderPath + File.separator + storedFileName;
+    }
 }
 

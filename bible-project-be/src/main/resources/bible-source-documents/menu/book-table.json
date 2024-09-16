@@ -1,722 +1,882 @@
 [
   {
-    "bookName": "Genesa – Bereshith",
     "bookOrder": 1,
-    "abbreviation": "Fac.",
-    "testament": "Vechiul Testament",
+    "bookName": "Genesa – Bereshith",
     "expChaptersCount": 50,
     "expTotalVerses": 1533,
-    "downloadUrl": "https://yahwehtora.ro/genesa-bereshith"
+    "abbreviation": "Fac.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/genesa-bereshith",
+    "baseFolderPath": "bible-source-documents/genesa",
+    "storedFileName": "genesa.html"
   },
   {
-    "bookName": "Exod – Shemoth",
     "bookOrder": 2,
-    "abbreviation": "Exod.",
-    "testament": "Vechiul Testament",
+    "bookName": "Exod – Shemoth",
     "expChaptersCount": 40,
     "expTotalVerses": 1213,
-    "downloadUrl": "https://yahwehtora.ro/exod-shemoth"
+    "abbreviation": "Exod.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/exod-shemoth",
+    "baseFolderPath": "bible-source-documents/exod",
+    "storedFileName": "exod.html"
   },
   {
-    "bookName": "Levitic – Wayiqra",
     "bookOrder": 3,
-    "abbreviation": "Lev.",
-    "testament": "Vechiul Testament",
+    "bookName": "Levitic – Wayiqra",
     "expChaptersCount": 27,
     "expTotalVerses": 859,
-    "downloadUrl": "https://yahwehtora.ro/levitic-wayiqra"
+    "abbreviation": "Lev.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/levitic-wayiqra",
+    "baseFolderPath": "bible-source-documents/levitic",
+    "storedFileName": "levitic.html"
   },
   {
-    "bookName": "Numeri – Bamidbar",
     "bookOrder": 4,
-    "abbreviation": "Num.",
-    "testament": "Vechiul Testament",
+    "bookName": "Numeri – Bamidbar",
     "expChaptersCount": 36,
     "expTotalVerses": 1288,
-    "downloadUrl": "https://yahwehtora.ro/numeri-bamidbar"
+    "abbreviation": "Num.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/numeri-bamidbar",
+    "baseFolderPath": "bible-source-documents/numeri",
+    "storedFileName": "numeri.html"
   },
   {
-    "bookName": "Deuteronom – Devarim",
     "bookOrder": 5,
-    "abbreviation": "Deut.",
-    "testament": "Vechiul Testament",
+    "bookName": "Deuteronom – Devarim",
     "expChaptersCount": 34,
     "expTotalVerses": 959,
-    "downloadUrl": "https://yahwehtora.ro/deuteronom-devarim"
+    "abbreviation": "Deut.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/deuteronom-devarim",
+    "baseFolderPath": "bible-source-documents/deuteronom",
+    "storedFileName": "deuteronom.html"
   },
   {
-    "bookName": "Iosua – Yahoshua",
     "bookOrder": 6,
-    "abbreviation": "Iosua.",
-    "testament": "Vechiul Testament",
+    "bookName": "Iosua – Yahoshua",
     "expChaptersCount": 24,
     "expTotalVerses": 658,
-    "downloadUrl": "https://yahwehtora.ro/iosua-yahoshua"
+    "abbreviation": "Iosua.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/iosua-yahoshua",
+    "baseFolderPath": "bible-source-documents/iosua",
+    "storedFileName": "iosua.html"
   },
   {
-    "bookName": "Judecători – Shoftim",
     "bookOrder": 7,
-    "abbreviation": "Judec.",
-    "testament": "Vechiul Testament",
+    "bookName": "Judecători – Shoftim",
     "expChaptersCount": 21,
     "expTotalVerses": 618,
-    "downloadUrl": "https://yahwehtora.ro/judecatori-shoftim"
+    "abbreviation": "Judec.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/judecatori-shoftim",
+    "baseFolderPath": "bible-source-documents/judecatori",
+    "storedFileName": "judecatori.html"
   },
   {
-    "bookName": "Rut – Rute",
     "bookOrder": 8,
-    "abbreviation": "Rut.",
-    "testament": "Vechiul Testament",
+    "bookName": "Rut – Rute",
     "expChaptersCount": 4,
     "expTotalVerses": 85,
-    "downloadUrl": "https://yahwehtora.ro/rut-rute"
+    "abbreviation": "Rut.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/rut-rute",
+    "baseFolderPath": "bible-source-documents/rut",
+    "storedFileName": "rut.html"
   },
   {
-    "bookName": "1 Samuel – Shmuel Alef",
     "bookOrder": 9,
-    "abbreviation": "1Sam.",
-    "testament": "Vechiul Testament",
+    "bookName": "1 Samuel – Shmuel Alef",
     "expChaptersCount": 31,
     "expTotalVerses": 810,
-    "downloadUrl": "https://yahwehtora.ro/1-samuel-shmuel-alef"
+    "abbreviation": "1Sam.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/1-samuel-shmuel-alef",
+    "baseFolderPath": "bible-source-documents/1samuel",
+    "storedFileName": "1samuel.html"
   },
   {
-    "bookName": "2 Samuel – Shmuel Bet",
     "bookOrder": 10,
-    "abbreviation": "2Sam.",
-    "testament": "Vechiul Testament",
+    "bookName": "2 Samuel – Shmuel Bet",
     "expChaptersCount": 24,
     "expTotalVerses": 695,
-    "downloadUrl": "https://yahwehtora.ro/2-samuel-shmuel-bet"
+    "abbreviation": "2Sam.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/2-samuel-shmuel-bet",
+    "baseFolderPath": "bible-source-documents/2samuel",
+    "storedFileName": "2samuel.html"
   },
   {
-    "bookName": "1 Împărați – Melechim Alef",
     "bookOrder": 11,
-    "abbreviation": "1Reg.",
-    "testament": "Vechiul Testament",
+    "bookName": "1 Împărați – Melechim Alef",
     "expChaptersCount": 22,
     "expTotalVerses": 816,
-    "downloadUrl": "https://yahwehtora.ro/1-imparati-melechim-alef"
+    "abbreviation": "1Reg.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/1-imparati-melechim-alef",
+    "baseFolderPath": "bible-source-documents/1imparati",
+    "storedFileName": "1imparati.html"
   },
   {
-    "bookName": "2 Împărați – Melechim Bet",
     "bookOrder": 12,
-    "abbreviation": "2Reg.",
-    "testament": "Vechiul Testament",
+    "bookName": "2 Împărați – Melechim Bet",
     "expChaptersCount": 25,
     "expTotalVerses": 719,
-    "downloadUrl": "https://yahwehtora.ro/2-imparati-melechim-bet"
+    "abbreviation": "2Reg.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/2-imparati-melechim-bet",
+    "baseFolderPath": "bible-source-documents/2imparati",
+    "storedFileName": "2imparati.html"
   },
   {
-    "bookName": "1 Cron. – Divre HaYamim Alef",
     "bookOrder": 13,
-    "abbreviation": "1Cron.",
-    "testament": "Vechiul Testament",
+    "bookName": "1 Cron. – Divre HaYamim Alef",
     "expChaptersCount": 29,
     "expTotalVerses": 942,
-    "downloadUrl": "https://yahwehtora.ro/1-cronici-divre-hayamim-alef"
+    "abbreviation": "1Cron.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/1-cronici-divre-hayamim-alef",
+    "baseFolderPath": "bible-source-documents/1cron",
+    "storedFileName": "1cron.html"
   },
   {
-    "bookName": "2 Cron. – Divre HaYamim Bet",
     "bookOrder": 14,
-    "abbreviation": "2Cron.",
-    "testament": "Vechiul Testament",
+    "bookName": "2 Cron. – Divre HaYamim Bet",
     "expChaptersCount": 36,
     "expTotalVerses": 822,
-    "downloadUrl": "https://yahwehtora.ro/2-cronici-divre-hayamim-bet"
+    "abbreviation": "2Cron.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/2-cronici-divre-hayamim-bet",
+    "baseFolderPath": "bible-source-documents/2cron",
+    "storedFileName": "2cron.html"
   },
   {
-    "bookName": "Ezra – Ezrah",
     "bookOrder": 15,
-    "abbreviation": "Ezra.",
-    "testament": "Vechiul Testament",
+    "bookName": "Ezra – Ezrah",
     "expChaptersCount": 10,
     "expTotalVerses": 280,
-    "downloadUrl": "https://yahwehtora.ro/ezra-ezrah"
+    "abbreviation": "Ezra.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/ezra-ezrah",
+    "baseFolderPath": "bible-source-documents/ezra",
+    "storedFileName": "ezra.html"
   },
   {
-    "bookName": "Neemia – Nechemyah",
     "bookOrder": 16,
-    "abbreviation": "Neem.",
-    "testament": "Vechiul Testament",
+    "bookName": "Neemia – Nechemyah",
     "expChaptersCount": 13,
     "expTotalVerses": 406,
-    "downloadUrl": "https://yahwehtora.ro/neemia-nechemyah"
+    "abbreviation": "Neem.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/neemia-nechemyah",
+    "baseFolderPath": "bible-source-documents/neemia",
+    "storedFileName": "neemia.html"
   },
   {
-    "bookName": "Estera – Hadasa",
     "bookOrder": 17,
-    "abbreviation": "Est.",
-    "testament": "Vechiul Testament",
+    "bookName": "Estera – Hadasa",
     "expChaptersCount": 10,
     "expTotalVerses": 167,
-    "downloadUrl": "https://yahwehtora.ro/estera-hadasa"
+    "abbreviation": "Est.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/estera-hadasa",
+    "baseFolderPath": "bible-source-documents/estera",
+    "storedFileName": "estera.html"
   },
   {
-    "bookName": "Iov – Yowb",
     "bookOrder": 18,
-    "abbreviation": "Iov.",
-    "testament": "Vechiul Testament",
+    "bookName": "Iov – Yowb",
     "expChaptersCount": 42,
     "expTotalVerses": 1070,
-    "downloadUrl": "https://yahwehtora.ro/iov-yowb"
+    "abbreviation": "Iov.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/iov-yowb",
+    "baseFolderPath": "bible-source-documents/iov",
+    "storedFileName": "iov.html"
   },
   {
-    "bookName": "Psalmii – Tehillim",
     "bookOrder": 19,
-    "abbreviation": "Ps.",
-    "testament": "Vechiul Testament",
+    "bookName": "Psalmii – Tehillim",
     "expChaptersCount": 150,
     "expTotalVerses": 2461,
-    "downloadUrl": "https://yahwehtora.ro/psalmii-tehillim"
+    "abbreviation": "Ps.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/psalmii-tehillim",
+    "baseFolderPath": "bible-source-documents/psalmii",
+    "storedFileName": "psalmii.html"
   },
   {
-    "bookName": "Prov. lui Solomon – Mashal",
     "bookOrder": 20,
-    "abbreviation": "Prov.",
-    "testament": "Vechiul Testament",
+    "bookName": "Prov. lui Solomon – Mashal",
     "expChaptersCount": 31,
     "expTotalVerses": 915,
-    "downloadUrl": "https://yahwehtora.ro/proverbele-lui-solomon-mashal"
+    "abbreviation": "Prov.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/proverbele-lui-solomon-mashal",
+    "baseFolderPath": "bible-source-documents/prov",
+    "storedFileName": "prov.html"
   },
   {
-    "bookName": "Eclesiastul – Koheleth",
     "bookOrder": 21,
-    "abbreviation": "Ecl.",
-    "testament": "Vechiul Testament",
+    "bookName": "Eclesiastul – Koheleth",
     "expChaptersCount": 12,
     "expTotalVerses": 222,
-    "downloadUrl": "https://yahwehtora.ro/eclesiastul-koheleth"
+    "abbreviation": "Ecl.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/eclesiastul-koheleth",
+    "baseFolderPath": "bible-source-documents/eclesiastul",
+    "storedFileName": "eclesiastul.html"
   },
   {
-    "bookName": "Cînt. Cîntări. – Shir HaShirim",
     "bookOrder": 22,
-    "abbreviation": "Cint.Cintari.",
-    "testament": "Vechiul Testament",
+    "bookName": "Cînt. Cîntări. – Shir HaShirim",
     "expChaptersCount": 8,
     "expTotalVerses": 117,
-    "downloadUrl": "https://yahwehtora.ro/cintarea-cintarilor-shir-hashirim"
+    "abbreviation": "Cint.Cintari.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/cintarea-cintarilor-shir-hashirim",
+    "baseFolderPath": "bible-source-documents/cint_cantarilor",
+    "storedFileName": "cint.html"
   },
   {
-    "bookName": "Isaia – Yeshayahu",
     "bookOrder": 23,
-    "abbreviation": "Isa.",
-    "testament": "Vechiul Testament",
+    "bookName": "Isaia – Yeshayahu",
     "expChaptersCount": 66,
     "expTotalVerses": 1292,
-    "downloadUrl": "https://yahwehtora.ro/isaia-yeshayahu"
+    "abbreviation": "Isa.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/isaia-yeshayahu",
+    "baseFolderPath": "bible-source-documents/isaia",
+    "storedFileName": "isaia.html"
   },
   {
-    "bookName": "Ieremia – Yermeyahu",
     "bookOrder": 24,
-    "abbreviation": "Ier.",
-    "testament": "Vechiul Testament",
+    "bookName": "Ieremia – Yermeyahu",
     "expChaptersCount": 52,
     "expTotalVerses": 1364,
-    "downloadUrl": "https://yahwehtora.ro/ieremia-yermeyahu"
+    "abbreviation": "Ier.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/ieremia-yermeyahu",
+    "baseFolderPath": "bible-source-documents/ieremia",
+    "storedFileName": "ieremia.html"
   },
   {
-    "bookName": "Plîngerile lui Ieremia – Ekah",
     "bookOrder": 25,
-    "abbreviation": "PlangIer.",
-    "testament": "Vechiul Testament",
+    "bookName": "Plîngerile lui Ieremia – Ekah",
     "expChaptersCount": 5,
     "expTotalVerses": 154,
-    "downloadUrl": "https://yahwehtora.ro/plingerile-lui-ieremia-ekah"
+    "abbreviation": "PlangIer.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/plingerile-lui-ieremia-ekah",
+    "baseFolderPath": "bible-source-documents/plingerile_lui_ieremia",
+    "storedFileName": "plingerile.html"
   },
   {
-    "bookName": "Ezechiel – Yechezkel",
     "bookOrder": 26,
-    "abbreviation": "Ezec.",
-    "testament": "Vechiul Testament",
+    "bookName": "Ezechiel – Yechezkel",
     "expChaptersCount": 48,
     "expTotalVerses": 1273,
-    "downloadUrl": "https://yahwehtora.ro/ezechiel-yechezkel"
+    "abbreviation": "Ezec.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/ezechiel-yechezkel",
+    "baseFolderPath": "bible-source-documents/ezechiel",
+    "storedFileName": "ezechiel.html"
   },
   {
-    "bookName": "Daniel – Danieyl",
     "bookOrder": 27,
-    "abbreviation": "Dan.",
-    "testament": "Vechiul Testament",
+    "bookName": "Daniel – Danieyl",
     "expChaptersCount": 12,
     "expTotalVerses": 357,
-    "downloadUrl": "https://yahwehtora.ro/daniel-danieyl"
+    "abbreviation": "Dan.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/daniel-danieyl",
+    "baseFolderPath": "bible-source-documents/daniel",
+    "storedFileName": "daniel.html"
   },
   {
-    "bookName": "Osea – Hoshea",
     "bookOrder": 28,
-    "abbreviation": "Osea.",
-    "testament": "Vechiul Testament",
+    "bookName": "Osea – Hoshea",
     "expChaptersCount": 14,
     "expTotalVerses": 197,
-    "downloadUrl": "https://yahwehtora.ro/osea-hoshea"
+    "abbreviation": "Osea.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/osea-hoshea",
+    "baseFolderPath": "bible-source-documents/osea",
+    "storedFileName": "osea.html"
   },
   {
-    "bookName": "Ioel – Yah”El",
     "bookOrder": 29,
-    "abbreviation": "Ioel.",
-    "testament": "Vechiul Testament",
+    "bookName": "Ioel – Yah”El",
     "expChaptersCount": 3,
     "expTotalVerses": 73,
-    "downloadUrl": "https://yahwehtora.ro/ioel-yahel"
+    "abbreviation": "Ioel.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/ioel-yahel",
+    "baseFolderPath": "bible-source-documents/ioel",
+    "storedFileName": "ioel.html"
   },
   {
-    "bookName": "Amos – Ahmos",
     "bookOrder": 30,
-    "abbreviation": "Amos.",
-    "testament": "Vechiul Testament",
+    "bookName": "Amos – Ahmos",
     "expChaptersCount": 9,
     "expTotalVerses": 146,
-    "downloadUrl": "https://yahwehtora.ro/amos-ahmos"
+    "abbreviation": "Amos.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/amos-ahmos",
+    "baseFolderPath": "bible-source-documents/amos",
+    "storedFileName": "amos.html"
   },
   {
-    "bookName": "Obadia – Obadyah",
     "bookOrder": 31,
-    "abbreviation": "Obad.",
-    "testament": "Vechiul Testament",
+    "bookName": "Obadia – Obadyah",
     "expChaptersCount": 1,
     "expTotalVerses": 21,
-    "downloadUrl": "https://yahwehtora.ro/obadia-obadyah"
+    "abbreviation": "Obad.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/obadia-obadyah",
+    "baseFolderPath": "bible-source-documents/obadia",
+    "storedFileName": "obadia.html"
   },
   {
-    "bookName": "Iona – Yownah",
     "bookOrder": 32,
-    "abbreviation": "Iona.",
-    "testament": "Vechiul Testament",
+    "bookName": "Iona – Yownah",
     "expChaptersCount": 4,
     "expTotalVerses": 48,
-    "downloadUrl": "https://yahwehtora.ro/iona-yownah"
+    "abbreviation": "Iona.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/iona-yownah",
+    "baseFolderPath": "bible-source-documents/iona",
+    "storedFileName": "iona.html"
   },
   {
-    "bookName": "Mica – Micha",
     "bookOrder": 33,
+    "bookName": "Mica – Micha",
+    "expChaptersCount": 7,
+    "expTotalVerses": 105,
     "abbreviation": "Mica.",
     "testament": "Vechiul Testament",
-    "expChaptersCount": 7,
-    "expTotalVerses": 105,
-    "downloadUrl": "https://yahwehtora.ro/mica-micha"
+    "downloadUrl": "https://yahwehtora.ro/mica-micha",
+    "baseFolderPath": "bible-source-documents/mica",
+    "storedFileName": "mica.html"
   },
   {
-    "bookName": "Naum – Nachum",
     "bookOrder": 34,
+    "bookName": "Naum – Nachum",
+    "expChaptersCount": 3,
+    "expTotalVerses": 47,
     "abbreviation": "Naum.",
     "testament": "Vechiul Testament",
-    "expChaptersCount": 3,
-    "expTotalVerses": 47,
-    "downloadUrl": "https://yahwehtora.ro/naum-nachum"
+    "downloadUrl": "https://yahwehtora.ro/naum-nachum",
+    "baseFolderPath": "bible-source-documents/naum",
+    "storedFileName": "naum.html"
   },
   {
-    "bookName": "Habacuc – Chabakkuwk",
     "bookOrder": 35,
-    "abbreviation": "Habac.",
-    "testament": "Vechiul Testament",
+    "bookName": "Habacuc – Chabakkuwk",
     "expChaptersCount": 3,
     "expTotalVerses": 56,
-    "downloadUrl": "https://yahwehtora.ro/habacuc-chabakkuwk"
+    "abbreviation": "Habac.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/habacuc-chabakkuwk",
+    "baseFolderPath": "bible-source-documents/habacuc",
+    "storedFileName": "habacuc.html"
   },
   {
-    "bookName": "Țefania – Tsephanyah",
     "bookOrder": 36,
-    "abbreviation": "Tef.",
-    "testament": "Vechiul Testament",
+    "bookName": "Țefania – Tsephanyah",
     "expChaptersCount": 3,
     "expTotalVerses": 53,
-    "downloadUrl": "https://yahwehtora.ro/tefania-tsephanyah"
+    "abbreviation": "Tef.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/tefania-tsephanyah",
+    "baseFolderPath": "bible-source-documents/tefania",
+    "storedFileName": "tefania.html"
   },
   {
-    "bookName": "Hagai – Chaggay",
     "bookOrder": 37,
-    "abbreviation": "Hagai.",
-    "testament": "Vechiul Testament",
+    "bookName": "Hagai – Chaggay",
     "expChaptersCount": 2,
     "expTotalVerses": 38,
-    "downloadUrl": "https://yahwehtora.ro/hagai-chaggay"
+    "abbreviation": "Hagai.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/hagai-chaggay",
+    "baseFolderPath": "bible-source-documents/hagai",
+    "storedFileName": "hagai.html"
   },
   {
-    "bookName": "Zaharia – Zecharyah",
     "bookOrder": 38,
-    "abbreviation": "Zaha.",
-    "testament": "Vechiul Testament",
+    "bookName": "Zaharia – Zecharyah",
     "expChaptersCount": 14,
     "expTotalVerses": 211,
-    "downloadUrl": "https://yahwehtora.ro/zaharia-zecharyah"
+    "abbreviation": "Zaha.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/zaharia-zecharyah",
+    "baseFolderPath": "bible-source-documents/zaharia",
+    "storedFileName": "zaharia.html"
   },
   {
-    "bookName": "Maleahi – Malachi",
     "bookOrder": 39,
-    "abbreviation": "Maleahi.",
-    "testament": "Vechiul Testament",
+    "bookName": "Maleahi – Malachi",
     "expChaptersCount": 4,
     "expTotalVerses": 55,
-    "downloadUrl": "https://yahwehtora.ro/maleahi-malachi"
+    "abbreviation": "Maleahi.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/maleahi-malachi",
+    "baseFolderPath": "bible-source-documents/maleahi",
+    "storedFileName": "maleahi.html"
   },
   {
-    "bookName": "Cartea lui Tobit – Tobiyah",
     "bookOrder": 40,
-    "abbreviation": "Tobit.",
-    "testament": "Vechiul Testament",
+    "bookName": "Cartea lui Tobit – Tobiyah",
     "expChaptersCount": 14,
     "expTotalVerses": 247,
-    "downloadUrl": "https://yahwehtora.ro/cartea-lui-tobit-tobiyah"
+    "abbreviation": "Tobit.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/cartea-lui-tobit-tobiyah",
+    "baseFolderPath": "bible-source-documents/cartea_tobit",
+    "storedFileName": "cartea.html"
   },
   {
-    "bookName": "Cartea Iuditei",
     "bookOrder": 41,
-    "abbreviation": "Iudita.",
-    "testament": "Vechiul Testament",
+    "bookName": "Cartea Iuditei",
     "expChaptersCount": 16,
     "expTotalVerses": 339,
-    "downloadUrl": "https://yahwehtora.ro/cartea-iuditei"
+    "abbreviation": "Iudita.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/cartea-iuditei",
+    "baseFolderPath": "bible-source-documents/cartea_iuditei",
+    "storedFileName": "cartea.html"
   },
   {
-    "bookName": "Cartea lui Baruh",
     "bookOrder": 42,
-    "abbreviation": "Baruh.",
-    "testament": "Vechiul Testament",
+    "bookName": "Cartea lui Baruh",
     "expChaptersCount": 5,
     "expTotalVerses": 141,
-    "downloadUrl": "https://yahwehtora.ro/cartea-lui-baruh"
+    "abbreviation": "Baruh.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/cartea-lui-baruh",
+    "baseFolderPath": "bible-source-documents/cartea_baruh",
+    "storedFileName": "cartea.html"
   },
   {
-    "bookName": "Epistola lui Ieremia",
     "bookOrder": 43,
-    "abbreviation": "EpisIerem.",
-    "testament": "Vechiul Testament",
+    "bookName": "Epistola lui Ieremia",
     "expChaptersCount": 1,
     "expTotalVerses": 72,
-    "downloadUrl": "https://yahwehtora.ro/epistola-lui-ieremia"
+    "abbreviation": "EpisIerem.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/epistola-lui-ieremia",
+    "baseFolderPath": "bible-source-documents/epistola_ieremia",
+    "storedFileName": "epistola.html"
   },
   {
-    "bookName": "Cântarea celor trei tineri",
     "bookOrder": 44,
-    "abbreviation": "CantCelor3.",
-    "testament": "Vechiul Testament",
+    "bookName": "Cântarea celor trei tineri",
     "expChaptersCount": 1,
     "expTotalVerses": 67,
-    "downloadUrl": "https://yahwehtora.ro/cantarea-celor-trei-tineri"
+    "abbreviation": "CantCelor3.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/cantarea-celor-trei-tineri",
+    "baseFolderPath": "bible-source-documents/cantarea_celor_trei_tineri",
+    "storedFileName": "cantarea.html"
   },
   {
-    "bookName": "Cartea a treia a lui Ezra",
     "bookOrder": 45,
-    "abbreviation": "3Ezra.",
-    "testament": "Vechiul Testament",
+    "bookName": "Cartea a treia a lui Ezra",
     "expChaptersCount": 9,
     "expTotalVerses": 468,
-    "downloadUrl": "https://yahwehtora.ro/cartea-a-treia-a-lui-ezra"
+    "abbreviation": "3Ezra.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/cartea-a-treia-a-lui-ezra",
+    "baseFolderPath": "bible-source-documents/cartea_ezra",
+    "storedFileName": "cartea.html"
   },
   {
-    "bookName": "Cartea înțelep. lui Solomon",
     "bookOrder": 46,
-    "abbreviation": "IntelpSolomon.",
-    "testament": "Vechiul Testament",
+    "bookName": "Cartea înțelep. lui Solomon",
     "expChaptersCount": 19,
     "expTotalVerses": 435,
-    "downloadUrl": "https://yahwehtora.ro/cartea-intelepciunii-lui-solomon"
+    "abbreviation": "IntelpSolomon.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/cartea-intelepciunii-lui-solomon",
+    "baseFolderPath": "bible-source-documents/cartea_solomon",
+    "storedFileName": "cartea.html"
   },
   {
-    "bookName": "Istoria Susanei",
     "bookOrder": 47,
-    "abbreviation": "IstSusanei.",
-    "testament": "Vechiul Testament",
+    "bookName": "Istoria Susanei",
     "expChaptersCount": 1,
     "expTotalVerses": 64,
-    "downloadUrl": "https://yahwehtora.ro/istoria-susanei"
+    "abbreviation": "IstSusanei.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/istoria-susanei",
+    "baseFolderPath": "bible-source-documents/istoria_susanei",
+    "storedFileName": "istoria.html"
   },
   {
-    "bookName": "Istoria omorârii balaurului",
     "bookOrder": 48,
-    "abbreviation": "IstOmorBal.",
-    "testament": "Vechiul Testament",
+    "bookName": "Istoria omorârii balaurului",
     "expChaptersCount": 1,
     "expTotalVerses": 50,
-    "downloadUrl": "https://yahwehtora.ro/istoria-omorarii-balaurului-si-a-sfaramarii-lui-bel"
+    "abbreviation": "IstOmorBal.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/istoria-omorarii-balaurului-si-a-sfaramarii-lui-bel",
+    "baseFolderPath": "bible-source-documents/istoria_balaurului",
+    "storedFileName": "istoria.html"
   },
   {
-    "bookName": "1 Macabei",
     "bookOrder": 49,
-    "abbreviation": "1Macab.",
-    "testament": "Vechiul Testament",
+    "bookName": "1 Macabei",
     "expChaptersCount": 16,
     "expTotalVerses": 910,
-    "downloadUrl": "https://yahwehtora.ro/1-macabei"
+    "abbreviation": "1Macab.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/1-macabei",
+    "baseFolderPath": "bible-source-documents/1macabei",
+    "storedFileName": "1macabei.html"
   },
   {
-    "bookName": "2 Macabei",
     "bookOrder": 50,
-    "abbreviation": "2Macab.",
-    "testament": "Vechiul Testament",
+    "bookName": "2 Macabei",
     "expChaptersCount": 15,
     "expTotalVerses": 558,
-    "downloadUrl": "https://yahwehtora.ro/2-macabei"
+    "abbreviation": "2Macab.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/2-macabei",
+    "baseFolderPath": "bible-source-documents/2macabei",
+    "storedFileName": "2macabei.html"
   },
   {
-    "bookName": "3 Macabei",
     "bookOrder": 51,
-    "abbreviation": "3Macab.",
-    "testament": "Vechiul Testament",
+    "bookName": "3 Macabei",
     "expChaptersCount": 7,
     "expTotalVerses": 206,
-    "downloadUrl": "https://yahwehtora.ro/3-macabei"
+    "abbreviation": "3Macab.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/3-macabei",
+    "baseFolderPath": "bible-source-documents/3macabei",
+    "storedFileName": "3macabei.html"
   },
   {
-    "bookName": "Rugăciunea regelui Manase",
     "bookOrder": 52,
-    "abbreviation": "Manase.",
-    "testament": "Vechiul Testament",
+    "bookName": "Rugăciunea regelui Manase",
     "expChaptersCount": 1,
     "expTotalVerses": 15,
-    "downloadUrl": "https://yahwehtora.ro/rugaciunea-regelui-manase"
+    "abbreviation": "Manase.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/rugaciunea-regelui-manase",
+    "baseFolderPath": "bible-source-documents/rugaciunea_manase",
+    "storedFileName": "rugaciunea.html"
   },
   {
-    "bookName": "Cartea lui Enoh",
     "bookOrder": 53,
-    "abbreviation": "Enoh.",
-    "testament": "Vechiul Testament",
+    "bookName": "Cartea lui Enoh",
     "expChaptersCount": 107,
     "expTotalVerses": 1057,
-    "downloadUrl": "https://yahwehtora.ro/cartea-lui-enoh"
+    "abbreviation": "Enoh.",
+    "testament": "Vechiul Testament",
+    "downloadUrl": "https://yahwehtora.ro/cartea-lui-enoh",
+    "baseFolderPath": "bible-source-documents/cartea_enoh",
+    "storedFileName": "cartea.html"
   },
   {
-    "bookName": "Matei – Mattityahu",
     "bookOrder": 54,
-    "abbreviation": "Mat.",
-    "testament": "Noul Testament",
+    "bookName": "Matei – Mattityahu",
     "expChaptersCount": 28,
     "expTotalVerses": 1071,
-    "downloadUrl": "https://yahwehtora.ro/matei-mattityahu"
+    "abbreviation": "Mat.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/matei-mattityahu",
+    "baseFolderPath": "bible-source-documents/matei",
+    "storedFileName": "matei.html"
   },
   {
-    "bookName": "Marcu – Moshe",
     "bookOrder": 55,
-    "abbreviation": "Marcu.",
-    "testament": "Noul Testament",
+    "bookName": "Marcu – Moshe",
     "expChaptersCount": 16,
     "expTotalVerses": 678,
-    "downloadUrl": "https://yahwehtora.ro/marcu-moshe"
+    "abbreviation": "Marcu.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/marcu-moshe",
+    "baseFolderPath": "bible-source-documents/marcu",
+    "storedFileName": "marcu.html"
   },
   {
-    "bookName": "Luca – Luka",
     "bookOrder": 56,
-    "abbreviation": "Luca.",
-    "testament": "Noul Testament",
+    "bookName": "Luca – Luka",
     "expChaptersCount": 24,
     "expTotalVerses": 1151,
-    "downloadUrl": "https://yahwehtora.ro/luca-luka"
+    "abbreviation": "Luca.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/luca-luka",
+    "baseFolderPath": "bible-source-documents/luca",
+    "storedFileName": "luca.html"
   },
   {
-    "bookName": "Ioan – Yochanan",
     "bookOrder": 57,
-    "abbreviation": "Ioan.",
-    "testament": "Noul Testament",
+    "bookName": "Ioan – Yochanan",
     "expChaptersCount": 21,
     "expTotalVerses": 879,
-    "downloadUrl": "https://yahwehtora.ro/ioan-yochanan"
+    "abbreviation": "Ioan.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/ioan-yochanan",
+    "baseFolderPath": "bible-source-documents/ioan",
+    "storedFileName": "ioan.html"
   },
   {
-    "bookName": "Fapte. Ap.- Maaseh Shlichim",
     "bookOrder": 58,
-    "abbreviation": "Fapt.",
-    "testament": "Noul Testament",
+    "bookName": "Fapte. Ap.- Maaseh Shlichim",
     "expChaptersCount": 28,
     "expTotalVerses": 1007,
-    "downloadUrl": "https://yahwehtora.ro/faptele-apostolilor-maaseh-shlichim"
+    "abbreviation": "Fapt.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/faptele-apostolilor-maaseh-shlichim",
+    "baseFolderPath": "bible-source-documents/fapte",
+    "storedFileName": "fapte.html"
   },
   {
-    "bookName": "Romani – Romiyah",
     "bookOrder": 59,
-    "abbreviation": "Rom.",
-    "testament": "Noul Testament",
+    "bookName": "Romani – Romiyah",
     "expChaptersCount": 16,
     "expTotalVerses": 433,
-    "downloadUrl": "https://yahwehtora.ro/romani-romiyah"
+    "abbreviation": "Rom.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/romani-romiyah",
+    "baseFolderPath": "bible-source-documents/romani",
+    "storedFileName": "romani.html"
   },
   {
-    "bookName": "1 Corinteni – Corintiyah Alef",
     "bookOrder": 60,
-    "abbreviation": "1Cor.",
-    "testament": "Noul Testament",
+    "bookName": "1 Corinteni – Corintiyah Alef",
     "expChaptersCount": 16,
     "expTotalVerses": 437,
-    "downloadUrl": "https://yahwehtora.ro/1-corinteni-corintiyah-alef"
+    "abbreviation": "1Cor.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/1-corinteni-corintiyah-alef",
+    "baseFolderPath": "bible-source-documents/1corinteni",
+    "storedFileName": "1corinteni.html"
   },
   {
-    "bookName": "2 Corinteni – Qorintiyah Bet",
     "bookOrder": 61,
-    "abbreviation": "2Cor.",
-    "testament": "Noul Testament",
+    "bookName": "2 Corinteni – Qorintiyah Bet",
     "expChaptersCount": 13,
     "expTotalVerses": 257,
-    "downloadUrl": "https://yahwehtora.ro/2-corinteni-qorintiyah-bet"
+    "abbreviation": "2Cor.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/2-corinteni-qorintiyah-bet",
+    "baseFolderPath": "bible-source-documents/2corinteni",
+    "storedFileName": "2corinteni.html"
   },
   {
-    "bookName": "Galateni – Galutyah",
     "bookOrder": 62,
-    "abbreviation": "Gal.",
-    "testament": "Noul Testament",
+    "bookName": "Galateni – Galutyah",
     "expChaptersCount": 6,
     "expTotalVerses": 149,
-    "downloadUrl": "https://yahwehtora.ro/galateni-galutyah"
+    "abbreviation": "Gal.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/galateni-galutyah",
+    "baseFolderPath": "bible-source-documents/galateni",
+    "storedFileName": "galateni.html"
   },
   {
-    "bookName": "Efeseni – Ephsiyah",
     "bookOrder": 63,
-    "abbreviation": "Efes.",
-    "testament": "Noul Testament",
+    "bookName": "Efeseni – Ephsiyah",
     "expChaptersCount": 6,
     "expTotalVerses": 155,
-    "downloadUrl": "https://yahwehtora.ro/efeseni-ephsiyah"
+    "abbreviation": "Efes.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/efeseni-ephsiyah",
+    "baseFolderPath": "bible-source-documents/efeseni",
+    "storedFileName": "efeseni.html"
   },
   {
-    "bookName": "Filipeni – Fylypsiyah",
     "bookOrder": 64,
-    "abbreviation": "Filip.",
-    "testament": "Noul Testament",
+    "bookName": "Filipeni – Fylypsiyah",
     "expChaptersCount": 4,
     "expTotalVerses": 104,
-    "downloadUrl": "https://yahwehtora.ro/filipeni-fylypsiyah"
+    "abbreviation": "Filip.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/filipeni-fylypsiyah",
+    "baseFolderPath": "bible-source-documents/filipeni",
+    "storedFileName": "filipeni.html"
   },
   {
-    "bookName": "Coloseni – Qolesayah",
     "bookOrder": 65,
-    "abbreviation": "Colos.",
-    "testament": "Noul Testament",
+    "bookName": "Coloseni – Qolesayah",
     "expChaptersCount": 4,
     "expTotalVerses": 95,
-    "downloadUrl": "https://yahwehtora.ro/coloseni-qolesayah"
+    "abbreviation": "Colos.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/coloseni-qolesayah",
+    "baseFolderPath": "bible-source-documents/coloseni",
+    "storedFileName": "coloseni.html"
   },
   {
-    "bookName": "1 Tesalon.- Tesalonikyah Alef",
     "bookOrder": 66,
-    "abbreviation": "1Tesa.",
-    "testament": "Noul Testament",
+    "bookName": "1 Tesalon.- Tesalonikyah Alef",
     "expChaptersCount": 5,
     "expTotalVerses": 89,
-    "downloadUrl": "https://yahwehtora.ro/1-tesaloniceni-tesalonikyah-alef"
+    "abbreviation": "1Tesa.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/1-tesaloniceni-tesalonikyah-alef",
+    "baseFolderPath": "bible-source-documents/1tesalon",
+    "storedFileName": "1tesalon.html"
   },
   {
-    "bookName": "2 Tesalon. – Tesalonikyah Bet",
     "bookOrder": 67,
-    "abbreviation": "2Tesa.",
-    "testament": "Noul Testament",
+    "bookName": "2 Tesalon. – Tesalonikyah Bet",
     "expChaptersCount": 3,
     "expTotalVerses": 47,
-    "downloadUrl": "https://yahwehtora.ro/2-tesaloniceni-tesalonikyah-bet"
+    "abbreviation": "2Tesa.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/2-tesaloniceni-tesalonikyah-bet",
+    "baseFolderPath": "bible-source-documents/2tesalon",
+    "storedFileName": "2tesalon.html"
   },
   {
-    "bookName": "1 Timotei – Timtheous Alef",
     "bookOrder": 68,
-    "abbreviation": "1Timo.",
-    "testament": "Noul Testament",
+    "bookName": "1 Timotei – Timtheous Alef",
     "expChaptersCount": 6,
     "expTotalVerses": 113,
-    "downloadUrl": "https://yahwehtora.ro/1-timotei-timtheous-alef"
+    "abbreviation": "1Timo.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/1-timotei-timtheous-alef",
+    "baseFolderPath": "bible-source-documents/1timotei",
+    "storedFileName": "1timotei.html"
   },
   {
-    "bookName": "2 Timotei – Timtheous Bet",
     "bookOrder": 69,
-    "abbreviation": "2Timo.",
-    "testament": "Noul Testament",
+    "bookName": "2 Timotei – Timtheous Bet",
     "expChaptersCount": 4,
     "expTotalVerses": 83,
-    "downloadUrl": "https://yahwehtora.ro/2-timotei-timtheous-bet"
+    "abbreviation": "2Timo.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/2-timotei-timtheous-bet",
+    "baseFolderPath": "bible-source-documents/2timotei",
+    "storedFileName": "2timotei.html"
   },
   {
-    "bookName": "Tit – Teitus",
     "bookOrder": 70,
-    "abbreviation": "Tit.",
-    "testament": "Noul Testament",
+    "bookName": "Tit – Teitus",
     "expChaptersCount": 3,
     "expTotalVerses": 46,
-    "downloadUrl": "https://yahwehtora.ro/tit-teitus"
+    "abbreviation": "Tit.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/tit-teitus",
+    "baseFolderPath": "bible-source-documents/tit",
+    "storedFileName": "tit.html"
   },
   {
-    "bookName": "Filimon – Fileymon",
     "bookOrder": 71,
+    "bookName": "Filimon – Fileymon",
+    "expChaptersCount": 1,
+    "expTotalVerses": 25,
     "abbreviation": "Filimon.",
     "testament": "Noul Testament",
-    "expChaptersCount": 1,
-    "expTotalVerses": 25,
-    "downloadUrl": "https://yahwehtora.ro/filimon-fileymon"
+    "downloadUrl": "https://yahwehtora.ro/filimon-fileymon",
+    "baseFolderPath": "bible-source-documents/filimon",
+    "storedFileName": "filimon.html"
   },
   {
-    "bookName": "Evrei – Ivrim",
     "bookOrder": 72,
-    "abbreviation": "Evr.",
-    "testament": "Noul Testament",
+    "bookName": "Evrei – Ivrim",
     "expChaptersCount": 13,
     "expTotalVerses": 303,
-    "downloadUrl": "https://yahwehtora.ro/evrei-ivrim"
+    "abbreviation": "Evr.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/evrei-ivrim",
+    "baseFolderPath": "bible-source-documents/evrei",
+    "storedFileName": "evrei.html"
   },
   {
-    "bookName": "Iacov – Yaacov",
     "bookOrder": 73,
-    "abbreviation": "Iacov.",
-    "testament": "Noul Testament",
+    "bookName": "Iacov – Yaacov",
     "expChaptersCount": 5,
     "expTotalVerses": 108,
-    "downloadUrl": "https://yahwehtora.ro/iacov-yaacov"
+    "abbreviation": "Iacov.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/iacov-yaacov",
+    "baseFolderPath": "bible-source-documents/iacov",
+    "storedFileName": "iacov.html"
   },
   {
-    "bookName": "1 Petru – Kepfa Alef",
     "bookOrder": 74,
+    "bookName": "1 Petru – Kepfa Alef",
+    "expChaptersCount": 5,
+    "expTotalVerses": 105,
     "abbreviation": "1Petr.",
     "testament": "Noul Testament",
-    "expChaptersCount": 5,
-    "expTotalVerses": 105,
-    "downloadUrl": "https://yahwehtora.ro/1-petru-kepfa-alef"
+    "downloadUrl": "https://yahwehtora.ro/1-petru-kepfa-alef",
+    "baseFolderPath": "bible-source-documents/1petru",
+    "storedFileName": "1petru.html"
   },
   {
-    "bookName": "2 Petru – Kefa Bet",
     "bookOrder": 75,
-    "abbreviation": "2Petr.",
-    "testament": "Noul Testament",
+    "bookName": "2 Petru – Kefa Bet",
     "expChaptersCount": 3,
     "expTotalVerses": 61,
-    "downloadUrl": "https://yahwehtora.ro/2-petru-kefa-bet"
+    "abbreviation": "2Petr.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/2-petru-kefa-bet",
+    "baseFolderPath": "bible-source-documents/2petru",
+    "storedFileName": "2petru.html"
   },
   {
-    "bookName": "1 Ioan – Yochanan Alef",
     "bookOrder": 76,
-    "abbreviation": "1Ioan.",
-    "testament": "Noul Testament",
+    "bookName": "1 Ioan – Yochanan Alef",
     "expChaptersCount": 5,
     "expTotalVerses": 105,
-    "downloadUrl": "https://yahwehtora.ro/1-ioan-yochanan-alef"
+    "abbreviation": "1Ioan.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/1-ioan-yochanan-alef",
+    "baseFolderPath": "bible-source-documents/1ioan",
+    "storedFileName": "1ioan.html"
   },
   {
-    "bookName": "2 Ioan – Yochanan Bet",
     "bookOrder": 77,
-    "abbreviation": "2Ioan.",
-    "testament": "Noul Testament",
+    "bookName": "2 Ioan – Yochanan Bet",
     "expChaptersCount": 1,
     "expTotalVerses": 13,
-    "downloadUrl": "https://yahwehtora.ro/2-ioan-yochanan-bet"
+    "abbreviation": "2Ioan.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/2-ioan-yochanan-bet",
+    "baseFolderPath": "bible-source-documents/2ioan",
+    "storedFileName": "2ioan.html"
   },
   {
-    "bookName": "3 Ioan – Yochanan Gimel",
     "bookOrder": 78,
-    "abbreviation": "3Ioan.",
-    "testament": "Noul Testament",
+    "bookName": "3 Ioan – Yochanan Gimel",
     "expChaptersCount": 1,
     "expTotalVerses": 14,
-    "downloadUrl": "https://yahwehtora.ro/3-ioan-yochanan-gimel"
+    "abbreviation": "3Ioan.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/3-ioan-yochanan-gimel",
+    "baseFolderPath": "bible-source-documents/3ioan",
+    "storedFileName": "3ioan.html"
   },
   {
-    "bookName": "Iuda – Yahudah",
     "bookOrder": 79,
-    "abbreviation": "Iuda.",
-    "testament": "Noul Testament",
+    "bookName": "Iuda – Yahudah",
     "expChaptersCount": 1,
     "expTotalVerses": 25,
-    "downloadUrl": "https://yahwehtora.ro/iuda-yahudah"
+    "abbreviation": "Iuda.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/iuda-yahudah",
+    "baseFolderPath": "bible-source-documents/iuda",
+    "storedFileName": "iuda.html"
   },
   {
-    "bookName": "Apocalipsa – Gilyahna",
     "bookOrder": 80,
-    "abbreviation": "Apoc.",
-    "testament": "Noul Testament",
+    "bookName": "Apocalipsa – Gilyahna",
     "expChaptersCount": 22,
     "expTotalVerses": 404,
-    "downloadUrl": "https://yahwehtora.ro/apocalipsa-gilyahna"
+    "abbreviation": "Apoc.",
+    "testament": "Noul Testament",
+    "downloadUrl": "https://yahwehtora.ro/apocalipsa-gilyahna",
+    "baseFolderPath": "bible-source-documents/apocalipsa",
+    "storedFileName": "apocalipsa.html"
   }
 ]

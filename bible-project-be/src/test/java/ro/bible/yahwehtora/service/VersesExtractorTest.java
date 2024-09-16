@@ -102,14 +102,15 @@ class VersesExtractorTest {
 //                .forEach(book -> {
 //                    System.out.println(book.toJson());
 //        });
-        List<BookInfo> list = BibleUtil.getBookInfoList().stream()
-                .map(book -> {
-                    BookLocalPaths bookLocalPaths = BibleSourceDocuments.booksPath.stream()
-                            .filter(path -> path.getBookName().equals(book.getBookName())).findFirst().get();
-                    book.setBaseFolderPath(bookLocalPaths.getBookBaseFolderPath());
-                    book.setStoredFileName(bookLocalPaths.getBookFileName());
-                    return book;
-                }).toList();
+        List<BookInfo> list = BibleUtil.getBookInfoList();
+//                .stream()
+//                .map(book -> {
+//                    BookLocalPaths bookLocalPaths = BibleSourceDocuments.booksPath.stream()
+//                            .filter(path -> path.getBookName().equals(book.getBookName())).findFirst().get();
+//                    book.setBaseFolderPath(bookLocalPaths.getBookBaseFolderPath());
+//                    book.setStoredFileName(bookLocalPaths.getBookFileName());
+//                    return book;
+//                }).toList();
         System.out.println(ConvertUtil.toJson(list));
     }
 
