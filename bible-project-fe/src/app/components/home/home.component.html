@@ -1,42 +1,62 @@
 <div class="py-4">
-  <bible-loading-indicator-box
-    [isLoading]="homePageLoading$ | async"
-  >
-    @if (bibleBooks$ | async; as bibleBooks){
-      <div class="container main-text-background px-sm-3 px-md-4 px-lg-5 py-sm-1 py-md-3">
-        <div class="h2 fw-bold py-3 text-title-colour">Cartea:</div>
-        @for (bibleBook of bibleBooks; track bibleBook.bookId) {
+  @if (bibleBooks$ | async; as bibleBooks) {
+    <div class="container main-text-background px-sm-3 px-md-4 px-lg-5 py-sm-1 py-md-3">
+      <div class="h2 fw-bold py-3 text-title-colour">Cartea:</div>
+      @for (bibleBook of bibleBooks; track bibleBook.bookId) {
+        <button class="btn me-2 mb-2"
+                [ngClass]="selectedBook?.bookName === bibleBook.name ? 'btn-dark' : 'btn-outline-dark'"
+                (click)="selectBook(bibleBook)"
+        >{{ bibleBook.abbreviation }}
+        </button>
+      }
+      <br/>
+      @if (selectedBook && selectedBook.chapterNumbers.length > 0) {
+        <div id="section_chapter" class="h2 fw-bold py-3 text-title-colour">Capitolul:</div>
+        @for (chapterNumber of selectedBook.chapterNumbers; track chapterNumber) {
           <button class="btn me-2 mb-2"
-                  [ngClass]="selectedBook?.bookName === bibleBook.name ? 'btn-dark' : 'btn-outline-dark'"
-                  (click)="selectBook(bibleBook)"
-          >{{ bibleBook.abbreviation }}
+                  [ngClass]="chapterNumber === selectedBook.chapterNumber ? 'btn-dark' : 'btn-outline-dark'"
+                  (click)="loadChapter(chapterNumber)"
+          >{{ chapterNumber }}
           </button>
         }
-        <br/>
-        @if (selectedBook?.chapterNumbers) {
-          <div id="section_chapter" class="h2 fw-bold py-3 text-title-colour">Capitolul:</div>
-          @for (chapterNumber of selectedBook?.chapterNumbers; track chapterNumber) {
-            <button class="btn me-2 mb-2"
-                    [ngClass]="chapterNumber === selectedBook?.chapterNumber ? 'btn-dark' : 'btn-outline-dark'"
-                    (click)="loadChapter(chapterNumber)"
-            >{{ chapterNumber }}
-            </button>
-          }
-        }
-
         @if (bibleVerse$ | async; as bibleVerses) {
-          <div
-            class="fw-bold fs-2 py-2 text-center text-title-colour">{{ selectedBook?.bookName }} {{ selectedBook?.chapterNumber }}
-          </div>
-          @for (bibleVerse of bibleVerses; track bibleVerse.verseNumber) {
-            <div class="fw-bold fs-5 py-1"
-            >{{ bibleVerse.verseNumber }}. {{ bibleVerse.textWithDiacritics }}
+          @if (selectedBook.chapterNumber) {
+            <div id="section_verses"
+                 class="fw-bold fs-2 py-2 text-center text-title-colour">{{ selectedBook.bookName }} {{ selectedBook.chapterNumber }}
+            </div>
+            @for (bibleVerse of bibleVerses; track bibleVerse.verseNumber) {
+              <div class="fw-bold fs-5 py-1"
+              >{{ bibleVerse.verseNumber }}. {{ bibleVerse.textWithDiacritics }}
+              </div>
+            }
+            <div class="mt-3 w-100">
+              <div class="row g-2">
+                <div class="col-12 col-md-7">
+                  @if (selectedBook.chapterNumber != 1) {
+                    <button class="btn me-2 mb-2 btn-outline-dark"
+                            (click)="loadChapter(selectedBook.chapterNumber - 1)"
+                    >
+                      Capitolul precedent
+                    </button>
+                  }
+                  @if (selectedBook.chapterNumber != selectedBook.chapterNumbers.length) {
+                    <button class="btn me-2 mb-2 btn-outline-dark"
+                            [ngClass]="{'no-hover': disableHover}"
+                            (click)="loadChapter(selectedBook.chapterNumber + 1);onBlur() "
+                    >
+                      Capitolul Urmator
+                    </button>
+                  }
+                </div>
+              </div>
             </div>
           }
         }
-      </div>
-    }
-  </bible-loading-indicator-box>
+      }
+    </div>
+  }
 </div>
-
+@if (homePageLoading$ | async) {
+  <bible-infinite-loading></bible-infinite-loading>
+}
 

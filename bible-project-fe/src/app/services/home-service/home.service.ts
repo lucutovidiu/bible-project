@@ -49,7 +49,7 @@ export class HomeService extends BibleLookupService {
     this.siteStoreService.updateSelectedBibleBook(
       bookName,
       bookId,
-      chaptersCount ? Array.from({length: chaptersCount}, (_, i) => i + 1) : null
+      chaptersCount ? Array.from({length: chaptersCount}, (_, i) => i + 1) : []
     )
   }
 

@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "serve:prod": "ng serve --configuration production",
-    "serve:dev": "ng serve --configuration development --host 0.0.0.0",
+    "serve:dev": "ng serve --configuration development --host 0.0.0.0 --port 4201",
     "serve:local": "ng serve --configuration local",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
@@ -23,10 +23,10 @@
     "@datorama/akita": "^8.0.1",
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
+    "ngx-toastr": "^16.2.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
-    "zone.js": "~0.14.3",
-    "ngx-toastr": "^16.2.0"
+    "zone.js": "~0.14.3"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^18.2.4",
@@ -39,6 +39,6 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
-    "typescript": "~5.5.4"
+    "prettier": "3.3.3"
   }
 }

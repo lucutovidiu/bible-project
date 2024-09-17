@@ -1,5 +1,5 @@
 export class HtmlFunctions {
-  public static jumpToSection(sectionId: string, timeout = 300): void {
+  public static jumpToSection(sectionId: string, timeout = 300, top: number = 100): void {
     setTimeout(() => {
       const targetElement = document.getElementById(sectionId);
       if (targetElement) {
@@ -7,7 +7,7 @@ export class HtmlFunctions {
         const rect = targetElement.getBoundingClientRect();
         // Scroll with an offset (e.g., 100px from the top)
         window.scrollTo({
-          top: rect.top + window.scrollY - 200, // Adjust the offset value as needed
+          top: rect.top + window.scrollY - top, // Adjust the offset value as needed
           behavior: 'smooth'
         });
       }

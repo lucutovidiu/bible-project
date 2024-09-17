@@ -1,0 +1,16 @@
+# Add files here to ignore them from prettier formatting
+
+/dist
+/coverage
+.angular
+.idea
+.vscode
+.github
+nginx
+node_modules
+
+
+CHANGELOG.md
+README.md
+
+/.nx/cache

@@ -10,7 +10,7 @@ export interface BibleVerseStored {
 export interface SelectedBibleBook {
   bookName: string | null,
   bookId: number | null,
-  chapterNumbers: number[] | null,
+  chapterNumbers: number[],
   chapterNumber: number | null,
   verseNumber: number | null,
 }
@@ -54,7 +54,7 @@ export function createInitialState(): SiteState {
       selectedBibleBook: {
         bookName: null,
         bookId: null,
-        chapterNumbers: null,
+        chapterNumbers: [],
         chapterNumber: null,
         verseNumber: null,
       }

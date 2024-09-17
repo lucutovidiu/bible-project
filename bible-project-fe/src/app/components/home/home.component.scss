@@ -5,3 +5,8 @@
 .text-red{
   color: red!important;
 }
+
+.no-hover:hover {
+  background-color: inherit;
+  color: inherit;
+}
