@@ -1,0 +1,26 @@
+version: '3.8'
+services:
+  bible-project-be:
+    container_name: bible-project
+    build:
+      context: ../../bible-project-be
+      dockerfile: ./src/main/docker/Dockerfile.jvm
+    image: bible-project/bible-project-be:1.0.1
+    ports:
+      - "9000:8989"
+    environment:
+      datasource_username: ${datasource_username}
+      datasource_password: ${datasource_password}
+      datasource_jdbc_url: ${datasource_jdbc_url}
+      JAVA_OPTS_APPEND: "-Dquarkus.profile=production"
+      JAVA_TOOL_OPTIONS: "-Xdebug -agentlib:jdwp=transport=dt_socket,address=0.0.0.0:5005,server=y,suspend=n"
+    restart: unless-stopped
+    networks:
+      - bible-project-network
+
+volumes:
+  postgres-data:
+
+networks:
+  bible-project-network:
+    external: true

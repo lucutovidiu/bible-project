@@ -5,6 +5,10 @@ quarkus:
     warning-exception-time: 300000
   http:
     port: 8989
+    cors:
+      ~: true
+      methods: GET, POST, PATCH, OPTIONS
+      headers: accept, origin, authorization, content-type, x-requested-with, X-Forwarded-For, API-Key, SameSite, X-Host-Name
   # Health check probes
   smallrye-health:
     root-path: /health

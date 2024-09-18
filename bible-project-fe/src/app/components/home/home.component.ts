@@ -1,9 +1,4 @@
-import {
-  ChangeDetectionStrategy,
-  Component,
-  OnDestroy,
-  OnInit,
-} from '@angular/core';
+import { ChangeDetectionStrategy, Component, OnInit } from '@angular/core';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { BehaviorSubject, catchError, throwError } from 'rxjs';
 
@@ -29,18 +24,17 @@ import { BibleToastrService } from '../utility/jetty-toastr-service/bible-toastr
   ],
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
-export class HomeComponent implements OnInit, OnDestroy {
-  disableHover = false;
+export class HomeComponent implements OnInit {
   protected readonly bibleBooks$ = this.homeService.homePageBibleBooks$;
   protected homePageLoading$ = this.homeService.homePageLoading$;
   protected selectedBook: SelectedBibleBook | null = null;
   protected readonly bibleVerse$ = new BehaviorSubject<BibleVerse[] | null>(
-    null
+    null,
   );
 
   constructor(
     private readonly homeService: HomeService,
-    private readonly bibleToastrService: BibleToastrService
+    private readonly bibleToastrService: BibleToastrService,
   ) {
     this.homeService.homePageSelectedBibleBook$
       .pipe(takeUntilDestroyed())
@@ -54,7 +48,7 @@ export class HomeComponent implements OnInit, OnDestroy {
     this.homeService.updateSelectedBibleBook(
       bibleBookInfo.name,
       bibleBookInfo.bookId,
-      bibleBookInfo.chaptersCount
+      bibleBookInfo.chaptersCount,
     );
     HtmlFunctions.jumpToSection('section_chapter', 50, 170);
   }
@@ -69,14 +63,6 @@ export class HomeComponent implements OnInit, OnDestroy {
     this.findChapterNumberByBook();
   }
 
-  ngOnDestroy(): void {
-    this.homeService.updateSelectedBibleBook(null, null, null);
-  }
-
-  onBlur() {
-    this.disableHover = !this.disableHover;
-  }
-
   private findChapterNumberByBook() {
     this.homeService
       .findChapterNumberByBook()
@@ -87,10 +73,10 @@ export class HomeComponent implements OnInit, OnDestroy {
             'Incearca mai tarziu la acest capitol',
             'Eroare de server',
             false,
-            2000
+            2000,
           );
           return throwError(() => error);
-        })
+        }),
       )
       .subscribe((bibleVerses) => {
         this.bibleVerse$.next(bibleVerses);

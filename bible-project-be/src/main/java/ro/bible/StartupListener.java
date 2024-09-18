@@ -21,10 +21,9 @@ public class StartupListener {
     @Startup
     void onStart() {
         bibleMigrationService.populateBooksTableIfRequired();
-
     }
 
-    @Scheduled(every = "5m")
+    @Scheduled(every = "8h")
     void runDailyTask() {
 //        if (atomicBoolean.get()) {
 //            atomicBoolean.set(false);

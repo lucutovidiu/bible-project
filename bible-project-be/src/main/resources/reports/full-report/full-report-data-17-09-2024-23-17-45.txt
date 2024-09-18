@@ -1,0 +1,1513 @@
+######################
+Begin Report date: 17-09-2024-23-17-53
+
+Chapter missing books result:
+Pass: true
+
+######################
+Book Name: Exod – Shemoth
+
+Chapter verification result:
+Expected chapter Count: 40
+Actual chapter Count: 40
+Pass: true
+
+Verses verification result:
+Expected verses Count: 1213
+Actual verses Count: 1213
+Pass: true
+
+Missing verses Report: 
+
+######################
+Book Name: Levitic – Wayiqra
+
+Chapter verification result:
+Expected chapter Count: 27
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+########
+
+Verses verification result:
+Expected verses Count: 859
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Numeri – Bamidbar
+
+Chapter verification result:
+Expected chapter Count: 36
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]
+########
+
+Verses verification result:
+Expected verses Count: 1288
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Deuteronom – Devarim
+
+Chapter verification result:
+Expected chapter Count: 34
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]
+########
+
+Verses verification result:
+Expected verses Count: 959
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Iosua – Yahoshua
+
+Chapter verification result:
+Expected chapter Count: 24
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+########
+
+Verses verification result:
+Expected verses Count: 658
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Judecători – Shoftim
+
+Chapter verification result:
+Expected chapter Count: 21
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+########
+
+Verses verification result:
+Expected verses Count: 618
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Rut – Rute
+
+Chapter verification result:
+Expected chapter Count: 4
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4]
+########
+
+Verses verification result:
+Expected verses Count: 85
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 1 Samuel – Shmuel Alef
+
+Chapter verification result:
+Expected chapter Count: 31
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]
+########
+
+Verses verification result:
+Expected verses Count: 810
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 2 Samuel – Shmuel Bet
+
+Chapter verification result:
+Expected chapter Count: 24
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+########
+
+Verses verification result:
+Expected verses Count: 695
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 1 Împărați – Melechim Alef
+
+Chapter verification result:
+Expected chapter Count: 22
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+########
+
+Verses verification result:
+Expected verses Count: 816
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 2 Împărați – Melechim Bet
+
+Chapter verification result:
+Expected chapter Count: 25
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]
+########
+
+Verses verification result:
+Expected verses Count: 719
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 1 Cron. – Divre HaYamim Alef
+
+Chapter verification result:
+Expected chapter Count: 29
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
+########
+
+Verses verification result:
+Expected verses Count: 942
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 2 Cron. – Divre HaYamim Bet
+
+Chapter verification result:
+Expected chapter Count: 36
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]
+########
+
+Verses verification result:
+Expected verses Count: 822
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Ezra – Ezrah
+
+Chapter verification result:
+Expected chapter Count: 10
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+########
+
+Verses verification result:
+Expected verses Count: 280
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Neemia – Nechemyah
+
+Chapter verification result:
+Expected chapter Count: 13
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+########
+
+Verses verification result:
+Expected verses Count: 406
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Estera – Hadasa
+
+Chapter verification result:
+Expected chapter Count: 10
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+########
+
+Verses verification result:
+Expected verses Count: 167
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Iov – Yowb
+
+Chapter verification result:
+Expected chapter Count: 42
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42]
+########
+
+Verses verification result:
+Expected verses Count: 1070
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Psalmii – Tehillim
+
+Chapter verification result:
+Expected chapter Count: 150
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150]
+########
+
+Verses verification result:
+Expected verses Count: 2461
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Prov. lui Solomon – Mashal
+
+Chapter verification result:
+Expected chapter Count: 31
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]
+########
+
+Verses verification result:
+Expected verses Count: 915
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Eclesiastul – Koheleth
+
+Chapter verification result:
+Expected chapter Count: 12
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+########
+
+Verses verification result:
+Expected verses Count: 222
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Cînt. Cîntări. – Shir HaShirim
+
+Chapter verification result:
+Expected chapter Count: 8
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8]
+########
+
+Verses verification result:
+Expected verses Count: 117
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Isaia – Yeshayahu
+
+Chapter verification result:
+Expected chapter Count: 66
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66]
+########
+
+Verses verification result:
+Expected verses Count: 1292
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Ieremia – Yermeyahu
+
+Chapter verification result:
+Expected chapter Count: 52
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52]
+########
+
+Verses verification result:
+Expected verses Count: 1364
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Plîngerile lui Ieremia – Ekah
+
+Chapter verification result:
+Expected chapter Count: 5
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5]
+########
+
+Verses verification result:
+Expected verses Count: 154
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Ezechiel – Yechezkel
+
+Chapter verification result:
+Expected chapter Count: 48
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48]
+########
+
+Verses verification result:
+Expected verses Count: 1273
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Daniel – Danieyl
+
+Chapter verification result:
+Expected chapter Count: 12
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+########
+
+Verses verification result:
+Expected verses Count: 357
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Osea – Hoshea
+
+Chapter verification result:
+Expected chapter Count: 14
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+########
+
+Verses verification result:
+Expected verses Count: 197
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Ioel – Yah”El
+
+Chapter verification result:
+Expected chapter Count: 3
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3]
+########
+
+Verses verification result:
+Expected verses Count: 73
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Amos – Ahmos
+
+Chapter verification result:
+Expected chapter Count: 9
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9]
+########
+
+Verses verification result:
+Expected verses Count: 146
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Obadia – Obadyah
+
+Chapter verification result:
+Expected chapter Count: 1
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1]
+########
+
+Verses verification result:
+Expected verses Count: 21
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Iona – Yownah
+
+Chapter verification result:
+Expected chapter Count: 4
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4]
+########
+
+Verses verification result:
+Expected verses Count: 48
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Mica – Micha
+
+Chapter verification result:
+Expected chapter Count: 7
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7]
+########
+
+Verses verification result:
+Expected verses Count: 105
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Naum – Nachum
+
+Chapter verification result:
+Expected chapter Count: 3
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3]
+########
+
+Verses verification result:
+Expected verses Count: 47
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Habacuc – Chabakkuwk
+
+Chapter verification result:
+Expected chapter Count: 3
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3]
+########
+
+Verses verification result:
+Expected verses Count: 56
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Țefania – Tsephanyah
+
+Chapter verification result:
+Expected chapter Count: 3
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3]
+########
+
+Verses verification result:
+Expected verses Count: 53
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Hagai – Chaggay
+
+Chapter verification result:
+Expected chapter Count: 2
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2]
+########
+
+Verses verification result:
+Expected verses Count: 38
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Zaharia – Zecharyah
+
+Chapter verification result:
+Expected chapter Count: 14
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+########
+
+Verses verification result:
+Expected verses Count: 211
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Maleahi – Malachi
+
+Chapter verification result:
+Expected chapter Count: 4
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4]
+########
+
+Verses verification result:
+Expected verses Count: 55
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Cartea lui Tobit – Tobiyah
+
+Chapter verification result:
+Expected chapter Count: 14
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+########
+
+Verses verification result:
+Expected verses Count: 247
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Cartea Iuditei
+
+Chapter verification result:
+Expected chapter Count: 16
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+########
+
+Verses verification result:
+Expected verses Count: 339
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Cartea lui Baruh
+
+Chapter verification result:
+Expected chapter Count: 5
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5]
+########
+
+Verses verification result:
+Expected verses Count: 141
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Epistola lui Ieremia
+
+Chapter verification result:
+Expected chapter Count: 1
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1]
+########
+
+Verses verification result:
+Expected verses Count: 72
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Cântarea celor trei tineri
+
+Chapter verification result:
+Expected chapter Count: 1
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1]
+########
+
+Verses verification result:
+Expected verses Count: 67
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Cartea a treia a lui Ezra
+
+Chapter verification result:
+Expected chapter Count: 9
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9]
+########
+
+Verses verification result:
+Expected verses Count: 468
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Cartea înțelep. lui Solomon
+
+Chapter verification result:
+Expected chapter Count: 19
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+########
+
+Verses verification result:
+Expected verses Count: 435
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Istoria Susanei
+
+Chapter verification result:
+Expected chapter Count: 1
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1]
+########
+
+Verses verification result:
+Expected verses Count: 64
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Istoria omorârii balaurului
+
+Chapter verification result:
+Expected chapter Count: 1
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1]
+########
+
+Verses verification result:
+Expected verses Count: 50
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 1 Macabei
+
+Chapter verification result:
+Expected chapter Count: 16
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+########
+
+Verses verification result:
+Expected verses Count: 910
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 2 Macabei
+
+Chapter verification result:
+Expected chapter Count: 15
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+########
+
+Verses verification result:
+Expected verses Count: 558
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 3 Macabei
+
+Chapter verification result:
+Expected chapter Count: 7
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7]
+########
+
+Verses verification result:
+Expected verses Count: 206
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Rugăciunea regelui Manase
+
+Chapter verification result:
+Expected chapter Count: 1
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1]
+########
+
+Verses verification result:
+Expected verses Count: 15
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Cartea lui Enoh
+
+Chapter verification result:
+Expected chapter Count: 107
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107]
+########
+
+Verses verification result:
+Expected verses Count: 1057
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Matei – Mattityahu
+
+Chapter verification result:
+Expected chapter Count: 28
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+########
+
+Verses verification result:
+Expected verses Count: 1071
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Marcu – Moshe
+
+Chapter verification result:
+Expected chapter Count: 16
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+########
+
+Verses verification result:
+Expected verses Count: 678
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Luca – Luka
+
+Chapter verification result:
+Expected chapter Count: 24
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+########
+
+Verses verification result:
+Expected verses Count: 1151
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Ioan – Yochanan
+
+Chapter verification result:
+Expected chapter Count: 21
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+########
+
+Verses verification result:
+Expected verses Count: 879
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Fapte. Ap.- Maaseh Shlichim
+
+Chapter verification result:
+Expected chapter Count: 28
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+########
+
+Verses verification result:
+Expected verses Count: 1007
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Romani – Romiyah
+
+Chapter verification result:
+Expected chapter Count: 16
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+########
+
+Verses verification result:
+Expected verses Count: 433
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 1 Corinteni – Corintiyah Alef
+
+Chapter verification result:
+Expected chapter Count: 16
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+########
+
+Verses verification result:
+Expected verses Count: 437
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 2 Corinteni – Qorintiyah Bet
+
+Chapter verification result:
+Expected chapter Count: 13
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+########
+
+Verses verification result:
+Expected verses Count: 257
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Galateni – Galutyah
+
+Chapter verification result:
+Expected chapter Count: 6
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6]
+########
+
+Verses verification result:
+Expected verses Count: 149
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Efeseni – Ephsiyah
+
+Chapter verification result:
+Expected chapter Count: 6
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6]
+########
+
+Verses verification result:
+Expected verses Count: 155
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Filipeni – Fylypsiyah
+
+Chapter verification result:
+Expected chapter Count: 4
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4]
+########
+
+Verses verification result:
+Expected verses Count: 104
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Coloseni – Qolesayah
+
+Chapter verification result:
+Expected chapter Count: 4
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4]
+########
+
+Verses verification result:
+Expected verses Count: 95
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 1 Tesalon.- Tesalonikyah Alef
+
+Chapter verification result:
+Expected chapter Count: 5
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5]
+########
+
+Verses verification result:
+Expected verses Count: 89
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 2 Tesalon. – Tesalonikyah Bet
+
+Chapter verification result:
+Expected chapter Count: 3
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3]
+########
+
+Verses verification result:
+Expected verses Count: 47
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 1 Timotei – Timtheous Alef
+
+Chapter verification result:
+Expected chapter Count: 6
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6]
+########
+
+Verses verification result:
+Expected verses Count: 113
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 2 Timotei – Timtheous Bet
+
+Chapter verification result:
+Expected chapter Count: 4
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4]
+########
+
+Verses verification result:
+Expected verses Count: 83
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Tit – Teitus
+
+Chapter verification result:
+Expected chapter Count: 3
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3]
+########
+
+Verses verification result:
+Expected verses Count: 46
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Filimon – Fileymon
+
+Chapter verification result:
+Expected chapter Count: 1
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1]
+########
+
+Verses verification result:
+Expected verses Count: 25
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Evrei – Ivrim
+
+Chapter verification result:
+Expected chapter Count: 13
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+########
+
+Verses verification result:
+Expected verses Count: 303
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Iacov – Yaacov
+
+Chapter verification result:
+Expected chapter Count: 5
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5]
+########
+
+Verses verification result:
+Expected verses Count: 108
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 1 Petru – Kepfa Alef
+
+Chapter verification result:
+Expected chapter Count: 5
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5]
+########
+
+Verses verification result:
+Expected verses Count: 105
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 2 Petru – Kefa Bet
+
+Chapter verification result:
+Expected chapter Count: 3
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3]
+########
+
+Verses verification result:
+Expected verses Count: 61
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 2 Ioan – Yochanan Bet
+
+Chapter verification result:
+Expected chapter Count: 1
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1]
+########
+
+Verses verification result:
+Expected verses Count: 13
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: 3 Ioan – Yochanan Gimel
+
+Chapter verification result:
+Expected chapter Count: 1
+Actual chapter Count: 1
+Pass: true
+
+Verses verification result:
+Expected verses Count: 14
+Actual verses Count: 14
+Pass: true
+
+Missing verses Report: 
+
+######################
+Book Name: Iuda – Yahudah
+
+Chapter verification result:
+Expected chapter Count: 1
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1]
+########
+
+Verses verification result:
+Expected verses Count: 25
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Apocalipsa – Gilyahna
+
+Chapter verification result:
+Expected chapter Count: 22
+Actual chapter Count: 0
+Pass: false
+########
+Missing chapters: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+########
+
+Verses verification result:
+Expected verses Count: 404
+Actual verses Count: 0
+Pass: false
+
+Missing verses Report: 
+
+######################
+Book Name: Genesa – Bereshith
+
+Chapter verification result:
+Expected chapter Count: 50
+Actual chapter Count: 50
+Pass: true
+
+Verses verification result:
+Expected verses Count: 1533
+Actual verses Count: 1533
+Pass: true
+
+Missing verses Report: 
+
+######################
+Book Name: 1 Ioan – Yochanan Alef
+
+Chapter verification result:
+Expected chapter Count: 5
+Actual chapter Count: 5
+Pass: true
+
+Verses verification result:
+Expected verses Count: 105
+Actual verses Count: 105
+Pass: true
+
+Missing verses Report: 
+
+######################
+End Report date17-09-2024-23-17-54
+######################

@@ -36,6 +36,11 @@
               "src/favicon.ico",
               "src/assets"
             ],
+            "stylePreprocessorOptions": {
+              "includePaths": [
+                "src/app-styles"
+              ]
+            },
             "styles": [
               "src/styles.scss",
               "node_modules/bootstrap/dist/css/bootstrap.css",
@@ -60,6 +65,12 @@
                   "maximumError": "4kb"
                 }
               ],
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/local/environment.ts",
+                  "with": "src/environments/production/environment.ts"
+                }
+              ],
               "outputHashing": "all"
             },
             "development": {
@@ -70,6 +81,17 @@
                 {
                   "replace": "src/environments/local/environment.ts",
                   "with": "src/environments/dev/environment.ts"
+                }
+              ]
+            },
+            "internet": {
+              "optimization": false,
+              "extractLicenses": false,
+              "sourceMap": true,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/local/environment.ts",
+                  "with": "src/environments/internet/environment.ts"
                 }
               ]
             },
@@ -95,6 +117,9 @@
             },
             "development": {
               "buildTarget": "bible-project-fe:build:development"
+            },
+            "internet": {
+              "buildTarget": "bible-project-fe:build:internet"
             },
             "local": {
               "buildTarget": "bible-project-fe:build:development"

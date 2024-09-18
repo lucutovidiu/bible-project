@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  bible-project-fe:
+    container_name: bible-project-fe
+    build:
+      context: ../../bible-project-fe
+      dockerfile: dockerfile
+    image: bible-project/bible-project-fe:1.0.0
+    ports:
+      - "9002:80"
+    restart: unless-stopped
+    networks:
+      - bible-project-network
+
+networks:
+  bible-project-network:
+    external: true

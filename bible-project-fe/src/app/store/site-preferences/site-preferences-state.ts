@@ -1,6 +1,6 @@
 import { SelectedBibleBook } from '../site-state';
 
-export interface SiteReferencesState {
+export interface SitePreferencesState {
   homePage: {
     selectedBibleBook: SelectedBibleBook;
   };
@@ -9,7 +9,7 @@ export interface SiteReferencesState {
   };
 }
 
-export function createInitialState(): SiteReferencesState {
+export function createSitePreferencesStateInitialState(): SitePreferencesState {
   return {
     homePage: {
       selectedBibleBook: {

@@ -1,3 +1,5 @@
+@import 'app-styles/global_variables';
+
 /* You can add global styles to this file, and also import other style files */
 html, body {
   height: auto;
@@ -18,14 +20,14 @@ html, body {
 }
 
 .main-text-background {
-  background-color: rgba(200, 198, 208, 0.8);
-  color: #4f362b;
+  background-color: $app-boxes-main-bg-colour;
+  color: $app-boxes-main-text-colour;
 }
 
 .text-mark-highlight-colour {
-  color: #a82727!important;
+  color: $app-text-selections-main-colour;
 }
 
 .text-title-colour {
-  color: #0a0a0a!important;
+  color: $app-header-sections-main-colour;
 }

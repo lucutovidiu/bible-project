@@ -1,25 +1,40 @@
 package ro.bible.util;
 
 import com.fasterxml.jackson.core.type.TypeReference;
-import lombok.Getter;
+import io.quarkus.logging.Log;
 import lombok.experimental.UtilityClass;
 import ro.bible.yahwehtora.dto.BookInfo;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 
 @UtilityClass
 public class BibleUtil {
     //https://www.biblememorygoal.com/how-many-chapters-verses-in-the-bible/
-
-    private final List<BookInfo> bookInfoList;
-    static {
-        String fileContentAsString = FileUtil.getFileContentAsString("src/main/resources/bible-source-documents/menu/book-table.json");
-        bookInfoList = ConvertUtil.convertFromString(fileContentAsString, new TypeReference<List<BookInfo>>(){});
-    }
+    private final String resourcePath = "bible-source-documents/menu/book-table.json";
+    private List<BookInfo> bookInfoList = new ArrayList<>();
 
     public static List<BookInfo> getBookInfoList() {
+        if (bookInfoList.isEmpty()) {
+            bookInfoList = tryGetBookListFromLocalSystem();
+        }
+
         return bookInfoList;
+    }
+
+    private List<BookInfo> tryGetBookListFromLocalSystem() {
+        Optional<List<BookInfo>> fileContentAsString = FileUtil.getFileFromClasspath(resourcePath)
+                .map(stringFile -> ConvertUtil.convertFromString(stringFile, new TypeReference<List<BookInfo>>() {
+                }));
+        if (fileContentAsString.isEmpty()) {
+            Log.errorf("No file found in '%s'", resourcePath);
+            Log.errorf("Returning empty array!");
+            return new ArrayList<>();
+        }
+
+        Log.infof("Successfully read BookInfo from '%s'", resourcePath);
+        return fileContentAsString.get();
     }
 
     public BookInfo getBookInfoByBookName(String bookName) throws Exception {

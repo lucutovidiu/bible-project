@@ -25,7 +25,8 @@ public class BibleSourceDocuments {
                 Log.errorf("Document not found locally for book: '%s'", bookName);
                 Optional<Document> documentFromMainRepository = getSourceRemoteDocument(bookInfoOptional.get());
                 if (documentFromMainRepository.isPresent()) {
-                    saveDocumentToLocal(bookInfoOptional.get(), documentFromMainRepository.get().html());
+                    // todo see how to do this maybe write to a different location or only in dev mode not prod as it writes to target folder
+//                    saveDocumentToLocal(bookInfoOptional.get(), documentFromMainRepository.get().html());
                     return documentFromMainRepository.get();
                 }
             }
@@ -35,12 +36,14 @@ public class BibleSourceDocuments {
     }
 
     private Optional<String> getSourceLocalDocument(BookInfo bookLocalPaths) {
-        if (FileUtil.doesFileExists(bookLocalPaths.getWritableFullPath())) {
+        Optional<String> fileFromClasspath = FileUtil.getFileFromClasspath(bookLocalPaths.getFilePath());
+        if (fileFromClasspath.isPresent()) {
             Log.infof("Getting local document for book: '%s'", bookLocalPaths.getBookName());
 
-            return FileUtil.getFileFromClasspath(bookLocalPaths.getReadablePath());
+            return fileFromClasspath;
         }
 
+        Log.infof("Local document for book: '%s' not found", bookLocalPaths.getBookName());
         return Optional.empty();
     }
 
@@ -52,6 +55,8 @@ public class BibleSourceDocuments {
 
     }
 
+    // todo see how to do this maybe write to a different location or only in dev mode not prod as it writes to target folder
+    /*
     public void createAllRequiredHtmlLocalSources() {
         Log.info("Creating local documents for all books...");
         BibleUtil.getBookInfoList().forEach(this::createLocalDocument);
@@ -59,7 +64,7 @@ public class BibleSourceDocuments {
 
     private void createLocalDocument(BookInfo bookLocalPaths) {
         Log.infof("Creating local document for book name: '%s'", bookLocalPaths.getBookName());
-        if (FileUtil.doesFileExists(bookLocalPaths.getWritableFullPath())) {
+        if (FileUtil.doesFileExists(bookLocalPaths.getBaseFolderPath())) {
             Log.infof("Local document already exists for book name: '%s'", bookLocalPaths.getBookName());
             return;
         }
@@ -68,6 +73,13 @@ public class BibleSourceDocuments {
                 .ifPresent(htmlStringDocument -> saveDocumentToLocal(bookLocalPaths, htmlStringDocument));
     }
 
+    private void saveDocumentToLocal(BookInfo bookLocalPaths, String htmlStringDocument) {
+        Log.infof("Saving local document for book name: '%s'", bookLocalPaths.getBookName());
+
+        FileUtil.createFolderIfNotExists(bookLocalPaths.getBaseFolderPath());
+        FileUtil.writeContentToFile(bookLocalPaths.getFilePath(), htmlStringDocument);
+    }
+     */
     private Optional<String> downloadDocumentFromMainRepository(BookInfo bookLocalPaths) {
         Log.infof("Downloading local document for book name: '%s'", bookLocalPaths.getBookName());
 
@@ -83,12 +95,5 @@ public class BibleSourceDocuments {
         }
 
         return Optional.empty();
-    }
-
-    private void saveDocumentToLocal(BookInfo bookLocalPaths, String htmlStringDocument) {
-        Log.infof("Saving local document for book name: '%s'", bookLocalPaths.getBookName());
-
-        FileUtil.createFolderIfNotExists(bookLocalPaths.getWritableBasePath());
-        FileUtil.writeContentToFile(bookLocalPaths.getWritableFullPath(), htmlStringDocument);
     }
 }

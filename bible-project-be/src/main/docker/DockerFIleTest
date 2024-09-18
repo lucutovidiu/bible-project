@@ -1,0 +1,9 @@
+# Use BusyBox as the base image
+FROM busybox
+
+# Set a working directory
+WORKDIR /work
+COPY . .
+
+# Default command to start a shell
+CMD ["sh", "-c", "sleep 86400"]

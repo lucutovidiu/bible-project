@@ -1,87 +1,29 @@
-import {Store, StoreConfig} from "@datorama/akita";
-import {Injectable} from "@angular/core";
+import { Store, StoreConfig } from '@datorama/akita';
+import { Injectable } from '@angular/core';
 
-import {BibleVerseStored, createInitialState, SiteReferencesState} from "./site-references-state";
-import {BibleBook} from "../model/bible-book";
-import {BibleVerse} from "../model/bible-verse";
+import {
+  createSitePreferencesStateInitialState,
+  SitePreferencesState,
+} from './site-preferences-state';
 
 @Injectable({
   providedIn: 'root',
 })
 @StoreConfig({
-  name: 'site-store',
+  name: 'site-preferences-store',
   resettable: true,
-  cache: {ttl: 12 * 60 * 60 * 1000}, // TTL (time-to-live) to one day (i.e., 12 hours), you can specify a value of 86400000 milliseconds (24 hours x 60 minutes x 60 seconds x 1000 milliseconds)
+  cache: { ttl: 12 * 60 * 60 * 1000 }, // TTL (time-to-live) to one day (i.e., 12 hours), you can specify a value of 86400000 milliseconds (24 hours x 60 minutes x 60 seconds x 1000 milliseconds)
 })
-export class SitePreferencesStoreService extends Store<SiteReferencesState> {
-
+export class SitePreferencesStoreService extends Store<SitePreferencesState> {
   constructor() {
-    super(createInitialState());
+    super(createSitePreferencesStateInitialState());
   }
 
-  public setHomePageLoadingState(loading: boolean) {
-    this.update((state) => ({
-      ...state,
-      homePage: {
-        ...state.homePage,
-        loading,
-      },
-    }));
-  }
-
-  public setSearchPageLoadingState(loading: boolean) {
-    this.update((state) => ({
-      ...state,
-      searchPage: {
-        ...state.searchPage,
-        loading,
-      },
-    }));
-  }
-
-  public setSearchPageBibleVerseResults(bibleVerseResult: BibleVerse[]) {
-    this.update((state) => ({
-      ...state,
-      searchPage: {
-        ...state.searchPage,
-        bibleVerseResult,
-      },
-    }));
-  }
-
-  public setResultDisplayPageLoadingState(loading: boolean) {
-    this.update((state) => ({
-      ...state,
-      resultDisplayPage: {
-        ...state.resultDisplayPage,
-        loading,
-      },
-    }));
-  }
-
-  setHomePageBibleBooks(bibleBooks: BibleBook[]) {
-    this.update((state) => ({
-      ...state,
-      homePage: {
-        ...state.homePage,
-        bibleBooks: bibleBooks,
-      },
-    }));
-  }
-
-  storeBibleVerses(bibleVerseStored: BibleVerseStored[]) {
-    this.update((state) => ({
-      ...state,
-      bibleVerseStored: [
-        ...state.bibleVerseStored,
-        ...bibleVerseStored
-      ]
-    }));
-  }
-
-  updateSelectedBibleBook(bookName: string | null,
-                          bookId: number | null,
-                          chapterNumbers: number[]) {
+  updateSelectedBibleBook(
+    bookName: string | null,
+    bookId: number | null,
+    chapterNumbers: number[],
+  ) {
     this.update((state) => ({
       ...state,
       homePage: {
@@ -93,7 +35,7 @@ export class SitePreferencesStoreService extends Store<SiteReferencesState> {
           chapterNumbers,
           chapterNumber: null,
         },
-      }
+      },
     }));
   }
 
@@ -104,9 +46,9 @@ export class SitePreferencesStoreService extends Store<SiteReferencesState> {
         ...state.homePage,
         selectedBibleBook: {
           ...state.homePage.selectedBibleBook,
-          chapterNumber
+          chapterNumber,
         },
-      }
+      },
     }));
   }
 
@@ -114,8 +56,8 @@ export class SitePreferencesStoreService extends Store<SiteReferencesState> {
     this.update((state) => ({
       ...state,
       navbar: {
-        searchText
-      }
+        searchText,
+      },
     }));
   }
 }

@@ -1,41 +1,38 @@
 version: '3.8'
 services:
-  postgres:
+  bible-project-postgres:
     container_name: container-pg
     image: postgres:14-alpine
     hostname: localhost
     ports:
       - "5432:5432"
     environment:
-      POSTGRES_USER: biblprjadmin
-      POSTGRES_PASSWORD: biblePrj158$
-      POSTGRES_DB: bible_project_db
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
     volumes:
       - postgres-data:/var/lib/postgresql/data
     restart: unless-stopped
     networks:
-      - bible-network-db
+      - bible-project-network
 
-
-  pgadmin:
+  bible-project-pgadmin:
     container_name: container-pgadmin
     image: dpage/pgadmin4:8.11.0
     depends_on:
-      - postgres
+      - bible-project-postgres
     ports:
-      - "5050:80"
+      - "9001:80"
     environment:
-      PGADMIN_DEFAULT_EMAIL: bibleproject@admin.com
-      PGADMIN_DEFAULT_PASSWORD: biblePrjAdmin5784$
+      PGADMIN_DEFAULT_EMAIL: ${PGADMIN_DEFAULT_EMAIL}
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_DEFAULT_PASSWORD}
     restart: unless-stopped
     networks:
-      - bible-network-db
+      - bible-project-network
 
 volumes:
   postgres-data:
 
 networks:
-  bible-network-be:
-    driver: bridge
-  bible-network-db:
-    driver: bridge
+  bible-project-network:
+    external: true

@@ -74,46 +74,4 @@ export class SiteStoreService extends Store<SiteState> {
       bibleVerseStored: [...state.bibleVerseStored, ...bibleVerseStored],
     }));
   }
-
-  updateSelectedBibleBook(
-    bookName: string | null,
-    bookId: number | null,
-    chapterNumbers: number[],
-  ) {
-    this.update((state) => ({
-      ...state,
-      homePage: {
-        ...state.homePage,
-        selectedBibleBook: {
-          ...state.homePage.selectedBibleBook,
-          bookName,
-          bookId,
-          chapterNumbers,
-          chapterNumber: null,
-        },
-      },
-    }));
-  }
-
-  updateSelectedBibleBookChapterNumber(chapterNumber: number) {
-    this.update((state) => ({
-      ...state,
-      homePage: {
-        ...state.homePage,
-        selectedBibleBook: {
-          ...state.homePage.selectedBibleBook,
-          chapterNumber,
-        },
-      },
-    }));
-  }
-
-  updateNavbarSearchBox(searchText: string) {
-    this.update((state) => ({
-      ...state,
-      navbar: {
-        searchText,
-      },
-    }));
-  }
 }

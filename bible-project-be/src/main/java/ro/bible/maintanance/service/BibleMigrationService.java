@@ -75,7 +75,6 @@ public class BibleMigrationService {
     }
 
     public void migrateRequiredBooks() {
-        Log.info("Build a pojoOptional of required books to be updated");
         Log.info("Running migrate required books");
         Optional<BookPojo> pojoOptional = bookService.getAllBooks().stream()
                 .filter(BookPojo::getRequiresUpdate)
@@ -106,9 +105,12 @@ public class BibleMigrationService {
         bookReportingService.runBookReport();
         Log.infof("Run vector update for full search capability!");
         verseService.updateSearchVector(bookPojo.getBookId());
+        // todo there will need to think of a different way of generating reports
+        /*
         Log.infof("Clean report files, Only leave top 3 most recent Files!");
         FileUtil.dropFilesApartFromMostRecent(ReportWriter.REPORT_BASE_PATH_FULL_REPORT,
                 ReportWriter.REPORT_PRE_EXTENSION, 3);
+        */
     }
 
     public void patchWholeBookByName(String bookName) {

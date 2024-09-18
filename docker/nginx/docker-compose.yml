@@ -1,0 +1,15 @@
+version: "3"
+services:
+  nginx-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - "443:443"
+    networks:
+      - bible-project-network
+
+networks:
+  bible-project-network:
+    external: true

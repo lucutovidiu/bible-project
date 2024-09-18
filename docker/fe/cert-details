@@ -1,0 +1,15 @@
+Requesting a certificate for bible-be.prowebart.co.uk
+
+Successfully received certificate.
+Certificate is saved at: /etc/letsencrypt/live/bible-be.prowebart.co.uk/fullchain.pem
+Key is saved at:         /etc/letsencrypt/live/bible-be.prowebart.co.uk/privkey.pem
+This certificate expires on 2024-12-16.
+These files will be updated when the certificate renews.
+NEXT STEPS:
+- The certificate will need to be renewed before it expires. Certbot can automatically renew the certificate in the background, but you may need to take steps to enable that functionality. See https://certbot.org/renewal-setup for instructions.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

@@ -1,0 +1,5 @@
+quarkus:
+  # Configure CORS policies
+  http:
+    cors:
+      origins: "https://bible.prowebart.co.uk"
