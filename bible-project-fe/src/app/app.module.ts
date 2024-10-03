@@ -1,4 +1,4 @@
-import {NgModule} from '@angular/core';
+import {NgModule, isDevMode} from '@angular/core';
 import {BrowserModule} from '@angular/platform-browser';
 import {ToastrModule} from "ngx-toastr";
 import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
@@ -14,6 +14,7 @@ import {
 import {LoadingIndicatorBoxComponent} from "./components/loading-indicator-box/loading-indicator-box.component";
 import {SharedEnvModule} from "./services/environment-management/shared-env.module";
 import { environment } from '../environments/local/environment';
+import { ServiceWorkerModule } from '@angular/service-worker';
 
 @NgModule({
   declarations: [
@@ -34,6 +35,12 @@ import { environment } from '../environments/local/environment';
       timeOut: 0,
       tapToDismiss: false,
       closeButton: true,
+    }),
+    ServiceWorkerModule.register('ngsw-worker.js', {
+      enabled: !isDevMode(),
+      // Register the ServiceWorker as soon as the application is stable
+      // or after 30 seconds (whichever comes first).
+      registrationStrategy: 'registerWhenStable:30000'
     }),
   ],
   providers: [provideHttpClient(withInterceptorsFromDi())]

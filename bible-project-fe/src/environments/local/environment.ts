@@ -1,6 +1,6 @@
-import {Environment} from "../../app/model/environment/environment";
+import { Environment } from '../../app/model/environment/environment';
 
-const beBaseUrl: string = 'http://localhost:8989';
+const beBaseUrl: string = 'http://localhost:9000';
 
 export const environment: Environment = {
   app: {

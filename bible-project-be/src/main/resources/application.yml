@@ -1,4 +1,9 @@
 quarkus:
+  # https://quarkus.io/guides/all-config
+#  thread-pool:
+#    core-threads: 2
+#    max-threads: 4
+#    queue-size: 5
   vertx:
     max-event-loop-execute-time: 200000
     max-worker-execute-time: 200000

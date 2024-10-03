@@ -48,11 +48,23 @@
               "node_modules/ngx-toastr/toastr.css"
             ],
             "scripts": [
-              "node_modules/bootstrap/dist/js/bootstrap.js"
+              "node_modules/@popperjs/core/dist/umd/popper.js",
+              "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
             ]
           },
           "configurations": {
             "production": {
+              "optimization": {
+                "styles": {
+                  "inlineCritical": false,
+                  "minify": true
+                }
+              },
+              "outputHashing": "all",
+              "sourceMap": false,
+              "namedChunks": false,
+              "aot": true,
+              "extractLicenses": true,
               "budgets": [
                 {
                   "type": "initial",
@@ -71,7 +83,7 @@
                   "with": "src/environments/production/environment.ts"
                 }
               ],
-              "outputHashing": "all"
+              "serviceWorker": "ngsw-config.json"
             },
             "development": {
               "optimization": false,
@@ -122,7 +134,7 @@
               "buildTarget": "bible-project-fe:build:internet"
             },
             "local": {
-              "buildTarget": "bible-project-fe:build:development"
+              "buildTarget": "bible-project-fe:build:local"
             }
           },
           "defaultConfiguration": "development"

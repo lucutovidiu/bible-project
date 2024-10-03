@@ -1,8 +1,12 @@
 import { Injectable } from '@angular/core';
 import { Query } from '@datorama/akita';
-import { SitePreferencesStoreService } from './site-preferences-store.service';
-import { SitePreferencesState } from './site-preferences-state';
 import { Observable } from 'rxjs';
+
+import {
+  SettingsPageState,
+  SitePreferencesState,
+} from './site-preferences-state';
+import { SitePreferencesStoreService } from './site-preferences-store.service';
 import { SelectedBibleBook } from '../site-state';
 
 @Injectable({
@@ -14,6 +18,7 @@ export class SitePreferencesQueryService extends Query<SitePreferencesState> {
   readonly navBarSearchBox$: Observable<string> = this.select(
     (state) => state.navbar.searchText,
   );
+  readonly settings$: Observable<SettingsPageState> = this.select('settings');
 
   constructor(protected override store: SitePreferencesStoreService) {
     super(store);

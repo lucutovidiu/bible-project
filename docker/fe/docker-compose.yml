@@ -6,8 +6,8 @@ services:
       context: ../../bible-project-fe
       dockerfile: dockerfile
     image: bible-project/bible-project-fe:1.0.0
-    ports:
-      - "9002:80"
+    # ports:
+    #   - "9002:80"
     restart: unless-stopped
     networks:
       - bible-project-network

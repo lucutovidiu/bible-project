@@ -1,4 +1,10 @@
 import { SelectedBibleBook } from '../site-state';
+import { SettingsService } from '../../services/settings-page-service/settings.service';
+
+export interface SettingsPageState {
+  FathersName: string;
+  SonsName: string;
+}
 
 export interface SitePreferencesState {
   homePage: {
@@ -7,6 +13,7 @@ export interface SitePreferencesState {
   navbar: {
     searchText: string;
   };
+  settings: SettingsPageState;
 }
 
 export function createSitePreferencesStateInitialState(): SitePreferencesState {
@@ -22,6 +29,10 @@ export function createSitePreferencesStateInitialState(): SitePreferencesState {
     },
     navbar: {
       searchText: '',
+    },
+    settings: {
+      FathersName: SettingsService.FATHERS_DEFAULT_NAME,
+      SonsName: SettingsService.SONS_DEFAULT_NAME,
     },
   };
 }

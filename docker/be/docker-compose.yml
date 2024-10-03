@@ -12,7 +12,7 @@ services:
       datasource_username: ${datasource_username}
       datasource_password: ${datasource_password}
       datasource_jdbc_url: ${datasource_jdbc_url}
-      JAVA_OPTS_APPEND: "-Dquarkus.profile=production"
+      JAVA_OPTS_APPEND: "-Dquarkus.profile=development"
       JAVA_TOOL_OPTIONS: "-Xdebug -agentlib:jdwp=transport=dt_socket,address=0.0.0.0:5005,server=y,suspend=n"
     restart: unless-stopped
     networks:

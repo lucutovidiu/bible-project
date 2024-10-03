@@ -6,7 +6,7 @@ print_colored() {
 
 print_colored "Removing current bible-project-be container"
 docker-compose down
-print_colored "Building new bible-project-be container"
+print_colored "Re-Building new bible-project-be container"
 docker compose build
 print_colored "Running new bible-project-be container"
 docker compose up -d

@@ -1,0 +1,66 @@
+/* Button container */
+.home-button {
+  display: inline-block;
+  padding: 12px 25px;
+  background: linear-gradient(145deg, #f0f0f0, #cacaca);
+  border-radius: 10px;
+  border: none;
+  position: relative;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  /* Initial raised and skewed look */
+  //transform: perspective(500px) rotateY(30deg) rotateX(60deg) skewX(-10deg) skewY(-10deg);
+  transform: perspective(500px) skew(10deg);
+}
+
+/* Button shadow */
+.home-button::before {
+  content: "";
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 100%;
+  height: 100%;
+  background: rgba(246, 242, 242, 0.25);
+  border-radius: 10px;
+  z-index: -1;
+  filter: blur(8px);
+  transition: all 0.3s ease;
+}
+
+/* Icon styling */
+.home-button .bi {
+  font-size: 60px;
+  color: #7f8ab6;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+/* Hover effect: Lowered and less skewed */
+.home-button:hover {
+  transform: perspective(500px) rotateY(20deg) rotateX(50deg) skewX(0deg) skewY(0deg);
+}
+
+/* Shadow change on hover */
+.home-button:hover::before {
+  top: 5px;
+  left: 5px;
+  filter: blur(4px);
+}
+
+/* Hover effect on the icon */
+.home-button:hover .bi {
+  color: #333;
+  transform: scale(1.1);
+}
+
+/* Active button effect (if clicked) */
+.home-button:active {
+  transform: perspective(500px) rotateX(2deg) skewX(-5deg) translateY(2px);
+}
+
+/* Active shadow effect */
+.home-button:active::before {
+  top: 2px;
+  left: 2px;
+  filter: blur(2px);
+}

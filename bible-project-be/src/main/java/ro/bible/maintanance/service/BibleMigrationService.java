@@ -1,15 +1,15 @@
 package ro.bible.maintanance.service;
 
 import io.quarkus.logging.Log;
+import io.vertx.core.AsyncResult;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
+import org.eclipse.microprofile.faulttolerance.Asynchronous;
 import ro.bible.db.pojo.BookPojo;
 import ro.bible.db.service.BookService;
 import ro.bible.db.service.VerseService;
-import ro.bible.filewriter.ReportWriter;
 import ro.bible.util.BibleStringUtils;
 import ro.bible.util.BibleUtil;
-import ro.bible.util.FileUtil;
 import ro.bible.yahwehtora.dto.BibleVerseDto;
 import ro.bible.yahwehtora.dto.BookInfo;
 import ro.bible.yahwehtora.service.ChapterExtractor;
@@ -19,6 +19,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
+import java.util.concurrent.Future;
 
 import static ro.bible.db.service.BookService.PLACE_HOLDER_MSG;
 

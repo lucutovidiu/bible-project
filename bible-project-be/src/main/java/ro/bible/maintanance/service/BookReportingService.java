@@ -3,6 +3,7 @@ package ro.bible.maintanance.service;
 import io.quarkus.logging.Log;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
+import org.eclipse.microprofile.config.inject.ConfigProperty;
 import ro.bible.db.pojo.BookPojo;
 import ro.bible.db.pojo.ChapterPojo;
 import ro.bible.db.pojo.VersePojo;
@@ -27,6 +28,8 @@ public class BookReportingService {
     ChapterService chapterService;
     @Inject
     VerseService verseService;
+    @ConfigProperty(name = "quarkus.profile")
+    String activeProfile;
 
     public void runBookReport() {
         Log.infof("Running Book Report...");
@@ -37,7 +40,7 @@ public class BookReportingService {
 
     private void buildReport(List<BookPojo> books) {
         // Report Header
-        ReportWriter reportWriter = new ReportWriter();
+        ReportWriter reportWriter = new ReportWriter(activeProfile);
         reportWriter.writeLine("######################");
         reportWriter.writeLine("Begin Report date: " + LocalDateTime.now().format(DATE_TIME_FORMATTER));
         reportWriter.writeLine("");

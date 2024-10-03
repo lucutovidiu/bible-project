@@ -7,15 +7,31 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.net.URL;
 import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.nio.file.attribute.BasicFileAttributes;
+import java.nio.file.attribute.FileTime;
+import java.time.Instant;
+import java.util.Comparator;
+import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 @UtilityClass
 public class FileUtil {
 
     public static final String RESOURCE_FOLDER = "src/main/resources";
+
+    public static String getFileContentAsString(String path) {
+        try {
+            return new String(Files.readAllBytes(Paths.get(path)));
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+    }
 
     // under resources folder just get path inside like: bible-source-documents/menu.html
     public Optional<String> getFileFromClasspath(String path) {
@@ -36,97 +52,61 @@ public class FileUtil {
         }
         return Optional.empty();
     }
-/*
-
-    // under resources folder just get path inside like: bible-source-documents/menu.html
-    public Optional<URI> resolveResourcePath(String path) {
-        Log.infof("Resolving resource file path: '%s'", path);
-        URL resource = Thread.currentThread().getContextClassLoader().getResource(path);
-        if (resource != null) {
-            Log.infof("Resolved resource file path: '%s'", path);
-            try {
-                return Optional.of(resource.toURI().);
-            } catch (URISyntaxException e) {
-                Log.errorf("Can't resolve resource file path: '%s'", path);
-            }
-        }
-
-        Log.errorf("Can't resolve resource file path: '%s'", path);
-        return Optional.empty();
-    }
-    public static Optional<String> getFileContentAsString(String path) {
-        try {
-            Optional<Path> pathFound = resolveResourcePath(path).map(FileUtil::toPath);
-            if (pathFound.isPresent()) {
-                return Optional.of(new String(Files.readAllBytes(pathFound.get())));
-            }
-        } catch (IOException e) {
-            Log.errorf("Could not read file '%s'", path);
-        }
-        return Optional.empty();
-    }
 
     public boolean createFolderIfNotExists(String folderPath) {
-        Optional<URI> path = resolveResourcePath(folderPath);
+        Path path = Paths.get(folderPath);
 
-        if (path.isPresent()) {
-            if (!doesFolderExists(folderPath)) {
-                try {
-                    Log.infof("creating folder: '%s'", folderPath);
-                    Files.createDirectory(Path.of(path.get()));
-                    return true;
-                } catch (IOException e) {
-                    Log.errorf("Can't create directory: '%s'", folderPath);
-                }
+        if (!doesFolderExists(folderPath)) {
+            try {
+                Log.infof("creating folder: '%s'", folderPath);
+                Files.createDirectory(path);
+                return true;
+            } catch (IOException e) {
+                Log.errorf("Can't create directory: '%s'", folderPath);
             }
         }
-
 
         return false;
     }
 
-    public Path toPath(URI uri) {
-        return Paths.get(uri);
-    }
-
     public boolean doesFolderExists(String folderPath) {
-        Optional<URI> path = resolveResourcePath(folderPath);
-        return path.filter(uri -> Files.exists(toPath(uri)) && Files.isDirectory(toPath(uri))).isPresent();
+        Path path = Paths.get(folderPath);
+
+        return Files.exists(path) && Files.isDirectory(path);
     }
 
-    public boolean createFileIfNotExists(String basePath, String fileName) {
-        Optional<URI> path = resolveResourcePath(basePath);
+    public boolean createFileIfNotExists(String filePath) {
+        Path path = Paths.get(filePath);
 
-        if (path.isPresent()) {
+        if (!doesFileExists(filePath)) {
             try {
-                System.out.println("creating file: " + fileName);
-                Files.createFile(Path.of(path.get().getPath() + File.pathSeparator + fileName));
+                System.out.println("creating file: " + filePath);
+                Files.createFile(path);
                 return true;
             } catch (IOException e) {
-                System.out.println("Can't create file: " + fileName);
+                System.out.println("Can't create file: " + filePath);
             }
         }
         return false;
     }
 
     public boolean doesFileExists(String filePath) {
-        Optional<URI> path = resolveResourcePath(filePath);
-        return path.filter(uri -> Files.exists(toPath(uri)) && Files.isRegularFile(toPath(uri))).isPresent();
+        Path path = Paths.get(filePath);
+
+        return Files.exists(path) && Files.isRegularFile(path);
     }
 
     public boolean writeContentToFile(String filePath, String content) {
         // Define the path to the resources folder (works in dev mode)
-        Optional<URI> path = resolveResourcePath(filePath);
+        Path path = Paths.get(filePath);
 
-        if (path.isPresent()) {
-            // Write the content to the file
-            try {
-                Files.writeString(toPath(path.get()), content);
-                Log.infof("File writen to location: '%s'", filePath);
-                return true;
-            } catch (IOException e) {
-                Log.errorf("Fail to Write file to location: '%s'", filePath);
-            }
+        // Write the content to the file
+        try {
+            Files.writeString(path, content);
+            Log.infof("File writen to location: '%s'", filePath);
+            return true;
+        } catch (IOException e) {
+            Log.errorf("Fail to Write file to location: '%s'", filePath);
         }
 
         return false;
@@ -180,5 +160,5 @@ public class FileUtil {
         } catch (IOException e) {
             Log.errorf("Can not read path: %s", basePath, e);
         }
-    }*/
+    }
 }

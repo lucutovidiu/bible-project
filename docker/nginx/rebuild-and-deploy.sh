@@ -6,7 +6,7 @@ print_colored() {
 
 print_colored "Removing current nginx-service container"
 docker-compose down
-print_colored "Building new nginx-service container"
+print_colored "Re-Building with --no-cache flag new nginx-service container"
 docker compose build --no-cache
 print_colored "Running new nginx-service container"
 docker compose up -d

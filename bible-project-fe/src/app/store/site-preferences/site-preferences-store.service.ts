@@ -12,7 +12,7 @@ import {
 @StoreConfig({
   name: 'site-preferences-store',
   resettable: true,
-  cache: { ttl: 12 * 60 * 60 * 1000 }, // TTL (time-to-live) to one day (i.e., 12 hours), you can specify a value of 86400000 milliseconds (24 hours x 60 minutes x 60 seconds x 1000 milliseconds)
+  cache: { ttl: 14 * 24 * 60 * 60 * 1000 }, // TTL (time-to-live) to one day (i.e., 2 weeks), you can specify a value of 86400000 milliseconds (24 hours x 60 minutes x 60 seconds x 1000 milliseconds)
 })
 export class SitePreferencesStoreService extends Store<SitePreferencesState> {
   constructor() {
@@ -57,6 +57,26 @@ export class SitePreferencesStoreService extends Store<SitePreferencesState> {
       ...state,
       navbar: {
         searchText,
+      },
+    }));
+  }
+
+  updateFatherName(FathersName: string) {
+    this.update((state) => ({
+      ...state,
+      settings: {
+        ...state.settings,
+        FathersName,
+      },
+    }));
+  }
+
+  updateSonsName(SonsName: string) {
+    this.update((state) => ({
+      ...state,
+      settings: {
+        ...state.settings,
+        SonsName,
       },
     }));
   }

@@ -1,9 +1,4 @@
-import {
-  ChangeDetectionStrategy,
-  Component,
-  OnDestroy,
-  OnInit,
-} from '@angular/core';
+import { ChangeDetectionStrategy, Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Params } from '@angular/router';
 import { BehaviorSubject } from 'rxjs';
 
@@ -18,7 +13,7 @@ import { SelectedBibleBook } from '../../store/site-state';
   styleUrl: './result-display-full-chapter.component.scss',
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
-export class ResultDisplayFullChapterComponent implements OnInit, OnDestroy {
+export class ResultDisplayFullChapterComponent implements OnInit {
   protected selectedBook: SelectedBibleBook | null = null;
   protected readonly bibleVerse$ = new BehaviorSubject<BibleVerse[] | null>(
     null,
@@ -43,10 +38,6 @@ export class ResultDisplayFullChapterComponent implements OnInit, OnDestroy {
         this.getRequestedBook();
       }
     });
-  }
-
-  ngOnDestroy(): void {
-    console.log('ResultDisplayFullChapterComponent destroyed');
   }
 
   private updateSelectedBook(params: Params) {
