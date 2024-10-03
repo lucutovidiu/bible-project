@@ -1,0 +1,31 @@
+{
+  "id": "/",
+  "name": "Biblia Cu Nume Sfinte",
+  "short_name": "BCNS",
+  "theme_color": "#1976d2",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/assets/images/navbar/bible-emojy.png",
+      "sizes": "250x250",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/assets/images/screenshots/screenshot-wide.png",
+      "sizes": "1707x1134",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/assets/images/screenshots/screenshot-narrow.png",
+      "sizes": "756x1053",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
