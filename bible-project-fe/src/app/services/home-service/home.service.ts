@@ -34,11 +34,11 @@ export class HomeService extends BibleLookupService {
   }
 
   get homePageLoading$(): Observable<boolean> {
-    return this.siteQueryService.homePageLoading$;
+    return this.sitePreferencesQueryService.homePageLoading$;
   }
 
   get homePageBibleBooks$(): Observable<BibleBook[] | null> {
-    return this.siteQueryService.homePageBibleBooks$;
+    return this.sitePreferencesQueryService.homePageBibleBooks$;
   }
 
   get homePageSelectedBibleBook$(): Observable<SelectedBibleBook> {
@@ -48,10 +48,10 @@ export class HomeService extends BibleLookupService {
   getMenuData() {
     ObservableCallService.cachingUpdate(
       this.homePageBibleBooks$,
-      (value) => this.siteStoreService.setHomePageLoadingState(value),
+      (value) => this.sitePreferencesStoreService.setHomePageLoadingState(value),
       () => this.bibleBookService.getMenuData(),
       (bibleBooks: BibleBook[]) =>
-        this.siteStoreService.setHomePageBibleBooks(bibleBooks),
+        this.sitePreferencesStoreService.setHomePageBibleBooks(bibleBooks),
       () => {},
     );
   }
@@ -113,6 +113,6 @@ export class HomeService extends BibleLookupService {
   }
 
   protected loading(loading: boolean): void {
-    this.siteStoreService.setHomePageLoadingState(loading);
+    this.sitePreferencesStoreService.setHomePageLoadingState(loading);
   }
 }

@@ -52,7 +52,7 @@ export class SearchComponent implements OnInit {
   }
 
   copyTextToClipboard(bibleVerse: BibleVerse) {
-    const text = `${bibleVerse.textWithDiacritics}\n(${bibleVerse.chapter.book.name} ${bibleVerse.chapter.number}:${bibleVerse.verseNumber})`;
+    const text = `${bibleVerse.textWithDiacritics}\n(${bibleVerse.chapter.book.abbreviation} ${bibleVerse.chapter.number}:${bibleVerse.verseNumber})`;
     // Copy the text to the clipboard
     HtmlFunctions.copyTextToClipboard(text)
   }

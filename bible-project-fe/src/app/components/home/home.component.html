@@ -3,8 +3,10 @@
     <div class="container main-text-background px-sm-3 px-md-4 px-lg-5 py-sm-1 py-md-3">
       <div class="h2 fw-bold pt-3 pb-2 text-title-colour">Cartea:</div>
       @for (bibleBook of bibleBooks; track bibleBook.bookId) {
-        <button class="btn me-1 mb-1 me-md-2 mb-md-2"
-                [ngClass]="selectedBook?.bookName === bibleBook.name ? 'btn-dark' : 'btn-outline-dark'"
+        <button class="btn me-1 mb-1"
+                [class.bg-dark]="selectedBook?.bookName === bibleBook.name"
+                [class.btn-outline-dark]="selectedBook?.bookName !== bibleBook.name"
+                [class.bg-gray]="bibleBook?.testament === 'Vechiul Testament'"
                 (click)="selectBook(bibleBook)"
         >{{ bibleBook.abbreviation }}
         </button>
@@ -28,6 +30,9 @@
             @for (bibleVerse of bibleVerses; track bibleVerse.verseNumber) {
               <div class="fw-bold fs-5 py-1"
               >{{ bibleVerse.verseNumber }}. {{ bibleVerse.textWithDiacritics }}
+                <button class="btn btn-sm btn-outline-dark" (click)="copyTextToClipboard(bibleVerse, selectedBook, bibleBooks)" >
+                  <i class="bi bi-copy"></i>
+                </button>
               </div>
             }
             <div class="mt-3 w-100">

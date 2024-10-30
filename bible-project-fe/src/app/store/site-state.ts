@@ -28,11 +28,6 @@ export function toBibleVerseStored(
 }
 
 export interface SiteState {
-  homePage: {
-    loading: boolean;
-    updating: boolean;
-    bibleBooks: BibleBook[] | null;
-  };
   searchPage: {
     loading: boolean;
     updating: boolean;
@@ -47,11 +42,6 @@ export interface SiteState {
 
 export function createInitialState(): SiteState {
   return {
-    homePage: {
-      loading: false,
-      updating: false,
-      bibleBooks: null,
-    },
     searchPage: {
       loading: false,
       updating: false,

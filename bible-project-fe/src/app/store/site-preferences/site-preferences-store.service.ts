@@ -5,6 +5,7 @@ import {
   createSitePreferencesStateInitialState,
   SitePreferencesState,
 } from './site-preferences-state';
+import { BibleBook } from '../../model/bible-book';
 
 @Injectable({
   providedIn: 'root',
@@ -35,6 +36,26 @@ export class SitePreferencesStoreService extends Store<SitePreferencesState> {
           chapterNumbers,
           chapterNumber: null,
         },
+      },
+    }));
+  }
+
+  public setHomePageLoadingState(loading: boolean) {
+    this.update((state) => ({
+      ...state,
+      homePage: {
+        ...state.homePage,
+        loading,
+      },
+    }));
+  }
+
+  setHomePageBibleBooks(bibleBooks: BibleBook[]) {
+    this.update((state) => ({
+      ...state,
+      homePage: {
+        ...state.homePage,
+        bibleBooks: bibleBooks,
       },
     }));
   }

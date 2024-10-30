@@ -1,5 +1,6 @@
 import { SelectedBibleBook } from '../site-state';
 import { SettingsService } from '../../services/settings-page-service/settings.service';
+import { BibleBook } from '../../model/bible-book';
 
 export interface SettingsPageState {
   FathersName: string;
@@ -9,6 +10,9 @@ export interface SettingsPageState {
 export interface SitePreferencesState {
   homePage: {
     selectedBibleBook: SelectedBibleBook;
+    loading: boolean;
+    updating: boolean;
+    bibleBooks: BibleBook[] | null;
   };
   navbar: {
     searchText: string;
@@ -26,6 +30,9 @@ export function createSitePreferencesStateInitialState(): SitePreferencesState {
         chapterNumber: null,
         verseNumber: null,
       },
+      loading: false,
+      updating: false,
+      bibleBooks: null,
     },
     navbar: {
       searchText: '',

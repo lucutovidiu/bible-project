@@ -8,6 +8,7 @@ import {
 } from './site-preferences-state';
 import { SitePreferencesStoreService } from './site-preferences-store.service';
 import { SelectedBibleBook } from '../site-state';
+import { BibleBook } from '../../model/bible-book';
 
 @Injectable({
   providedIn: 'root',
@@ -19,6 +20,12 @@ export class SitePreferencesQueryService extends Query<SitePreferencesState> {
     (state) => state.navbar.searchText,
   );
   readonly settings$: Observable<SettingsPageState> = this.select('settings');
+  readonly homePageBibleBooks$: Observable<BibleBook[] | null> = this.select(
+    (state) => state.homePage.bibleBooks,
+  );
+  readonly homePageLoading$: Observable<boolean> = this.select(
+    (state) => state.homePage.loading,
+  );
 
   constructor(protected override store: SitePreferencesStoreService) {
     super(store);

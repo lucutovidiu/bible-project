@@ -1,4 +1,4 @@
-import { ChangeDetectionStrategy, Component, OnInit } from '@angular/core';
+import { ChangeDetectionStrategy, Component, HostListener, OnInit } from '@angular/core';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { BehaviorSubject, catchError, throwError } from 'rxjs';
 
@@ -20,21 +20,21 @@ import { BibleToastrService } from '../utility/jetty-toastr-service/bible-toastr
   imports: [
     CommonModule,
     LoadingIndicatorBoxComponent,
-    InfiniteLoadingComponent,
+    InfiniteLoadingComponent
   ],
-  changeDetection: ChangeDetectionStrategy.OnPush,
+  changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class HomeComponent implements OnInit {
   protected readonly bibleBooks$ = this.homeService.homePageBibleBooks$;
   protected homePageLoading$ = this.homeService.homePageLoading$;
   protected selectedBook: SelectedBibleBook | null = null;
   protected readonly bibleVerse$ = new BehaviorSubject<BibleVerse[] | null>(
-    null,
+    null
   );
 
   constructor(
     private readonly homeService: HomeService,
-    private readonly bibleToastrService: BibleToastrService,
+    private readonly bibleToastrService: BibleToastrService
   ) {
     this.homeService.homePageSelectedBibleBook$
       .pipe(takeUntilDestroyed())
@@ -63,6 +63,28 @@ export class HomeComponent implements OnInit {
     this.findChapterNumberByBook();
   }
 
+  @HostListener('window:keyup', ['$event'])
+  keyEvent(event: KeyboardEvent) {
+    if (event.key == KEY_CODE.RIGHT_ARROW) {
+      if (this.selectedBook !== null) {
+        if (this.selectedBook.chapterNumber !== this.selectedBook.chapterNumbers.length) {
+          if (this.selectedBook.chapterNumber) {
+            this.loadChapter(this.selectedBook.chapterNumber + 1);
+          }
+        }
+      }
+    }
+    if (event.key == KEY_CODE.LEFT_ARROW) {
+      if (this.selectedBook !== null) {
+        if (this.selectedBook.chapterNumber !== this.selectedBook.chapterNumbers.length) {
+          if (this.selectedBook.chapterNumber) {
+            this.loadChapter(this.selectedBook.chapterNumber - 1);
+          }
+        }
+      }
+    }
+  }
+
   private findChapterNumberByBook() {
     this.homeService
       .findChapterNumberByBook()
@@ -73,14 +95,33 @@ export class HomeComponent implements OnInit {
             'Incearca mai tarziu la acest capitol',
             'Eroare de server',
             false,
-            2000,
+            2000
           );
           return throwError(() => error);
-        }),
+        })
       )
       .subscribe((bibleVerses) => {
         this.bibleVerse$.next(bibleVerses);
         HtmlFunctions.jumpToSection('section_verses', 50, 170);
       });
   }
+
+  copyTextToClipboard(bibleVerse: BibleVerse, selectedBook: SelectedBibleBook, bibleBooks: BibleBook[]) {
+    const bibleBook = bibleBooks.find(book => book.bookId === selectedBook.bookId);
+
+    if(bibleBook) {
+      const text = `${bibleVerse.textWithDiacritics}\n(${bibleBook.abbreviation} ${selectedBook.chapterNumber}:${bibleVerse.verseNumber})`;
+
+      console.log(text);
+      // Copy the text to the clipboard
+      HtmlFunctions.copyTextToClipboard(text)
+    }
+  }
+}
+
+export enum KEY_CODE {
+  UP_ARROW = 'ArrowUp',
+  DOWN_ARROW = 'ArrowDown',
+  RIGHT_ARROW = 'ArrowRight',
+  LEFT_ARROW = 'ArrowLeft'
 }
