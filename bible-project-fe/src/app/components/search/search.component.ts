@@ -1,11 +1,9 @@
-import {ChangeDetectionStrategy, Component, OnInit} from '@angular/core';
-import {ActivatedRoute, RouterLink} from "@angular/router";
-import {AsyncPipe, NgClass, NgForOf, NgIf} from "@angular/common";
-
-import {BibleVerse} from "../../model/bible-verse";
-import {LoadingIndicatorBoxComponent} from "../loading-indicator-box/loading-indicator-box.component";
-import {SearchPageService} from "../../services/search-page-service/search-page.service";
-import {HtmlFunctions} from "../utility/html-functions";
+import { ChangeDetectionStrategy, Component, OnInit } from '@angular/core';
+import { ActivatedRoute, RouterLink } from '@angular/router';
+import { AsyncPipe, NgClass, NgForOf, NgIf } from '@angular/common';
+import { LoadingIndicatorBoxComponent } from '../loading-indicator-box/loading-indicator-box.component';
+import { SearchPageService } from '../../services/search-page-service/search-page.service';
+import { BibleVerseComponent } from '../bible-verse/bible-verse.component';
 
 @Component({
   selector: 'bible-search',
@@ -18,21 +16,25 @@ import {HtmlFunctions} from "../utility/html-functions";
     NgForOf,
     NgClass,
     RouterLink,
-    LoadingIndicatorBoxComponent
+    LoadingIndicatorBoxComponent,
+    BibleVerseComponent,
   ],
-  changeDetection: ChangeDetectionStrategy.OnPush
+  changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class SearchComponent implements OnInit {
-  protected readonly bibleVerses$ = this.searchPageService.searchPageBibleVerseResult$
+  protected readonly bibleVerses$ =
+    this.searchPageService.searchPageBibleVerseResult$;
   protected searchTextWords: string[] = [];
-  protected readonly searchPageLoading$ = this.searchPageService.searchPageLoading$;
+  protected readonly searchPageLoading$ =
+    this.searchPageService.searchPageLoading$;
 
-  constructor(private readonly searchPageService: SearchPageService,
-              private readonly route: ActivatedRoute) {
-  }
+  constructor(
+    private readonly searchPageService: SearchPageService,
+    private readonly route: ActivatedRoute,
+  ) {}
 
   ngOnInit() {
-    this.route.paramMap.subscribe(params => {
+    this.route.paramMap.subscribe((params) => {
       const searchText = params.get('searchText');
       if (searchText) {
         this.searchTextWords = searchText.split(' ');
@@ -41,21 +43,9 @@ export class SearchComponent implements OnInit {
     });
   }
 
-  shouldColoredTheText(inputWord: string): boolean {
-    return this.searchTextWords.some(item => inputWord.toLowerCase().includes(item.toLowerCase()));
-  }
-
   search(searchText: string | null) {
     if (searchText && searchText.length > 2) {
       this.searchPageService.findPlacesInTheBibleByVerseText(searchText);
     }
   }
-
-  copyTextToClipboard(bibleVerse: BibleVerse) {
-    const text = `${bibleVerse.textWithDiacritics}\n(${bibleVerse.chapter.book.abbreviation} ${bibleVerse.chapter.number}:${bibleVerse.verseNumber})`;
-    // Copy the text to the clipboard
-    HtmlFunctions.copyTextToClipboard(text)
-  }
-
-  protected readonly Math = Math;
 }

@@ -99,7 +99,7 @@ public class ChapterExtractor {
         return extractVersesNumbersAndText(verses);
     }
 
-    private Map<Integer, String> extractVersesNumbersAndText(List<String> verses) {
+    public Map<Integer, String> extractVersesNumbersAndText(List<String> verses) {
         List<Tuple2<Integer, Integer>> problematicVerses = new ArrayList<>();
         Map<Integer, String> map = new HashMap<>();
 
@@ -114,7 +114,7 @@ public class ChapterExtractor {
             }
         }
 
-        writeReport(problematicVerses);
+//        writeReport(problematicVerses);
 
         return map;
     }

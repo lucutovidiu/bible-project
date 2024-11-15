@@ -1,19 +1,24 @@
 import { ChangeDetectionStrategy, Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Params } from '@angular/router';
 import { BehaviorSubject } from 'rxjs';
+import { AsyncPipe } from '@angular/common';
 
 import { BibleVerse } from '../../model/bible-verse';
 import { HtmlFunctions } from '../utility/html-functions';
 import { FullChapterDisplayService } from '../../services/full-chapter-display-service/full-chapter-display.service';
 import { SelectedBibleBook } from '../../store/site-state';
+import { BibleVerseComponent } from '../bible-verse/bible-verse.component';
+import { LoadingIndicatorBoxComponent } from '../loading-indicator-box/loading-indicator-box.component';
 
 @Component({
-  selector: 'bible-result-display-full-chapter',
-  templateUrl: './result-display-full-chapter.component.html',
-  styleUrl: './result-display-full-chapter.component.scss',
+  standalone: true,
+  selector: 'book-chapter-page',
+  templateUrl: './book-chapter-page.component.html',
+  styleUrl: './book-chapter-page.component.scss',
   changeDetection: ChangeDetectionStrategy.OnPush,
+  imports: [BibleVerseComponent, LoadingIndicatorBoxComponent, AsyncPipe],
 })
-export class ResultDisplayFullChapterComponent implements OnInit {
+export class BookChapterPageComponent implements OnInit {
   protected selectedBook: SelectedBibleBook | null = null;
   protected readonly bibleVerse$ = new BehaviorSubject<BibleVerse[] | null>(
     null,

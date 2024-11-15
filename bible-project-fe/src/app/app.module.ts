@@ -1,26 +1,24 @@
-import {NgModule, isDevMode} from '@angular/core';
-import {BrowserModule} from '@angular/platform-browser';
-import {ToastrModule} from "ngx-toastr";
-import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
-import {provideHttpClient, withInterceptorsFromDi} from "@angular/common/http";
-
-import {AppRoutingModule} from './app-routing.module';
-import {AppComponent} from './app.component';
-import {HomeComponent} from "./components/home/home.component";
-import {NavBarComponent} from "./components/nav-bar/nav-bar.component";
+import { isDevMode, NgModule } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
+import { ToastrModule } from 'ngx-toastr';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {
-  ResultDisplayFullChapterComponent
-} from './components/result-display-full-chapter/result-display-full-chapter.component';
-import {LoadingIndicatorBoxComponent} from "./components/loading-indicator-box/loading-indicator-box.component";
-import {SharedEnvModule} from "./services/environment-management/shared-env.module";
+  provideHttpClient,
+  withInterceptorsFromDi,
+} from '@angular/common/http';
+
+import { AppRoutingModule } from './app-routing.module';
+import { AppComponent } from './app.component';
+import { HomeComponent } from './components/home/home.component';
+import { NavBarComponent } from './components/nav-bar/nav-bar.component';
+import { LoadingIndicatorBoxComponent } from './components/loading-indicator-box/loading-indicator-box.component';
+import { SharedEnvModule } from './services/environment-management/shared-env.module';
 import { environment } from '../environments/local/environment';
 import { ServiceWorkerModule } from '@angular/service-worker';
+import { BibleVerseComponent } from './components/bible-verse/bible-verse.component';
 
 @NgModule({
-  declarations: [
-    AppComponent,
-    ResultDisplayFullChapterComponent,
-  ],
+  declarations: [AppComponent],
   bootstrap: [AppComponent],
   imports: [
     BrowserModule,
@@ -40,10 +38,10 @@ import { ServiceWorkerModule } from '@angular/service-worker';
       enabled: !isDevMode(),
       // Register the ServiceWorker as soon as the application is stable
       // or after 30 seconds (whichever comes first).
-      registrationStrategy: 'registerWhenStable:30000'
+      registrationStrategy: 'registerWhenStable:30000',
     }),
+    BibleVerseComponent,
   ],
-  providers: [provideHttpClient(withInterceptorsFromDi())]
+  providers: [provideHttpClient(withInterceptorsFromDi())],
 })
-export class AppModule {
-}
+export class AppModule {}

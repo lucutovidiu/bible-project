@@ -1,0 +1,16 @@
+@if (bibleVerse) {
+  <div class="fw-bold fs-5 py-1 hand"
+       [id]="hasJumpSection ? 'jump_section': ''"
+       [ngClass]="highlightWholeVerse ? 'text-mark-highlight-colour':'' "
+       (click)="copyTextToClipboard()"
+  >
+    @if (highlightWords.length === 0) {
+      {{ bibleVerse.verseNumber }}. {{ bibleVerse.textWithDiacritics }}
+    } @else {
+      <bible-bible-verse-highlighter
+        [bibleVerse]="bibleVerse"
+        [highlightWords]="highlightWords">
+      </bible-bible-verse-highlighter>
+    }
+  </div>
+}

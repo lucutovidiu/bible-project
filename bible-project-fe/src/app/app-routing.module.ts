@@ -3,7 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 
 import { HomeComponent } from './components/home/home.component';
 import { SearchComponent } from './components/search/search.component';
-import { ResultDisplayFullChapterComponent } from './components/result-display-full-chapter/result-display-full-chapter.component';
+import { BookChapterPageComponent } from './components/book-chapter-page/book-chapter-page.component';
 import { SettingsPageComponent } from './components/settings-page/settings-page.component';
 
 const routes: Routes = [
@@ -17,7 +17,7 @@ const routes: Routes = [
   },
   {
     path: 'display-chapter',
-    component: ResultDisplayFullChapterComponent,
+    component: BookChapterPageComponent,
   },
   {
     path: 'settings',

@@ -11,6 +11,7 @@ import { InfiniteLoadingComponent } from '../infinite-loading/infinite-loading.c
 import { HtmlFunctions } from '../utility/html-functions';
 import { SelectedBibleBook } from '../../store/site-state';
 import { BibleToastrService } from '../utility/jetty-toastr-service/bible-toastr.service';
+import { BibleVerseComponent } from '../bible-verse/bible-verse.component';
 
 @Component({
   selector: 'bible-home',
@@ -20,7 +21,8 @@ import { BibleToastrService } from '../utility/jetty-toastr-service/bible-toastr
   imports: [
     CommonModule,
     LoadingIndicatorBoxComponent,
-    InfiniteLoadingComponent
+    InfiniteLoadingComponent,
+    BibleVerseComponent
   ],
   changeDetection: ChangeDetectionStrategy.OnPush
 })
@@ -104,18 +106,6 @@ export class HomeComponent implements OnInit {
         this.bibleVerse$.next(bibleVerses);
         HtmlFunctions.jumpToSection('section_verses', 50, 170);
       });
-  }
-
-  copyTextToClipboard(bibleVerse: BibleVerse, selectedBook: SelectedBibleBook, bibleBooks: BibleBook[]) {
-    const bibleBook = bibleBooks.find(book => book.bookId === selectedBook.bookId);
-
-    if(bibleBook) {
-      const text = `${bibleVerse.textWithDiacritics}\n(${bibleBook.abbreviation} ${selectedBook.chapterNumber}:${bibleVerse.verseNumber})`;
-
-      console.log(text);
-      // Copy the text to the clipboard
-      HtmlFunctions.copyTextToClipboard(text)
-    }
   }
 }
 

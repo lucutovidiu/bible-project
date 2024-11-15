@@ -5,7 +5,7 @@ export interface BibleVerse {
   verseNumber: number;
   text: string;
   textWithDiacritics: string;
-  chapter: BibleChapter;
+  chapter: BibleChapter | null;
 }
 
 export function replaceNames(

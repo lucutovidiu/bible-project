@@ -1,0 +1,9 @@
+@if (bibleVerse) {
+  <div class="h4 fw-bold">
+    @for (word of bibleVerse.textWithDiacritics.split(' '); track word + Math.random(); let  i = $index) {
+      <span [ngClass]="shouldColoredTheText(i) ? 'text-mark-highlight-colour' : ''">
+        {{ word }}
+      </span>
+    }
+  </div>
+}

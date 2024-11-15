@@ -6,7 +6,7 @@
     "serve:prod": "ng serve --configuration production",
     "serve:dev": "ng serve --configuration development --host 0.0.0.0 --port 4201",
     "serve:internet": "ng serve --configuration internet --host 0.0.0.0 --port 4201",
-    "serve:local": "ng serve --configuration local",
+    "serve:local": "ng serve --configuration local --port 4201",
     "build:prod": "ng build --configuration production",
     "start:prod": "npm run build:prod && npx http-server -p 8080 -c-1 dist/bible-project-fe/browser",
     "watch": "ng build --watch --configuration development",
