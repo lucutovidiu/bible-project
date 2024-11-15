@@ -38,7 +38,7 @@ export function createSitePreferencesStateInitialState(): SitePreferencesState {
       searchText: '',
     },
     settings: {
-      FathersName: SettingsService.FATHERS_DEFAULT_NAME,
+      FathersName: SettingsService.YAUE,
       SonsName: SettingsService.SONS_DEFAULT_NAME,
     },
   };

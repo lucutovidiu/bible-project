@@ -14,14 +14,12 @@ import { SiteStoreService } from '../../store/site-store.service';
 import { SiteQueryService } from '../../store/site-query.service';
 import { BibleVerse, replaceNames } from '../../model/bible-verse';
 import { BibleVerseStored, toBibleVerseStored } from '../../store/site-state';
-import { SettingsService } from '../settings-page-service/settings.service';
 
 export abstract class BibleLookupService {
   protected constructor(
     protected readonly bibleBookService: BibleBookService,
     protected readonly siteStoreService: SiteStoreService,
     protected readonly siteQueryService: SiteQueryService,
-    protected readonly settingsService: SettingsService,
   ) {}
 
   findOrRetrieveVerseByChapterNumberByBook(
@@ -58,26 +56,6 @@ export abstract class BibleLookupService {
       }),
       map((bibleVerseStored: BibleVerseStored[]) =>
         bibleVerseStored.map((verse) => verse.bibleVerse),
-      ),
-      switchMap((verses) =>
-        this.settingsService.settings$.pipe(
-          take(1),
-          map((settings) =>
-            verses.map((verse) => ({
-              ...verse,
-              text: replaceNames(
-                verse.text,
-                settings.FathersName,
-                settings.SonsName,
-              ),
-              textWithDiacritics: replaceNames(
-                verse.textWithDiacritics,
-                settings.FathersName,
-                settings.SonsName,
-              ),
-            })),
-          ),
-        ),
       ),
       finalize(() => this.loading(false)),
     );

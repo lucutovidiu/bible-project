@@ -23,14 +23,8 @@ export class HomeService extends BibleLookupService {
     protected override readonly siteQueryService: SiteQueryService,
     private readonly sitePreferencesQueryService: SitePreferencesQueryService,
     private readonly sitePreferencesStoreService: SitePreferencesStoreService,
-    protected override readonly settingsService: SettingsService,
   ) {
-    super(
-      bibleBookService,
-      siteStoreService,
-      siteQueryService,
-      settingsService,
-    );
+    super(bibleBookService, siteStoreService, siteQueryService);
   }
 
   get homePageLoading$(): Observable<boolean> {
@@ -48,7 +42,8 @@ export class HomeService extends BibleLookupService {
   getMenuData() {
     ObservableCallService.cachingUpdate(
       this.homePageBibleBooks$,
-      (value) => this.sitePreferencesStoreService.setHomePageLoadingState(value),
+      (value) =>
+        this.sitePreferencesStoreService.setHomePageLoadingState(value),
       () => this.bibleBookService.getMenuData(),
       (bibleBooks: BibleBook[]) =>
         this.sitePreferencesStoreService.setHomePageBibleBooks(bibleBooks),
@@ -87,26 +82,6 @@ export class HomeService extends BibleLookupService {
         this.findOrRetrieveVerseByChapterNumberByBook(
           selectedBibleBook.chapterNumber || 1,
           selectedBibleBook.bookId || 1,
-        ),
-      ),
-      switchMap((verses) =>
-        this.settingsService.settings$.pipe(
-          take(1),
-          map((settings) =>
-            verses.map((verse) => ({
-              ...verse,
-              text: replaceNames(
-                verse.text,
-                settings.FathersName,
-                settings.SonsName,
-              ),
-              textWithDiacritics: replaceNames(
-                verse.textWithDiacritics,
-                settings.FathersName,
-                settings.SonsName,
-              ),
-            })),
-          ),
         ),
       ),
     );

@@ -1,26 +1,78 @@
 import { Injectable } from '@angular/core';
 
-import {BibleBookApiService} from "../bible-book-api/bible-book-api.service";
-import {Observable} from "rxjs";
-import {BibleBook} from "../../model/bible-book";
-import {BibleVerse} from "../../model/bible-verse";
+import { BibleBookApiService } from '../bible-book-api/bible-book-api.service';
+import { map, Observable, switchMap, take } from 'rxjs';
+import { BibleBook } from '../../model/bible-book';
+import { BibleVerse, replaceNames } from '../../model/bible-verse';
+import { SettingsService } from '../settings-page-service/settings.service';
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: 'root',
 })
 export class BibleBookService {
+  constructor(
+    private readonly bibleBookApiService: BibleBookApiService,
+    protected readonly settingsService: SettingsService,
+  ) {}
 
-  constructor(private readonly bibleBookApiService: BibleBookApiService) { }
-
-  getMenuData(): Observable<BibleBook[]>{
+  getMenuData(): Observable<BibleBook[]> {
     return this.bibleBookApiService.getMenuData();
   }
 
-  findChapterNumberByBook(chapterNumer: number, bookId: number): Observable<BibleVerse[]>{
-    return this.bibleBookApiService.findChapterNumberByBook(chapterNumer, bookId);
+  findChapterNumberByBook(
+    chapterNumer: number,
+    bookId: number,
+  ): Observable<BibleVerse[]> {
+    return this.bibleBookApiService
+      .findChapterNumberByBook(chapterNumer, bookId)
+      .pipe(
+        switchMap((verses) =>
+          this.settingsService.settings$.pipe(
+            take(1),
+            map((settings) =>
+              verses.map((verse) => ({
+                ...verse,
+                text: replaceNames(
+                  verse.text,
+                  settings.FathersName,
+                  settings.SonsName,
+                ),
+                textWithDiacritics: replaceNames(
+                  verse.textWithDiacritics,
+                  settings.FathersName,
+                  settings.SonsName,
+                ),
+              })),
+            ),
+          ),
+        ),
+      );
   }
 
-  findPlacesInTheBibleByVerseText(verseText: string): Observable<BibleVerse[]>{
-    return this.bibleBookApiService.findPlacesInTheBibleByVerseText(verseText);
+  findPlacesInTheBibleByVerseText(verseText: string): Observable<BibleVerse[]> {
+    return this.bibleBookApiService
+      .findPlacesInTheBibleByVerseText(verseText)
+      .pipe(
+        switchMap((verses) =>
+          this.settingsService.settings$.pipe(
+            take(1),
+            map((settings) =>
+              verses.map((verse) => ({
+                ...verse,
+                text: replaceNames(
+                  verse.text,
+                  settings.FathersName,
+                  settings.SonsName,
+                ),
+                textWithDiacritics: replaceNames(
+                  verse.textWithDiacritics,
+                  settings.FathersName,
+                  settings.SonsName,
+                ),
+              })),
+            ),
+          ),
+        ),
+      );
   }
 }

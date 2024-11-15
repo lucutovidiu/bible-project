@@ -7,6 +7,7 @@ import {
 } from '@angular/forms';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { SettingsService } from '../../services/settings-page-service/settings.service';
+import { SiteStoreService } from '../../store/site-store.service';
 
 @Component({
   selector: 'bible-settings-page',
@@ -32,6 +33,7 @@ export class SettingsPageComponent implements OnInit {
   constructor(
     private readonly fb: FormBuilder,
     private readonly settingsServiceService: SettingsService,
+    private readonly siteStoreService: SiteStoreService,
   ) {}
 
   get formControl() {
@@ -43,11 +45,13 @@ export class SettingsPageComponent implements OnInit {
       .pipe(takeUntilDestroyed(this.destroyRef))
       .subscribe((FathersName) => {
         this.settingsServiceService.updateFatherName(FathersName);
+        this.clearStoredVerses();
       });
     this.formControl.SonsName.valueChanges
       .pipe(takeUntilDestroyed(this.destroyRef))
       .subscribe((SonsName) => {
         this.settingsServiceService.updateSonsName(SonsName);
+        this.clearStoredVerses();
       });
     this.settingsServiceService.settings$
       .pipe(takeUntilDestroyed(this.destroyRef))
@@ -61,5 +65,9 @@ export class SettingsPageComponent implements OnInit {
           emitEvent: false,
         });
       });
+  }
+
+  private clearStoredVerses() {
+    this.siteStoreService.resetStoredBibleVerses();
   }
 }
