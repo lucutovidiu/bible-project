@@ -40,3 +40,6 @@ quarkus:
     migrate-at-start: true
     baseline-on-migrate: true
     schemas: public
+
+migration:
+  enabled: false

@@ -8,3 +8,6 @@ quarkus:
   #Swagger Configurations
   swagger-ui:
     enable: true
+
+migration:
+  enabled: false
