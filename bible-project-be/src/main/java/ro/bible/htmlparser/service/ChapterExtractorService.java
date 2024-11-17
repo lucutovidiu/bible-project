@@ -8,6 +8,7 @@ import org.jsoup.select.Elements;
 import ro.bible.localfiles.util.BibleSourceDocuments;
 import ro.bible.reporting.service.ConsoleReportWriterService;
 import ro.bible.htmlparser.util.BibleStringUtils;
+import ro.bible.shared.util.BibleDateUtil;
 
 import java.io.IOException;
 import java.util.*;
@@ -122,9 +123,9 @@ public class ChapterExtractorService {
 
     private void writeReport(List<Tuple2<Integer, Integer>> problematicVerses) {
         if (!problematicVerses.isEmpty()) {
-            ConsoleReportWriterService consoleReportWriterService = new ConsoleReportWriterService(BibleStringUtils.removeDiacritics(bookName).replaceAll(" ", "-") + "migration-report-");
+            ConsoleReportWriterService consoleReportWriterService = new ConsoleReportWriterService();
             consoleReportWriterService.writeLine("#####################");
-            consoleReportWriterService.writeLine("Date '" + consoleReportWriterService.getDateNowFormatted() + "'");
+            consoleReportWriterService.writeLine("Date '" + BibleDateUtil.getDateNowFormatted() + "'");
             consoleReportWriterService.writeLine("Report for book '" + bookName + "'");
             consoleReportWriterService.writeLine("Chapter '" + chapterName + "'");
             consoleReportWriterService.writeLine("");

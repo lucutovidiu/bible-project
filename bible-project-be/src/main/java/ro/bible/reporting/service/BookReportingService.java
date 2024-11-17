@@ -39,7 +39,7 @@ public class BookReportingService {
 
     private void buildReport(List<BookPojo> books) {
         // Report Header
-        ConsoleReportWriterService consoleReportWriterService = new ConsoleReportWriterService(activeProfile);
+        ConsoleReportWriterService consoleReportWriterService = new ConsoleReportWriterService();
         consoleReportWriterService.writeLine("######################");
         consoleReportWriterService.writeLine("Begin Report date: " + LocalDateTime.now().format(DATE_TIME_FORMATTER));
         consoleReportWriterService.writeLine("");

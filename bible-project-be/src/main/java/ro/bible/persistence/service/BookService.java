@@ -110,6 +110,11 @@ public class BookService {
     }
 
     @Transactional
+    public Optional<BookPojo> getEntireBookByName(String bookName) {
+        return bookRepository.findByBookName(bookName).map(BookEntity::getBookPojo);
+    }
+
+    @Transactional
     public void setBookUpdatedStatus(String bookName, boolean status) {
         bookRepository.findByBookName(bookName)
                 .ifPresent(bookEntity -> {

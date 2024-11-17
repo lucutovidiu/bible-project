@@ -5,6 +5,8 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.util.List;
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
@@ -20,6 +22,7 @@ public class BookPojo {
     private Boolean requiresUpdate;
     private Boolean inProgress;
     private int bookOrder;
+    private List<ChapterPojo> chapterPojo;
 
     public String chapterKey() {
         return name.equalsIgnoreCase("Psalmii – Tehillim") ? "Psalmul" : "Capitolul";

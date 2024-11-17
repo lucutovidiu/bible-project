@@ -36,4 +36,11 @@ public class ChapterEntity extends BaseEntity {
                 .versePojo(verses.stream().map(VerseEntity::getVersePojo).toList())
                 .build();
     }
+
+    public ChapterPojo getChapterPojoNoBook() {
+        return ChapterPojo.builder()
+                .number(number)
+                .versePojo(verses.stream().map(VerseEntity::getVersePojo).toList())
+                .build();
+    }
 }

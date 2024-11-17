@@ -9,6 +9,8 @@ import ro.bible.shared.model.BookInfo;
 import java.util.ArrayList;
 import java.util.List;
 
+import static java.util.stream.Collectors.toList;
+
 @Getter
 @Setter
 @Entity
@@ -52,6 +54,22 @@ public class BookEntity extends BaseEntity {
                 .requiresUpdate(requiresUpdate)
                 .inProgress(inProgress)
                 .bookOrder(bookOrder)
+                .build();
+    }
+
+    public BookPojo getBookPojo() {
+        return BookPojo.builder()
+                .bookId(id)
+                .name(name)
+                .abbreviation(abbreviation)
+                .testament(testament)
+                .expChaptersCount(expChaptersCount)
+                .expTotalVerses(expTotalVerses)
+                .downloadedLink(downloadedLink)
+                .requiresUpdate(requiresUpdate)
+                .inProgress(inProgress)
+                .bookOrder(bookOrder)
+                .chapterPojo(chapters.stream().map(ChapterEntity::getChapterPojoNoBook).collect(toList()))
                 .build();
     }
 
