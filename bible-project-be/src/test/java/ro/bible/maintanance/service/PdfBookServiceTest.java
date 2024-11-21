@@ -13,7 +13,7 @@ class PdfBookServiceTest {
 
     @Test
     public void printPdf() {
-        pdfBookService.migratePdfBook();
+//        pdfBookService.migratePdfBook();
     }
 
 }

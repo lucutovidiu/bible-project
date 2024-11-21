@@ -5,6 +5,7 @@ import jakarta.enterprise.context.ApplicationScoped;
 import ro.bible.persistence.entity.VerseEntity;
 
 import java.util.List;
+import java.util.Optional;
 
 @ApplicationScoped
 public class VerseRepository implements PanacheRepository<VerseEntity> {
@@ -30,5 +31,10 @@ public class VerseRepository implements PanacheRepository<VerseEntity> {
 
     public long getVerseCountByBookId(long bookId) {
         return count("SELECT count(v) FROM VerseEntity v WHERE v.chapter.book.id = ?1", bookId);
+    }
+
+    public Optional<VerseEntity> findVerseByBookIdAndChapterNumber(long bookId, int chapterNumber) {
+        return find("SELECT v FROM VerseEntity v WHERE v.chapter.book.id = ?1 and v.chapter.number = ?2", bookId, chapterNumber)
+                .firstResultOptional();
     }
 }

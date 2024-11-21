@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { filter, map, Observable, switchMap, take } from 'rxjs';
+import { filter, Observable, switchMap, take } from 'rxjs';
 
 import { BibleBookService } from '../bible-book/bible-book.service';
 import { BibleBook } from '../../model/bible-book';
@@ -8,10 +8,9 @@ import { SiteStoreService } from '../../store/site-store.service';
 import { SiteQueryService } from '../../store/site-query.service';
 import { BibleLookupService } from '../bible-lookup-service/bible-lookup.service';
 import { SelectedBibleBook } from '../../store/site-state';
-import { BibleVerse, replaceNames } from '../../model/bible-verse';
+import { BibleVerse } from '../../model/bible-verse';
 import { SitePreferencesQueryService } from '../../store/site-preferences/site-preferences-query.service';
 import { SitePreferencesStoreService } from '../../store/site-preferences/site-preferences-store.service';
-import { SettingsService } from '../settings-page-service/settings.service';
 
 @Injectable({
   providedIn: 'root',

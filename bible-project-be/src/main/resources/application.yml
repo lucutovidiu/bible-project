@@ -1,4 +1,6 @@
 quarkus:
+  resteasy-reactive:
+    default-produces: application/json
   # https://quarkus.io/guides/all-config
 #  thread-pool:
 #    core-threads: 2

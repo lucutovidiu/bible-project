@@ -1,0 +1,10 @@
+<textarea [(ngModel)]="textWithDiacritics"
+          class="form-control"
+          [rows]="rows"
+></textarea>
+
+<div class="mt-2">
+  <button type="submit" class="btn btn-primary mb-3"
+  (click)="changeText()"
+  >Modifica Text</button>
+</div>

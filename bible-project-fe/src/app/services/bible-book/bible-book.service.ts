@@ -5,6 +5,8 @@ import { map, Observable, switchMap, take } from 'rxjs';
 import { BibleBook } from '../../model/bible-book';
 import { BibleVerse, replaceNames } from '../../model/bible-verse';
 import { SettingsService } from '../settings-page-service/settings.service';
+import { BookEditInfo } from '../../components/bible-verse/bible-verse.component';
+import { VerseUpdateResponse } from '../../model/VerseUpdateResponse';
 
 @Injectable({
   providedIn: 'root',
@@ -17,6 +19,14 @@ export class BibleBookService {
 
   getMenuData(): Observable<BibleBook[]> {
     return this.bibleBookApiService.getMenuData();
+  }
+
+  patchBibleVerseText(
+    bibleVerseChangeRequest: BookEditInfo,
+  ): Observable<VerseUpdateResponse> {
+    return this.bibleBookApiService.patchBibleVerseText(
+      bibleVerseChangeRequest,
+    );
   }
 
   findChapterNumberByBook(
