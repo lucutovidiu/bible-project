@@ -30,7 +30,7 @@ public class ConvertUtil {
         ObjectMapper objectMapper = new ObjectMapper();
         String jsonString = null;
         try {
-            jsonString = objectMapper.writeValueAsString(obj);
+            jsonString = objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(obj);
         } catch (JsonProcessingException e) {
             throw new RuntimeException(e);
         }

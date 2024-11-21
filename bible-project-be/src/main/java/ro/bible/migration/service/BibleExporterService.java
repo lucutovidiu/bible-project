@@ -7,6 +7,7 @@ import jakarta.inject.Inject;
 import ro.bible.config.ImportExportConfig;
 import ro.bible.importexport.service.BookExporterService;
 import ro.bible.importexport.service.BookImporterService;
+import ro.bible.importexport.service.impl.BookFileMetadataExporter;
 import ro.bible.persistence.service.BookService;
 
 @ApplicationScoped
@@ -20,6 +21,18 @@ public class BibleExporterService {
     BookImporterService bookImporterService;
     @Inject
     BookService bookService;
+    @Inject
+    BookFileMetadataExporter bookFileMetadataExporter;
+
+    @Scheduled(every = "5m")
+    public void exportBooksMetadata() {
+        if (importExportConfig.fileMetadataEnabled()) {
+            Log.info("Exporting Books Metadata");
+            bookFileMetadataExporter.exportBookMetadata();
+        } else {
+            Log.info("Skipping Exporting books metadata");
+        }
+    }
 
     @Scheduled(every = "5m")
     public void exportBooks() {
@@ -36,7 +49,10 @@ public class BibleExporterService {
     public void importBooks() {
         if (importExportConfig.importEnabled()) {
             Log.info("Importing Books");
-            bookImporterService.importBooks();
+            bookImporterService.importByBookName("1 Ioan");
+//            bookImporterService.importByBookTestament(BookTestament.APOCRYPHA);
+//            bookImporterService.importBooks();
+//            bookImporterService.importBooksMetadataOnly();
         } else {
             Log.info("Skipping Importing books");
         }

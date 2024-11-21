@@ -14,7 +14,6 @@ import java.util.Optional;
 @UtilityClass
 public class BibleUtil {
     //https://www.biblememorygoal.com/how-many-chapters-verses-in-the-bible/
-    private final String resourcePath = "bible-source-documents/books-metadata/book-table.json";
     private List<BookInfo> bookInfoList = new ArrayList<>();
 
     public static List<BookInfo> getBookInfoList() {
@@ -26,16 +25,16 @@ public class BibleUtil {
     }
 
     private List<BookInfo> tryGetBookListFromLocalSystem() {
-        Optional<List<BookInfo>> fileContentAsString = FileUtil.getFileFromClasspath(resourcePath)
+        Optional<List<BookInfo>> fileContentAsString = FileUtil.getFileFromClasspath(FileUtil.CLASSPATH_BOOK_TABLE_FILE_PATH)
                 .map(stringFile -> ConvertUtil.convertFromString(stringFile, new TypeReference<List<BookInfo>>() {
                 }));
         if (fileContentAsString.isEmpty()) {
-            Log.errorf("No file found in '%s'", resourcePath);
+            Log.errorf("No file found in '%s'", FileUtil.CLASSPATH_BOOK_TABLE_FILE_PATH);
             Log.errorf("Returning empty array!");
             return new ArrayList<>();
         }
 
-        Log.infof("Successfully read BookInfo from '%s'", resourcePath);
+        Log.infof("Successfully read BookInfo from '%s'", FileUtil.CLASSPATH_BOOK_TABLE_FILE_PATH);
         return fileContentAsString.get();
     }
 

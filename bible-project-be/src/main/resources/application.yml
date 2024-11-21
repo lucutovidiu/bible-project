@@ -46,3 +46,4 @@ migration:
 import-export:
   export-enabled: false
   import-enabled: false
+  file-metadata-enabled: false

@@ -23,8 +23,11 @@ import java.util.stream.Stream;
 @UtilityClass
 public class FileUtil {
 
-    public static final String RESOURCE_FOLDER = "src/main/resources/bible-source-documents";
-    public static final String BIBLE_RESOURCE_FOLDER = "bible-source-documents";
+    public static final String FULLPATH_BASE_RESOURCE_FOLDER = "src/main/resources";
+    public static final String FULLPATH_BIBLE_BASE_FOLDER_NAME = FULLPATH_BASE_RESOURCE_FOLDER + "/bible-source-documents";
+    public static final String CLASSPATH_BIBLE_BASE_FOLDER_NAME = "bible-source-documents";
+    public static final String FULLPATH_BOOK_TABLE_FILE_PATH = FULLPATH_BASE_RESOURCE_FOLDER + "/bible-source-documents/books-metadata/book-table.json";
+    public static final String CLASSPATH_BOOK_TABLE_FILE_PATH = "bible-source-documents/books-metadata/book-table.json";
 
     public static String getFileContentAsString(String path) {
         try {

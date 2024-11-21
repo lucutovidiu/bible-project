@@ -1,5 +1,6 @@
 package ro.bible.shared.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import io.quarkus.logging.Log;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -16,6 +17,7 @@ import java.io.File;
 public class BookInfo {
     private int bookOrder;
     private String bookName;
+    private String bookHebrewName;
     private int expChaptersCount;
     private int expTotalVerses;
     private String abbreviation;
@@ -24,7 +26,7 @@ public class BookInfo {
     private String baseFolderPath;
     private String storedFileName;
 
-    public void updateBookInfo(BookPojo bookPojo) {
+    public BookInfo updateBookInfo(BookPojo bookPojo) {
         Log.infof("Updating Book Info: %s", bookPojo.getName());
         this.bookOrder = bookPojo.getBookOrder();
         this.bookName = bookPojo.getName();
@@ -32,8 +34,12 @@ public class BookInfo {
         this.expTotalVerses = bookPojo.getExpTotalVerses();
         this.abbreviation = bookPojo.getAbbreviation();
         this.testament = bookPojo.getTestament();
+        this.bookHebrewName = bookPojo.getHebrewName();
+
+        return this;
     }
 
+    @JsonIgnore
     public String getFilePath() {
         return baseFolderPath + File.separator + storedFileName;
     }

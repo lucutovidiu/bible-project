@@ -24,6 +24,11 @@ public class DBImporterService implements ImporterService {
         patchVersesToDb(bookPojo);
     }
 
+    @Override
+    public void importBookTableOnly(BookInfo bookInfo) {
+        bookService.updateOrCreateBook(bookInfo);
+    }
+
     private void patchVersesToDb(BookPojo bookPojo) {
         Log.infof("Building bible verse pojo for book: ", bookPojo.getName());
         bookPojo.getChapterPojo().forEach(chapterPojo ->

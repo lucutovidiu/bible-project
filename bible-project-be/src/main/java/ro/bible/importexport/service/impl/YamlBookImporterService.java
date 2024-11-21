@@ -5,13 +5,11 @@ import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import ro.bible.importexport.service.BookImporterService;
 import ro.bible.importexport.service.ImporterService;
-import ro.bible.importexport.service.YamlExporterService;
 import ro.bible.importexport.util.BookPojoYamlPathUtil;
 import ro.bible.localfiles.util.BibleUtil;
 import ro.bible.persistence.model.BookPojo;
-import ro.bible.persistence.service.BookService;
-import ro.bible.shared.model.BibleVerseDto;
 import ro.bible.shared.model.BookInfo;
+import ro.bible.shared.model.BookTestament;
 import ro.bible.shared.service.YamlMapperService;
 import ro.bible.shared.util.FileUtil;
 
@@ -32,11 +30,45 @@ public class YamlBookImporterService implements BookImporterService {
                 .forEach(this::importBook);
     }
 
+    @Override
+    public void importByBookTestament(BookTestament bookTestament) {
+        Log.infof("Started importing Book Testament: %s", bookTestament.getBookTestament());
+        BibleUtil.getBookInfoList()
+                .stream()
+                .filter(bookInfo -> bookInfo.getTestament().equals(bookTestament.getBookTestament()))
+                .forEach(this::importBook);
+    }
+
+    @Override
+    public void importByBookName(String bookName) {
+        Log.infof("Started importing Book name: %s", bookName);
+        BibleUtil.getBookInfoList()
+                .stream()
+                .filter(bookInfo -> bookInfo.getBookName().equals(bookName))
+                .forEach(this::importBook);
+    }
+
+    @Override
+    public void importBooksMetadataOnly() {
+        Log.info("Started importing Books Table Only");
+        BibleUtil.getBookInfoList()
+                .forEach(this::importBooksMetadataOnly);
+    }
+
+    private void importBooksMetadataOnly(BookInfo bookInfo) {
+        Log.infof("Importing Book: %s", bookInfo.toString());
+        retrieveBookPojo(bookInfo)
+                .flatMap(this::convertToYaml)
+                .ifPresent(bookPojo -> importerService.importBookTableOnly(bookInfo.updateBookInfo(bookPojo)));
+    }
+
     private void importBook(BookInfo bookInfo) {
         Log.infof("Importing Book: %s", bookInfo.toString());
         retrieveBookPojo(bookInfo)
                 .flatMap(this::convertToYaml)
-                .ifPresent(bookPojo -> importerService.updateOrCreateBook(bookInfo, bookPojo));
+                .ifPresentOrElse(bookPojo -> importerService.updateOrCreateBook(bookInfo, bookPojo), () -> {
+                    Log.errorf("Book NOT found: %s, testament: %s", bookInfo.getBookName(), bookInfo.getTestament());
+                });
     }
 
     private Optional<BookPojo> convertToYaml(String bookYamlString) {
@@ -45,7 +77,7 @@ public class YamlBookImporterService implements BookImporterService {
 
     private Optional<String> retrieveBookPojo(BookInfo bookInfo) {
         BookPojoYamlPathUtil bookPojoYamlPathUtil = new BookPojoYamlPathUtil(bookInfo.getTestament(), bookInfo.getAbbreviation());
-        bookPojoYamlPathUtil.setResourceFolder(FileUtil.BIBLE_RESOURCE_FOLDER);
+        bookPojoYamlPathUtil.setResourceFolder(FileUtil.CLASSPATH_BIBLE_BASE_FOLDER_NAME);
 
         return FileUtil.getFileFromClasspath(bookPojoYamlPathUtil.getYamlFullBaseFile());
     }

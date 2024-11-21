@@ -9,7 +9,7 @@ public class BookPojoYamlPathUtil {
     private final String testament;
     private final String abbreviation;
     @Setter
-    private String resourceFolder = FileUtil.RESOURCE_FOLDER;
+    private String resourceFolder = FileUtil.FULLPATH_BIBLE_BASE_FOLDER_NAME;
 
     public BookPojoYamlPathUtil(String testament, String abbreviation) {
         this.testament = testament;
@@ -28,12 +28,16 @@ public class BookPojoYamlPathUtil {
         return getTestamentFolderName() + File.separator + getAbbreviationWithoutDot();
     }
 
-    private String getYamlFileName() {
+    public String getYamlFileName() {
         return getAbbreviationWithoutDot() + ".yaml";
     }
 
     private String getBaseYamlPathFolder() {
         return resourceFolder + File.separator + "exported-yml-books";
+    }
+
+    public String getTestamentBaseFolder() {
+        return getBaseYamlPathFolder() + File.separator + getTestamentFolderName();
     }
 
     public String getYamlFullBasePath() {

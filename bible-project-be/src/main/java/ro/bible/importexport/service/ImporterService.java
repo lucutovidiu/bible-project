@@ -7,4 +7,6 @@ import ro.bible.shared.model.BookInfo;
 public interface ImporterService {
 
     void updateOrCreateBook(BookInfo bookInfo, BookPojo bookPojo);
+
+    void importBookTableOnly(BookInfo bookInfo);
 }

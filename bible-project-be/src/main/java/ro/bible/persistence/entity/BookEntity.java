@@ -20,6 +20,8 @@ public class BookEntity extends BaseEntity {
 
     @Column(name = "name", length = 70)
     private String name;
+    @Column(name = "hebrew_name", length = 70)
+    private String hebrewName;
     @Column(name = "abbreviation", length = 20)
     private String abbreviation;
     @Column(name = "testament", length = 30)
@@ -47,6 +49,7 @@ public class BookEntity extends BaseEntity {
         return BookPojo.builder()
                 .bookId(id)
                 .name(name)
+                .hebrewName(hebrewName)
                 .abbreviation(abbreviation)
                 .testament(testament)
                 .expChaptersCount(expChaptersCount)
@@ -62,6 +65,7 @@ public class BookEntity extends BaseEntity {
         return BookPojo.builder()
                 .bookId(id)
                 .name(name)
+                .hebrewName(hebrewName)
                 .abbreviation(abbreviation)
                 .testament(testament)
                 .expChaptersCount(expChaptersCount)
@@ -82,5 +86,6 @@ public class BookEntity extends BaseEntity {
         this.expTotalVerses = bookInfo.getExpTotalVerses();
         this.downloadedLink = bookInfo.getDownloadUrl();
         this.bookOrder = bookInfo.getBookOrder();
+        this.hebrewName = bookInfo.getBookHebrewName();
     }
 }

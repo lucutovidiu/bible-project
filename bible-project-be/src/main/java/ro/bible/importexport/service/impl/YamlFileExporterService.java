@@ -12,11 +12,11 @@ public class YamlFileExporterService implements YamlExporterService {
 
     @Override
     public void exportYaml(BookPojo bookPojo, String bookContent) {
-        FileUtil.createFolderIfNotExists(new BookPojoYamlPathUtil(bookPojo.getTestament(), bookPojo.getAbbreviation())
-                .getYamlFullBasePath());
+        BookPojoYamlPathUtil bookPojoYamlPathUtil = new BookPojoYamlPathUtil(bookPojo.getTestament(), bookPojo.getAbbreviation());
+        FileUtil.createFolderIfNotExists(bookPojoYamlPathUtil.getTestamentBaseFolder());
+        FileUtil.createFolderIfNotExists(bookPojoYamlPathUtil.getYamlFullBasePath());
 
-        String bookPath = new BookPojoYamlPathUtil(bookPojo.getTestament(), bookPojo.getAbbreviation())
-                .getYamlFullBaseFile();
+        String bookPath = bookPojoYamlPathUtil.getYamlFullBaseFile();
 
         boolean success = FileUtil.writeContentToFile(bookPath, bookContent);
         handleResponseLog(success, bookPojo.getName(), bookPath);

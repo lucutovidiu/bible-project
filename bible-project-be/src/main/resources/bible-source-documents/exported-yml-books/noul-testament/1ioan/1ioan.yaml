@@ -1,6 +1,7 @@
 ---
 bookId: 76
-name: "1 Ioan – Yochanan Alef"
+name: "1 Ioan"
+hebrewName: "Yochanan Alef"
 abbreviation: "1Ioan."
 testament: "Noul Testament"
 expChaptersCount: 5
@@ -31,7 +32,7 @@ chapterPojo:
     text: "deci ce am vazut si am auzit, aceea va vestim si voua, ca si voi sa aveti\
       \ partasie cu noi. Si partasia noastra este cu Tatal, cu Fiul Sau, Yasua haMasiya."
     textWithDiacritics: "deci ce am văzut şi am auzit, aceea vă vestim şi vouă, ca\
-      \ şi voi să aveţi părtăşie cu noi. Şi părtăşia noastră este cu Tatăl, cu Fiul\
+      \ şi voi să aveţi părtăşie cu noi. Şi părtăşia noastră este cu Tatăl si cu Fiul\
       \ Său, Yașua haMaşiya."
     chapter: null
   - verseNumber: 4

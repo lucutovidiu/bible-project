@@ -8,5 +8,8 @@ public interface ImportExportConfig {
      * Flag to determine if the migration should start.
      */
     boolean exportEnabled();
+
     boolean importEnabled();
+
+    boolean fileMetadataEnabled();
 }

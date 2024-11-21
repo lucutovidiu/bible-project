@@ -1,6 +1,7 @@
 ---
 bookId: 19
-name: "Psalmii – Tehillim"
+name: "Psalmii"
+hebrewName: "Tehillim"
 abbreviation: "Ps."
 testament: "Vechiul Testament"
 expChaptersCount: 150

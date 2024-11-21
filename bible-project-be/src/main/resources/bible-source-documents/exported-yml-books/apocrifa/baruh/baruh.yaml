@@ -1,8 +1,9 @@
 ---
 bookId: 42
 name: "Cartea lui Baruh"
+hebrewName: ""
 abbreviation: "Baruh."
-testament: "Vechiul Testament"
+testament: "Apocrifa"
 expChaptersCount: 5
 expTotalVerses: 141
 downloadedLink: "https://yahwehtora.ro/cartea-lui-baruh"

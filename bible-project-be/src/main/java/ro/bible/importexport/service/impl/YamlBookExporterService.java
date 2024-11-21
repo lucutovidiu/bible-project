@@ -21,6 +21,12 @@ public class YamlBookExporterService implements BookExporterService {
     YamlExporterService yamlExporterService;
 
     @Override
+    public void exportAllBooks() {
+        Log.info("Exporting All Books");
+        bookService.getAllBooks().forEach(bookPojo -> exportBook(bookPojo.getName()));
+    }
+
+    @Override
     public void exportBook(String bookName) {
         Optional<BookPojo> entireBookByName = bookService.getEntireBookByName(bookName);
         if (entireBookByName.isPresent()) {
