@@ -1,0 +1,754 @@
+---
+bookId: 22
+name: "Cînt. Cîntări. – Shir HaShirim"
+abbreviation: "Cint.Cintari."
+testament: "Vechiul Testament"
+expChaptersCount: 8
+expTotalVerses: 117
+downloadedLink: "https://yahwehtora.ro/cintarea-cintarilor-shir-hashirim"
+requiresUpdate: false
+inProgress: false
+bookOrder: 22
+chapterPojo:
+- number: 1
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Cintarea cintarilor facuta de Solomon."
+    textWithDiacritics: "Cîntarea cîntărilor făcută de Solomon."
+    chapter: null
+  - verseNumber: 2
+    text: "Sa ma sarute cu sarutarile gurii lui! Caci toate dezmierdarile tale sunt\
+      \ mai bune decit vinul,"
+    textWithDiacritics: "Să mă sărute cu sărutările gurii lui! Căci toate dezmierdă\
+      rile tale sunt mai bune decît vinul,"
+    chapter: null
+  - verseNumber: 3
+    text: "mirodeniile tale au un miros placut. Numele tau este ca o mireasma varsata,\
+      \ de aceea te iubesc pe tine fetele!"
+    textWithDiacritics: "mirodeniile tale au un miros plăcut. Numele tău este ca o\
+      \ mireasmă vărsată, de aceea te iubesc pe tine fetele!"
+    chapter: null
+  - verseNumber: 4
+    text: "Trage-ma dupa tine! Si haidem sa alergam! Imparatul ma duce in odaile lui…\
+      \ Ne vom inveseli si ne vom bucura de tine; vom lauda dezmierdarile tale mai\
+      \ mult decit vinul! Pe drept esti iubit."
+    textWithDiacritics: "Trage-mă după tine! Şi haidem să alergăm! Împăratul mă duce\
+      \ în odăile lui… Ne vom înveseli şi ne vom bucura de tine; vom lăuda dezmierdă\
+      rile tale mai mult decît vinul! Pe drept eşti iubit."
+    chapter: null
+  - verseNumber: 5
+    text: "Sunt neagra, dar sunt frumoasa, fiice ale Ierusalimului, cum sunt corturile\
+      \ Chedarului si cum sunt covoarele lui Solomon."
+    textWithDiacritics: "Sunt neagră, dar sunt frumoasă, fiice ale Ierusalimului,\
+      \ cum sunt corturile Chedarului şi cum sunt covoarele lui Solomon."
+    chapter: null
+  - verseNumber: 6
+    text: "Nu va uitati ca sunt asa de negricioasa, caci m-a ars a) soarele. Fiii\
+      \ mamei mele s-au miniat pe mine, si m-au pus pazitoare la vii. Dar via frumusetii\
+      \ mele n-am pazit-o. [ a] Sau: m-a privit ]"
+    textWithDiacritics: "Nu vă uitaţi că sunt aşa de negricioasă, căci m-a ars a)\
+      \ soarele. Fiii mamei mele s-au mîniat pe mine, şi m-au pus păzitoare la vii.\
+      \ Dar via frumuseţii mele n-am păzit-o. [ a] Sau: m-a privit ]"
+    chapter: null
+  - verseNumber: 7
+    text: "Spune-mi tu, pe care te iubeste inima mea, unde iti pasti oile, unde te\
+      \ odihnesti la amiaza? Caci de ce sa umblu ca o ratacita pe la turmele tovarasilor\
+      \ tai?"
+    textWithDiacritics: "Spune-mi tu, pe care te iubeşte inima mea, unde îţi paşti\
+      \ oile, unde te odihneşti la amiază? Căci de ce să umblu ca o rătăcită pe la\
+      \ turmele tovarăşilor tăi?"
+    chapter: null
+  - verseNumber: 8
+    text: "Daca nu stii, o, tu, cea mai frumoasa dintre femei, iesi pe urmele oilor\
+      \ si paste-ti iezii linga colibele pastorilor."
+    textWithDiacritics: "Dacă nu ştii, o, tu, cea mai frumoasă dintre femei, ieşi\
+      \ pe urmele oilor şi paşte-ţi iezii lîngă colibele păstorilor."
+    chapter: null
+  - verseNumber: 9
+    text: "Cu iapa inhamata la carele lui faraon te aseman eu pe tine, scumpa mea."
+    textWithDiacritics: "Cu iapa înhămată la carele lui faraon te asemăn eu pe tine,\
+      \ scumpa mea."
+    chapter: null
+  - verseNumber: 10
+    text: "Ce frumosi iti sunt obrajii in mijlocul lantisoarelor de la git si ce frumos\
+      \ iti este gitul in mijlocul sirurilor de margaritare!"
+    textWithDiacritics: "Ce frumoşi îţi sunt obrajii în mijlocul lănţişoarelor de\
+      \ la gît şi ce frumos îţi este gîtul în mijlocul şirurilor de mărgăritare!"
+    chapter: null
+  - verseNumber: 11
+    text: "Iti vom face deci lantisoare de aur cu stropituri de argint."
+    textWithDiacritics: "Îţi vom face deci lănţişoare de aur cu stropituri de argint."
+    chapter: null
+  - verseNumber: 12
+    text: "Cit sta imparatul la masa lui, nardul meu isi raspindeste mirosul."
+    textWithDiacritics: "Cît stă împăratul la masa lui, nardul meu îşi răspîndeşte\
+      \ mirosul."
+    chapter: null
+  - verseNumber: 13
+    text: "Preaiubitul meu imi este ca un manunchi de mir care se odihneste intre\
+      \ titele mele."
+    textWithDiacritics: "Preaiubitul meu îmi este ca un mănunchi de mir care se odihneş\
+      te între ţîţele mele."
+    chapter: null
+  - verseNumber: 14
+    text: "Preaiubitul meu este pentru mine un strugure de malinita din viile din\
+      \ En-Ghedi."
+    textWithDiacritics: "Preaiubitul meu este pentru mine un strugure de măliniţă\
+      \ din viile din En-Ghedi."
+    chapter: null
+  - verseNumber: 15
+    text: "Ce frumoasa esti, iubito, uite ce frumoasa esti cu ochii tai de porumbita!"
+    textWithDiacritics: "Ce frumoasă eşti, iubito, uite ce frumoasă eşti cu ochii\
+      \ tăi de porumbiţă!"
+    chapter: null
+  - verseNumber: 16
+    text: "Ce frumos esti, preaiubitule, ce placut esti! Verdeata este patul nostru!"
+    textWithDiacritics: "Ce frumos eşti, preaiubitule, ce plăcut eşti! Verdeaţa este\
+      \ patul nostru!"
+    chapter: null
+  - verseNumber: 17
+    text: "Cedrii sunt grinzile caselor noastre, si chiparosii sunt pardoselile noastre."
+    textWithDiacritics: "Cedrii sunt grinzile caselor noastre, şi chiparoşii sunt\
+      \ pardoselile noastre."
+    chapter: null
+- number: 2
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Eu sunt un trandafir din Saron, un crin din vai."
+    textWithDiacritics: "Eu sunt un trandafir din Saron, un crin din văi."
+    chapter: null
+  - verseNumber: 2
+    text: "Ca un crin in mijlocul spinilor asa este iubita mea intre fete."
+    textWithDiacritics: "Ca un crin în mijlocul spinilor aşa este iubita mea între\
+      \ fete."
+    chapter: null
+  - verseNumber: 3
+    text: "Ca un mar intre copacii padurii asa este preaiubitul meu intre tineri.\
+      \ Cu asa drag stau la umbra lui, si rodul lui este dulce pentru cerul gurii\
+      \ mele."
+    textWithDiacritics: "Ca un măr între copacii pădurii aşa este preaiubitul meu\
+      \ între tineri. Cu aşa drag stau la umbra lui, şi rodul lui este dulce pentru\
+      \ cerul gurii mele."
+    chapter: null
+  - verseNumber: 4
+    text: "El m-a dus in casa de ospat, si dragostea era steagul fluturat peste mine."
+    textWithDiacritics: "El m-a dus în casa de ospăţ, şi dragostea era steagul fluturat\
+      \ peste mine."
+    chapter: null
+  - verseNumber: 5
+    text: "Intariti-ma cu turte de struguri, inviorati-ma cu mere, caci sunt bolnava\
+      \ de dragostea lui."
+    textWithDiacritics: "Întăriţi-mă cu turte de struguri, învioraţi-mă cu mere, că\
+      ci sunt bolnavă de dragostea lui."
+    chapter: null
+  - verseNumber: 6
+    text: "Sa-si puna mina stinga sub capul meu si sa ma imbratiseze cu dreapta lui!"
+    textWithDiacritics: "Să-şi pună mîna stîngă sub capul meu şi să mă îmbrăţişeze\
+      \ cu dreapta lui!"
+    chapter: null
+  - verseNumber: 7
+    text: "Va jur, fiice ale Ierusalimului, pe caprioarele si cerboaicele de pe cimp:\
+      \ nu stirniti, nu treziti dragostea pina nu vine ea!"
+    textWithDiacritics: "Vă jur, fiice ale Ierusalimului, pe căprioarele şi cerboaicele\
+      \ de pe cîmp: nu stîrniţi, nu treziţi dragostea pînă nu vine ea!"
+    chapter: null
+  - verseNumber: 8
+    text: "Aud glasul preaiubitului meu! Iata-l ca vine, sarind peste munti, saltind\
+      \ pe dealuri."
+    textWithDiacritics: "Aud glasul preaiubitului meu! Iată-l că vine, sărind peste\
+      \ munţi, săltînd pe dealuri."
+    chapter: null
+  - verseNumber: 9
+    text: "Preaiubitul meu seamana cu o caprioara sau cu puiul de cerboaica. Iata-l\
+      \ ca este dupa zidul nostru, se uita pe fereastra, priveste printre zabrele."
+    textWithDiacritics: "Preaiubitul meu seamănă cu o căprioară sau cu puiul de cerboaică\
+      . Iată-l că este după zidul nostru, se uită pe fereastră, priveşte printre ză\
+      brele."
+    chapter: null
+  - verseNumber: 10
+    text: "Preaiubitul meu vorbeste si-mi zice: „Scoala-te, iubito, si vino, frumoaso!"
+    textWithDiacritics: "Preaiubitul meu vorbeşte şi-mi zice: „Scoală-te, iubito,\
+      \ şi vino, frumoaso!"
+    chapter: null
+  - verseNumber: 11
+    text: "Caci iata ca a trecut iarna; a incetat ploaia si s-a dus."
+    textWithDiacritics: "Căci iată că a trecut iarna; a încetat ploaia şi s-a dus."
+    chapter: null
+  - verseNumber: 12
+    text: "Se arata florile pe cimp, a venit vremea cintarii si se aude glasul turturelei\
+      \ in cimpiile noastre."
+    textWithDiacritics: "Se arată florile pe cîmp, a venit vremea cîntării şi se aude\
+      \ glasul turturelei în cîmpiile noastre."
+    chapter: null
+  - verseNumber: 13
+    text: "Se pirguiesc roadele in smochin, si viile inflorite isi raspindesc mirosul.\
+      \ Scoala-te, iubito, si vino, frumoaso!"
+    textWithDiacritics: "Se pîrguiesc roadele în smochin, şi viile înflorite îşi ră\
+      spîndesc mirosul. Scoală-te, iubito, şi vino, frumoaso!"
+    chapter: null
+  - verseNumber: 14
+    text: "Porumbita din crapaturile stincii, ascunsa in scobiturile prapastiilor,\
+      \ arata-mi fata ta si fa-ma sa-ti aud glasul! Caci glasul tau este dulce, si\
+      \ fata ta, placuta.”"
+    textWithDiacritics: "Porumbiţă din crăpăturile stîncii, ascunsă în scobiturile\
+      \ prăpăstiilor, arată-mi faţa ta şi fă-mă să-ţi aud glasul! Căci glasul tău\
+      \ este dulce, şi faţa ta, plăcută.”"
+    chapter: null
+  - verseNumber: 15
+    text: "Prindeti-ne vulpile, vulpile cele mici care strica viile; caci viile noastre\
+      \ sunt in floare."
+    textWithDiacritics: "Prindeţi-ne vulpile, vulpile cele mici care strică viile;\
+      \ căci viile noastre sunt în floare."
+    chapter: null
+  - verseNumber: 16
+    text: "Preaiubitul meu este al meu, si eu sunt a lui; el isi paste turma intre\
+      \ crini."
+    textWithDiacritics: "Preaiubitul meu este al meu, şi eu sunt a lui; el îşi paş\
+      te turma între crini."
+    chapter: null
+  - verseNumber: 17
+    text: "Pina la racoarea zilei si pina la lungirea umbrelor, intoarce-te!… Iubitule,\
+      \ sari ca o caprioara sau ca puiul de cerb peste muntii ce ne despart."
+    textWithDiacritics: "Pînă la răcoarea zilei şi pînă la lungirea umbrelor, întoarce-te!…\
+      \ Iubitule, sari ca o căprioară sau ca puiul de cerb peste munţii ce ne despart."
+    chapter: null
+- number: 3
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Am cautat noaptea in asternutul meu, am cautat pe iubitul inimii mele;\
+      \ l-am cautat, dar nu l-am gasit…"
+    textWithDiacritics: "Am căutat noaptea în aşternutul meu, am căutat pe iubitul\
+      \ inimii mele; l-am căutat, dar nu l-am găsit…"
+    chapter: null
+  - verseNumber: 2
+    text: "M-am sculat atunci si am cutreierat cetatea, ulitele si pietele; si am\
+      \ cautat pe iubitul inimii mele… L-am cautat, dar nu l-am gasit!"
+    textWithDiacritics: "M-am sculat atunci şi am cutreierat cetatea, uliţele şi pieţ\
+      ele; şi am căutat pe iubitul inimii mele… L-am căutat, dar nu l-am găsit!"
+    chapter: null
+  - verseNumber: 3
+    text: "M-au intilnit pazitorii care dau ocol cetatii; si i-am intrebat: „N-ati\
+      \ vazut pe iubitul inimii mele?”"
+    textWithDiacritics: "M-au întîlnit păzitorii care dau ocol cetăţii; şi i-am î\
+      ntrebat: „N-aţi văzut pe iubitul inimii mele?”"
+    chapter: null
+  - verseNumber: 4
+    text: "Abia trecusem de ei si am gasit pe iubitul inimii mele. L-am apucat si\
+      \ nu l-am mai lasat pina nu l-am adus in casa mamei mele, in odaia celei ce\
+      \ m-a zamislit."
+    textWithDiacritics: "Abia trecusem de ei şi am găsit pe iubitul inimii mele. L-am\
+      \ apucat şi nu l-am mai lăsat pînă nu l-am adus în casa mamei mele, în odaia\
+      \ celei ce m-a zămislit."
+    chapter: null
+  - verseNumber: 5
+    text: "Va jur, fiice ale Ierusalimului, pe caprioarele si cerboaicele de pe cimp:\
+      \ nu stirniti, nu treziti dragostea pina nu vine ea."
+    textWithDiacritics: "Vă jur, fiice ale Ierusalimului, pe căprioarele şi cerboaicele\
+      \ de pe cîmp: nu stîrniţi, nu treziţi dragostea pînă nu vine ea."
+    chapter: null
+  - verseNumber: 6
+    text: "Ce se vede suindu-se din pustiu ca niste stilpi de fum, in mijlocul aburilor\
+      \ de mir si de tamiie, inconjurata de toate miresmele negustorilor de mir?"
+    textWithDiacritics: "Ce se vede suindu-se din pustiu ca nişte stîlpi de fum, î\
+      n mijlocul aburilor de mir şi de tămîie, înconjurată de toate miresmele negustorilor\
+      \ de mir?"
+    chapter: null
+  - verseNumber: 7
+    text: "Iata, este patasca lui Solomon, cu saizeci de viteji de jur imprejur, cei\
+      \ mai viteji din Israel."
+    textWithDiacritics: "Iată, este pataşca lui Solomon, cu şaizeci de viteji de jur\
+      \ împrejur, cei mai viteji din Israel."
+    chapter: null
+  - verseNumber: 8
+    text: "Toti sunt inarmati cu sabii si toti sunt deprinsi la lupta, fiecare cu\
+      \ sabia la coapsa, ca sa n-aiba nimic de temut in timpul noptii."
+    textWithDiacritics: "Toţi sunt înarmaţi cu săbii şi toţi sunt deprinşi la luptă\
+      , fiecare cu sabia la coapsă, ca să n-aibă nimic de temut în timpul nopţii."
+    chapter: null
+  - verseNumber: 9
+    text: "Imparatul Solomon si-a facut aceasta patasca din lemn din Liban."
+    textWithDiacritics: "Împăratul Solomon şi-a făcut această pataşcă din lemn din\
+      \ Liban."
+    chapter: null
+  - verseNumber: 10
+    text: "Stilpii i-a facut de argint, rezematoarea, de aur, scaunul, de purpura;\
+      \ iar mijlocul, impodobit cu o tesatura aleasa, lucrata de dragostea fiicelor\
+      \ Ierusalimului."
+    textWithDiacritics: "Stîlpii i-a făcut de argint, rezemătoarea, de aur, scaunul,\
+      \ de purpură; iar mijlocul, împodobit cu o ţesătură aleasă, lucrată de dragostea\
+      \ fiicelor Ierusalimului."
+    chapter: null
+  - verseNumber: 11
+    text: "Iesiti, fetele Sionului, si priviti pe imparatul Solomon, cu cununa cu\
+      \ care l-a incununat mama sa in ziua cununiei lui, in ziua veseliei inimii lui."
+    textWithDiacritics: "Ieşiţi, fetele Sionului, şi priviţi pe împăratul Solomon,\
+      \ cu cununa cu care l-a încununat mama sa în ziua cununiei lui, în ziua veseliei\
+      \ inimii lui."
+    chapter: null
+- number: 4
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Ce frumoasa esti, iubito, ce frumoasa esti! Ochii tai sunt ochi de porumbita,\
+      \ sub marama ta. Parul tau este ca o turma de capre poposita pe coama muntelui\
+      \ Galaad."
+    textWithDiacritics: "Ce frumoasă eşti, iubito, ce frumoasă eşti! Ochii tăi sunt\
+      \ ochi de porumbiţă, sub marama ta. Părul tău este ca o turmă de capre poposită\
+      \ pe coama muntelui Galaad."
+    chapter: null
+  - verseNumber: 2
+    text: "Dintii tai sunt ca o turma de oi tunse care ies din scaldatoare, toate\
+      \ cu gemeni, si niciuna din ele nu este stearpa."
+    textWithDiacritics: "Dinţii tăi sunt ca o turmă de oi tunse care ies din scăldă\
+      toare, toate cu gemeni, şi niciuna din ele nu este stearpă."
+    chapter: null
+  - verseNumber: 3
+    text: "Buzele tale sunt ca un fir de cirmiz, si gura ta este draguta; obrazul\
+      \ tau este ca o jumatate de rodie, sub marama ta."
+    textWithDiacritics: "Buzele tale sunt ca un fir de cîrmîz, şi gura ta este dră\
+      guţă; obrazul tău este ca o jumătate de rodie, sub marama ta."
+    chapter: null
+  - verseNumber: 4
+    text: "Gitul tau este ca turnul lui David, zidit ca sa fie o casa de arme; o mie\
+      \ de scuturi atirna de el, toate scuturi de viteji."
+    textWithDiacritics: "Gîtul tău este ca turnul lui David, zidit ca să fie o casă\
+      \ de arme; o mie de scuturi atîrnă de el, toate scuturi de viteji."
+    chapter: null
+  - verseNumber: 5
+    text: "Amindoua titele tale sunt ca doi pui de cerb, ca gemenii unei caprioare\
+      \ care pasc intre crini."
+    textWithDiacritics: "Amîndouă ţîţele tale sunt ca doi pui de cerb, ca gemenii\
+      \ unei căprioare care pasc între crini."
+    chapter: null
+  - verseNumber: 6
+    text: "Pina se racoreste ziua si pina fug umbrele, voi veni la tine, munte de\
+      \ mir, si la tine, deal de tamiie."
+    textWithDiacritics: "Pînă se răcoreşte ziua şi pînă fug umbrele, voi veni la tine,\
+      \ munte de mir, şi la tine, deal de tămîie."
+    chapter: null
+  - verseNumber: 7
+    text: "Esti frumoasa de tot, iubito, si n-ai niciun cusur."
+    textWithDiacritics: "Eşti frumoasă de tot, iubito, şi n-ai niciun cusur."
+    chapter: null
+  - verseNumber: 8
+    text: "Vino cu mine din Liban, mireaso, vino cu mine din Liban! Priveste din virful\
+      \ muntelui Amana, din virful muntelui Senir si Hermon, din vizuinile leilor,\
+      \ din muntii pardosilor!"
+    textWithDiacritics: "Vino cu mine din Liban, mireaso, vino cu mine din Liban!\
+      \ Priveşte din vîrful muntelui Amana, din vîrful muntelui Senir şi Hermon, din\
+      \ vizuinile leilor, din munţii pardoşilor!"
+    chapter: null
+  - verseNumber: 9
+    text: "Mi-ai rapit inima, soro, mireaso, mi-ai rapit inima numai cu o privire,\
+      \ numai cu unul din lantisoarele de la gitul tau!"
+    textWithDiacritics: "Mi-ai răpit inima, soro, mireaso, mi-ai răpit inima numai\
+      \ cu o privire, numai cu unul din lănţişoarele de la gîtul tău!"
+    chapter: null
+  - verseNumber: 10
+    text: "Ce lipici in dezmierdarile tale, soro, mireaso! Dezmierdarile tale pretuiesc\
+      \ mai mult decit vinul, si miresmele tale sunt mai placute decit toate miroznele!"
+    textWithDiacritics: "Ce lipici în dezmierdările tale, soro, mireaso! Dezmierdă\
+      rile tale preţuiesc mai mult decît vinul, şi miresmele tale sunt mai plăcute\
+      \ decît toate miroznele!"
+    chapter: null
+  - verseNumber: 11
+    text: "Miere picura din buzele tale, mireaso, miere si lapte se afla sub limba\
+      \ ta, si mirosul hainelor tale este ca mirosul Libanului."
+    textWithDiacritics: "Miere picură din buzele tale, mireaso, miere şi lapte se\
+      \ află sub limba ta, şi mirosul hainelor tale este ca mirosul Libanului."
+    chapter: null
+  - verseNumber: 12
+    text: "Esti o gradina inchisa, soro, mireaso, un izvor inchis, o fintina pecetluita."
+    textWithDiacritics: "Eşti o grădină închisă, soro, mireaso, un izvor închis, o\
+      \ fîntînă pecetluită."
+    chapter: null
+  - verseNumber: 13
+    text: "Odraslele tale sunt o gradina de rodii, cu cele mai alese roade, malini\
+      \ negri si nard;"
+    textWithDiacritics: "Odraslele tale sunt o grădină de rodii, cu cele mai alese\
+      \ roade, mălini negri şi nard;"
+    chapter: null
+  - verseNumber: 14
+    text: "nard si sofran, trestie mirositoare si scortisoara, cu tot felul de tufari\
+      \ de tamiie, smirna si aloe, cu cele mai alese miresme."
+    textWithDiacritics: "nard şi şofran, trestie mirositoare şi scorţişoară, cu tot\
+      \ felul de tufari de tămîie, smirnă şi aloe, cu cele mai alese miresme."
+    chapter: null
+  - verseNumber: 15
+    text: "O fintina din gradini, un izvor de ape vii ce curge din Liban."
+    textWithDiacritics: "O fîntînă din grădini, un izvor de ape vii ce curge din Liban."
+    chapter: null
+  - verseNumber: 16
+    text: "Scoala-te, crivatule! Vino, vintule de miazazi! Suflati peste gradina mea,\
+      \ ca sa picure mirosurile din ea! Sa intre iubitul meu in gradina lui si sa\
+      \ manince din roadele ei alese!"
+    textWithDiacritics: "Scoală-te, crivăţule! Vino, vîntule de miazăzi! Suflaţi peste\
+      \ grădina mea, ca să picure mirosurile din ea! Să intre iubitul meu în grădina\
+      \ lui şi să mănînce din roadele ei alese!"
+    chapter: null
+- number: 5
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Eu intru in gradina mea, soro, mireaso, imi culeg smirna cu miresmele mele,\
+      \ imi maninc fagurele de miere cu mierea mea, imi beau vinul cu laptele meu…\
+      \ Mincati, prieteni, beti si imbatati-va de dragoste!"
+    textWithDiacritics: "Eu intru în grădina mea, soro, mireaso, îmi culeg smirna\
+      \ cu miresmele mele, îmi mănînc fagurele de miere cu mierea mea, îmi beau vinul\
+      \ cu laptele meu… Mîncaţi, prieteni, beţi şi îmbătaţi-vă de dragoste!"
+    chapter: null
+  - verseNumber: 2
+    text: "Adormisem, dar inima imi veghea… Este glasul preaiubitului meu, care bate:\
+      \ „Deschide-mi, soro, scumpo, porumbito, neprihanito! Caci capul imi este plin\
+      \ de roua, cirliontii imi sunt plini de picurii noptii.”"
+    textWithDiacritics: "Adormisem, dar inima îmi veghea… Este glasul preaiubitului\
+      \ meu, care bate: „Deschide-mi, soro, scumpo, porumbiţo, neprihănito! Căci capul\
+      \ îmi este plin de rouă, cîrlionţii îmi sunt plini de picurii nopţii.”"
+    chapter: null
+  - verseNumber: 3
+    text: "„Mi-am scos haina, cum sa ma imbrac iarasi? Mi-am spalat picioarele, cum\
+      \ sa le murdaresc iarasi?”"
+    textWithDiacritics: "„Mi-am scos haina, cum să mă îmbrac iarăşi? Mi-am spălat\
+      \ picioarele, cum să le murdăresc iarăşi?”"
+    chapter: null
+  - verseNumber: 4
+    text: "Dar iubitul meu a virit mina pe gaura zavorului, si mi-a fost mila de el\
+      \ atunci."
+    textWithDiacritics: "Dar iubitul meu a vîrît mîna pe gaura zăvorului, şi mi-a\
+      \ fost milă de el atunci."
+    chapter: null
+  - verseNumber: 5
+    text: "M-am sculat sa deschid iubitului meu, in timp ce de pe miinile mele picura\
+      \ smirna, si de pe degetele mele picura cea mai aleasa smirna pe minerul zavorului."
+    textWithDiacritics: "M-am sculat să deschid iubitului meu, în timp ce de pe mî\
+      inile mele picura smirnă, şi de pe degetele mele picura cea mai aleasă smirnă\
+      \ pe mînerul zăvorului."
+    chapter: null
+  - verseNumber: 6
+    text: "Am deschis iubitului meu; dar iubitul meu plecase, se facuse nevazut. Innebuneam\
+      \ cind imi vorbea. L-am cautat, dar nu l-am gasit; l-am strigat, dar nu mi-a\
+      \ raspuns."
+    textWithDiacritics: "Am deschis iubitului meu; dar iubitul meu plecase, se fă\
+      cuse nevăzut. Înnebuneam cînd îmi vorbea. L-am căutat, dar nu l-am găsit; l-am\
+      \ strigat, dar nu mi-a răspuns."
+    chapter: null
+  - verseNumber: 7
+    text: "Pazitorii care dau ocol cetatii m-au intilnit, m-au batut, m-au ranit;\
+      \ mi-au luat marama strajerii de pe ziduri."
+    textWithDiacritics: "Păzitorii care dau ocol cetăţii m-au întîlnit, m-au bătut,\
+      \ m-au rănit; mi-au luat marama străjerii de pe ziduri."
+    chapter: null
+  - verseNumber: 8
+    text: "Va rog fierbinte, fiice ale Ierusalimului, daca gasiti pe iubitul meu,\
+      \ ce-i veti spune?… Ca sunt bolnava de dragoste!"
+    textWithDiacritics: "Vă rog fierbinte, fiice ale Ierusalimului, dacă găsiţi pe\
+      \ iubitul meu, ce-i veţi spune?… Că sunt bolnavă de dragoste!"
+    chapter: null
+  - verseNumber: 9
+    text: "„Ce are iubitul tau mai mult decit altul, o, cea mai frumoasa dintre femei?\
+      \ Ce are iubitul tau mai mult decit altul, de ne rogi asa de fierbinte?”"
+    textWithDiacritics: "„Ce are iubitul tău mai mult decît altul, o, cea mai frumoasă\
+      \ dintre femei? Ce are iubitul tău mai mult decît altul, de ne rogi aşa de fierbinte?”"
+    chapter: null
+  - verseNumber: 10
+    text: "Iubitul meu este alb si rumen, deosebindu-se din zece mii."
+    textWithDiacritics: "Iubitul meu este alb şi rumen, deosebindu-se din zece mii."
+    chapter: null
+  - verseNumber: 11
+    text: "Capul lui este o cununa de aur curat, pletele lui ca niste valuri sunt\
+      \ negre cum e corbul."
+    textWithDiacritics: "Capul lui este o cunună de aur curat, pletele lui ca niş\
+      te valuri sunt negre cum e corbul."
+    chapter: null
+  - verseNumber: 12
+    text: "Ochii lui sunt ca niste porumbei pe marginea izvoarelor, scaldati in lapte\
+      \ si odihnindu-se in fata lui plina."
+    textWithDiacritics: "Ochii lui sunt ca nişte porumbei pe marginea izvoarelor,\
+      \ scăldaţi în lapte şi odihnindu-se în faţa lui plină."
+    chapter: null
+  - verseNumber: 13
+    text: "Obrajii lui sunt ca niste straturi de miresme, in care cresc saduri mirositoare;\
+      \ buzele lui sunt niste crini din care curge cea mai aleasa smirna."
+    textWithDiacritics: "Obrajii lui sunt ca nişte straturi de miresme, în care cresc\
+      \ saduri mirositoare; buzele lui sunt nişte crini din care curge cea mai aleasă\
+      \ smirnă."
+    chapter: null
+  - verseNumber: 14
+    text: "Miinile lui sunt niste inele de aur ferecate cu pietre de crisolit; trupul\
+      \ lui este un chip de fildes lustruit, acoperit cu pietre de safir;"
+    textWithDiacritics: "Mîinile lui sunt nişte inele de aur ferecate cu pietre de\
+      \ crisolit; trupul lui este un chip de fildeş lustruit, acoperit cu pietre de\
+      \ safir;"
+    chapter: null
+  - verseNumber: 15
+    text: "picioarele lui sunt niste stilpi de marmura alba, asezati pe niste temelii\
+      \ de aur curat. Infatisarea lui este ca Libanul, pare un tinar ales ca cedrii."
+    textWithDiacritics: "picioarele lui sunt nişte stîlpi de marmură albă, aşezaţ\
+      i pe nişte temelii de aur curat. Înfăţişarea lui este ca Libanul, pare un tî\
+      năr ales ca cedrii."
+    chapter: null
+  - verseNumber: 16
+    text: "Cerul gurii lui este numai dulceata, si toata fiinta lui este plina de\
+      \ farmec. Asa este iubitul meu, asa este scumpul meu, fiice ale Ierusalimului!"
+    textWithDiacritics: "Cerul gurii lui este numai dulceaţă, şi toată fiinţa lui\
+      \ este plină de farmec. Aşa este iubitul meu, aşa este scumpul meu, fiice ale\
+      \ Ierusalimului!"
+    chapter: null
+- number: 6
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Unde s-a dus iubitul tau, cea mai frumoasa dintre femei? Incotro a apucat\
+      \ iubitul tau, ca sa-l cautam si noi impreuna cu tine?"
+    textWithDiacritics: "Unde s-a dus iubitul tău, cea mai frumoasă dintre femei?\
+      \ Încotro a apucat iubitul tău, ca să-l căutăm şi noi împreună cu tine?"
+    chapter: null
+  - verseNumber: 2
+    text: "Iubitul meu s-a coborit la gradina lui, la stratul de miresme, ca sa-si\
+      \ pasca turma in gradini si sa culeaga crini."
+    textWithDiacritics: "Iubitul meu s-a coborît la grădina lui, la stratul de miresme,\
+      \ ca să-şi pască turma în grădini şi să culeagă crini."
+    chapter: null
+  - verseNumber: 3
+    text: "Eu sunt a iubitului meu, si iubitul meu este al meu; el isi paste turma\
+      \ intre crini."
+    textWithDiacritics: "Eu sunt a iubitului meu, şi iubitul meu este al meu; el î\
+      şi paşte turma între crini."
+    chapter: null
+  - verseNumber: 4
+    text: "Frumoasa esti, iubito, ca Tirta, placuta ca Ierusalimul, dar cumplita ca\
+      \ niste osti sub steagurile lor."
+    textWithDiacritics: "Frumoasă eşti, iubito, ca Tirţa, plăcută ca Ierusalimul,\
+      \ dar cumplită ca nişte oşti sub steagurile lor."
+    chapter: null
+  - verseNumber: 5
+    text: "Intoarce-ti ochii de la mine, caci ma tulbura. Perii tai sunt ca o turma\
+      \ de capre care poposesc pe coama Galaadului."
+    textWithDiacritics: "Întoarce-ţi ochii de la mine, căci mă tulbură. Perii tăi\
+      \ sunt ca o turmă de capre care poposesc pe coama Galaadului."
+    chapter: null
+  - verseNumber: 6
+    text: "Dintii tai sunt ca o turma de oi care ies din scaldatoare, toate cu gemeni,\
+      \ si niciuna din ele nu este stearpa."
+    textWithDiacritics: "Dinţii tăi sunt ca o turmă de oi care ies din scăldătoare,\
+      \ toate cu gemeni, şi niciuna din ele nu este stearpă."
+    chapter: null
+  - verseNumber: 7
+    text: "Obrazul tau este ca o jumatate de rodie, sub marama ta…"
+    textWithDiacritics: "Obrazul tău este ca o jumătate de rodie, sub marama ta…"
+    chapter: null
+  - verseNumber: 8
+    text: "Am saizeci de imparatese, optzeci de tiitoare, si fete fara numar,"
+    textWithDiacritics: "Am şaizeci de împărătese, optzeci de ţiitoare, şi fete fă\
+      ră număr,"
+    chapter: null
+  - verseNumber: 9
+    text: "dar numai una singura este porumbita mea, neprihanita mea; ea este singura\
+      \ la mama sa, cea mai aleasa a celei ce a nascut-o. Fetele o vad si o numesc\
+      \ fericita; imparatesele si tiitoarele de asemenea o lauda."
+    textWithDiacritics: "dar numai una singură este porumbiţa mea, neprihănita mea;\
+      \ ea este singură la mama sa, cea mai aleasă a celei ce a născut-o. Fetele o\
+      \ văd şi o numesc fericită; împărătesele şi ţiitoarele de asemenea o laudă."
+    chapter: null
+  - verseNumber: 10
+    text: "„Cine este aceea care se iveste ca zorile, frumoasa ca luna, curata ca\
+      \ soarele, dar cumplita ca niste osti sub steagurile lor?”"
+    textWithDiacritics: "„Cine este aceea care se iveşte ca zorile, frumoasă ca luna,\
+      \ curată ca soarele, dar cumplită ca nişte oşti sub steagurile lor?”"
+    chapter: null
+  - verseNumber: 11
+    text: "M-am coborit in gradina cu nuci, sa vad verdeata din vale, sa vad daca\
+      \ a inmugurit via si daca au inflorit rodiile."
+    textWithDiacritics: "M-am coborît în grădina cu nuci, să văd verdeaţa din vale,\
+      \ să văd dacă a înmugurit via şi dacă au înflorit rodiile."
+    chapter: null
+  - verseNumber: 12
+    text: "Dar fara sa bag de seama, dorinta mea m-a dus la carele poporului unui\
+      \ om ales."
+    textWithDiacritics: "Dar fără să bag de seamă, dorinţa mea m-a dus la carele poporului\
+      \ unui om ales."
+    chapter: null
+  - verseNumber: 13
+    text: "Intoarce-te, intoarce-te, Sulamito! Intoarce-te, intoarce-te, ca sa te\
+      \ privim. Ce aveti voi sa va uitati la Sulamita ca la niste fete ce joaca in\
+      \ cor a) ? [ a) Ebraica: din Mahanaim ]"
+    textWithDiacritics: "Întoarce-te, întoarce-te, Sulamito! Întoarce-te, întoarce-te,\
+      \ ca să te privim. Ce aveţi voi să vă uitaţi la Sulamita ca la nişte fete ce\
+      \ joacă în cor a) ? [ a) Ebraică: din Mahanaim ]"
+    chapter: null
+- number: 7
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Ce frumoase iti sunt picioarele in incaltamintea ta, fatade imparat Marginile\
+      \ rotunde ale coapsei tale sunt ca niste lantisoare de pus la git, lucrate de\
+      \ miinile unui mester iscusit."
+    textWithDiacritics: "Ce frumoase îţi sunt picioarele în încălţămintea ta, fată\
+      de împărat Marginile rotunde ale coapsei tale sunt ca nişte lănţişoare de pus\
+      \ la gît, lucrate de mîinile unui meşter iscusit."
+    chapter: null
+  - verseNumber: 2
+    text: "Pintecele tau este un pahar rotund de unde nu lipseste vinul mirositor;\
+      \ trupul tau este un snop de griu incins cu crini."
+    textWithDiacritics: "Pîntecele tău este un pahar rotund de unde nu lipseşte vinul\
+      \ mirositor; trupul tău este un snop de grîu încins cu crini."
+    chapter: null
+  - verseNumber: 3
+    text: "Amindoua titele tale sunt ca doi pui de cerb, ca gemenii unei caprioare."
+    textWithDiacritics: "Amîndouă ţîţele tale sunt ca doi pui de cerb, ca gemenii\
+      \ unei căprioare."
+    chapter: null
+  - verseNumber: 4
+    text: "Gitul tau este ca un turn de fildes; ochii tai sunt ca iazurile Hesbonului\
+      \ de linga poarta Bat Rabim; nasul tau este ca turnul Libanului care priveste\
+      \ spre Damasc."
+    textWithDiacritics: "Gîtul tău este ca un turn de fildeş; ochii tăi sunt ca iazurile\
+      \ Hesbonului de lîngă poarta Bat Rabim; nasul tău este ca turnul Libanului care\
+      \ priveşte spre Damasc."
+    chapter: null
+  - verseNumber: 5
+    text: "Capul tau este cum e Carmelul, si parul capului tau este ca purpura imparateasca:\
+      \ pina si un imparat ar fi inlantuit de pletele tale!…"
+    textWithDiacritics: "Capul tău este cum e Carmelul, şi părul capului tău este\
+      \ ca purpura împărătească: pînă şi un împărat ar fi înlănţuit de pletele tale!…"
+    chapter: null
+  - verseNumber: 6
+    text: "Ce frumoasa si ce placuta esti, tu, iubito, in mijlocul desfatarilor!"
+    textWithDiacritics: "Ce frumoasă şi ce plăcută eşti, tu, iubito, în mijlocul desfă\
+      tărilor!"
+    chapter: null
+  - verseNumber: 7
+    text: "Statura ta este ca finicul, si titele tale ca niste struguri."
+    textWithDiacritics: "Statura ta este ca finicul, şi ţîţele tale ca nişte struguri."
+    chapter: null
+  - verseNumber: 8
+    text: "Imi zic: „Ma voi sui in finic si-i voi apuca cracile!” Atunci titele tale\
+      \ vor fi ca strugurii din vie, mirosul suflarii tale ca al merelor."
+    textWithDiacritics: "Îmi zic: „Mă voi sui în finic şi-i voi apuca crăcile!” Atunci\
+      \ ţîţele tale vor fi ca strugurii din vie, mirosul suflării tale ca al merelor."
+    chapter: null
+  - verseNumber: 9
+    text: "Si gura ta toarna un vin ales care curge lin ca raspuns la dezmierdarile\
+      \ mele si aluneca pe buzele noastre cind adormim!"
+    textWithDiacritics: "Şi gura ta toarnă un vin ales care curge lin ca răspuns la\
+      \ dezmierdările mele şi alunecă pe buzele noastre cînd adormim!"
+    chapter: null
+  - verseNumber: 10
+    text: "Eu sunt a iubitului meu, si el doreste de mine."
+    textWithDiacritics: "Eu sunt a iubitului meu, şi el doreşte de mine."
+    chapter: null
+  - verseNumber: 11
+    text: "Vino, iubitule, haidem sa iesim pe cimp, sa raminem noaptea in sate!"
+    textWithDiacritics: "Vino, iubitule, haidem să ieşim pe cîmp, să rămînem noaptea\
+      \ în sate!"
+    chapter: null
+  - verseNumber: 12
+    text: "Dis-de-dimineata ne vom duce la vii sa vedem daca a inmugurit via, daca\
+      \ s-a deschis floarea si daca au inflorit rodiile. Acolo iti voi da dragostea\
+      \ mea."
+    textWithDiacritics: "Dis-de-dimineaţă ne vom duce la vii să vedem dacă a înmugurit\
+      \ via, dacă s-a deschis floarea şi dacă au înflorit rodiile. Acolo îţi voi da\
+      \ dragostea mea."
+    chapter: null
+  - verseNumber: 13
+    text: "Mandragorele isi raspindesc mirosul, si deasupra usii avem tot felul de\
+      \ roade bune, noi si vechi, pe care, pentru tine, iubitule, le-am pastrat."
+    textWithDiacritics: "Mandragorele îşi răspîndesc mirosul, şi deasupra uşii avem\
+      \ tot felul de roade bune, noi şi vechi, pe care, pentru tine, iubitule, le-am\
+      \ păstrat."
+    chapter: null
+- number: 8
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "O! de ai fi fratele meu, care a supt la titele mamei mele! Cind te-as intilni\
+      \ in ulita, te-as saruta, si nimeni nu m-ar tine de rau."
+    textWithDiacritics: "O! de ai fi fratele meu, care a supt la ţîţele mamei mele!\
+      \ Cînd te-aş întîlni în uliţă, te-aş săruta, şi nimeni nu m-ar ţine de rău."
+    chapter: null
+  - verseNumber: 2
+    text: "Te-as lua si te-as aduce acasa, la casa mamei mele; ea m-ar invata sa-ti\
+      \ dau sa bei vin mirositor, must din rodiile mele."
+    textWithDiacritics: "Te-aş lua şi te-aş aduce acasă, la casa mamei mele; ea m-ar\
+      \ învăţa să-ţi dau să bei vin mirositor, must din rodiile mele."
+    chapter: null
+  - verseNumber: 3
+    text: "Mina lui cea stinga sa fie sub capul meu, si dreapta lui sa ma imbratiseze!"
+    textWithDiacritics: "Mîna lui cea stîngă să fie sub capul meu, şi dreapta lui\
+      \ să mă îmbrăţişeze!"
+    chapter: null
+  - verseNumber: 4
+    text: "Va rog fierbinte, fiice ale Ierusalimului: nu stirniti, nu treziti dragostea\
+      \ pina nu vine ea."
+    textWithDiacritics: "Vă rog fierbinte, fiice ale Ierusalimului: nu stîrniţi, nu\
+      \ treziţi dragostea pînă nu vine ea."
+    chapter: null
+  - verseNumber: 5
+    text: "Cine este aceea care se suie din pustiu, rezemata de iubitul ei si zicind:\
+      \ „Te-am trezit sub mar; acolo te-a nascut mama ta, acolo te-a nascut si te-a\
+      \ facut ea”?"
+    textWithDiacritics: "Cine este aceea care se suie din pustiu, rezemată de iubitul\
+      \ ei şi zicînd: „Te-am trezit sub măr; acolo te-a născut mama ta, acolo te-a\
+      \ născut şi te-a făcut ea”?"
+    chapter: null
+  - verseNumber: 6
+    text: "Pune-ma ca o pecete pe inima ta, ca o pecete pe bratul tau; caci dragostea\
+      \ este tare ca moartea, si gelozia este neinduplecata ca Locuinta mortilor;\
+      \ jarul ei este jar de foc, o flacara a lui YaHWeH."
+    textWithDiacritics: "Pune-mă ca o pecete pe inima ta, ca o pecete pe braţul tă\
+      u; căci dragostea este tare ca moartea, şi gelozia este neînduplecată ca Locuinţ\
+      a morţilor; jarul ei este jar de foc, o flacără a lui YaHWeH."
+    chapter: null
+  - verseNumber: 7
+    text: "Apele cele mari nu pot sa stinga dragostea, si riurile n-ar putea s-o inece;\
+      \ de ar da omul toate averile din casa lui pentru dragoste, tot n-ar avea decit\
+      \ dispret."
+    textWithDiacritics: "Apele cele mari nu pot să stingă dragostea, şi rîurile n-ar\
+      \ putea s-o înece; de ar da omul toate averile din casa lui pentru dragoste,\
+      \ tot n-ar avea decît dispreţ."
+    chapter: null
+  - verseNumber: 8
+    text: "Avem o sora micuta care n-are inca tite. Ce vom face cu sora noastra in\
+      \ ziua cind ii vor veni petitorii?"
+    textWithDiacritics: "Avem o soră micuţă care n-are încă ţîţe. Ce vom face cu sora\
+      \ noastră în ziua cînd îi vor veni peţitorii?"
+    chapter: null
+  - verseNumber: 9
+    text: "Daca este zid, vom zidi niste zimti de argint pe ea; dar, daca este usa,\
+      \ o vom inchide cu o scindura de cedru."
+    textWithDiacritics: "Dacă este zid, vom zidi nişte zimţi de argint pe ea; dar,\
+      \ dacă este uşă, o vom închide cu o scîndură de cedru."
+    chapter: null
+  - verseNumber: 10
+    text: "Eu sunt un zid, si titele mele sunt ca niste turnuri; in ochii lui am fost\
+      \ ca una care a gasit pace."
+    textWithDiacritics: "Eu sunt un zid, şi ţîţele mele sunt ca nişte turnuri; în\
+      \ ochii lui am fost ca una care a găsit pace."
+    chapter: null
+  - verseNumber: 11
+    text: "Solomon avea o vie la Baal-Hamon; a inchiriat-o unor pazitori; si fiecare\
+      \ trebuia sa aduca pentru rodul ei o mie de sicli de argint."
+    textWithDiacritics: "Solomon avea o vie la Baal-Hamon; a închiriat-o unor păzitori;\
+      \ şi fiecare trebuia să aducă pentru rodul ei o mie de sicli de argint."
+    chapter: null
+  - verseNumber: 12
+    text: "Via mea, care este a mea, o pastrez eu. Tine-ti, Solomoane, cei o mie de\
+      \ sicli, si doua sute fie celor ce pazesc rodul!"
+    textWithDiacritics: "Via mea, care este a mea, o păstrez eu. Ţine-ţi, Solomoane,\
+      \ cei o mie de sicli, şi două sute fie celor ce păzesc rodul!"
+    chapter: null
+  - verseNumber: 13
+    text: "Tu, care locuiesti in gradini, niste prieteni isi pleaca urechea la glasul\
+      \ tau: binevoieste si fa-ma sa-l aud!"
+    textWithDiacritics: "Tu, care locuieşti în grădini, nişte prieteni îşi pleacă\
+      \ urechea la glasul tău: binevoieşte şi fă-mă să-l aud!"
+    chapter: null
+  - verseNumber: 14
+    text: "Vino repede, iubitule, ca o caprioara sau ca puiul de cerb pe muntii plini\
+      \ de mirozne! HalleluYah"
+    textWithDiacritics: "Vino repede, iubitule, ca o căprioară sau ca puiul de cerb\
+      \ pe munţii plini de mirozne! HalleluYah"
+    chapter: null

@@ -1,0 +1,609 @@
+---
+bookId: 8
+name: "Rut – Rute"
+abbreviation: "Rut."
+testament: "Vechiul Testament"
+expChaptersCount: 4
+expTotalVerses: 85
+downloadedLink: "https://yahwehtora.ro/rut-rute"
+requiresUpdate: false
+inProgress: false
+bookOrder: 8
+chapterPojo:
+- number: 1
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Pe vremea judecatorilor, a fost o foamete in tara. Un om din Betleemul\
+      \ lui Iuda a plecat cu nevasta sa si cu cei doi fii ai lui, sa locuiasca pentru\
+      \ o vreme in tara Moabului."
+    textWithDiacritics: "Pe vremea judecătorilor, a fost o foamete în ţară. Un om\
+      \ din Betleemul lui Iuda a plecat cu nevasta sa şi cu cei doi fii ai lui, să\
+      \ locuiască pentru o vreme în ţara Moabului."
+    chapter: null
+  - verseNumber: 2
+    text: "Numele omului aceluia era Elimelec, numele nevestei lui era Naomi, si cei\
+      \ doi fii ai lui se numeau Mahlon si Chilion: erau efratiti din Betleemul lui\
+      \ Iuda. Ajungind in tara Moabului, si-au asezat locuinta acolo."
+    textWithDiacritics: "Numele omului aceluia era Elimelec, numele nevestei lui era\
+      \ Naomi, şi cei doi fii ai lui se numeau Mahlon şi Chilion: erau efratiţi din\
+      \ Betleemul lui Iuda. Ajungînd în ţara Moabului, şi-au aşezat locuinţa acolo."
+    chapter: null
+  - verseNumber: 3
+    text: "Elimelec, barbatul Naomei, a murit, si ea a ramas cu cei doi fii ai ei."
+    textWithDiacritics: "Elimelec, bărbatul Naomei, a murit, şi ea a rămas cu cei\
+      \ doi fii ai ei."
+    chapter: null
+  - verseNumber: 4
+    text: "Ei si-au luat neveste moabite. Una se numea Orpa, si cealalta Rut, si au\
+      \ locuit acolo aproape zece ani."
+    textWithDiacritics: "Ei şi-au luat neveste moabite. Una se numea Orpa, şi cealaltă\
+      \ Rut, şi au locuit acolo aproape zece ani."
+    chapter: null
+  - verseNumber: 5
+    text: "Mahlon si Chilion au murit si ei amindoi, si Naomi a ramas fara cei doi\
+      \ fii ai ei si fara barbat. Rut se tine de Naomi"
+    textWithDiacritics: "Mahlon şi Chilion au murit şi ei amîndoi, şi Naomi a rămas\
+      \ fără cei doi fii ai ei şi fără bărbat. Rut se ţine de Naomi"
+    chapter: null
+  - verseNumber: 6
+    text: "Apoi s-a sculat, ea si nurorile ei, ca sa se intoarca in tara ei din tara\
+      \ Moabului, caci aflase in tara Moabului ca YaHWeH cercetase pe poporul Sau\
+      \ si-i daduse piine."
+    textWithDiacritics: "Apoi s-a sculat, ea şi nurorile ei, ca să se întoarcă în\
+      \ ţara ei din ţara Moabului, căci aflase în ţara Moabului că YaHWeH cercetase\
+      \ pe poporul Său şi-i dăduse pîine."
+    chapter: null
+  - verseNumber: 7
+    text: "Ea a iesit din locul in care locuia insotita de cele doua nurori ale ei\
+      \ si a pornit ca sa se intoarca in tara lui Iuda."
+    textWithDiacritics: "Ea a ieşit din locul în care locuia însoţită de cele două\
+      \ nurori ale ei şi a pornit ca să se întoarcă în ţara lui Iuda."
+    chapter: null
+  - verseNumber: 8
+    text: "Naomi a zis atunci celor doua nurori ale ei: „Duceti-va si intoarceti-va\
+      \ fiecare la casa mamei ei! YaHWeH sa Se indure de voi, cum v-ati indurat si\
+      \ voi de cei ce au murit si de mine!"
+    textWithDiacritics: "Naomi a zis atunci celor două nurori ale ei: „Duceţi-vă ş\
+      i întoarceţi-vă fiecare la casa mamei ei! YaHWeH să Se îndure de voi, cum v-aţ\
+      i îndurat şi voi de cei ce au murit şi de mine!"
+    chapter: null
+  - verseNumber: 9
+    text: "Sa va dea YaHWeH sa gasiti odihna fiecare in casa unui barbat!” Si le-a\
+      \ sarutat. Ele au ridicat glasul si au plins;"
+    textWithDiacritics: "Să vă dea YaHWeH să găsiţi odihnă fiecare în casa unui bă\
+      rbat!” Şi le-a sărutat. Ele au ridicat glasul şi au plîns;"
+    chapter: null
+  - verseNumber: 10
+    text: "si i-au zis: „Nu; noi vom merge cu tine la poporul tau.”"
+    textWithDiacritics: "şi i-au zis: „Nu; noi vom merge cu tine la poporul tău.”"
+    chapter: null
+  - verseNumber: 11
+    text: "Naomi a zis: „Intoarceti-va, fiicele mele! Pentru ce sa veniti voi cu mine?\
+      \ Mai am eu oare fii in pintecele meu, ca sa poata fi barbatii vostri?"
+    textWithDiacritics: "Naomi a zis: „Întoarceţi-vă, fiicele mele! Pentru ce să veniţ\
+      i voi cu mine? Mai am eu oare fii în pîntecele meu, ca să poată fi bărbaţii\
+      \ voştri?"
+    chapter: null
+  - verseNumber: 12
+    text: "Intoarceti-va, fiicele mele, si duceti-va! Eu sunt prea batrina ca sa ma\
+      \ marit din nou. Si chiar daca as zice ca trag nadejde; chiar daca in noaptea\
+      \ aceasta as fi cu un barbat si as naste fii,"
+    textWithDiacritics: "Întoarceţi-vă, fiicele mele, şi duceţi-vă! Eu sunt prea bă\
+      trînă ca să mă mărit din nou. Şi chiar dacă aş zice că trag nădejde; chiar dacă\
+      \ în noaptea aceasta aş fi cu un bărbat şi aş naşte fii,"
+    chapter: null
+  - verseNumber: 13
+    text: "ati mai astepta voi pina sa se faca mari si ati vrea voi sa nu va maritati\
+      \ din pricina lor? Nu, fiicele mele! Eu sunt mult mai amarita decit voi, pentru\
+      \ ca mina lui YaHWeH s-a intins impotriva mea.”"
+    textWithDiacritics: "aţi mai aştepta voi pînă să se facă mari şi aţi vrea voi\
+      \ să nu vă măritaţi din pricina lor? Nu, fiicele mele! Eu sunt mult mai amă\
+      rîtă decît voi, pentru că mîna lui YaHWeH s-a întins împotriva mea.”"
+    chapter: null
+  - verseNumber: 14
+    text: "Si ele au ridicat glasul si iarasi au plins. Orpa a sarutat pe soacra sa\
+      \ si a plecat, dar Rut s-a tinut de ea."
+    textWithDiacritics: "Şi ele au ridicat glasul şi iarăşi au plîns. Orpa a sărutat\
+      \ pe soacra sa şi a plecat, dar Rut s-a ţinut de ea."
+    chapter: null
+  - verseNumber: 15
+    text: "Naomi a zis catre Rut: „Iata, cumnata ta s-a intors la poporul ei si la\
+      \ dumnezeii ei; intoarce-te si tu dupa cumnata ta.”"
+    textWithDiacritics: "Naomi a zis către Rut: „Iată, cumnata ta s-a întors la poporul\
+      \ ei şi la dumnezeii ei; întoarce-te şi tu după cumnata ta.”"
+    chapter: null
+  - verseNumber: 16
+    text: "Rut a raspuns: „Nu sta de mine sa te las si sa ma intorc de la tine! Incotro\
+      \ vei merge tu, voi merge si eu, unde vei locui tu, voi locui si eu; poporul\
+      \ tau va fi poporul meu, si Eylohim al tau va fi Eylohim al meu;"
+    textWithDiacritics: "Rut a răspuns: „Nu sta de mine să te las şi să mă întorc\
+      \ de la tine! Încotro vei merge tu, voi merge şi eu, unde vei locui tu, voi\
+      \ locui şi eu; poporul tău va fi poporul meu, şi Eylohim al tău va fi Eylohim\
+      \ al meu;"
+    chapter: null
+  - verseNumber: 17
+    text: "unde vei muri tu, voi muri si eu si voi fi ingropata acolo. Faca-mi YaHWeH\
+      \ ce o vrea, dar nimic nu ma va desparti de tine decit moartea!”"
+    textWithDiacritics: "unde vei muri tu, voi muri şi eu şi voi fi îngropată acolo.\
+      \ Facă-mi YaHWeH ce o vrea, dar nimic nu mă va despărţi de tine decît moartea!”"
+    chapter: null
+  - verseNumber: 18
+    text: "Naomi, vazind-o hotarita sa mearga cu ea, n-a mai staruit."
+    textWithDiacritics: "Naomi, văzînd-o hotărîtă să meargă cu ea, n-a mai stăruit."
+    chapter: null
+  - verseNumber: 19
+    text: "Au calatorit impreuna pina ce au ajuns la Betleem. Si cind au intrat in\
+      \ Betleem, toata cetatea s-a pus in miscare din pricina lor, si femeile ziceau:\
+      \ „Naomi a) este aceasta?” [ a) Sau: Placuta ]"
+    textWithDiacritics: "Au călătorit împreună pînă ce au ajuns la Betleem. Şi cî\
+      nd au intrat în Betleem, toată cetatea s-a pus în mişcare din pricina lor, ş\
+      i femeile ziceau: „Naomi a) este aceasta?” [ a) Sau: Plăcută ]"
+    chapter: null
+  - verseNumber: 20
+    text: "Ea le-a zis: „Nu-mi mai ziceti Naomi; ziceti-mi Mara a) caci Cel Atotputernic\
+      \ m-a umplut de amaraciune. [ a) Sau: Amaraciune ]"
+    textWithDiacritics: "Ea le-a zis: „Nu-mi mai ziceţi Naomi; ziceţi-mi Mara a) că\
+      ci Cel Atotputernic m-a umplut de amărăciune. [ a) Sau: Amărăciune ]"
+    chapter: null
+  - verseNumber: 21
+    text: "La plecare eram in belsug, si acum YaHWeH ma aduce inapoi cu miinile goale.\
+      \ De ce sa-mi mai ziceti Naomi, cind YaHWeH S-a rostit impotriva mea, si Cel\
+      \ Atotputernic m-a intristat?”"
+    textWithDiacritics: "La plecare eram în belşug, şi acum YaHWeH mă aduce înapoi\
+      \ cu mîinile goale. De ce să-mi mai ziceţi Naomi, cînd YaHWeH S-a rostit împotriva\
+      \ mea, şi Cel Atotputernic m-a întristat?”"
+    chapter: null
+  - verseNumber: 22
+    text: "Astfel s-au intors din tara Moabului Naomi si nora sa Rut, moabita. Au\
+      \ ajuns la Betleem la inceputul seceratului orzului."
+    textWithDiacritics: "Astfel s-au întors din ţara Moabului Naomi şi nora sa Rut,\
+      \ moabita. Au ajuns la Betleem la începutul seceratului orzului."
+    chapter: null
+- number: 2
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Naomi avea o ruda dupa barbat. Acesta era un om foarte bogat, din familia\
+      \ lui Elimelec, si se numea Boaz."
+    textWithDiacritics: "Naomi avea o rudă după bărbat. Acesta era un om foarte bogat,\
+      \ din familia lui Elimelec, şi se numea Boaz."
+    chapter: null
+  - verseNumber: 2
+    text: "Rut, moabita, a zis catre Naomi: „Lasa-ma, te rog, sa ma duc sa string\
+      \ spice de pe cimpul aceluia inaintea caruia voi capata trecere.” Ea i-a raspuns:\
+      \ „Du-te, fiica mea.”"
+    textWithDiacritics: "Rut, moabita, a zis către Naomi: „Lasă-mă, te rog, să mă\
+      \ duc să strîng spice de pe cîmpul aceluia înaintea căruia voi căpăta trecere.”\
+      \ Ea i-a răspuns: „Du-te, fiica mea.”"
+    chapter: null
+  - verseNumber: 3
+    text: "Ea s-a dus intr-un ogor sa stringa spice pe urma seceratorilor. Si s-a\
+      \ intimplat ca ogorul acela era al lui Boaz, care era din familia lui Elimelec."
+    textWithDiacritics: "Ea s-a dus într-un ogor să strîngă spice pe urma secerătorilor.\
+      \ Şi s-a întîmplat că ogorul acela era al lui Boaz, care era din familia lui\
+      \ Elimelec."
+    chapter: null
+  - verseNumber: 4
+    text: "Si iata ca Boaz a venit din Betleem si a zis seceratorilor: „ YaHWeH sa\
+      \ fie cu voi!” Ei au raspuns: „ YaHWeH sa te binecuvinteze!”"
+    textWithDiacritics: "Şi iată că Boaz a venit din Betleem şi a zis secerătorilor:\
+      \ „ YaHWeH să fie cu voi!” Ei au răspuns: „ YaHWeH să te binecuvînteze!”"
+    chapter: null
+  - verseNumber: 5
+    text: "Si Boaz a zis slujitorului insarcinat cu privegherea seceratorilor: „A\
+      \ cui este tinara aceasta?”"
+    textWithDiacritics: "Şi Boaz a zis slujitorului însărcinat cu privegherea seceră\
+      torilor: „A cui este tînăra aceasta?”"
+    chapter: null
+  - verseNumber: 6
+    text: "Slujitorul insarcinat cu privegherea seceratorilor a raspuns: „Este o tinara\
+      \ moabita, care s-a intors cu Naomi din tara Moabului."
+    textWithDiacritics: "Slujitorul însărcinat cu privegherea secerătorilor a răspuns:\
+      \ „Este o tînără moabită, care s-a întors cu Naomi din ţara Moabului."
+    chapter: null
+  - verseNumber: 7
+    text: "Ea a zis: „Da-mi voie sa string si sa culeg spice dintre snopi, ramase\
+      \ pe urma seceratorilor.” Si de azi dimineata, de cind a venit, a stat in picioare\
+      \ pina acum si nu s-a odihnit decit o clipa in casa.”"
+    textWithDiacritics: "Ea a zis: „Dă-mi voie să strîng şi să culeg spice dintre\
+      \ snopi, rămase pe urma secerătorilor.” Şi de azi dimineaţă, de cînd a venit,\
+      \ a stat în picioare pînă acum şi nu s-a odihnit decît o clipă în casă.”"
+    chapter: null
+  - verseNumber: 8
+    text: "Boaz a zis catre Rut: „Asculta, fiica, sa nu te duci sa culegi spice in\
+      \ alt ogor; sa nu te departezi de aici si ramii cu slujnicele mele."
+    textWithDiacritics: "Boaz a zis către Rut: „Ascultă, fiică, să nu te duci să culegi\
+      \ spice în alt ogor; să nu te depărtezi de aici şi rămîi cu slujnicele mele."
+    chapter: null
+  - verseNumber: 9
+    text: "Uita-te unde vor secera pe cimp si du-te dupa ele. Am poruncit slugilor\
+      \ mele sa nu se atinga de tine. Si cind iti va fi sete, sa te duci la vase si\
+      \ sa bei din ce vor scoate slugile.”"
+    textWithDiacritics: "Uită-te unde vor secera pe cîmp şi du-te după ele. Am poruncit\
+      \ slugilor mele să nu se atingă de tine. Şi cînd îţi va fi sete, să te duci\
+      \ la vase şi să bei din ce vor scoate slugile.”"
+    chapter: null
+  - verseNumber: 10
+    text: "Atunci ea s-a aruncat cu fata la pamint si i-a zis: „Cum am capatat eu\
+      \ trecere inaintea ta, ca sa te ingrijesti de mine, o straina?”"
+    textWithDiacritics: "Atunci ea s-a aruncat cu faţa la pămînt şi i-a zis: „Cum\
+      \ am căpătat eu trecere înaintea ta, ca să te îngrijeşti de mine, o străină\
+      ?”"
+    chapter: null
+  - verseNumber: 11
+    text: "Boaz i-a raspuns: „Mi s-a spus tot ce ai facut pentru soacra ta, de la\
+      \ moartea barbatului tau, si cum ai parasit pe tatal tau si pe mama ta si tara\
+      \ in care te-ai nascut, ca sa mergi la un popor pe care nu-l cunosteai mai inainte."
+    textWithDiacritics: "Boaz i-a răspuns: „Mi s-a spus tot ce ai făcut pentru soacra\
+      \ ta, de la moartea bărbatului tău, şi cum ai părăsit pe tatăl tău şi pe mama\
+      \ ta şi ţara în care te-ai născut, ca să mergi la un popor pe care nu-l cunoş\
+      teai mai înainte."
+    chapter: null
+  - verseNumber: 12
+    text: "YaHWeH sa-ti rasplateasca ce ai facut, si plata sa-ti fie deplina din partea\
+      \ lui YaHWeH Eylohim al lui Israel sub ale carui aripi ai venit sa te adapostesti!”"
+    textWithDiacritics: "YaHWeH să-ţi răsplătească ce ai făcut, şi plata să-ţi fie\
+      \ deplină din partea lui YaHWeH Eylohim al lui Israel sub ale cărui aripi ai\
+      \ venit să te adăposteşti!”"
+    chapter: null
+  - verseNumber: 13
+    text: "Si ea a zis: „O! Sa capat trecere inaintea ta, stapinul meu! Caci tu m-ai\
+      \ mingiiat, si vorbele tale au mers la inima slujnicei tale. Si totusi eu nu\
+      \ sunt nici macar ca una din slujnicele tale.”"
+    textWithDiacritics: "Şi ea a zis: „O! Să capăt trecere înaintea ta, stăpînul meu!\
+      \ Căci tu m-ai mîngîiat, şi vorbele tale au mers la inima slujnicei tale. Ş\
+      i totuşi eu nu sunt nici măcar ca una din slujnicele tale.”"
+    chapter: null
+  - verseNumber: 14
+    text: "La vremea prinzului, Boaz a zis catre Rut: „Apropie-te, maninca piine si\
+      \ inmoaie-ti bucata in otet.” Ea a sezut linga seceratori. I-au dat graunte\
+      \ prajite; a mincat si s-a saturat, si ce a ramas a strins."
+    textWithDiacritics: "La vremea prînzului, Boaz a zis către Rut: „Apropie-te, mă\
+      nîncă pîine şi înmoaie-ţi bucata în oţet.” Ea a şezut lîngă secerători. I-au\
+      \ dat grăunţe prăjite; a mîncat şi s-a săturat, şi ce a rămas a strîns."
+    chapter: null
+  - verseNumber: 15
+    text: "Apoi s-a sculat sa culeaga spice. Boaz a dat urmatoarea porunca slujitorilor\
+      \ sai: „Lasati-o sa culeaga spice si intre snopi si sa n-o opriti;"
+    textWithDiacritics: "Apoi s-a sculat să culeagă spice. Boaz a dat următoarea poruncă\
+      \ slujitorilor săi: „Lăsaţi-o să culeagă spice şi între snopi şi să n-o opriţ\
+      i;"
+    chapter: null
+  - verseNumber: 16
+    text: "si chiar voi sa-i scoateti din snopi citeva spice; s-o lasati sa culeaga\
+      \ spice si sa n-o infruntati.”"
+    textWithDiacritics: "şi chiar voi să-i scoateţi din snopi cîteva spice; s-o lă\
+      saţi să culeagă spice şi să n-o înfruntaţi.”"
+    chapter: null
+  - verseNumber: 17
+    text: "Ea a cules spice de pe cimp pina seara si a batut ce culesese. A iesit\
+      \ aproape o efa de orz."
+    textWithDiacritics: "Ea a cules spice de pe cîmp pînă seara şi a bătut ce culesese.\
+      \ A ieşit aproape o efă de orz."
+    chapter: null
+  - verseNumber: 18
+    text: "A luat-o si a intrat in cetate, si soacra sa a vazut ce culesese. Rut a\
+      \ scos si ramasitele de la prinz si i le-a dat."
+    textWithDiacritics: "A luat-o şi a intrat în cetate, şi soacra sa a văzut ce culesese.\
+      \ Rut a scos şi rămăşiţele de la prînz şi i le-a dat."
+    chapter: null
+  - verseNumber: 19
+    text: "Soacra sa i-a zis: „Unde ai cules astazi spice si unde ai muncit? Binecuvintat\
+      \ sa fie cel ce s-a ingrijit de tine!” Si Rut a spus soacrei sale la cine muncise:\
+      \ „Omul la care am muncit azi”, a zis ea, „se numeste Boaz.”"
+    textWithDiacritics: "Soacra sa i-a zis: „Unde ai cules astăzi spice şi unde ai\
+      \ muncit? Binecuvîntat să fie cel ce s-a îngrijit de tine!” Şi Rut a spus soacrei\
+      \ sale la cine muncise: „Omul la care am muncit azi”, a zis ea, „se numeşte\
+      \ Boaz.”"
+    chapter: null
+  - verseNumber: 20
+    text: "Naomi a zis nurorii sale: „Sa fie binecuvintat de YaHWeH, care este plin\
+      \ de indurare pentru cei vii, cum a fost si pentru cei ce au murit. Omul acesta\
+      \ este ruda cu noi”, i-a mai spus Naomi, „este din cei ce au drept de rascumparare\
+      \ asupra noastra.”"
+    textWithDiacritics: "Naomi a zis nurorii sale: „Să fie binecuvîntat de YaHWeH,\
+      \ care este plin de îndurare pentru cei vii, cum a fost şi pentru cei ce au\
+      \ murit. Omul acesta este rudă cu noi”, i-a mai spus Naomi, „este din cei ce\
+      \ au drept de răscumpărare asupra noastră.”"
+    chapter: null
+  - verseNumber: 21
+    text: "Rut, moabita, a adaugat: „El mi-a mai zis: „Ramii cu slugile mele pina\
+      \ vor ispravi de secerat.”"
+    textWithDiacritics: "Rut, moabita, a adăugat: „El mi-a mai zis: „Rămîi cu slugile\
+      \ mele pînă vor isprăvi de secerat.”"
+    chapter: null
+  - verseNumber: 22
+    text: "Si Naomi a zis catre nora sa, Rut: „Este bine, fiica mea, sa iesi cu slujnicele\
+      \ lui si sa nu te intilneasca cineva in alt ogor.”"
+    textWithDiacritics: "Şi Naomi a zis către nora sa, Rut: „Este bine, fiica mea,\
+      \ să ieşi cu slujnicele lui şi să nu te întîlnească cineva în alt ogor.”"
+    chapter: null
+  - verseNumber: 23
+    text: "Ea s-a tinut, dar, de slujnicele lui Boaz, ca sa culeaga spice, pina la\
+      \ sfirsitul seceratului orzului si seceratului griului. Si locuia cu soacra\
+      \ sa."
+    textWithDiacritics: "Ea s-a ţinut, dar, de slujnicele lui Boaz, ca să culeagă\
+      \ spice, pînă la sfîrşitul seceratului orzului şi seceratului grîului. Şi locuia\
+      \ cu soacra sa."
+    chapter: null
+- number: 3
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Soacra sa, Naomi, i-a zis: „Fiica mea, as vrea sa-ti dau un loc de odihna,\
+      \ ca sa fii fericita."
+    textWithDiacritics: "Soacra sa, Naomi, i-a zis: „Fiica mea, aş vrea să-ţi dau\
+      \ un loc de odihnă, ca să fii fericită."
+    chapter: null
+  - verseNumber: 2
+    text: "Si acum Boaz, cu ale carui slujnice ai fost, nu este el ruda cu noi? Iata,\
+      \ el are sa vinture la noapte orzul in arie."
+    textWithDiacritics: "Şi acum Boaz, cu ale cărui slujnice ai fost, nu este el rudă\
+      \ cu noi? Iată, el are să vînture la noapte orzul în arie."
+    chapter: null
+  - verseNumber: 3
+    text: "Spala-te si unge-te, apoi imbraca-te cu hainele tale si coboara-te la arie.\
+      \ Sa nu te faci cunoscuta lui, pina va ispravi de mincat si de baut."
+    textWithDiacritics: "Spală-te şi unge-te, apoi îmbracă-te cu hainele tale şi coboară\
+      -te la arie. Să nu te faci cunoscută lui, pînă va isprăvi de mîncat şi de bă\
+      ut."
+    chapter: null
+  - verseNumber: 4
+    text: "Si cind se va duce sa se culce, insemneaza-ti locul unde se culca. Apoi\
+      \ du-te, descopera-i picioarele si culca-te. Si el insusi iti va spune ce sa\
+      \ faci.”"
+    textWithDiacritics: "Şi cînd se va duce să se culce, însemnează-ţi locul unde\
+      \ se culcă. Apoi du-te, descoperă-i picioarele şi culcă-te. Şi el însuşi îţ\
+      i va spune ce să faci.”"
+    chapter: null
+  - verseNumber: 5
+    text: "Ea i-a raspuns: „Voi face tot ce ai spus.”"
+    textWithDiacritics: "Ea i-a răspuns: „Voi face tot ce ai spus.”"
+    chapter: null
+  - verseNumber: 6
+    text: "Rut s-a coborit la arie si a facut tot ce poruncise soacra sa."
+    textWithDiacritics: "Rut s-a coborît la arie şi a făcut tot ce poruncise soacra\
+      \ sa."
+    chapter: null
+  - verseNumber: 7
+    text: "Boaz a mincat si a baut, si inima-i era vesela. S-a dus si s-a culcat la\
+      \ marginea unui stog. Rut a venit atunci incet de tot, i-a descoperit picioarele\
+      \ si s-a culcat."
+    textWithDiacritics: "Boaz a mîncat şi a băut, şi inima-i era veselă. S-a dus ş\
+      i s-a culcat la marginea unui stog. Rut a venit atunci încet de tot, i-a descoperit\
+      \ picioarele şi s-a culcat."
+    chapter: null
+  - verseNumber: 8
+    text: "La miezul noptii, omul s-a speriat; s-a plecat si iata ca o femeie era\
+      \ culcata la picioarele lui."
+    textWithDiacritics: "La miezul nopţii, omul s-a speriat; s-a plecat şi iată că\
+      \ o femeie era culcată la picioarele lui."
+    chapter: null
+  - verseNumber: 9
+    text: "El a zis: „Cine esti tu?” Ea a raspuns: „Eu sunt Rut, slujnica ta; intinde-ti\
+      \ poala hainei peste slujnica ta, caci ai drept de rascumparare.”"
+    textWithDiacritics: "El a zis: „Cine eşti tu?” Ea a răspuns: „Eu sunt Rut, slujnica\
+      \ ta; întinde-ţi poala hainei peste slujnica ta, căci ai drept de răscumpărare.”"
+    chapter: null
+  - verseNumber: 10
+    text: "Si el a zis: „Fii binecuvintata de YaHWeH, fiica! Aceasta fapta de pe urma\
+      \ marturiseste si mai mult pentru tine decit cea dintii, ca n-ai umblat dupa\
+      \ tineri, saraci sau bogati."
+    textWithDiacritics: "Şi el a zis: „Fii binecuvîntată de YaHWeH, fiică! Această\
+      \ faptă de pe urmă mărturiseşte şi mai mult pentru tine decît cea dintîi, că\
+      \ n-ai umblat după tineri, săraci sau bogaţi."
+    chapter: null
+  - verseNumber: 11
+    text: "Acum, fiica, nu te teme, iti voi face tot ce vei zice, caci toata cetatea\
+      \ stie ca esti o femeie cinstita."
+    textWithDiacritics: "Acum, fiică, nu te teme, îţi voi face tot ce vei zice, că\
+      ci toată cetatea ştie că eşti o femeie cinstită."
+    chapter: null
+  - verseNumber: 12
+    text: "Este adevarat ca am drept de rascumparare, dar este o alta ruda mai aproape\
+      \ decit mine."
+    textWithDiacritics: "Este adevărat că am drept de răscumpărare, dar este o altă\
+      \ rudă mai aproape decît mine."
+    chapter: null
+  - verseNumber: 13
+    text: "Ramii in noaptea aceasta aici. Si miine, daca vrea sa te rascumpere, bine,\
+      \ sa te rascumpere; dar daca nu-i place sa te rascumpere, te voi rascumpara\
+      \ eu, viu este YaHWeH! Culca-te aici pina dimineata.”"
+    textWithDiacritics: "Rămîi în noaptea aceasta aici. Şi mîine, dacă vrea să te\
+      \ răscumpere, bine, să te răscumpere; dar dacă nu-i place să te răscumpere,\
+      \ te voi răscumpăra eu, viu este YaHWeH! Culcă-te aici pînă dimineaţă.”"
+    chapter: null
+  - verseNumber: 14
+    text: "Ea a ramas culcata la picioarele lui pina dimineata si s-a sculat mai inainte\
+      \ de a se putea cunoaste unul pe altul. Boaz a zis: „Sa nu stie nimeni ca a\
+      \ intrat o femeie in arie!”"
+    textWithDiacritics: "Ea a rămas culcată la picioarele lui pînă dimineaţa şi s-a\
+      \ sculat mai înainte de a se putea cunoaşte unul pe altul. Boaz a zis: „Să nu\
+      \ ştie nimeni că a intrat o femeie în arie!”"
+    chapter: null
+  - verseNumber: 15
+    text: "Si a adaugat: „Adu mantaua de pe tine si tine-o.” Ea a tinut-o, si el a\
+      \ masurat sase masuri de orz si le-a pus pe ea. Apoi a intrat in cetate."
+    textWithDiacritics: "Şi a adăugat: „Adu mantaua de pe tine şi ţine-o.” Ea a ţ\
+      inut-o, şi el a măsurat şase măsuri de orz şi le-a pus pe ea. Apoi a intrat\
+      \ în cetate."
+    chapter: null
+  - verseNumber: 16
+    text: "Rut s-a intors la soacra sa, si Naomi a zis: „Tu esti, fiica mea?” Rut\
+      \ i-a istorisit tot ce-i facuse omul acela."
+    textWithDiacritics: "Rut s-a întors la soacra sa, şi Naomi a zis: „Tu eşti, fiica\
+      \ mea?” Rut i-a istorisit tot ce-i făcuse omul acela."
+    chapter: null
+  - verseNumber: 17
+    text: "Ea a zis: „Mi-a dat aceste sase masuri de orz, zicind: „Sa nu te intorci\
+      \ cu miinile goale la soacra ta.”"
+    textWithDiacritics: "Ea a zis: „Mi-a dat aceste şase măsuri de orz, zicînd: „\
+      Să nu te întorci cu mîinile goale la soacra ta.”"
+    chapter: null
+  - verseNumber: 18
+    text: "Si Naomi a zis: „Fii linistita, fiica mea, pina vei sti cum se va ispravi\
+      \ lucrul acesta, caci omul acesta nu va avea odihna pina nu va sfirsi lucrul\
+      \ chiar astazi.”"
+    textWithDiacritics: "Şi Naomi a zis: „Fii liniştită, fiica mea, pînă vei şti cum\
+      \ se va isprăvi lucrul acesta, căci omul acesta nu va avea odihnă pînă nu va\
+      \ sfîrşi lucrul chiar astăzi.”"
+    chapter: null
+- number: 4
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Boaz s-a suit la poarta cetatii si s-a oprit acolo. Si iata ca cel ce avea\
+      \ drept de rascumparare, si despre care vorbise Boaz, trecea. Boaz i-a zis:\
+      \ „Hei, cutare, apropie-te, stai aici.” Si el s-a apropiat si s-a oprit."
+    textWithDiacritics: "Boaz s-a suit la poarta cetăţii şi s-a oprit acolo. Şi iată\
+      \ că cel ce avea drept de răscumpărare, şi despre care vorbise Boaz, trecea.\
+      \ Boaz i-a zis: „Hei, cutare, apropie-te, stai aici.” Şi el s-a apropiat şi\
+      \ s-a oprit."
+    chapter: null
+  - verseNumber: 2
+    text: "Boaz a luat atunci zece oameni dintre batrinii cetatii si a zis: „Sedeti\
+      \ aici.” Si ei au sezut jos."
+    textWithDiacritics: "Boaz a luat atunci zece oameni dintre bătrînii cetăţii ş\
+      i a zis: „Şedeţi aici.” Şi ei au şezut jos."
+    chapter: null
+  - verseNumber: 3
+    text: "Apoi a zis celui ce avea drept de rascumparare: „Naomi, intorcindu-se din\
+      \ tara Moabului, a vindut bucata de pamint care era a fratelui nostru Elimelec."
+    textWithDiacritics: "Apoi a zis celui ce avea drept de răscumpărare: „Naomi, î\
+      ntorcîndu-se din ţara Moabului, a vîndut bucata de pămînt care era a fratelui\
+      \ nostru Elimelec."
+    chapter: null
+  - verseNumber: 4
+    text: "Am crezut de datoria mea sa te instiintez despre aceasta si sa-ti spun:\
+      \ „Cumpara-o, in fata locuitorilor si in fata batrinilor poporului meu. Daca\
+      \ vrei s-o rascumperi, rascumpar-o; dar daca nu vrei, spune-mi, ca sa stiu.\
+      \ Caci nu este nimeni inaintea ta care sa aiba dreptul de rascumparare, si dupa\
+      \ tine, eu am dreptul acesta.” Si el a raspuns: „O voi rascumpara.”"
+    textWithDiacritics: "Am crezut de datoria mea să te înştiinţez despre aceasta\
+      \ şi să-ţi spun: „Cumpără-o, în faţa locuitorilor şi în faţa bătrînilor poporului\
+      \ meu. Dacă vrei s-o răscumperi, răscumpăr-o; dar dacă nu vrei, spune-mi, ca\
+      \ să ştiu. Căci nu este nimeni înaintea ta care să aibă dreptul de răscumpă\
+      rare, şi după tine, eu am dreptul acesta.” Şi el a răspuns: „O voi răscumpă\
+      ra.”"
+    chapter: null
+  - verseNumber: 5
+    text: "Boaz a zis: „In ziua in care vei cumpara tarina din mina Naomei, o vei\
+      \ cumpara in acelasi timp si de la Rut, moabita, nevasta celui mort, ca sa ridici\
+      \ numele mortului in mostenirea lui.”"
+    textWithDiacritics: "Boaz a zis: „În ziua în care vei cumpăra ţarina din mîna\
+      \ Naomei, o vei cumpăra în acelaşi timp şi de la Rut, moabita, nevasta celui\
+      \ mort, ca să ridici numele mortului în moştenirea lui.”"
+    chapter: null
+  - verseNumber: 6
+    text: "Si cel ce avea drept de rascumparare a raspuns: „Nu pot s-o rascumpar pe\
+      \ socoteala mea, de frica sa nu-mi stric mostenirea mea; ia tu dreptul de rascumparare,\
+      \ caci eu nu pot s-o rascumpar.”"
+    textWithDiacritics: "Şi cel ce avea drept de răscumpărare a răspuns: „Nu pot s-o\
+      \ răscumpăr pe socoteala mea, de frică să nu-mi stric moştenirea mea; ia tu\
+      \ dreptul de răscumpărare, căci eu nu pot s-o răscumpăr.”"
+    chapter: null
+  - verseNumber: 7
+    text: "Odinioara in Israel, pentru intarirea unei rascumparari sau unui schimb,\
+      \ omul isi scotea incaltamintea si o dadea celuilalt: aceasta slujea ca marturie\
+      \ in Israel."
+    textWithDiacritics: "Odinioară în Israel, pentru întărirea unei răscumpărări sau\
+      \ unui schimb, omul îşi scotea încălţămintea şi o dădea celuilalt: aceasta slujea\
+      \ ca mărturie în Israel."
+    chapter: null
+  - verseNumber: 8
+    text: "Cel ce avea drept de rascumparare a zis, dar, lui Boaz: „Cumpar-o pe socoteala\
+      \ ta!” Si si-a scos incaltamintea."
+    textWithDiacritics: "Cel ce avea drept de răscumpărare a zis, dar, lui Boaz: „\
+      Cumpăr-o pe socoteala ta!” Şi şi-a scos încălţămintea."
+    chapter: null
+  - verseNumber: 9
+    text: "Atunci Boaz a zis batrinilor si intregului popor: „Voi sunteti martori\
+      \ azi ca am cumparat din mina Naomei tot ce era al lui Elimelec, al lui Chilion\
+      \ si al lui Mahlon,"
+    textWithDiacritics: "Atunci Boaz a zis bătrînilor şi întregului popor: „Voi sunteţ\
+      i martori azi că am cumpărat din mîna Naomei tot ce era al lui Elimelec, al\
+      \ lui Chilion şi al lui Mahlon,"
+    chapter: null
+  - verseNumber: 10
+    text: "si ca mi-am cumparat de asemenea de nevasta pe Rut, moabita, nevasta lui\
+      \ Mahlon, ca sa ridic numele mortului in mostenirea lui si pentru ca numele\
+      \ mortului sa nu fie sters dintre fratii lui si din poarta locului lui. Voi\
+      \ sunteti martori azi despre aceasta!”"
+    textWithDiacritics: "şi că mi-am cumpărat de asemenea de nevastă pe Rut, moabita,\
+      \ nevasta lui Mahlon, ca să ridic numele mortului în moştenirea lui şi pentru\
+      \ ca numele mortului să nu fie şters dintre fraţii lui şi din poarta locului\
+      \ lui. Voi sunteţi martori azi despre aceasta!”"
+    chapter: null
+  - verseNumber: 11
+    text: "Tot poporul care era la poarta si batrinii au zis: „Suntem martori! YaHWeH\
+      \ sa faca pe femeia care intra in casa ta ca Rahela si ca Lea, care amindoua\
+      \ au zidit casa lui Israel! Arata-ti puterea in Efrata si fa-ti un nume in Betleem!"
+    textWithDiacritics: "Tot poporul care era la poartă şi bătrînii au zis: „Suntem\
+      \ martori! YaHWeH să facă pe femeia care intră în casa ta ca Rahela şi ca Lea,\
+      \ care amîndouă au zidit casa lui Israel! Arată-ţi puterea în Efrata şi fă-ţ\
+      i un nume în Betleem!"
+    chapter: null
+  - verseNumber: 12
+    text: "Saminta pe care ti-o va da YaHWeH, prin aceasta tinara femeie, sa-ti faca\
+      \ o casa asemenea casei lui Peret, care s-a nascut lui Iuda din Tamar!” Nasterea\
+      \ lui Obed, stramosul lui David"
+    textWithDiacritics: "Sămînţa pe care ţi-o va da YaHWeH, prin această tînără femeie,\
+      \ să-ţi facă o casă asemenea casei lui Pereţ, care s-a născut lui Iuda din Tamar!”\
+      \ Naşterea lui Obed, strămoşul lui David"
+    chapter: null
+  - verseNumber: 13
+    text: "Boaz a luat pe Rut, care i-a fost nevasta, si el a intrat la ea. YaHWeH\
+      \ a facut-o sa zamisleasca, si ea a nascut un fiu."
+    textWithDiacritics: "Boaz a luat pe Rut, care i-a fost nevastă, şi el a intrat\
+      \ la ea. YaHWeH a făcut-o să zămislească, şi ea a născut un fiu."
+    chapter: null
+  - verseNumber: 14
+    text: "Femeile au zis Naomei: „Binecuvintat sa fie YaHWeH, care nu te-a lasat\
+      \ lipsita azi de un barbat cu drept de rascumparare si al carui nume va fi laudat\
+      \ in Israel!"
+    textWithDiacritics: "Femeile au zis Naomei: „Binecuvîntat să fie YaHWeH, care\
+      \ nu te-a lăsat lipsită azi de un bărbat cu drept de răscumpărare şi al cărui\
+      \ nume va fi lăudat în Israel!"
+    chapter: null
+  - verseNumber: 15
+    text: "Copilul acesta iti va inviora sufletul si va fi sprijinul batrinetilor\
+      \ tale; caci l-a nascut nora ta, care te iubeste si care face pentru tine mai\
+      \ mult decit sapte fii.”"
+    textWithDiacritics: "Copilul acesta îţi va înviora sufletul şi va fi sprijinul\
+      \ bătrîneţilor tale; căci l-a născut nora ta, care te iubeşte şi care face pentru\
+      \ tine mai mult decît şapte fii.”"
+    chapter: null
+  - verseNumber: 16
+    text: "Naomi a luat copilul, l-a tinut in brate si a vazut de el."
+    textWithDiacritics: "Naomi a luat copilul, l-a ţinut în braţe şi a văzut de el."
+    chapter: null
+  - verseNumber: 17
+    text: "Vecinele i-au pus nume, zicind: „Un fiu s-a nascut Naomei!” Si l-au numit\
+      \ Obed. Aceasta a fost tatal lui Isai, tatal lui David. Saminta lui Peret"
+    textWithDiacritics: "Vecinele i-au pus nume, zicînd: „Un fiu s-a născut Naomei!”\
+      \ Şi l-au numit Obed. Aceasta a fost tatăl lui Isai, tatăl lui David. Sămînţ\
+      a lui Pereţ"
+    chapter: null
+  - verseNumber: 18
+    text: "Iata saminta lui Peret: Peret a fost tatal lui Hetron;"
+    textWithDiacritics: "Iată sămînţa lui Pereţ: Pereţ a fost tatăl lui Heţron;"
+    chapter: null
+  - verseNumber: 19
+    text: "Hetron a fost tatal lui Ram; Ram a fost tatal lui Aminadab;"
+    textWithDiacritics: "Heţron a fost tatăl lui Ram; Ram a fost tatăl lui Aminadab;"
+    chapter: null
+  - verseNumber: 20
+    text: "Aminadab a fost tatal lui Nahson; Nahson a fost tatal lui Salmon;"
+    textWithDiacritics: "Aminadab a fost tatăl lui Nahşon; Nahşon a fost tatăl lui\
+      \ Salmon;"
+    chapter: null
+  - verseNumber: 21
+    text: "Salmon a fost tatal lui Boaz; Boaz a fost tatal lui Obed;"
+    textWithDiacritics: "Salmon a fost tatăl lui Boaz; Boaz a fost tatăl lui Obed;"
+    chapter: null
+  - verseNumber: 22
+    text: "Obed a fost tatal lui Isai; si Isai a fost tatal lui David. HalleluYah"
+    textWithDiacritics: "Obed a fost tatăl lui Isai; şi Isai a fost tatăl lui David.\
+      \ HalleluYah"
+    chapter: null

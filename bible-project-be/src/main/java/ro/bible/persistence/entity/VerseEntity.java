@@ -21,7 +21,7 @@ public class VerseEntity extends BaseEntity {
     @JoinColumn(name = "chapter_id", referencedColumnName = "id")
     private ChapterEntity chapter;
 
-    public VersePojo getVersePojo() {
+    public VersePojo getVerseExclChapterPojo() {
         return VersePojo.builder()
                 .verseNumber(verseNumber)
                 .text(text)
@@ -29,12 +29,12 @@ public class VerseEntity extends BaseEntity {
                 .build();
     }
 
-    public VersePojo getVerseInclChapterPojo() {
+    public VersePojo getFullVersePojo() {
         return VersePojo.builder()
                 .verseNumber(verseNumber)
                 .text(text)
                 .textWithDiacritics(textWithDiacritics)
-                .chapter(chapter.getChapterPojo())
+                .chapter(chapter.getChapterExclVersePojo())
                 .build();
     }
 }

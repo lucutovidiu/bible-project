@@ -1,0 +1,105 @@
+---
+bookId: 78
+name: "3 Ioan – Yochanan Gimel"
+abbreviation: "3Ioan."
+testament: "Noul Testament"
+expChaptersCount: 1
+expTotalVerses: 14
+downloadedLink: "https://yahwehtora.ro/3-ioan-yochanan-gimel"
+requiresUpdate: false
+inProgress: false
+bookOrder: 78
+chapterPojo:
+- number: 1
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Prezbiterul a), catre preaiubitul Gaiu, pe care-l iubesc in Adevar. [ a)\
+      \ Sau: batrinul ]"
+    textWithDiacritics: "Prezbiterul a), către preaiubitul Gaiu, pe care-l iubesc\
+      \ în Adevăr. [ a) Sau: bătrînul ]"
+    chapter: null
+  - verseNumber: 2
+    text: "Preaiubitule, doresc ca toate lucrurile tale sa-ti mearga bine, si sanatatea\
+      \ ta sa sporeasca tot asa cum sporeste sufletul tau."
+    textWithDiacritics: "Preaiubitule, doresc ca toate lucrurile tale să-ţi meargă\
+      \ bine, şi sănătatea ta să sporească tot aşa cum sporeşte sufletul tău."
+    chapter: null
+  - verseNumber: 3
+    text: "A fost o mare bucurie pentru mine cind au venit fratii si au marturisit\
+      \ ca esti credincios Adevarului si ca umbli in Adevar."
+    textWithDiacritics: "A fost o mare bucurie pentru mine cînd au venit fraţii ş\
+      i au mărturisit că eşti credincios Adevărului şi că umbli în Adevăr."
+    chapter: null
+  - verseNumber: 4
+    text: "Eu n-am bucurie mai mare decit sa aud despre copiii mei ca umbla in Adevar."
+    textWithDiacritics: "Eu n-am bucurie mai mare decît să aud despre copiii mei că\
+      \ umblă în Adevăr."
+    chapter: null
+  - verseNumber: 5
+    text: "Preaiubitule, tu lucrezi cu credinciosie in tot ce faci pentru frati si\
+      \ pentru straini totodata."
+    textWithDiacritics: "Preaiubitule, tu lucrezi cu credincioşie în tot ce faci pentru\
+      \ fraţi şi pentru străini totodată."
+    chapter: null
+  - verseNumber: 6
+    text: "Ei au marturisit despre dragostea ta inaintea Adunarii. Vei face bine sa\
+      \ ingrijesti de calatoria lor, intr-un chip vrednic de YaHWeH;"
+    textWithDiacritics: "Ei au mărturisit despre dragostea ta înaintea Adunării. Vei\
+      \ face bine să îngrijeşti de călătoria lor, într-un chip vrednic de YaHWeH;"
+    chapter: null
+  - verseNumber: 7
+    text: "caci au plecat pentru dragostea Numelui Lui, fara sa primeasca ceva de\
+      \ la cei dintre pagini."
+    textWithDiacritics: "căci au plecat pentru dragostea Numelui Lui, fără să primească\
+      \ ceva de la cei dintre păgîni."
+    chapter: null
+  - verseNumber: 8
+    text: "Este datoria noastra dar, sa primim bine pe astfel de oameni, ca sa lucram\
+      \ impreuna cu Adevarul."
+    textWithDiacritics: "Este datoria noastră dar, să primim bine pe astfel de oameni,\
+      \ ca să lucrăm împreună cu Adevărul."
+    chapter: null
+  - verseNumber: 9
+    text: "Am scris ceva Adunarii, dar Diotref caruia ii place sa aiba intiietatea\
+      \ intre ei, nu vrea sa stie de noi."
+    textWithDiacritics: "Am scris ceva Adunării, dar Diotref căruia îi place să aibă\
+      \ întîietatea între ei, nu vrea să ştie de noi."
+    chapter: null
+  - verseNumber: 10
+    text: "De aceea, cind voi veni, ii voi aduce aminte de lucrul pe care-l face,\
+      \ caci ne cleveteste cu vorbe rele. Nu se multumeste cu atit; dar nici el nu\
+      \ primeste pe frati si impiedica si pe cei ce voiesc sa-i primeasca si-i da\
+      \ afara din Adunare."
+    textWithDiacritics: "De aceea, cînd voi veni, îi voi aduce aminte de lucrul pe\
+      \ care-l face, căci ne cleveteşte cu vorbe rele. Nu se mulţumeşte cu atît; dar\
+      \ nici el nu primeşte pe fraţi şi împiedică şi pe cei ce voiesc să-i primească\
+      \ şi-i dă afară din Adunare."
+    chapter: null
+  - verseNumber: 11
+    text: "Preaiubitule, nu urma raul, ci binele. Cine face binele este din YaHWeH;\
+      \ cine face raul n-a vazut pe YaHWeH."
+    textWithDiacritics: "Preaiubitule, nu urma răul, ci binele. Cine face binele este\
+      \ din YaHWeH; cine face răul n-a văzut pe YaHWeH."
+    chapter: null
+  - verseNumber: 12
+    text: "Toti, chiar si Adevarul, marturisesc bine despre Dimitrie; si noi Marturisim\
+      \ despre el; si stii ca Marturisirea noastra este adevarata."
+    textWithDiacritics: "Toţi, chiar şi Adevărul, mărturisesc bine despre Dimitrie;\
+      \ şi noi Mărturisim despre el; şi ştii că Mărturisirea noastră este adevărată\
+      ."
+    chapter: null
+  - verseNumber: 13
+    text: "As avea sa-ti spun multe lucruri, dar nu voiesc sa ti le scriu cu cerneala\
+      \ si condei."
+    textWithDiacritics: "Aş avea să-ţi spun multe lucruri, dar nu voiesc să ţi le\
+      \ scriu cu cerneală şi condei."
+    chapter: null
+  - verseNumber: 14
+    text: "Nadajduiesc sa te vad in curind, si atunci vom vorbi gura catre gura. Pacea\
+      \ sa fie cu tine. Prietenii iti trimit sanatate. Spune sanatate prietenilor,\
+      \ fiecaruia pe nume. HalleluYa. HalleluYah"
+    textWithDiacritics: "Nădăjduiesc să te văd în curînd, şi atunci vom vorbi gură\
+      \ către gură. Pacea să fie cu tine. Prietenii îţi trimit sănătate. Spune să\
+      nătate prietenilor, fiecăruia pe nume. HalleluYa. HalleluYah"
+    chapter: null

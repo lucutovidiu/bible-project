@@ -1,0 +1,1509 @@
+---
+bookId: 21
+name: "Eclesiastul – Koheleth"
+abbreviation: "Ecl."
+testament: "Vechiul Testament"
+expChaptersCount: 12
+expTotalVerses: 222
+downloadedLink: "https://yahwehtora.ro/eclesiastul-koheleth"
+requiresUpdate: false
+inProgress: false
+bookOrder: 21
+chapterPojo:
+- number: 1
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Cuvintele Eclesiastului fiul lui David, imparatul Ierusalimului."
+    textWithDiacritics: "Cuvintele Eclesiastului fiul lui David, împăratul Ierusalimului."
+    chapter: null
+  - verseNumber: 2
+    text: "O, desertaciune a desertaciunilor, zice Eclesiastul, o, desertaciune a\
+      \ desertaciunilor! Totul este desertaciune."
+    textWithDiacritics: "O, deşertăciune a deşertăciunilor, zice Eclesiastul, o, deş\
+      ertăciune a deşertăciunilor! Totul este deşertăciune."
+    chapter: null
+  - verseNumber: 3
+    text: "Ce folos are omul din toata truda pe care si-o da sub soare?"
+    textWithDiacritics: "Ce folos are omul din toată truda pe care şi-o dă sub soare?"
+    chapter: null
+  - verseNumber: 4
+    text: "Un neam trece, altul vine, si pamintul ramine vesnic in picioare."
+    textWithDiacritics: "Un neam trece, altul vine, şi pămîntul rămîne veşnic în picioare."
+    chapter: null
+  - verseNumber: 5
+    text: "Soarele rasare, apune si alearga spre locul de unde rasare din nou."
+    textWithDiacritics: "Soarele răsare, apune şi aleargă spre locul de unde răsare\
+      \ din nou."
+    chapter: null
+  - verseNumber: 6
+    text: "Vintul sufla spre miazazi si se intoarce spre miazanoapte; apoi iarasi\
+      \ se intoarce si incepe din nou aceleasi rotiri."
+    textWithDiacritics: "Vîntul suflă spre miazăzi şi se întoarce spre miazănoapte;\
+      \ apoi iarăşi se întoarce şi începe din nou aceleaşi rotiri."
+    chapter: null
+  - verseNumber: 7
+    text: "Toate riurile se varsa in mare, si marea tot nu se umple: ele alearga necurmat\
+      \ spre locul de unde pornesc, ca iarasi sa porneasca de acolo."
+    textWithDiacritics: "Toate rîurile se varsă în mare, şi marea tot nu se umple:\
+      \ ele aleargă necurmat spre locul de unde pornesc, ca iarăşi să pornească de\
+      \ acolo."
+    chapter: null
+  - verseNumber: 8
+    text: "Toate lucrurile sunt intr-o necurmata framintare, asa cum nu se poate spune;\
+      \ ochiul nu se mai satura privind, si urechea nu oboseste auzind."
+    textWithDiacritics: "Toate lucrurile sunt într-o necurmată frămîntare, aşa cum\
+      \ nu se poate spune; ochiul nu se mai satură privind, şi urechea nu oboseşte\
+      \ auzind."
+    chapter: null
+  - verseNumber: 9
+    text: "Ce a fost va mai fi, si ce s-a facut se va mai face; nu este nimic nou\
+      \ sub soare."
+    textWithDiacritics: "Ce a fost va mai fi, şi ce s-a făcut se va mai face; nu este\
+      \ nimic nou sub soare."
+    chapter: null
+  - verseNumber: 10
+    text: "Daca este vreun lucru despre care s-ar putea spune: „Iata ceva nou!” demult\
+      \ lucrul acela era si in veacurile dinaintea noastra."
+    textWithDiacritics: "Dacă este vreun lucru despre care s-ar putea spune: „Iată\
+      \ ceva nou!” demult lucrul acela era şi în veacurile dinaintea noastră."
+    chapter: null
+  - verseNumber: 11
+    text: "Nimeni nu-si mai aduce aminte de ce a fost mai inainte; si ce va mai fi,\
+      \ ce se va intimpla mai pe urma, nu va lasa nicio urma de aducere aminte la\
+      \ cei ce vor trai mai tirziu. Desertaciunea tuturor lucrurilor"
+    textWithDiacritics: "Nimeni nu-şi mai aduce aminte de ce a fost mai înainte; ş\
+      i ce va mai fi, ce se va întîmpla mai pe urmă, nu va lăsa nicio urmă de aducere\
+      \ aminte la cei ce vor trăi mai tîrziu. Deşertăciunea tuturor lucrurilor"
+    chapter: null
+  - verseNumber: 12
+    text: "Eu, Eclesiastul, am fost imparat peste Israel, in Ierusalim."
+    textWithDiacritics: "Eu, Eclesiastul, am fost împărat peste Israel, în Ierusalim."
+    chapter: null
+  - verseNumber: 13
+    text: "Mi-am pus inima sa cercetez si sa adincesc cu intelepciune tot ce se intimpla\
+      \ sub ceruri: iata o indeletnicire plina de truda la care supune YaHWeH pe fiii\
+      \ oamenilor."
+    textWithDiacritics: "Mi-am pus inima să cercetez şi să adîncesc cu înţelepciune\
+      \ tot ce se întîmplă sub ceruri: iată o îndeletnicire plină de trudă la care\
+      \ supune YaHWeH pe fiii oamenilor."
+    chapter: null
+  - verseNumber: 14
+    text: "Am vazut tot ce se face sub soare; si iata ca totul este desertaciune si\
+      \ goana dupa vint!"
+    textWithDiacritics: "Am văzut tot ce se face sub soare; şi iată că totul este\
+      \ deşertăciune şi goană după vînt!"
+    chapter: null
+  - verseNumber: 15
+    text: "Ce este strimb nu se poate indrepta, si ce lipseste nu poate fi trecut\
+      \ la numar."
+    textWithDiacritics: "Ce este strîmb nu se poate îndrepta, şi ce lipseşte nu poate\
+      \ fi trecut la număr."
+    chapter: null
+  - verseNumber: 16
+    text: "Am zis in mine insumi: „Iata ca am sporit si am intrecut in intelepciune\
+      \ pe toti cei ce au stapinit inaintea mea peste Ierusalim, si mintea mea a vazut\
+      \ multa intelepciune si pricepere."
+    textWithDiacritics: "Am zis în mine însumi: „Iată că am sporit şi am întrecut\
+      \ în înţelepciune pe toţi cei ce au stăpînit înaintea mea peste Ierusalim, ş\
+      i mintea mea a văzut multă înţelepciune şi pricepere."
+    chapter: null
+  - verseNumber: 17
+    text: "Mi-am pus inima sa cunosc intelepciunea si sa cunosc prostia si nebunia.\
+      \ Dar am inteles ca si aceasta este goana dupa vint."
+    textWithDiacritics: "Mi-am pus inima să cunosc înţelepciunea şi să cunosc prostia\
+      \ şi nebunia. Dar am înţeles că şi aceasta este goană după vînt."
+    chapter: null
+  - verseNumber: 18
+    text: "Caci unde este multa intelepciune este si mult necaz, si cine stie multe\
+      \ are si multa durere."
+    textWithDiacritics: "Căci unde este multă înţelepciune este şi mult necaz, şi\
+      \ cine ştie multe are şi multă durere."
+    chapter: null
+- number: 2
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Am zis inimii mele: „Haide! Vreau sa te incerc cu veselie, si gusta fericirea.”\
+      \ Dar iata ca si aceasta este o desertaciune."
+    textWithDiacritics: "Am zis inimii mele: „Haide! Vreau să te încerc cu veselie,\
+      \ şi gustă fericirea.” Dar iată că şi aceasta este o deşertăciune."
+    chapter: null
+  - verseNumber: 2
+    text: "Am zis risului: „Esti o nebunie!” si veseliei: „Ce te inseli degeaba?”"
+    textWithDiacritics: "Am zis rîsului: „Eşti o nebunie!” şi veseliei: „Ce te înş\
+      eli degeaba?”"
+    chapter: null
+  - verseNumber: 3
+    text: "Am hotarit in inima mea sa-mi inveselesc trupul cu vin, in timp ce inima\
+      \ ma va cirmui cu intelepciune, si sa starui astfel in nebunie, pina voi vedea\
+      \ ce este bine sa faca fiii oamenilor sub ceruri, in tot timpul vietii lor."
+    textWithDiacritics: "Am hotărît în inima mea să-mi înveselesc trupul cu vin, î\
+      n timp ce inima mă va cîrmui cu înţelepciune, şi să stărui astfel în nebunie,\
+      \ pînă voi vedea ce este bine să facă fiii oamenilor sub ceruri, în tot timpul\
+      \ vieţii lor."
+    chapter: null
+  - verseNumber: 4
+    text: "Am facut lucruri mari: mi-am zidit case, mi-am sadit vii,"
+    textWithDiacritics: "Am făcut lucruri mari: mi-am zidit case, mi-am sădit vii,"
+    chapter: null
+  - verseNumber: 5
+    text: "mi-am facut gradini si livezi de pomi si am sadit in ele tot felul de pomi\
+      \ roditori."
+    textWithDiacritics: "mi-am făcut grădini şi livezi de pomi şi am sădit în ele\
+      \ tot felul de pomi roditori."
+    chapter: null
+  - verseNumber: 6
+    text: "Mi-am facut iazuri, ca sa ud dumbrava unde cresc copacii."
+    textWithDiacritics: "Mi-am făcut iazuri, ca să ud dumbrava unde cresc copacii."
+    chapter: null
+  - verseNumber: 7
+    text: "Am cumparat robi si roabe, si am avut copii de casa; am avut cirezi de\
+      \ boi si turme de oi, mai mult decit toti cei ce fusesera inainte de mine in\
+      \ Ierusalim."
+    textWithDiacritics: "Am cumpărat robi şi roabe, şi am avut copii de casă; am avut\
+      \ cirezi de boi şi turme de oi, mai mult decît toţi cei ce fuseseră înainte\
+      \ de mine în Ierusalim."
+    chapter: null
+  - verseNumber: 8
+    text: "Mi-am strins argint si aur, si bogatii ca de imparati si tari. Mi-am adus\
+      \ cintareti si cintarete, si desfatarea fiilor oamenilor: o multime de femei."
+    textWithDiacritics: "Mi-am strîns argint şi aur, şi bogăţii ca de împăraţi şi\
+      \ ţări. Mi-am adus cîntăreţi şi cîntăreţe, şi desfătarea fiilor oamenilor: o\
+      \ mulţime de femei."
+    chapter: null
+  - verseNumber: 9
+    text: "Am ajuns mare, mai mare decit toti cei ce erau inaintea mea in Ierusalim.\
+      \ Mi-am pastrat chiar intelepciunea."
+    textWithDiacritics: "Am ajuns mare, mai mare decît toţi cei ce erau înaintea mea\
+      \ în Ierusalim. Mi-am păstrat chiar înţelepciunea."
+    chapter: null
+  - verseNumber: 10
+    text: "Tot ce mi-au poftit ochii, le-am dat; nu mi-am oprit inima de la nicio\
+      \ veselie, ci am lasat-o sa se bucure de toata truda mea, si aceasta mi-a fost\
+      \ partea din toata osteneala mea."
+    textWithDiacritics: "Tot ce mi-au poftit ochii, le-am dat; nu mi-am oprit inima\
+      \ de la nicio veselie, ci am lăsat-o să se bucure de toată truda mea, şi aceasta\
+      \ mi-a fost partea din toată osteneala mea."
+    chapter: null
+  - verseNumber: 11
+    text: "Apoi, cind m-am uitat cu bagare de seama la toate lucrarile pe care le\
+      \ facusem cu miinile mele si la truda cu care le facusem, am vazut ca in toate\
+      \ este numai desertaciune si goana dupa vint, si ca nu este nimic trainic sub\
+      \ soare."
+    textWithDiacritics: "Apoi, cînd m-am uitat cu băgare de seamă la toate lucrările\
+      \ pe care le făcusem cu mîinile mele şi la truda cu care le făcusem, am văzut\
+      \ că în toate este numai deşertăciune şi goană după vînt, şi că nu este nimic\
+      \ trainic sub soare."
+    chapter: null
+  - verseNumber: 12
+    text: "Atunci mi-am intors privirile spre intelepciune, prostie si nebunie. Caci\
+      \ ce va face omul care va veni dupa imparat? Ceea ce s-a facut si mai inainte."
+    textWithDiacritics: "Atunci mi-am întors privirile spre înţelepciune, prostie\
+      \ şi nebunie. Căci ce va face omul care va veni după împărat? Ceea ce s-a fă\
+      cut şi mai înainte."
+    chapter: null
+  - verseNumber: 13
+    text: "Si am vazut ca intelepciunea este cu atit mai de folos decit nebunia, cu\
+      \ cit este mai de folos lumina decit intunericul;"
+    textWithDiacritics: "Şi am văzut că înţelepciunea este cu atît mai de folos decî\
+      t nebunia, cu cît este mai de folos lumina decît întunericul;"
+    chapter: null
+  - verseNumber: 14
+    text: "inteleptul isi are ochii in cap, iar nebunul umbla in intuneric. Dar am\
+      \ bagat de seama ca si unul si altul au aceeasi soarta."
+    textWithDiacritics: "înţeleptul îşi are ochii în cap, iar nebunul umblă în întuneric.\
+      \ Dar am băgat de seamă că şi unul şi altul au aceeaşi soartă."
+    chapter: null
+  - verseNumber: 15
+    text: "Si am zis in inima mea: „Daca si eu voi avea aceeasi soarta ca nebunul,\
+      \ atunci pentru ce am fost mai intelept?” Si am zis in inima mea: „Si aceasta\
+      \ este o desertaciune.”"
+    textWithDiacritics: "Şi am zis în inima mea: „Dacă şi eu voi avea aceeaşi soartă\
+      \ ca nebunul, atunci pentru ce am fost mai înţelept?” Şi am zis în inima mea:\
+      \ „Şi aceasta este o deşertăciune.”"
+    chapter: null
+  - verseNumber: 16
+    text: "Caci pomenirea inteleptului nu este mai vesnica decit a nebunului: chiar\
+      \ in zilele urmatoare totul este uitat. Si apoi si inteleptul moare, si nebunul!"
+    textWithDiacritics: "Căci pomenirea înţeleptului nu este mai veşnică decît a nebunului:\
+      \ chiar în zilele următoare totul este uitat. Şi apoi şi înţeleptul moare, ş\
+      i nebunul!"
+    chapter: null
+  - verseNumber: 17
+    text: "Atunci am urit viata, caci nu mi-a placut ce se face sub soare: totul este\
+      \ desertaciune si goana dupa vint."
+    textWithDiacritics: "Atunci am urît viaţa, căci nu mi-a plăcut ce se face sub\
+      \ soare: totul este deşertăciune şi goană după vînt."
+    chapter: null
+  - verseNumber: 18
+    text: "Mi-am urit pina si toata munca pe care am facut-o sub soare, munca pe care\
+      \ o las omului care vine dupa mine, ca sa se bucure de ea."
+    textWithDiacritics: "Mi-am urît pînă şi toată munca pe care am făcut-o sub soare,\
+      \ muncă pe care o las omului care vine după mine, ca să se bucure de ea."
+    chapter: null
+  - verseNumber: 19
+    text: "Si cine stie daca va fi intelept sau nebun? Si totusi el va fi stapin pe\
+      \ toata munca mea pe care am agonisit-o cu truda si intelepciune sub soare.\
+      \ Si aceasta este o desertaciune."
+    textWithDiacritics: "Şi cine ştie dacă va fi înţelept sau nebun? Şi totuşi el\
+      \ va fi stăpîn pe toată munca mea pe care am agonisit-o cu trudă şi înţelepciune\
+      \ sub soare. Şi aceasta este o deşertăciune."
+    chapter: null
+  - verseNumber: 20
+    text: "Am ajuns pina acolo ca m-a apucat o mare deznadejde de toata munca pe care\
+      \ am facut-o sub soare."
+    textWithDiacritics: "Am ajuns pînă acolo că m-a apucat o mare deznădejde de toată\
+      \ munca pe care am făcut-o sub soare."
+    chapter: null
+  - verseNumber: 21
+    text: "Caci este cite un om care a muncit cu intelepciune, cu pricepere si cu\
+      \ izbinda, si lasa rodul muncii lui unui om care nu s-a ostenit deloc cu ea.\
+      \ Si aceasta este o desertaciune si un mare rau."
+    textWithDiacritics: "Căci este cîte un om care a muncit cu înţelepciune, cu pricepere\
+      \ şi cu izbîndă, şi lasă rodul muncii lui unui om care nu s-a ostenit deloc\
+      \ cu ea. Şi aceasta este o deşertăciune şi un mare rău."
+    chapter: null
+  - verseNumber: 22
+    text: "Caci, drept vorbind, ce folos are omul din toata munca lui si din toata\
+      \ straduinta inimii lui cu care se trudeste sub soare?"
+    textWithDiacritics: "Căci, drept vorbind, ce folos are omul din toată munca lui\
+      \ şi din toată străduinţa inimii lui cu care se trudeşte sub soare?"
+    chapter: null
+  - verseNumber: 23
+    text: "Toate zilele lui sunt pline de durere, si truda lui nu este decit necaz:\
+      \ nici macar noaptea n-are odihna inima lui. Si aceasta este o desertaciune."
+    textWithDiacritics: "Toate zilele lui sunt pline de durere, şi truda lui nu este\
+      \ decît necaz: nici măcar noaptea n-are odihnă inima lui. Şi aceasta este o\
+      \ deşertăciune."
+    chapter: null
+  - verseNumber: 24
+    text: "Nu este alta fericire pentru om decit sa manince si sa bea, si sa-si inveseleasca\
+      \ sufletul cu ce este bun din agoniseala lui! Dar am vazut ca si aceasta vine\
+      \ din mina lui YaHWeH."
+    textWithDiacritics: "Nu este altă fericire pentru om decît să mănînce şi să bea,\
+      \ şi să-şi înveselească sufletul cu ce este bun din agoniseala lui! Dar am vă\
+      zut că şi aceasta vine din mîna lui YaHWeH."
+    chapter: null
+  - verseNumber: 25
+    text: "Cine, in adevar, poate sa manince si sa se bucure fara El?"
+    textWithDiacritics: "Cine, în adevăr, poate să mănînce şi să se bucure fără El?"
+    chapter: null
+  - verseNumber: 26
+    text: "Caci El da omului placut Lui intelepciune, pricepere si bucurie; dar celui\
+      \ pacatos ii da grija sa stringa si s-adune, ca sa dea celui placut lui YaHWeH!\
+      \ Si aceasta este o desertaciune si goana dupa vint."
+    textWithDiacritics: "Căci El dă omului plăcut Lui înţelepciune, pricepere şi bucurie;\
+      \ dar celui păcătos îi dă grija să strîngă şi s-adune, ca să dea celui plăcut\
+      \ lui YaHWeH! Şi aceasta este o deşertăciune şi goană după vînt."
+    chapter: null
+- number: 3
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Toate isi au vremea lor, si fiecare lucru de sub ceruri isi are ceasul\
+      \ lui."
+    textWithDiacritics: "Toate îşi au vremea lor, şi fiecare lucru de sub ceruri î\
+      şi are ceasul lui."
+    chapter: null
+  - verseNumber: 2
+    text: "Nasterea isi are vremea ei, si moartea isi are vremea ei; saditul isi are\
+      \ vremea lui, si smulgerea celor sadite isi are vremea ei."
+    textWithDiacritics: "Naşterea îşi are vremea ei, şi moartea îşi are vremea ei;\
+      \ săditul îşi are vremea lui, şi smulgerea celor sădite îşi are vremea ei."
+    chapter: null
+  - verseNumber: 3
+    text: "Uciderea isi are vremea ei, si tamaduirea isi are vremea ei; darimarea\
+      \ isi are vremea ei, si zidirea isi are vremea ei;"
+    textWithDiacritics: "Uciderea îşi are vremea ei, şi tămăduirea îşi are vremea\
+      \ ei; dărîmarea îşi are vremea ei, şi zidirea îşi are vremea ei;"
+    chapter: null
+  - verseNumber: 4
+    text: "plinsul isi are vremea lui, si risul isi are vremea lui; bocitul isi are\
+      \ vremea lui, si jucatul isi are vremea lui;"
+    textWithDiacritics: "plînsul îşi are vremea lui, şi rîsul îşi are vremea lui;\
+      \ bocitul îşi are vremea lui, şi jucatul îşi are vremea lui;"
+    chapter: null
+  - verseNumber: 5
+    text: "aruncarea cu pietre isi are vremea ei, si stringerea pietrelor isi are\
+      \ vremea ei; imbratisarea isi are vremea ei, si departarea de imbratisari isi\
+      \ are vremea ei;"
+    textWithDiacritics: "aruncarea cu pietre îşi are vremea ei, şi strîngerea pietrelor\
+      \ îşi are vremea ei; îmbrăţişarea îşi are vremea ei, şi depărtarea de îmbrăţ\
+      işări îşi are vremea ei;"
+    chapter: null
+  - verseNumber: 6
+    text: "cautarea isi are vremea ei, si pierderea isi are vremea ei; pastrarea isi\
+      \ are vremea ei, si lepadarea isi are vremea ei;"
+    textWithDiacritics: "căutarea îşi are vremea ei, şi pierderea îşi are vremea ei;\
+      \ păstrarea îşi are vremea ei, şi lepădarea îşi are vremea ei;"
+    chapter: null
+  - verseNumber: 7
+    text: "ruptul isi are vremea lui, si cusutul isi are vremea lui; tacerea isi are\
+      \ vremea ei, si vorbirea isi are vremea ei;"
+    textWithDiacritics: "ruptul îşi are vremea lui, şi cusutul îşi are vremea lui;\
+      \ tăcerea îşi are vremea ei, şi vorbirea îşi are vremea ei;"
+    chapter: null
+  - verseNumber: 8
+    text: "iubitul isi are vremea lui, si uritul isi are vremea lui; razboiul isi\
+      \ are vremea lui, si pacea isi are vremea ei."
+    textWithDiacritics: "iubitul îşi are vremea lui, şi urîtul îşi are vremea lui;\
+      \ războiul îşi are vremea lui, şi pacea îşi are vremea ei."
+    chapter: null
+  - verseNumber: 9
+    text: "Ce folos are cel ce munceste din truda lui?"
+    textWithDiacritics: "Ce folos are cel ce munceşte din truda lui?"
+    chapter: null
+  - verseNumber: 10
+    text: "Am vazut la ce indeletnicire supune YaHWeH pe fiii oamenilor."
+    textWithDiacritics: "Am văzut la ce îndeletnicire supune YaHWeH pe fiii oamenilor."
+    chapter: null
+  - verseNumber: 11
+    text: "Orice lucru El il face frumos la vremea lui; a pus in inima lor chiar si\
+      \ gindul vesniciei, macar ca omul nu poate cuprinde, de la inceput pina la sfirsit,\
+      \ lucrarea pe care a facut-o YaHWeH."
+    textWithDiacritics: "Orice lucru El îl face frumos la vremea lui; a pus în inima\
+      \ lor chiar şi gîndul veşniciei, măcar că omul nu poate cuprinde, de la început\
+      \ pînă la sfîrşit, lucrarea pe care a făcut-o YaHWeH."
+    chapter: null
+  - verseNumber: 12
+    text: "Am ajuns sa cunosc ca nu este alta fericire pentru ei decit sa se bucure\
+      \ si sa traiasca bine in viata lor;"
+    textWithDiacritics: "Am ajuns să cunosc că nu este altă fericire pentru ei decî\
+      t să se bucure şi să trăiască bine în viaţa lor;"
+    chapter: null
+  - verseNumber: 13
+    text: "dar si faptul ca un om maninca si bea, si duce un trai bun in mijlocul\
+      \ intregii lui munci este un dar de la YaHWeH."
+    textWithDiacritics: "dar şi faptul că un om mănîncă şi bea, şi duce un trai bun\
+      \ în mijlocul întregii lui munci este un dar de la YaHWeH."
+    chapter: null
+  - verseNumber: 14
+    text: "Am ajuns la cunostinta ca tot ce face YaHWeH dainuie in veci, si la ceea\
+      \ ce face El nu mai este nimic de adaugat si nimic de scazut, si ca YaHWeH face\
+      \ asa pentru ca lumea sa se teama de El."
+    textWithDiacritics: "Am ajuns la cunoştinţa că tot ce face YaHWeH dăinuie în veci,\
+      \ şi la ceea ce face El nu mai este nimic de adăugat şi nimic de scăzut, şi\
+      \ că YaHWeH face aşa pentru ca lumea să se teamă de El."
+    chapter: null
+  - verseNumber: 15
+    text: "Ce este a mai fost, si ce va fi a mai fost; si YaHWeH aduce iarasi inapoi\
+      \ ce a trecut. Teme-te de YaHWeH"
+    textWithDiacritics: "Ce este a mai fost, şi ce va fi a mai fost; şi YaHWeH aduce\
+      \ iarăşi înapoi ce a trecut. Teme-te de YaHWeH"
+    chapter: null
+  - verseNumber: 16
+    text: "Am mai vazut sub soare ca in locul rinduit pentru judecata stapineste nelegiuirea,\
+      \ si ca in locul rinduit pentru dreptate este rautate."
+    textWithDiacritics: "Am mai văzut sub soare că în locul rînduit pentru judecată\
+      \ stăpînește nelegiuirea, şi că în locul rînduit pentru dreptate este răutate."
+    chapter: null
+  - verseNumber: 17
+    text: "Atunci am zis in inima mea: „ YaHWeH va judeca si pe cel bun si pe cel\
+      \ rau; caci El a sorocit o vreme pentru orice lucru si pentru orice fapta.”"
+    textWithDiacritics: "Atunci am zis în inima mea: „ YaHWeH va judeca şi pe cel\
+      \ bun şi pe cel rău; căci El a sorocit o vreme pentru orice lucru şi pentru\
+      \ orice faptă.”"
+    chapter: null
+  - verseNumber: 18
+    text: "Am zis in inima mea ca acestea se intimpla numai pentru oameni, ca sa-i\
+      \ incerce YaHWeH, si ei insisi sa vada ca nu sunt decit niste dobitoace."
+    textWithDiacritics: "Am zis în inima mea că acestea se întîmplă numai pentru oameni,\
+      \ ca să-i încerce YaHWeH, şi ei înşişi să vadă că nu sunt decît nişte dobitoace."
+    chapter: null
+  - verseNumber: 19
+    text: "Caci soarta omului si a dobitocului este aceeasi; aceeasi soarta au amindoi;\
+      \ cum moare unul, asa moare si celalalt, toti au aceeasi suflare, si omul nu\
+      \ intrece cu nimic pe dobitoc; caci totul este desertaciune."
+    textWithDiacritics: "Căci soarta omului şi a dobitocului este aceeaşi; aceeaş\
+      i soartă au amîndoi; cum moare unul, aşa moare şi celălalt, toţi au aceeaşi\
+      \ suflare, şi omul nu întrece cu nimic pe dobitoc; căci totul este deşertăciune."
+    chapter: null
+  - verseNumber: 20
+    text: "Toate merg la un loc; toate au fost facute din tarina si toate se intorc\
+      \ in tarina."
+    textWithDiacritics: "Toate merg la un loc; toate au fost făcute din ţărînă şi\
+      \ toate se întorc în ţărînă."
+    chapter: null
+  - verseNumber: 21
+    text: "Cine stie daca suflarea omului se suie in sus, si daca suflarea dobitocului\
+      \ se coboara in jos in pamint?"
+    textWithDiacritics: "Cine ştie dacă suflarea omului se suie în sus, şi dacă suflarea\
+      \ dobitocului se coboară în jos în pămînt?"
+    chapter: null
+  - verseNumber: 22
+    text: "Asa ca am vazut ca nu este nimic mai bun pentru om decit sa se inveseleasca\
+      \ de lucrarile lui: aceasta este partea lui. Caci cine-l va face sa se bucure\
+      \ de ce va fi dupa el?"
+    textWithDiacritics: "Aşa că am văzut că nu este nimic mai bun pentru om decît\
+      \ să se înveselească de lucrările lui: aceasta este partea lui. Căci cine-l\
+      \ va face să se bucure de ce va fi după el?"
+    chapter: null
+- number: 4
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "M-am uitat apoi la toate asupririle care se fac sub soare; si iata ca cei\
+      \ apasati varsa lacrimi, si nu este nimeni sa-i mingiie! Ei sunt prada silniciei\
+      \ asupritorilor lor, si n-are cine sa-i mingiie!"
+    textWithDiacritics: "M-am uitat apoi la toate asupririle care se fac sub soare;\
+      \ şi iată că cei apăsaţi varsă lacrimi, şi nu este nimeni să-i mîngîie! Ei sunt\
+      \ pradă silniciei asupritorilor lor, şi n-are cine să-i mîngîie!"
+    chapter: null
+  - verseNumber: 2
+    text: "Si am gasit ca mortii, care au murit mai inainte, sunt mai fericiti decit\
+      \ cei vii, care sunt inca in viata."
+    textWithDiacritics: "Şi am găsit că morţii, care au murit mai înainte, sunt mai\
+      \ fericiţi decît cei vii, care sunt încă în viaţă."
+    chapter: null
+  - verseNumber: 3
+    text: "Dar mai fericit decit amindoi am gasit pe cel ce nu s-a nascut inca, fiindca\
+      \ n-a vazut toate relele care se petrec sub soare."
+    textWithDiacritics: "Dar mai fericit decît amîndoi am găsit pe cel ce nu s-a nă\
+      scut încă, fiindcă n-a văzut toate relele care se petrec sub soare."
+    chapter: null
+  - verseNumber: 4
+    text: "Am mai vazut ca orice munca si orice iscusinta la lucru isi are temeiul\
+      \ numai in pizma unuia asupra altuia. Si aceasta este o desertaciune si goana\
+      \ dupa vint."
+    textWithDiacritics: "Am mai văzut că orice muncă şi orice iscusinţă la lucru î\
+      şi are temeiul numai în pizma unuia asupra altuia. Şi aceasta este o deşertă\
+      ciune şi goană după vînt."
+    chapter: null
+  - verseNumber: 5
+    text: "Nebunul isi incruciseaza miinile si isi maninca insasi carnea lui."
+    textWithDiacritics: "Nebunul îşi încrucişează mîinile şi îşi mănîncă însăşi carnea\
+      \ lui."
+    chapter: null
+  - verseNumber: 6
+    text: "Mai bine o mina plina de odihna decit amindoi pumnii plini de truda si\
+      \ goana dupa vint."
+    textWithDiacritics: "Mai bine o mînă plină de odihnă decît amîndoi pumnii plini\
+      \ de trudă şi goană după vînt."
+    chapter: null
+  - verseNumber: 7
+    text: "Am mai vazut o alta desertaciune sub soare:"
+    textWithDiacritics: "Am mai văzut o altă deşertăciune sub soare:"
+    chapter: null
+  - verseNumber: 8
+    text: "un om este singur singurel, n-are nici fiu, nici frate, si totusi munca\
+      \ lui n-are sfirsit, ochii nu i se satura niciodata de bogatii si nu se gindeste:\
+      \ „Pentru cine muncesc eu si-mi lipsesc sufletul de placeri?” Si aceasta este\
+      \ o desertaciune si un lucru rau."
+    textWithDiacritics: "un om este singur singurel, n-are nici fiu, nici frate, ş\
+      i totuşi munca lui n-are sfîrşit, ochii nu i se satură niciodată de bogăţii\
+      \ şi nu se gîndeşte: „Pentru cine muncesc eu şi-mi lipsesc sufletul de plăceri?”\
+      \ Şi aceasta este o deşertăciune şi un lucru rău."
+    chapter: null
+  - verseNumber: 9
+    text: "Mai bine doi decit unul, caci iau o plata cu atit mai buna pentru munca\
+      \ lor."
+    textWithDiacritics: "Mai bine doi decît unul, căci iau o plată cu atît mai bună\
+      \ pentru munca lor."
+    chapter: null
+  - verseNumber: 10
+    text: "Caci, daca se intimpla sa cada, se ridica unul pe altul; dar vai de cine\
+      \ este singur si cade fara sa aiba pe altul care sa-l ridice."
+    textWithDiacritics: "Căci, dacă se întîmplă să cadă, se ridică unul pe altul;\
+      \ dar vai de cine este singur şi cade fără să aibă pe altul care să-l ridice."
+    chapter: null
+  - verseNumber: 11
+    text: "Tot asa, daca se culca doi impreuna, se incalzesc unul pe altul, dar cum\
+      \ are sa se incalzeasca daca e singur?"
+    textWithDiacritics: "Tot aşa, dacă se culcă doi împreună, se încălzesc unul pe\
+      \ altul, dar cum are să se încălzească dacă e singur?"
+    chapter: null
+  - verseNumber: 12
+    text: "Si daca se scoala cineva asupra unuia, doi pot sa-i stea impotriva; si\
+      \ funia impletita in trei nu se rupe usor."
+    textWithDiacritics: "Şi dacă se scoală cineva asupra unuia, doi pot să-i stea\
+      \ împotrivă; şi funia împletită în trei nu se rupe uşor."
+    chapter: null
+  - verseNumber: 13
+    text: "Mai bine un copil sarac si intelept decit un imparat batrin si fara minte,\
+      \ care nu intelege ca trebuie sa se lase indrumat;"
+    textWithDiacritics: "Mai bine un copil sărac şi înţelept decît un împărat bătrî\
+      n şi fără minte, care nu înţelege că trebuie să se lase îndrumat;"
+    chapter: null
+  - verseNumber: 14
+    text: "caci el poate sa iasa din temnita ca sa stapineasca, macar ca poate chiar\
+      \ sa se fi nascut sarac in imparatia celui din urma."
+    textWithDiacritics: "căci el poate să iasă din temniţă ca să stăpînească, măcar\
+      \ că poate chiar să se fi născut sărac în împărăţia celui din urmă."
+    chapter: null
+  - verseNumber: 15
+    text: "Am vazut pe toti cei vii, care umbla sub soare, inconjurind pe copilul\
+      \ care avea sa urmeze dupa imparat si sa stapineasca in locul lui."
+    textWithDiacritics: "Am văzut pe toţi cei vii, care umblă sub soare, înconjurî\
+      nd pe copilul care avea să urmeze după împărat şi să stăpînească în locul lui."
+    chapter: null
+  - verseNumber: 16
+    text: "Fara sfirsit era tot poporul in fruntea caruia mergea el. Si totusi cei\
+      \ ce vor veni dupa el nu se vor bucura de el. Caci si aceasta este o desertaciune\
+      \ si goana dupa vint."
+    textWithDiacritics: "Fără sfîrşit era tot poporul în fruntea căruia mergea el.\
+      \ Şi totuşi cei ce vor veni după el nu se vor bucura de el. Căci şi aceasta\
+      \ este o deşertăciune şi goană după vînt."
+    chapter: null
+- number: 5
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Pazeste-ti piciorul cind intri in Casa lui YaHWeH si apropie-te mai bine\
+      \ sa asculti decit sa aduci jertfa nebunilor; caci ei nu stiu ca fac rau cu\
+      \ aceasta."
+    textWithDiacritics: "Păzeşte-ţi piciorul cînd intri în Casa lui YaHWeH şi apropie-te\
+      \ mai bine să asculţi decît să aduci jertfa nebunilor; căci ei nu ştiu că fac\
+      \ rău cu aceasta."
+    chapter: null
+  - verseNumber: 2
+    text: "Nu te grabi sa deschizi gura, si sa nu-ti rosteasca inima cuvinte pripite\
+      \ inaintea lui YaHWeH; caci YaHWeH este in cer, si tu, pe pamint, de aceea sa\
+      \ nu spui vorbe multe."
+    textWithDiacritics: "Nu te grăbi să deschizi gura, şi să nu-ţi rostească inima\
+      \ cuvinte pripite înaintea lui YaHWeH; căci YaHWeH este în cer, şi tu, pe pă\
+      mînt, de aceea să nu spui vorbe multe."
+    chapter: null
+  - verseNumber: 3
+    text: "Caci, daca visele se nasc din multimea grijilor, prostia nebunului se cunoaste\
+      \ din multimea cuvintelor."
+    textWithDiacritics: "Căci, dacă visele se nasc din mulţimea grijilor, prostia\
+      \ nebunului se cunoaşte din mulţimea cuvintelor."
+    chapter: null
+  - verseNumber: 4
+    text: "Daca ai facut o juruinta lui YaHWeH, nu zabovi s-o implinesti, caci Lui\
+      \ nu-I plac cei fara minte; de aceea implineste juruinta pe care ai facut-o."
+    textWithDiacritics: "Dacă ai făcut o juruinţă lui YaHWeH, nu zăbovi s-o împlineş\
+      ti, căci Lui nu-I plac cei fără minte; de aceea împlineşte juruinţa pe care\
+      \ ai făcut-o."
+    chapter: null
+  - verseNumber: 5
+    text: "Mai bine sa nu faci nicio juruinta decit sa faci o juruinta, si sa n-o\
+      \ implinesti."
+    textWithDiacritics: "Mai bine să nu faci nicio juruinţă decît să faci o juruinţ\
+      ă, şi să n-o împlineşti."
+    chapter: null
+  - verseNumber: 6
+    text: "Nu lasa gura sa te bage in pacat si nu zice inaintea trimisului lui YaHWeH:\
+      \ „M-am pripit.” Pentru ce sa Se minie YaHWeH din pricina cuvintelor tale si\
+      \ sa nimiceasca lucrarea miinilor tale?"
+    textWithDiacritics: "Nu lăsa gura să te bage în păcat şi nu zice înaintea trimisului\
+      \ lui YaHWeH: „M-am pripit.” Pentru ce să Se mînie YaHWeH din pricina cuvintelor\
+      \ tale şi să nimicească lucrarea mîinilor tale?"
+    chapter: null
+  - verseNumber: 7
+    text: "Caci, daca este desertaciune in multimea viselor, nu mai putin este si\
+      \ in multimea vorbelor; de aceea, teme-te de YaHWeH."
+    textWithDiacritics: "Căci, dacă este deşertăciune în mulţimea viselor, nu mai\
+      \ puţin este şi în mulţimea vorbelor; de aceea, teme-te de YaHWeH."
+    chapter: null
+  - verseNumber: 8
+    text: "Cind vezi in tara pe cel sarac, napastuit si jefuit in numele dreptului\
+      \ si dreptatii, sa nu te miri de lucrul acesta! Caci peste cel mare vegheaza\
+      \ altul mai mare, si peste ei toti, Cel Preainalt."
+    textWithDiacritics: "Cînd vezi în ţară pe cel sărac, năpăstuit şi jefuit în numele\
+      \ dreptului şi dreptăţii, să nu te miri de lucrul acesta! Căci peste cel mare\
+      \ veghează altul mai mare, şi peste ei toţi, Cel Preaînalt."
+    chapter: null
+  - verseNumber: 9
+    text: "Dar un folos pentru tara, in toate privintele, este un imparat pretuit\
+      \ in tara."
+    textWithDiacritics: "Dar un folos pentru ţară, în toate privinţele, este un î\
+      mpărat preţuit în ţară."
+    chapter: null
+  - verseNumber: 10
+    text: "Cine iubeste argintul nu se satura niciodata de argint, si cine iubeste\
+      \ bogatia multa nu trage folos din ea. Si aceasta este o desertaciune!"
+    textWithDiacritics: "Cine iubeşte argintul nu se satură niciodată de argint, ş\
+      i cine iubeşte bogăţia multă nu trage folos din ea. Şi aceasta este o deşertă\
+      ciune!"
+    chapter: null
+  - verseNumber: 11
+    text: "Cind se inmultesc bunatatile, se inmultesc si cei ce le maninca; si ce\
+      \ folos mai are din ele stapinul lor decit ca le vede cu ochii?"
+    textWithDiacritics: "Cînd se înmulţesc bunătăţile, se înmulţesc şi cei ce le mă\
+      nîncă; şi ce folos mai are din ele stăpînul lor decît că le vede cu ochii?"
+    chapter: null
+  - verseNumber: 12
+    text: "Dulce este somnul lucratorului, fie ca a mincat mult, fie ca a mincat putin;\
+      \ dar pe cel bogat nu-l lasa imbuibarea sa doarma."
+    textWithDiacritics: "Dulce este somnul lucrătorului, fie că a mîncat mult, fie\
+      \ că a mîncat puţin; dar pe cel bogat nu-l lasă îmbuibarea să doarmă."
+    chapter: null
+  - verseNumber: 13
+    text: "Este un mare rau pe care l-am vazut sub soare: avutii pastrate spre nefericirea\
+      \ stapinului lor."
+    textWithDiacritics: "Este un mare rău pe care l-am văzut sub soare: avuţii pă\
+      strate spre nefericirea stăpînului lor."
+    chapter: null
+  - verseNumber: 14
+    text: "Daca se pierd aceste bogatii prin vreo intimplare nenorocita, si el are\
+      \ un fiu, fiului nu-i ramine nimic in miini."
+    textWithDiacritics: "Dacă se pierd aceste bogăţii prin vreo întîmplare nenorocită\
+      , şi el are un fiu, fiului nu-i rămîne nimic în mîini."
+    chapter: null
+  - verseNumber: 15
+    text: "Cum a iesit de gol din pintecele mamei sale, din care a venit, asa se intoarce\
+      \ si nu poate sa ia nimic in mina din toata osteneala lui."
+    textWithDiacritics: "Cum a ieşit de gol din pîntecele mamei sale, din care a venit,\
+      \ aşa se întoarce şi nu poate să ia nimic în mînă din toată osteneala lui."
+    chapter: null
+  - verseNumber: 16
+    text: "Si acesta este un mare rau, anume ca se duce cum venise; si ce folos are\
+      \ el ca s-a trudit in vint?"
+    textWithDiacritics: "Şi acesta este un mare rău, anume că se duce cum venise;\
+      \ şi ce folos are el că s-a trudit în vînt?"
+    chapter: null
+  - verseNumber: 17
+    text: "Ba inca, toata viata lui a mai trebuit sa manince cu necaz si a avut multa\
+      \ durere, grija si suparare."
+    textWithDiacritics: "Ba încă, toată viaţa lui a mai trebuit să mănînce cu necaz\
+      \ şi a avut multă durere, grijă şi supărare."
+    chapter: null
+  - verseNumber: 18
+    text: "Iata ce am vazut: este bine si frumos ca omul sa manince si sa bea, si\
+      \ sa traiasca bine in mijlocul muncii lui cu care se trudeste sub soare, in\
+      \ toate zilele vietii lui pe care i le-a dat YaHWeH; caci aceasta este partea\
+      \ lui."
+    textWithDiacritics: "Iată ce am văzut: este bine şi frumos ca omul să mănînce\
+      \ şi să bea, şi să trăiască bine în mijlocul muncii lui cu care se trudeşte\
+      \ sub soare, în toate zilele vieţii lui pe care i le-a dat YaHWeH; căci aceasta\
+      \ este partea lui."
+    chapter: null
+  - verseNumber: 19
+    text: "Dar, daca a dat YaHWeH cuiva avere si bogatii si i-a ingaduit sa manince\
+      \ din ele, sa-si ia partea lui din ele si sa se bucure in mijlocul muncii lui,\
+      \ acesta este un dar de la YaHWeH."
+    textWithDiacritics: "Dar, dacă a dat YaHWeH cuiva avere şi bogăţii şi i-a îngă\
+      duit să mănînce din ele, să-şi ia partea lui din ele şi să se bucure în mijlocul\
+      \ muncii lui, acesta este un dar de la YaHWeH."
+    chapter: null
+  - verseNumber: 20
+    text: "Caci nu se mai gindeste mult la scurtimea zilelor vietii lui, de vreme\
+      \ ce YaHWeH ii umple inima de bucurie."
+    textWithDiacritics: "Căci nu se mai gîndeşte mult la scurtimea zilelor vieţii\
+      \ lui, de vreme ce YaHWeH îi umple inima de bucurie."
+    chapter: null
+- number: 6
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Este un rau pe care l-am vazut sub soare si care se intilneste des intre\
+      \ oameni."
+    textWithDiacritics: "Este un rău pe care l-am văzut sub soare şi care se întî\
+      lneşte des între oameni."
+    chapter: null
+  - verseNumber: 2
+    text: "Este, de pilda, un om caruia i-a dat YaHWeH avere, bogatii si slava, asa\
+      \ ca nu-i lipseste nimic din ce-i doreste sufletul, dar YaHWeH nu-l lasa sa\
+      \ se bucure de ele, ci un strain se bucura de ele: aceasta este o desertaciune\
+      \ si un rau mare."
+    textWithDiacritics: "Este, de pildă, un om căruia i-a dat YaHWeH avere, bogăţ\
+      ii şi slavă, aşa că nu-i lipseşte nimic din ce-i doreşte sufletul, dar YaHWeH\
+      \ nu-l lasă să se bucure de ele, ci un străin se bucură de ele: aceasta este\
+      \ o deşertăciune şi un rău mare."
+    chapter: null
+  - verseNumber: 3
+    text: "Chiar daca un om ar avea o suta de copii si ar trai multi ani – oricit\
+      \ de mult i s-ar mari numarul zilelor anilor lui – dar, daca nu i se satura\
+      \ sufletul de bunatatile agonisite de el si daca nici de inmormintare n-are\
+      \ parte, eu zic ca o stirpitura este mai fericita decit el."
+    textWithDiacritics: "Chiar dacă un om ar avea o sută de copii şi ar trăi mulţ\
+      i ani – oricît de mult i s-ar mări numărul zilelor anilor lui – dar, dacă nu\
+      \ i se satură sufletul de bunătăţile agonisite de el şi dacă nici de înmormî\
+      ntare n-are parte, eu zic că o stîrpitură este mai fericită decît el."
+    chapter: null
+  - verseNumber: 4
+    text: "Caci aceasta din urma piere odata cu venirea ei, se duce in intuneric,\
+      \ si numele ii ramine acoperit cu intuneric;"
+    textWithDiacritics: "Căci aceasta din urmă piere odată cu venirea ei, se duce\
+      \ în întuneric, şi numele îi rămîne acoperit cu întuneric;"
+    chapter: null
+  - verseNumber: 5
+    text: "n-a vazut, nici n-a cunoscut soarele; si de aceea este mai bine de ea decit\
+      \ de omul acela."
+    textWithDiacritics: "n-a văzut, nici n-a cunoscut soarele; şi de aceea este mai\
+      \ bine de ea decît de omul acela."
+    chapter: null
+  - verseNumber: 6
+    text: "Si de ar trai chiar de doua ori o mie de ani un astfel de om, fara sa se\
+      \ bucure de fericire, nu merg toate la un loc?"
+    textWithDiacritics: "Şi de ar trăi chiar de două ori o mie de ani un astfel de\
+      \ om, fără să se bucure de fericire, nu merg toate la un loc?"
+    chapter: null
+  - verseNumber: 7
+    text: "Toata truda omului este pentru gura lui, si totusi poftele nu i se implinesc\
+      \ niciodata."
+    textWithDiacritics: "Toată truda omului este pentru gura lui, şi totuşi poftele\
+      \ nu i se împlinesc niciodată."
+    chapter: null
+  - verseNumber: 8
+    text: "Caci ce are inteleptul mai mult decit nebunul? Ce folos are nenorocitul\
+      \ care stie sa se poarte inaintea celor vii?"
+    textWithDiacritics: "Căci ce are înţeleptul mai mult decît nebunul? Ce folos are\
+      \ nenorocitul care ştie să se poarte înaintea celor vii?"
+    chapter: null
+  - verseNumber: 9
+    text: "Mai bine ce vezi cu ochii decit framintare de pofte neimplinite: si aceasta\
+      \ este o desertaciune si goana dupa vint."
+    textWithDiacritics: "Mai bine ce vezi cu ochii decît frămîntare de pofte neîmplinite:\
+      \ şi aceasta este o deşertăciune şi goană după vînt."
+    chapter: null
+  - verseNumber: 10
+    text: "Ce este omul se cunoaste dupa numele care i s-a dat demult: se stie ca\
+      \ este din pamint, si nu poate sa se judece cu Cel ce este mai tare decit el."
+    textWithDiacritics: "Ce este omul se cunoaşte după numele care i s-a dat demult:\
+      \ se ştie că este din pămînt, şi nu poate să se judece cu Cel ce este mai tare\
+      \ decît el."
+    chapter: null
+  - verseNumber: 11
+    text: "Caci, chiar daca face multa vorba, care doar inmulteste desertaciunea,\
+      \ ce folos are omul din ea?"
+    textWithDiacritics: "Căci, chiar dacă face multă vorbă, care doar înmulţeşte deş\
+      ertăciunea, ce folos are omul din ea?"
+    chapter: null
+  - verseNumber: 12
+    text: "Caci cine stie ce este bine pentru om in viata, in toate zilele vietii\
+      \ lui de vietuire desarta, pe care le petrece ca o umbra? Si cine poate sa spuna\
+      \ omului ce va fi dupa el sub soare?"
+    textWithDiacritics: "Căci cine ştie ce este bine pentru om în viaţă, în toate\
+      \ zilele vieţii lui de vieţuire deşartă, pe care le petrece ca o umbră? Şi cine\
+      \ poate să spună omului ce va fi după el sub soare?"
+    chapter: null
+- number: 7
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Mai mult face un nume bun decit untdelemnul mirositor, si ziua mortii,\
+      \ decit ziua nasterii."
+    textWithDiacritics: "Mai mult face un nume bun decît untdelemnul mirositor, ş\
+      i ziua morţii, decît ziua naşterii."
+    chapter: null
+  - verseNumber: 2
+    text: "Mai bine sa te duci intr-o casa de jale decit sa te duci intr-o casa de\
+      \ petrecere; caci acolo iti aduci aminte de sfirsitul oricarui om, si cine traieste\
+      \ isi pune la inima lucrul acesta."
+    textWithDiacritics: "Mai bine să te duci într-o casă de jale decît să te duci\
+      \ într-o casă de petrecere; căci acolo îţi aduci aminte de sfîrşitul oricărui\
+      \ om, şi cine trăieşte îşi pune la inimă lucrul acesta."
+    chapter: null
+  - verseNumber: 3
+    text: "Mai buna este intristarea decit risul; caci, prin intristarea fetei, inima\
+      \ se face mai buna."
+    textWithDiacritics: "Mai bună este întristarea decît rîsul; căci, prin întristarea\
+      \ feţei, inima se face mai bună."
+    chapter: null
+  - verseNumber: 4
+    text: "Inima inteleptilor este in casa de jale, iar inima celor fara minte este\
+      \ in casa petrecerii."
+    textWithDiacritics: "Inima înţelepţilor este în casa de jale, iar inima celor\
+      \ fără minte este în casa petrecerii."
+    chapter: null
+  - verseNumber: 5
+    text: "Mai bine sa asculti mustrarea inteleptului decit sa asculti la cintecul\
+      \ celor fara minte."
+    textWithDiacritics: "Mai bine să asculţi mustrarea înţeleptului decît să asculţ\
+      i la cîntecul celor fără minte."
+    chapter: null
+  - verseNumber: 6
+    text: "Caci risul celor fara minte este ca piriitul spinilor sub caldare. Si aceasta\
+      \ este o desertaciune."
+    textWithDiacritics: "Căci rîsul celor fără minte este ca pîrîitul spinilor sub\
+      \ căldare. Şi aceasta este o deşertăciune."
+    chapter: null
+  - verseNumber: 7
+    text: "Averea luata prin sila innebuneste pe cel intelept, si mita strica inima."
+    textWithDiacritics: "Averea luată prin silă înnebuneşte pe cel înţelept, şi mita\
+      \ strică inima."
+    chapter: null
+  - verseNumber: 8
+    text: "Mai bun este sfirsitul unui lucru decit inceputul lui; mai bine cel bun\
+      \ la suflet decit cel ingimfat."
+    textWithDiacritics: "Mai bun este sfîrşitul unui lucru decît începutul lui; mai\
+      \ bine cel bun la suflet decît cel îngîmfat."
+    chapter: null
+  - verseNumber: 9
+    text: "Nu te grabi sa te minii in sufletul tau, caci minia locuieste in sinul\
+      \ nebunilor."
+    textWithDiacritics: "Nu te grăbi să te mînii în sufletul tău, căci mînia locuieş\
+      te în sînul nebunilor."
+    chapter: null
+  - verseNumber: 10
+    text: "Nu zice: „Cum se face ca zilele de mai inainte erau mai bune decit acestea?”\
+      , caci nu din intelepciune intrebi asa."
+    textWithDiacritics: "Nu zice: „Cum se face că zilele de mai înainte erau mai bune\
+      \ decît acestea?”, căci nu din înţelepciune întrebi aşa."
+    chapter: null
+  - verseNumber: 11
+    text: "Intelepciunea pretuieste cit o mostenire, si chiar mai mult, pentru cei\
+      \ ce vad soarele."
+    textWithDiacritics: "Înţelepciunea preţuieşte cît o moştenire, şi chiar mai mult,\
+      \ pentru cei ce văd soarele."
+    chapter: null
+  - verseNumber: 12
+    text: "Caci ocrotire da si intelepciunea, ocrotire da si argintul; dar un folos\
+      \ mai mult al stiintei este ca intelepciunea tine in viata pe cei ce o au."
+    textWithDiacritics: "Căci ocrotire dă şi înţelepciunea, ocrotire dă şi argintul;\
+      \ dar un folos mai mult al ştiinţei este că înţelepciunea ţine în viaţă pe cei\
+      \ ce o au."
+    chapter: null
+  - verseNumber: 13
+    text: "Uita-te cu bagare de seama la lucrarea lui YaHWeH: cine poate sa indrepte\
+      \ ce a facut El strimb?"
+    textWithDiacritics: "Uită-te cu băgare de seamă la lucrarea lui YaHWeH: cine poate\
+      \ să îndrepte ce a făcut El strîmb?"
+    chapter: null
+  - verseNumber: 14
+    text: "In ziua fericirii, fii fericit, si in ziua nenorocirii, gindeste-te ca\
+      \ YaHWeH a facut si pe una si pe cealalta, pentru ca omul sa nu mai poata sti\
+      \ nimic din ce va fi dupa el."
+    textWithDiacritics: "În ziua fericirii, fii fericit, şi în ziua nenorocirii, gî\
+      ndeşte-te că YaHWeH a făcut şi pe una şi pe cealaltă, pentru ca omul să nu mai\
+      \ poată şti nimic din ce va fi după el."
+    chapter: null
+  - verseNumber: 15
+    text: "Tot felul de lucruri am vazut in zilele desertaciunii mele. Este cite un\
+      \ om fara prihana care piere in neprihanirea lui, si este cite un nelegiuit\
+      \ care o duce mult in rautatea lui."
+    textWithDiacritics: "Tot felul de lucruri am văzut în zilele deşertăciunii mele.\
+      \ Este cîte un om fără prihană care piere în neprihănirea lui, şi este cîte\
+      \ un nelegiuit care o duce mult în răutatea lui."
+    chapter: null
+  - verseNumber: 16
+    text: "Nu fi prea neprihanit si nu te arata prea intelept: pentru ce sa te pierzi\
+      \ singur?"
+    textWithDiacritics: "Nu fi prea neprihănit şi nu te arăta prea înţelept: pentru\
+      \ ce să te pierzi singur?"
+    chapter: null
+  - verseNumber: 17
+    text: "Dar nu fi nici peste masura de rau si nu fi fara minte: pentru ce vrei\
+      \ sa mori inainte de vreme?"
+    textWithDiacritics: "Dar nu fi nici peste măsură de rău şi nu fi fără minte: pentru\
+      \ ce vrei să mori înainte de vreme?"
+    chapter: null
+  - verseNumber: 18
+    text: "Bine este sa tii la aceasta, dar nici pe cealalta sa n-o lasi din mina;\
+      \ caci cine se teme de YaHWeH scapa din toate acestea."
+    textWithDiacritics: "Bine este să ţii la aceasta, dar nici pe cealaltă să n-o\
+      \ laşi din mînă; căci cine se teme de YaHWeH scapă din toate acestea."
+    chapter: null
+  - verseNumber: 19
+    text: "Intelepciunea face pe cel intelept mai tare decit zece viteji care sunt\
+      \ intr-o cetate."
+    textWithDiacritics: "Înţelepciunea face pe cel înţelept mai tare decît zece viteji\
+      \ care sunt într-o cetate."
+    chapter: null
+  - verseNumber: 20
+    text: "Fiindca pe pamint nu este niciun om fara prihana, care sa faca binele fara\
+      \ sa pacatuiasca."
+    textWithDiacritics: "Fiindcă pe pămînt nu este niciun om fără prihană, care să\
+      \ facă binele fără să păcătuiască."
+    chapter: null
+  - verseNumber: 21
+    text: "Nu lua nici tu seama la toate vorbele care se spun, ca nu cumva s-auzi\
+      \ pe sluga ta vorbindu-te de rau!"
+    textWithDiacritics: "Nu lua nici tu seama la toate vorbele care se spun, ca nu\
+      \ cumva s-auzi pe sluga ta vorbindu-te de rău!"
+    chapter: null
+  - verseNumber: 22
+    text: "Caci stie inima ta de cite ori ai vorbit si tu de rau pe altii."
+    textWithDiacritics: "Căci ştie inima ta de cîte ori ai vorbit şi tu de rău pe\
+      \ alţii."
+    chapter: null
+  - verseNumber: 23
+    text: "Toate acestea le-am cercetat cu intelepciune. Am zis: „Ma voi intelepti.”\
+      \ Dar intelepciunea a ramas departe de mine."
+    textWithDiacritics: "Toate acestea le-am cercetat cu înţelepciune. Am zis: „Mă\
+      \ voi înţelepţi.” Dar înţelepciunea a rămas departe de mine."
+    chapter: null
+  - verseNumber: 24
+    text: "Cu mult mai departe decit era mai inainte, si ce adinca! Cine o va putea\
+      \ gasi?"
+    textWithDiacritics: "Cu mult mai departe decît era mai înainte, şi ce adîncă!\
+      \ Cine o va putea găsi?"
+    chapter: null
+  - verseNumber: 25
+    text: "M-am apucat si am cercetat toate lucrurile cu gind sa inteleg, sa adincesc\
+      \ si sa caut intelepciunea si rostul lucrurilor, si sa pricep nebunia rautatii\
+      \ si ratacirea prostiei."
+    textWithDiacritics: "M-am apucat şi am cercetat toate lucrurile cu gînd să înţ\
+      eleg, să adîncesc şi să caut înţelepciunea şi rostul lucrurilor, şi să pricep\
+      \ nebunia răutăţii şi rătăcirea prostiei."
+    chapter: null
+  - verseNumber: 26
+    text: "Si am gasit ca mai amara decit moartea este femeia a carei inima este o\
+      \ cursa si un lat si ale carei miini sunt niste lanturi; cel placut lui YaHWeH\
+      \ scapa de ea, dar cel pacatos este prins de ea."
+    textWithDiacritics: "Şi am găsit că mai amară decît moartea este femeia a cărei\
+      \ inimă este o cursă şi un laţ şi ale cărei mîini sunt nişte lanţuri; cel plă\
+      cut lui YaHWeH scapă de ea, dar cel păcătos este prins de ea."
+    chapter: null
+  - verseNumber: 27
+    text: "Iata ce am gasit, zice Eclesiastul, cercetind lucrurile unul cite unul\
+      \ ca sa le patrund rostul;"
+    textWithDiacritics: "Iată ce am găsit, zice Eclesiastul, cercetînd lucrurile unul\
+      \ cîte unul ca să le pătrund rostul;"
+    chapter: null
+  - verseNumber: 28
+    text: "iata ce-mi cauta si acum sufletul, si n-am gasit. Din o mie am gasit un\
+      \ om: dar o femeie n-am gasit in toate acestea."
+    textWithDiacritics: "iată ce-mi caută şi acum sufletul, şi n-am găsit. Din o mie\
+      \ am găsit un om: dar o femeie n-am găsit în toate acestea."
+    chapter: null
+  - verseNumber: 29
+    text: "Numai iata ce am gasit: ca YaHWeH a facut pe oameni fara prihana, dar ei\
+      \ umbla cu multe siretenii."
+    textWithDiacritics: "Numai iată ce am găsit: că YaHWeH a făcut pe oameni fără\
+      \ prihană, dar ei umblă cu multe şiretenii."
+    chapter: null
+- number: 8
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Cine este ca cel intelept si cine pricepe rostul lucrurilor? Intelepciunea\
+      \ omului ii lumineaza fata si asprimea fetei i se schimba."
+    textWithDiacritics: "Cine este ca cel înţelept şi cine pricepe rostul lucrurilor?\
+      \ Înţelepciunea omului îi luminează faţa şi asprimea feţei i se schimbă."
+    chapter: null
+  - verseNumber: 2
+    text: "Eu iti spun: „Pazeste poruncile imparatului, din pricina juramintului facut\
+      \ inaintea lui YaHWeH."
+    textWithDiacritics: "Eu îţi spun: „Păzeşte poruncile împăratului, din pricina\
+      \ jurămîntului făcut înaintea lui YaHWeH."
+    chapter: null
+  - verseNumber: 3
+    text: "Nu te grabi sa pleci dinaintea lui si nu starui intr-un lucru rau: caci\
+      \ el poate face tot ce vrea,"
+    textWithDiacritics: "Nu te grăbi să pleci dinaintea lui şi nu stărui într-un lucru\
+      \ rău: căci el poate face tot ce vrea,"
+    chapter: null
+  - verseNumber: 4
+    text: "pentru ca vorba imparatului are putere. Cine poate zice: „Ce faci?”"
+    textWithDiacritics: "pentru că vorba împăratului are putere. Cine poate zice:\
+      \ „Ce faci?”"
+    chapter: null
+  - verseNumber: 5
+    text: "Pe cine pazeste porunca, nu-l atinge nicio nenorocire, dar inima inteleptului\
+      \ cunoaste si vremea si judecata."
+    textWithDiacritics: "Pe cine păzeşte porunca, nu-l atinge nicio nenorocire, dar\
+      \ inima înţeleptului cunoaşte şi vremea şi judecata."
+    chapter: null
+  - verseNumber: 6
+    text: "Caci pentru orice lucru este o vreme si o judecata, si nenorocirea paste\
+      \ pe om."
+    textWithDiacritics: "Căci pentru orice lucru este o vreme şi o judecată, şi nenorocirea\
+      \ paşte pe om."
+    chapter: null
+  - verseNumber: 7
+    text: "Dar el nu stie ce si cum se va intimpla, caci n-are nici cine-i spune."
+    textWithDiacritics: "Dar el nu ştie ce şi cum se va întîmpla, căci n-are nici\
+      \ cine-i spune."
+    chapter: null
+  - verseNumber: 8
+    text: "Omul nu este stapin pe suflarea lui, ca s-o poata opri, si n-are nicio\
+      \ putere peste ziua mortii; in lupta aceasta nu este izbavire, si rautatea nu\
+      \ poate scapa pe cei rai."
+    textWithDiacritics: "Omul nu este stăpîn pe suflarea lui, ca s-o poată opri, ş\
+      i n-are nicio putere peste ziua morţii; în lupta aceasta nu este izbăvire, ş\
+      i răutatea nu poate scăpa pe cei răi."
+    chapter: null
+  - verseNumber: 9
+    text: "Toate acestea le-am vazut, si mi-am indreptat inima spre tot ce se face\
+      \ sub soare. Este o vreme cind un om stapineste peste alt om, ca sa-l faca nenorocit."
+    textWithDiacritics: "Toate acestea le-am văzut, şi mi-am îndreptat inima spre\
+      \ tot ce se face sub soare. Este o vreme cînd un om stăpîneşte peste alt om,\
+      \ ca să-l facă nenorocit."
+    chapter: null
+  - verseNumber: 10
+    text: "Atunci am vazut pe cei rai ingropati si ducindu-se la odihna lor, iar pe\
+      \ cei ce lucrasera cu neprihanire departindu-se de locul sfint si uitati in\
+      \ cetate. Si aceasta este o desertaciune!"
+    textWithDiacritics: "Atunci am văzut pe cei răi îngropaţi şi ducîndu-se la odihna\
+      \ lor, iar pe cei ce lucraseră cu neprihănire depărtîndu-se de locul sfînt ş\
+      i uitaţi în cetate. Şi aceasta este o deşertăciune!"
+    chapter: null
+  - verseNumber: 11
+    text: "Pentru ca nu se aduce repede la indeplinire hotarirea data impotriva faptelor\
+      \ rele, de aceea este plina inima fiilor oamenilor de dorinta sa faca rau."
+    textWithDiacritics: "Pentru că nu se aduce repede la îndeplinire hotărîrea dată\
+      \ împotriva faptelor rele, de aceea este plină inima fiilor oamenilor de dorinţ\
+      a să facă rău."
+    chapter: null
+  - verseNumber: 12
+    text: "Totusi, macar ca pacatosul face de o suta de ori raul si staruie multa\
+      \ vreme in el, eu stiu ca fericirea este pentru cei ce se tem de YaHWeH si au\
+      \ frica de El."
+    textWithDiacritics: "Totuşi, măcar că păcătosul face de o sută de ori răul şi\
+      \ stăruie multă vreme în el, eu ştiu că fericirea este pentru cei ce se tem\
+      \ de YaHWeH şi au frică de El."
+    chapter: null
+  - verseNumber: 13
+    text: "Dar cel rau nu este fericit si nu-si va lungi zilele, intocmai ca umbra,\
+      \ pentru ca n-are frica de YaHWeH."
+    textWithDiacritics: "Dar cel rău nu este fericit şi nu-şi va lungi zilele, întocmai\
+      \ ca umbra, pentru că n-are frică de YaHWeH."
+    chapter: null
+  - verseNumber: 14
+    text: "Este o desertaciune care se petrece pe pamint: si anume, sunt oameni neprihaniti\
+      \ carora le merge ca si celor rai, care fac fapte rele, si sunt rai carora le\
+      \ merge ca si celor neprihaniti, care fac fapte bune. Eu zic ca si aceasta este\
+      \ o desertaciune."
+    textWithDiacritics: "Este o deşertăciune care se petrece pe pămînt: şi anume,\
+      \ sunt oameni neprihăniţi cărora le merge ca şi celor răi, care fac fapte rele,\
+      \ şi sunt răi cărora le merge ca şi celor neprihăniţi, care fac fapte bune.\
+      \ Eu zic că şi aceasta este o deşertăciune."
+    chapter: null
+  - verseNumber: 15
+    text: "Am laudat, dar, petrecerea, pentru ca nu este alta fericire pentru om sub\
+      \ soare decit sa manince si sa bea, si sa se inveseleasca; iata ce trebuie sa-l\
+      \ insoteasca in mijlocul muncii lui, in zilele vietii pe care i le da YaHWeH\
+      \ sub soare."
+    textWithDiacritics: "Am lăudat, dar, petrecerea, pentru că nu este altă fericire\
+      \ pentru om sub soare decît să mănînce şi să bea, şi să se înveselească; iată\
+      \ ce trebuie să-l însoţească în mijlocul muncii lui, în zilele vieţii pe care\
+      \ i le dă YaHWeH sub soare."
+    chapter: null
+  - verseNumber: 16
+    text: "Cind mi-am pus inima sa cunosc intelepciunea si sa ma uit cu bagare de\
+      \ seama la truda pe care si-o da omul pe pamint – caci omul nu vede somn cu\
+      \ ochii, nici zi, nici noapte –"
+    textWithDiacritics: "Cînd mi-am pus inima să cunosc înţelepciunea şi să mă uit\
+      \ cu băgare de seamă la truda pe care şi-o dă omul pe pămînt – căci omul nu\
+      \ vede somn cu ochii, nici zi, nici noapte –"
+    chapter: null
+  - verseNumber: 17
+    text: "am vazut atunci toata lucrarea lui YaHWeH, am vazut ca omul nu poate sa\
+      \ patrunda ce se face sub soare; oricit s-ar trudi el sa cerceteze, tot nu va\
+      \ putea afla; si chiar daca inteleptul ar zice ca a ajuns sa inteleaga, tot\
+      \ nu poate sa gaseasca."
+    textWithDiacritics: "am văzut atunci toată lucrarea lui YaHWeH, am văzut că omul\
+      \ nu poate să pătrundă ce se face sub soare; oricît s-ar trudi el să cerceteze,\
+      \ tot nu va putea afla; şi chiar dacă înţeleptul ar zice că a ajuns să înţeleagă\
+      , tot nu poate să găsească."
+    chapter: null
+- number: 9
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Da, mi-am pus inima in cautarea tuturor acestor lucruri, am cercetat toate\
+      \ aceste lucruri si am vazut ca cei neprihaniti si intelepti, si faptele lor\
+      \ sunt in mina lui YaHWeH, atit dragostea, cit si ura. Oamenii nu stiu nimic\
+      \ mai dinainte; totul este inaintea lor in viitor."
+    textWithDiacritics: "Da, mi-am pus inima în căutarea tuturor acestor lucruri,\
+      \ am cercetat toate aceste lucruri şi am văzut că cei neprihăniţi şi înţelepţ\
+      i, şi faptele lor sunt în mîna lui YaHWeH, atît dragostea, cît şi ura. Oamenii\
+      \ nu ştiu nimic mai dinainte; totul este înaintea lor în viitor."
+    chapter: null
+  - verseNumber: 2
+    text: "Tuturor li se intimpla toate deopotriva: aceeasi soarta are cel neprihanit\
+      \ si cel rau, cel bun si curat ca si cel necurat, cel ce aduce jertfa ca si\
+      \ cel ce n-aduce jertfa; cel bun ca si cel pacatos, cel ce jura ca si cel ce\
+      \ se teme sa jure!"
+    textWithDiacritics: "Tuturor li se întîmplă toate deopotrivă: aceeaşi soartă are\
+      \ cel neprihănit şi cel rău, cel bun şi curat ca şi cel necurat, cel ce aduce\
+      \ jertfă ca şi cel ce n-aduce jertfă; cel bun ca şi cel păcătos, cel ce jură\
+      \ ca şi cel ce se teme să jure!"
+    chapter: null
+  - verseNumber: 3
+    text: "Iata cel mai mare rau in tot ce se face sub soare: anume ca aceeasi soarta\
+      \ au toti. De aceea si este plina inima oamenilor de rautate si de aceea este\
+      \ atita nebunie in inima lor tot timpul cit traiesc. Si dupa aceea? Se duc la\
+      \ cei morti."
+    textWithDiacritics: "Iată cel mai mare rău în tot ce se face sub soare: anume\
+      \ că aceeaşi soartă au toţi. De aceea şi este plină inima oamenilor de răutate\
+      \ şi de aceea este atîta nebunie în inima lor tot timpul cît trăiesc. Şi după\
+      \ aceea? Se duc la cei morţi."
+    chapter: null
+  - verseNumber: 4
+    text: "Caci cine este scutit? Oricine traieste tot mai trage nadejde; caci un\
+      \ ciine viu face mai mult decit un leu mort."
+    textWithDiacritics: "Căci cine este scutit? Oricine trăieşte tot mai trage nă\
+      dejde; căci un cîine viu face mai mult decît un leu mort."
+    chapter: null
+  - verseNumber: 5
+    text: "Cei vii, in adevar, macar stiu ca vor muri; dar cei morti nu stiu nimic\
+      \ si nu mai au nicio rasplata, fiindca pina si pomenirea li se uita."
+    textWithDiacritics: "Cei vii, în adevăr, măcar ştiu că vor muri; dar cei morţ\
+      i nu ştiu nimic şi nu mai au nicio răsplată, fiindcă pînă şi pomenirea li se\
+      \ uită."
+    chapter: null
+  - verseNumber: 6
+    text: "Si dragostea lor, si ura lor, si pizma lor demult au si pierit, si niciodata\
+      \ nu vor mai avea parte de tot ce se face sub soare."
+    textWithDiacritics: "Şi dragostea lor, şi ura lor, şi pizma lor demult au şi pierit,\
+      \ şi niciodată nu vor mai avea parte de tot ce se face sub soare."
+    chapter: null
+  - verseNumber: 7
+    text: "Du-te, dar, de maninca-ti piinea cu bucurie si bea-ti cu inima buna vinul;\
+      \ caci demult a gasit YaHWeH placere in ce faci tu acum."
+    textWithDiacritics: "Du-te, dar, de mănîncă-ţi pîinea cu bucurie şi bea-ţi cu\
+      \ inimă bună vinul; căci demult a găsit YaHWeH plăcere în ce faci tu acum."
+    chapter: null
+  - verseNumber: 8
+    text: "Hainele sa-ti fie albe in orice vreme, si untdelemnul sa nu-ti lipseasca\
+      \ de pe cap."
+    textWithDiacritics: "Hainele să-ţi fie albe în orice vreme, şi untdelemnul să\
+      \ nu-ţi lipsească de pe cap."
+    chapter: null
+  - verseNumber: 9
+    text: "Gusta viata cu nevasta pe care o iubesti, in tot timpul vietii tale desarte\
+      \ pe care ti-a dat-o YaHWeH sub soare, in aceasta vreme trecatoare; caci aceasta\
+      \ iti este partea in viata in mijlocul trudei cu care te ostenesti sub soare."
+    textWithDiacritics: "Gustă viaţa cu nevasta pe care o iubeşti, în tot timpul vieţ\
+      ii tale deşarte pe care ţi-a dat-o YaHWeH sub soare, în această vreme trecă\
+      toare; căci aceasta îţi este partea în viaţă în mijlocul trudei cu care te osteneş\
+      ti sub soare."
+    chapter: null
+  - verseNumber: 10
+    text: "Tot ce gaseste mina ta sa faca, fa cu toata puterea ta! Caci, in Locuinta\
+      \ mortilor in care mergi, nu mai este nici lucrare, nici chibzuiala, nici stiinta,\
+      \ nici intelepciune!"
+    textWithDiacritics: "Tot ce găseşte mîna ta să facă, fă cu toată puterea ta! Că\
+      ci, în Locuinţa morţilor în care mergi, nu mai este nici lucrare, nici chibzuială\
+      , nici ştiinţă, nici înţelepciune!"
+    chapter: null
+  - verseNumber: 11
+    text: "Am mai vazut apoi sub soare ca nu cei iuti alearga, ca nu cei viteji cistiga\
+      \ razboiul, ca nu cei intelepti cistiga piinea, nici cei priceputi, bogatia,\
+      \ nici cei invatati, bunavointa, ci toate atirna de vreme si de imprejurari."
+    textWithDiacritics: "Am mai văzut apoi sub soare că nu cei iuţi aleargă, că nu\
+      \ cei viteji cîştigă războiul, că nu cei înţelepţi cîştigă pîinea, nici cei\
+      \ pricepuţi, bogăţia, nici cei învăţaţi, bunăvoinţa, ci toate atîrnă de vreme\
+      \ şi de împrejurări."
+    chapter: null
+  - verseNumber: 12
+    text: "Caci omul nu-si cunoaste nici macar ceasul, intocmai ca pestii prinsi in\
+      \ mreaja nimicitoare si ca pasarile prinse in lat; ca si ei sunt prinsi si fiii\
+      \ oamenilor in vremea nenorocirii, cind vine fara veste nenorocirea peste ei."
+    textWithDiacritics: "Căci omul nu-şi cunoaşte nici măcar ceasul, întocmai ca peş\
+      tii prinşi în mreaja nimicitoare şi ca păsările prinse în laţ; ca şi ei sunt\
+      \ prinşi şi fiii oamenilor în vremea nenorocirii, cînd vine fără veste nenorocirea\
+      \ peste ei."
+    chapter: null
+  - verseNumber: 13
+    text: "Am mai vazut urmatoarea intelepciune sub soare si mi s-a parut mare."
+    textWithDiacritics: "Am mai văzut următoarea înţelepciune sub soare şi mi s-a\
+      \ părut mare."
+    chapter: null
+  - verseNumber: 14
+    text: "Era o mica cetate, cu putini oameni in ea; si a venit asupra ei un imparat\
+      \ puternic, a impresurat-o si a ridicat mari intarituri impotriva ei."
+    textWithDiacritics: "Era o mică cetate, cu puţini oameni în ea; şi a venit asupra\
+      \ ei un împărat puternic, a împresurat-o şi a ridicat mari întărituri împotriva\
+      \ ei."
+    chapter: null
+  - verseNumber: 15
+    text: "In ea se afla un om sarac, dar intelept, care a scapat cetatea cu intelepciunea\
+      \ lui. Si nimeni nu se gindise la omul acela sarac."
+    textWithDiacritics: "În ea se afla un om sărac, dar înţelept, care a scăpat cetatea\
+      \ cu înţelepciunea lui. Şi nimeni nu se gîndise la omul acela sărac."
+    chapter: null
+  - verseNumber: 16
+    text: "Atunci am zis: „Mai buna este intelepciunea decit taria!” Totusi intelepciunea\
+      \ saracului este dispretuita, si nimeni nu-l asculta."
+    textWithDiacritics: "Atunci am zis: „Mai bună este înţelepciunea decît tăria!”\
+      \ Totuşi înţelepciunea săracului este dispreţuită, şi nimeni nu-l ascultă."
+    chapter: null
+  - verseNumber: 17
+    text: "Cuvintele inteleptilor, ascultate in liniste, sunt mai de pret decit strigatele\
+      \ unuia care stapineste intre nebuni."
+    textWithDiacritics: "Cuvintele înţelepţilor, ascultate în linişte, sunt mai de\
+      \ preţ decît strigătele unuia care stăpîneşte între nebuni."
+    chapter: null
+  - verseNumber: 18
+    text: "Intelepciunea este mai de pret decit sculele de razboi; dar un singur pacatos\
+      \ nimiceste mult bine."
+    textWithDiacritics: "Înţelepciunea este mai de preţ decît sculele de război; dar\
+      \ un singur păcătos nimiceşte mult bine."
+    chapter: null
+- number: 10
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Mustele moarte strica si acresc untdelemnul negustorului de unsori; tot\
+      \ asa putina nebunie biruie intelepciunea si slava."
+    textWithDiacritics: "Muştele moarte strică şi acresc untdelemnul negustorului\
+      \ de unsori; tot aşa puţină nebunie biruie înţelepciunea şi slava."
+    chapter: null
+  - verseNumber: 2
+    text: "Inima inteleptului este la dreapta lui, iar inima nebunului la stinga lui."
+    textWithDiacritics: "Inima înţeleptului este la dreapta lui, iar inima nebunului\
+      \ la stînga lui."
+    chapter: null
+  - verseNumber: 3
+    text: "Si pe orice drum ar merge nebunul, peste tot ii lipseste mintea si spune\
+      \ tuturor ca este un nebun!"
+    textWithDiacritics: "Şi pe orice drum ar merge nebunul, peste tot îi lipseşte\
+      \ mintea şi spune tuturor că este un nebun!"
+    chapter: null
+  - verseNumber: 4
+    text: "Cind izbucneste impotriva ta minia celui ce stapineste, nu-ti parasi locul,\
+      \ caci singele rece te pazeste de mari pacate."
+    textWithDiacritics: "Cînd izbucneşte împotriva ta mînia celui ce stăpîneşte, nu-ţ\
+      i părăsi locul, căci sîngele rece te păzeşte de mari păcate."
+    chapter: null
+  - verseNumber: 5
+    text: "Este un rau pe care l-am vazut sub soare, ca o greseala care vine de la\
+      \ cel ce cirmuieste;"
+    textWithDiacritics: "Este un rău pe care l-am văzut sub soare, ca o greşeală care\
+      \ vine de la cel ce cîrmuieşte;"
+    chapter: null
+  - verseNumber: 6
+    text: "nebunia este pusa in dregatorii inalte, iar bogatii stau in locuri de jos."
+    textWithDiacritics: "nebunia este pusă în dregătorii înalte, iar bogaţii stau\
+      \ în locuri de jos."
+    chapter: null
+  - verseNumber: 7
+    text: "Am vazut robi calare, si voievozi mergind pe jos ca niste robi."
+    textWithDiacritics: "Am văzut robi călare, şi voievozi mergînd pe jos ca nişte\
+      \ robi."
+    chapter: null
+  - verseNumber: 8
+    text: "Cine sapa groapa altuia cade el in ea, si cine surpa un zid va fi muscat\
+      \ de un sarpe."
+    textWithDiacritics: "Cine sapă groapa altuia cade el în ea, şi cine surpă un zid\
+      \ va fi muşcat de un şarpe."
+    chapter: null
+  - verseNumber: 9
+    text: "Cine sfarima pietre este ranit de ele, si cine despica lemne este in primejdie."
+    textWithDiacritics: "Cine sfărîmă pietre este rănit de ele, şi cine despică lemne\
+      \ este în primejdie."
+    chapter: null
+  - verseNumber: 10
+    text: "Cind se toceste fierul si ramine neascutit, trebuie sa-ti indoiesti puterile;\
+      \ de aceea la izbinda ajungi prin intelepciune."
+    textWithDiacritics: "Cînd se toceşte fierul şi rămîne neascuţit, trebuie să-ţ\
+      i îndoieşti puterile; de aceea la izbîndă ajungi prin înţelepciune."
+    chapter: null
+  - verseNumber: 11
+    text: "Cind musca sarpele, fiindca n-a fost vrajit, vrajitorul n-are niciun cistig\
+      \ din mestesugul lui."
+    textWithDiacritics: "Cînd muşcă şarpele, fiindcă n-a fost vrăjit, vrăjitorul n-are\
+      \ niciun cîştig din meşteşugul lui."
+    chapter: null
+  - verseNumber: 12
+    text: "Cuvintele unui intelept sunt placute, dar buzele nebunului ii aduc pieirea."
+    textWithDiacritics: "Cuvintele unui înţelept sunt plăcute, dar buzele nebunului\
+      \ îi aduc pieirea."
+    chapter: null
+  - verseNumber: 13
+    text: "Cel dintii cuvint care-i iese din gura este nebunie, si cel din urma este\
+      \ o nebunie si mai rea."
+    textWithDiacritics: "Cel dintîi cuvînt care-i iese din gură este nebunie, şi cel\
+      \ din urmă este o nebunie şi mai rea."
+    chapter: null
+  - verseNumber: 14
+    text: "Nebunul spune o multime de vorbe, macar ca omul nu stie ce se va intimpla;\
+      \ si cine-i va spune ce va fi dupa el?"
+    textWithDiacritics: "Nebunul spune o mulţime de vorbe, măcar că omul nu ştie ce\
+      \ se va întîmpla; şi cine-i va spune ce va fi după el?"
+    chapter: null
+  - verseNumber: 15
+    text: "Truda nebunului oboseste pe cel ce nu cunoaste drumul spre cetate."
+    textWithDiacritics: "Truda nebunului oboseşte pe cel ce nu cunoaşte drumul spre\
+      \ cetate."
+    chapter: null
+  - verseNumber: 16
+    text: "Vai de tine, tara al carei imparat este un copil si ai carei voievozi benchetuiesc\
+      \ de dimineata!"
+    textWithDiacritics: "Vai de tine, ţară al cărei împărat este un copil şi ai că\
+      rei voievozi benchetuiesc de dimineaţă!"
+    chapter: null
+  - verseNumber: 17
+    text: "Ferice de tine, tara al carei imparat este de neam mare si ai carei voievozi\
+      \ maninca la vremea potrivita ca sa-si intareasca puterile, nu ca sa se dedea\
+      \ la betie!"
+    textWithDiacritics: "Ferice de tine, ţară al cărei împărat este de neam mare ş\
+      i ai cărei voievozi mănîncă la vremea potrivită ca să-şi întărească puterile,\
+      \ nu ca să se dedea la beţie!"
+    chapter: null
+  - verseNumber: 18
+    text: "Cind miinile sunt lenese, se lasa grinda, si, cind se lenevesc miinile,\
+      \ ploua in casa."
+    textWithDiacritics: "Cînd mîinile sunt leneşe, se lasă grinda, şi, cînd se lenevesc\
+      \ mîinile, plouă în casă."
+    chapter: null
+  - verseNumber: 19
+    text: "Ospetele se fac pentru petrecere, vinul inveseleste viata, iar argintul\
+      \ le da pe toate."
+    textWithDiacritics: "Ospeţele se fac pentru petrecere, vinul înveseleşte viaţ\
+      a, iar argintul le dă pe toate."
+    chapter: null
+  - verseNumber: 20
+    text: "Nu blestema pe imparat, nici chiar in gind, si nu blestema pe cel bogat\
+      \ in odaia in care te culci; caci s-ar putea intimpla ca pasarea cerului sa-ti\
+      \ duca vorba, si un sol inaripat sa-ti dea pe fata vorbele."
+    textWithDiacritics: "Nu blestema pe împărat, nici chiar în gînd, şi nu blestema\
+      \ pe cel bogat în odaia în care te culci; căci s-ar putea întîmpla ca pasărea\
+      \ cerului să-ţi ducă vorba, şi un sol înaripat să-ţi dea pe faţă vorbele."
+    chapter: null
+- number: 11
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Arunca-ti piinea pe ape, si dupa multa vreme o vei gasi iarasi!"
+    textWithDiacritics: "Aruncă-ţi pîinea pe ape, şi după multă vreme o vei găsi iară\
+      şi!"
+    chapter: null
+  - verseNumber: 2
+    text: "Imparte-o in sapte, si chiar in opt, caci nu stii ce nenorocire poate da\
+      \ peste pamint."
+    textWithDiacritics: "Împarte-o în şapte, şi chiar în opt, căci nu ştii ce nenorocire\
+      \ poate da peste pămînt."
+    chapter: null
+  - verseNumber: 3
+    text: "Cind se umplu norii de ploaie, o varsa pe pamint. Ori incotro ar cadea\
+      \ copacul, fie spre miazazi, fie spre miazanoapte, in locul unde cade, acolo\
+      \ ramine."
+    textWithDiacritics: "Cînd se umplu norii de ploaie, o varsă pe pămînt. Ori încotro\
+      \ ar cădea copacul, fie spre miazăzi, fie spre miazănoapte, în locul unde cade,\
+      \ acolo rămîne."
+    chapter: null
+  - verseNumber: 4
+    text: "Cine se uita dupa vint nu va semana, si cine se uita dupa nori nu va secera."
+    textWithDiacritics: "Cine se uită după vînt nu va semăna, şi cine se uită după\
+      \ nori nu va secera."
+    chapter: null
+  - verseNumber: 5
+    text: "Cum nu stii care este calea vintului, nici cum se fac oasele in pintecele\
+      \ femeii insarcinate, tot asa nu cunosti nici lucrarea lui YaHWeH, care le face\
+      \ pe toate."
+    textWithDiacritics: "Cum nu ştii care este calea vîntului, nici cum se fac oasele\
+      \ în pîntecele femeii însărcinate, tot aşa nu cunoşti nici lucrarea lui YaHWeH,\
+      \ care le face pe toate."
+    chapter: null
+  - verseNumber: 6
+    text: "Dimineata seamana-ti saminta, si pina seara nu lasa mina sa ti se odihneasca,\
+      \ fiindca nu stii ce va izbuti, aceasta sau aceea, sau daca amindoua sunt deopotriva\
+      \ de bune."
+    textWithDiacritics: "Dimineaţa seamănă-ţi sămînţa, şi pînă seara nu lăsa mîna\
+      \ să ţi se odihnească, fiindcă nu ştii ce va izbuti, aceasta sau aceea, sau\
+      \ dacă amîndouă sunt deopotrivă de bune."
+    chapter: null
+  - verseNumber: 7
+    text: "Dulce este lumina; si o placere, pentru ochi sa vada soarele."
+    textWithDiacritics: "Dulce este lumina; şi o plăcere, pentru ochi să vadă soarele."
+    chapter: null
+  - verseNumber: 8
+    text: "Deci, daca un om traieste multi ani, sa se bucure in toti anii acestia\
+      \ si sa se gindeasca ce multe vor fi zilele de intuneric. Tot ce va veni este\
+      \ desertaciune."
+    textWithDiacritics: "Deci, dacă un om trăieşte mulţi ani, să se bucure în toţ\
+      i anii aceştia şi să se gîndească ce multe vor fi zilele de întuneric. Tot ce\
+      \ va veni este deşertăciune."
+    chapter: null
+  - verseNumber: 9
+    text: "Bucura-te, tinere, in tineretea ta, fii cu inima vesela cit esti tinar,\
+      \ umbla pe caile alese de inima ta si placute ochilor tai; dar sa stii ca pentru\
+      \ toate acestea te va chema YaHWeH la judecata."
+    textWithDiacritics: "Bucură-te, tinere, în tinereţea ta, fii cu inima veselă cî\
+      t eşti tînăr, umblă pe căile alese de inima ta şi plăcute ochilor tăi; dar să\
+      \ ştii că pentru toate acestea te va chema YaHWeH la judecată."
+    chapter: null
+  - verseNumber: 10
+    text: "Goneste orice necaz din inima ta si departeaza raul din trupul tau; caci\
+      \ tineretea si zorile vietii sunt trecatoare."
+    textWithDiacritics: "Goneşte orice necaz din inima ta şi depărtează răul din trupul\
+      \ tău; căci tinereţea şi zorile vieţii sunt trecătoare."
+    chapter: null
+- number: 12
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Dar adu-ti aminte de Facatorul tau in zilele tineretii tale, pina nu vin\
+      \ zilele cele rele si pina nu se apropie anii cind vei zice: „Nu gasesc nicio\
+      \ placere in ei”;"
+    textWithDiacritics: "Dar adu-ţi aminte de Făcătorul tău în zilele tinereţii tale,\
+      \ pînă nu vin zilele cele rele şi pînă nu se apropie anii cînd vei zice: „Nu\
+      \ găsesc nicio plăcere în ei”;"
+    chapter: null
+  - verseNumber: 2
+    text: "pina nu se intuneca soarele si lumina, luna si stelele, si pina nu se intorc\
+      \ norii indata dupa ploaie;"
+    textWithDiacritics: "pînă nu se întunecă soarele şi lumina, luna şi stelele, ş\
+      i pînă nu se întorc norii îndată după ploaie;"
+    chapter: null
+  - verseNumber: 3
+    text: "pina nu incep sa tremure paznicii casei (a) si sa se incovoaie cele tari\
+      \ (b) pina nu se opresc cei ce macina (c) caci s-au imputinat; pina nu se intuneca\
+      \ cei ce se uita pe ferestre (d) [ a) miinile, b) picioarele, c) dintii, d)\
+      \ ochii ]"
+    textWithDiacritics: "pînă nu încep să tremure paznicii casei (a) şi să se încovoaie\
+      \ cele tari (b) pînă nu se opresc cei ce macină (c) căci s-au împuţinat; pî\
+      nă nu se întunecă cei ce se uită pe ferestre (d) [ a) mîinile, b) picioarele,\
+      \ c) dinţii, d) ochii ]"
+    chapter: null
+  - verseNumber: 4
+    text: "pina nu se inchid cele doua usi dinspre ulitaa cind uruitul morii slabeste,\
+      \ te scoli la ciripitul unei pasari, glasul tuturor cintaretelor se aude inabusit,\
+      \ abuzele"
+    textWithDiacritics: "pînă nu se închid cele două uşi dinspre uliţăa cînd uruitul\
+      \ morii slăbeşte, te scoli la ciripitul unei păsări, glasul tuturor cîntăreţ\
+      elor se aude înăbuşit, abuzele"
+    chapter: null
+  - verseNumber: 5
+    text: "te temi de orice inaltime si te sperii pe drum; pina nu infloreste migdalul\
+      \ cu peri albi, si de abia se tiraste lacusta; pina nu-ti trec poftele, caci\
+      \ omul merge spre casa lui cea vesnica, si bocitorii cutreiera ulitele;"
+    textWithDiacritics: "te temi de orice înălţime şi te sperii pe drum; pînă nu î\
+      nfloreşte migdalul cu peri albi, şi de abia se tîrăşte lăcusta; pînă nu-ţi trec\
+      \ poftele, căci omul merge spre casa lui cea veşnică, şi bocitorii cutreieră\
+      \ uliţele;"
+    chapter: null
+  - verseNumber: 6
+    text: "pina nu se rupe funia de argint, pina nu se sfarima vasul de aur, pina\
+      \ nu se sparge galeata la izvor si pina nu se strica roata de la fintina;"
+    textWithDiacritics: "pînă nu se rupe funia de argint, pînă nu se sfărîmă vasul\
+      \ de aur, pînă nu se sparge găleata la izvor şi pînă nu se strică roata de la\
+      \ fîntînă;"
+    chapter: null
+  - verseNumber: 7
+    text: "pina nu se intoarce tarina in pamint, cum a fost, si pina nu se intoarce\
+      \ duhul la YaHWeH, care l-a dat."
+    textWithDiacritics: "pînă nu se întoarce ţărîna în pămînt, cum a fost, şi pînă\
+      \ nu se întoarce duhul la YaHWeH, care l-a dat."
+    chapter: null
+  - verseNumber: 8
+    text: "O, desertaciune a desertaciunilor, zice Eclesiastul; totul este desertaciune."
+    textWithDiacritics: "O, deşertăciune a deşertăciunilor, zice Eclesiastul; totul\
+      \ este deşertăciune."
+    chapter: null
+  - verseNumber: 9
+    text: "Pe linga ca Eclesiastul a fost intelept, el a mai invatat si pe popor intelepciunea\
+      \ , a cercetat, a adincit si a intocmit un mare numar de zicatori."
+    textWithDiacritics: "Pe lîngă că Eclesiastul a fost înţelept, el a mai învăţat\
+      \ şi pe popor înţelepciunea , a cercetat, a adîncit şi a întocmit un mare numă\
+      r de zicători."
+    chapter: null
+  - verseNumber: 10
+    text: "Eclesiastul a cautat sa afle cuvinte placute si sa scrie intocmai cuvintele\
+      \ adevarului."
+    textWithDiacritics: "Eclesiastul a căutat să afle cuvinte plăcute şi să scrie\
+      \ întocmai cuvintele adevărului."
+    chapter: null
+  - verseNumber: 11
+    text: "Cuvintele inteleptilor sunt ca niste bolduri; si, strinse la un loc, sunt\
+      \ ca niste cuie batute, date de un singur stapin."
+    textWithDiacritics: "Cuvintele înţelepţilor sunt ca nişte bolduri; şi, strînse\
+      \ la un loc, sunt ca nişte cuie bătute, date de un singur stăpîn."
+    chapter: null
+  - verseNumber: 12
+    text: "Incolo, fiule, ia invatatura din aceste lucruri; daca ai voi sa faci o\
+      \ multime de carti, sa stii ca n-ai mai ispravi, si multa invatatura oboseste\
+      \ trupul."
+    textWithDiacritics: "Încolo, fiule, ia învăţătură din aceste lucruri; dacă ai\
+      \ voi să faci o mulţime de cărţi, să ştii că n-ai mai isprăvi, şi multă învă\
+      ţătură oboseşte trupul."
+    chapter: null
+  - verseNumber: 13
+    text: "Sa ascultam, dar, incheierea tuturor invataturilor: Teme-te de YaHWeH si\
+      \ pazeste Poruncile Lui. Aceasta este datoria oricarui om."
+    textWithDiacritics: "Să ascultăm, dar, încheierea tuturor învăţăturilor: Teme-te\
+      \ de YaHWeH şi păzeşte Poruncile Lui. Aceasta este datoria oricărui om."
+    chapter: null
+  - verseNumber: 14
+    text: "Caci YaHWeH va aduce orice fapta la judecata, si judecata aceasta se va\
+      \ face cu privire la tot ce este ascuns, fie bine, fie rau. HalleluYah"
+    textWithDiacritics: "Căci YaHWeH va aduce orice faptă la judecată, şi judecata\
+      \ aceasta se va face cu privire la tot ce este ascuns, fie bine, fie rău. HalleluYah"
+    chapter: null

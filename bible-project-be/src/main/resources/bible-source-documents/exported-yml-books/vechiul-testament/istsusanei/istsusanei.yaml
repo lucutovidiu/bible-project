@@ -1,0 +1,398 @@
+---
+bookId: 47
+name: "Istoria Susanei"
+abbreviation: "IstSusanei."
+testament: "Vechiul Testament"
+expChaptersCount: 1
+expTotalVerses: 64
+downloadedLink: "https://yahwehtora.ro/istoria-susanei"
+requiresUpdate: false
+inProgress: false
+bookOrder: 47
+chapterPojo:
+- number: 1
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Era un om cu numele Ioachim, care locuia in Babilon."
+    textWithDiacritics: "Era un om cu numele Ioachim, care locuia în Babilon."
+    chapter: null
+  - verseNumber: 2
+    text: "Si si-a luat femeie, al carui nume era Susana, fiica lui Hilchia, frumoasa\
+      \ foarte si cu frica lui Eylohim."
+    textWithDiacritics: "Și și-a luat femeie, al cărui nume era Susana, fiica lui\
+      \ Hilchia, frumoasă foarte și cu frica lui Eylohim."
+    chapter: null
+  - verseNumber: 3
+    text: "Si parintii ei, drepti fiind, au invatat pe fiica lor dupa legea lui Moise."
+    textWithDiacritics: "Și părinții ei, drepți fiind, au învățat pe fiica lor după\
+      \ legea lui Moise."
+    chapter: null
+  - verseNumber: 4
+    text: "Si era Ioachim foarte bogat si avea gradina aproape de casa."
+    textWithDiacritics: "Și era Ioachim foarte bogat și avea grădină aproape de casă\
+      ."
+    chapter: null
+  - verseNumber: 5
+    text: "Si se adunau la el Iudeii; pentru ca era mai in cinste decat toti."
+    textWithDiacritics: "Și se adunau la el Iudeii; pentru că era mai în cinste decâ\
+      t toți."
+    chapter: null
+  - verseNumber: 6
+    text: "Si au fost randuiti doi batrani din popor judecatori in anul acela, de\
+      \ care zisese YaHWeH , \"ca a iesit faradelegea din Babilon, din batranii judecatori,\
+      \ care se parea ca ocarmuiesc poporul\"."
+    textWithDiacritics: "Și au fost rânduiți doi bătrâni din popor judecători în anul\
+      \ acela, de care zisese YaHWeH , \"că a ieșit fărădelegea din Babilon, din bă\
+      trânii judecători, care se părea că ocârmuiesc poporul\"."
+    chapter: null
+  - verseNumber: 7
+    text: "Acestia ramaneau la casa lui Ioachim, si veneau la ei toti cei care voiau\
+      \ sa aiba judecata."
+    textWithDiacritics: "Aceștia rămâneau la casa lui Ioachim, și veneau la ei toț\
+      i cei care voiau să aibă judecată."
+    chapter: null
+  - verseNumber: 8
+    text: "Cand pleca poporul la amiaza, iesea si Susana in gradina barbatului ei."
+    textWithDiacritics: "Când pleca poporul la amiază, ieșea și Susana în grădina\
+      \ bărbatului ei."
+    chapter: null
+  - verseNumber: 9
+    text: "Si au vazut-o cei doi batrani in toate zilele iesind si umbland, si s-au\
+      \ aprins cu pofta asupra ei."
+    textWithDiacritics: "Și au văzut-o cei doi bătrâni în toate zilele ieșind și umblâ\
+      nd, și s-au aprins cu poftă asupra ei."
+    chapter: null
+  - verseNumber: 10
+    text: "Au razvratit gandul, si-au abatut ochii dinspre cer, si nici nu si-au adus\
+      \ aminte de judecatile cele drepte."
+    textWithDiacritics: "Au răzvrătit gândul, și-au abătut ochii dinspre cer, și nici\
+      \ nu și-au adus aminte de judecățile cele drepte."
+    chapter: null
+  - verseNumber: 11
+    text: "Si erau amandoi infierbantati pentru ea si n-a spus unul altuia zbuciumul\
+      \ lor , ca le era rusine a-si spune pofta, ca voiau sa se impreuneze cu ea."
+    textWithDiacritics: "Și erau amândoi înfierbântați pentru ea și n-a spus unul\
+      \ altuia zbuciumul lor , că le era rușine a-și spune pofta, că voiau să se î\
+      mpreuneze cu ea."
+    chapter: null
+  - verseNumber: 12
+    text: "Si pazeau cu nevointa in toate zilele s-o vada. Si a zis unul catre altul:\
+      \ \"Sa mergem acasa, ca este vremea pranzului\"."
+    textWithDiacritics: "Și păzeau cu nevoință în toate zilele s-o vadă. Și a zis\
+      \ unul către altul: \"Să mergem acasă, că este vremea prânzului\"."
+    chapter: null
+  - verseNumber: 13
+    text: "Si iesind, s-au despartit unul de altul si, intorcandu-se, au venit la\
+      \ acelasi loc si, intrebandu-se unul pe altul pricina, isi marturisira pofta."
+    textWithDiacritics: "Și ieșind, s-au despărțit unul de altul și, întorcându-se,\
+      \ au venit la același loc și, întrebându-se unul pe altul pricina, își mărturisiră\
+      \ pofta."
+    chapter: null
+  - verseNumber: 14
+    text: "Si amandoi impreuna au hotarat vremea cand o vor putea afla singura."
+    textWithDiacritics: "Și amândoi împreună au hotărât vremea când o vor putea afla\
+      \ singură."
+    chapter: null
+  - verseNumber: 15
+    text: "Si pe cand pandeau ei o zi prielnica, ea a intrat ca de obicei cu doua\
+      \ fete sa se scalde in, gradina, ca era foarte cald."
+    textWithDiacritics: "Și pe când pândeau ei o zi prielnică, ea a intrat ca de obicei\
+      \ cu două fete să se scalde în, grădină, că era foarte cald."
+    chapter: null
+  - verseNumber: 16
+    text: "Si nimeni nu era acolo, afara de cei doi batrani ascunsi, care o pandeau."
+    textWithDiacritics: "Și nimeni nu era acolo, afară de cei doi bătrâni ascunși,\
+      \ care o pândeau."
+    chapter: null
+  - verseNumber: 17
+    text: "Si a zis fetelor: \"Aduceti-mi untdelemn si sapun si inchideti portile\
+      \ gradinii ca sa ma scald\"."
+    textWithDiacritics: "Și a zis fetelor: \"Aduceți-mi untdelemn și săpun și închideț\
+      i porțile grădinii ca să mă scald\"."
+    chapter: null
+  - verseNumber: 18
+    text: "Si au facut cum le-a zis; au inchis usile gradinii si, iesind pe alaturi\
+      \ ca sa aduca cele ce le-a poruncit, n-au vazut pe batrani ascunsi."
+    textWithDiacritics: "Și au făcut cum le-a zis; au închis ușile grădinii și, ieș\
+      ind pe alături ca să aducă cele ce le-a poruncit, n-au văzut pe bătrâni ascunș\
+      i."
+    chapter: null
+  - verseNumber: 19
+    text: "Si dupa ce au iesit fetele, s-au sculat cei doi batrani si au alergat asupra\
+      \ ei si au zis: \"Iata usile gradinii sunt inchise si nimeni nu ne vede, si\
+      \ suntem aprinsi cu pofta asupra ta."
+    textWithDiacritics: "Și după ce au ieșit fetele, s-au sculat cei doi bătrâni ș\
+      i au alergat asupra ei și au zis: \"Iată ușile grădinii sunt închise și nimeni\
+      \ nu ne vede, și suntem aprinși cu poftă asupra ta."
+    chapter: null
+  - verseNumber: 20
+    text: "Pentru aceea binevoieste si te culca cu noi; iar de nu, vom marturisi asupra\
+      \ ta ca a fost cu tine un tanar si pentru aceea ai trimis fetele de la tine\"\
+      ."
+    textWithDiacritics: "Pentru aceea binevoiește și te culcă cu noi; iar de nu, vom\
+      \ mărturisi asupra ta că a fost cu tine un tânăr și pentru aceea ai trimis fetele\
+      \ de la tine\"."
+    chapter: null
+  - verseNumber: 21
+    text: "Si a suspinat Susana si a zis: \"Sunt stramtorata din toate partile;"
+    textWithDiacritics: "Și a suspinat Susana și a zis: \"Sunt strâmtorată din toate\
+      \ părțile;"
+    chapter: null
+  - verseNumber: 22
+    text: "Ca de voi face aceasta, moarte imi este; iar de nu voi face, nu voi scapa\
+      \ din mainile voastre."
+    textWithDiacritics: "Că de voi face aceasta, moarte îmi este; iar de nu voi face,\
+      \ nu voi scăpa din mâinile voastre."
+    chapter: null
+  - verseNumber: 23
+    text: "Mai bine este pentru mine sa nu fac si sa cad in mainile voastre decat\
+      \ sa pacatuiesc inaintea lui YaHWeH\"."
+    textWithDiacritics: "Mai bine este pentru mine să nu fac și să cad în mâinile\
+      \ voastre decât să păcătuiesc înaintea lui YaHWeH\"."
+    chapter: null
+  - verseNumber: 24
+    text: "Si a strigat Susana cu glas mare, si au strigat si cei doi batrani asupra\
+      \ ei, si alergand unul a deschis usile gradinii."
+    textWithDiacritics: "Și a strigat Susana cu glas mare, și au strigat și cei doi\
+      \ bătrâni asupra ei, și alergând unul a deschis ușile grădinii."
+    chapter: null
+  - verseNumber: 25
+    text: "Daca auzira cei din casa strigatul in gradina, sarira inauntru pe usa cea\
+      \ din dos sa vada ce i s-a intamplat."
+    textWithDiacritics: "Dacă auziră cei din casă strigătul în grădină, săriră înă\
+      untru pe ușa cea din dos să vadă ce i s-a întâmplat."
+    chapter: null
+  - verseNumber: 26
+    text: "Si, dupa ce au grait batranii cuvintele lor, s-au rusinat slugile foarte,\
+      \ ca niciodata nu s-a grait cuvant ca acesta despre Susana."
+    textWithDiacritics: "Și, după ce au grăit bătrânii cuvintele lor, s-au rușinat\
+      \ slugile foarte, că niciodată nu s-a grăit cuvânt ca acesta despre Susana."
+    chapter: null
+  - verseNumber: 27
+    text: "Si a doua zi, dupa ce s-a adunat poporul la Ioachim, barbatul ei, au venit\
+      \ si cei doi batrani plini de cuget rau asupra Susanei, ca sa o omoare."
+    textWithDiacritics: "Și a doua zi, după ce s-a adunat poporul la Ioachim, bărbatul\
+      \ ei, au venit și cei doi bătrâni plini de cuget rău asupra Susanei, ca să o\
+      \ omoare."
+    chapter: null
+  - verseNumber: 28
+    text: "Si au zis inaintea poporului: \"Trimiteti la Susana, fata lui Hilchia,\
+      \ femeia lui Ioachim\", si ei au trimis."
+    textWithDiacritics: "Și au zis înaintea poporului: \"Trimiteți la Susana, fata\
+      \ lui Hilchia, femeia lui Ioachim\", și ei au trimis."
+    chapter: null
+  - verseNumber: 29
+    text: "Si a venit ea si parintii ei si fiii ei si toate rudeniile ei."
+    textWithDiacritics: "Și a venit ea și părinții ei și fiii ei și toate rudeniile\
+      \ ei."
+    chapter: null
+  - verseNumber: 30
+    text: "Susana era gingasa si frumoasa."
+    textWithDiacritics: "Susana era gingașă și frumoasă."
+    chapter: null
+  - verseNumber: 31
+    text: "Acesti batrani nelegiuiti au poruncit ca ea sa se descopere, ca era acoperita,\
+      \ ca sa se sature de frumusetile ei."
+    textWithDiacritics: "Acești bătrâni nelegiuiți au poruncit ca ea să se descopere,\
+      \ că era acoperită, ca să se sature de frumusețile ei."
+    chapter: null
+  - verseNumber: 32
+    text: "Si plangeau cei care erau langa ea si toti cei care o stiau."
+    textWithDiacritics: "Și plângeau cei care erau lângă ea și toți cei care o știau."
+    chapter: null
+  - verseNumber: 33
+    text: "Si sculandu-se batranii in mijlocul poporului, pusera mainile pe ea."
+    textWithDiacritics: "Și sculându-se bătrânii în mijlocul poporului, puseră mâ\
+      inile pe ea."
+    chapter: null
+  - verseNumber: 34
+    text: "Ea, plangand, cauta la cer, ca inima ei era nadajduind spre YaHWeH ."
+    textWithDiacritics: "Ea, plângând, căuta la cer, că inima ei era nădăjduind spre\
+      \ YaHWeH ."
+    chapter: null
+  - verseNumber: 35
+    text: "Si au zis batranii: \"Umbland noi in gradina, a intrat ea cu doua slujnice\
+      \ si a inchis usa, dandu-le drumul."
+    textWithDiacritics: "Și au zis bătrânii: \"Umblând noi în grădină, a intrat ea\
+      \ cu două slujnice și a închis ușa, dându-le drumul."
+    chapter: null
+  - verseNumber: 36
+    text: "Si a venit la ea un tanar care fusese ascuns si s-a culcat cu ea."
+    textWithDiacritics: "Și a venit la ea un tânăr care fusese ascuns și s-a culcat\
+      \ cu ea."
+    chapter: null
+  - verseNumber: 37
+    text: "Noi fiind in coltul gradinii, vazand faradelegea, am alergat asupra-le."
+    textWithDiacritics: "Noi fiind în colțul grădinii, văzând fărădelegea, am alergat\
+      \ asupră-le."
+    chapter: null
+  - verseNumber: 38
+    text: "Si vazandu-i impreunandu-se, pe el nu l-am putut opri, ca era mai tare\
+      \ ca noi, si deschizand usile a fugit."
+    textWithDiacritics: "Și văzându-i împreunându-se, pe el nu l-am putut opri, că\
+      \ era mai tare ca noi, și deschizând ușile a fugit."
+    chapter: null
+  - verseNumber: 39
+    text: "Si prinzand-o pe ea, am intrebat-o cine era tanarul acela, si n-a vrut\
+      \ sa ne spuna."
+    textWithDiacritics: "Și prinzând-o pe ea, am întrebat-o cine era tânărul acela,\
+      \ și n-a vrut să ne spună."
+    chapter: null
+  - verseNumber: 40
+    text: "Aceasta marturisim\"."
+    textWithDiacritics: "Aceasta mărturisim\"."
+    chapter: null
+  - verseNumber: 41
+    text: "Si i-a crezut pe ei adunarea, ca pe niste batrani ai poporului si judecatori,\
+      \ si au judecat-o spre moarte."
+    textWithDiacritics: "Și i-a crezut pe ei adunarea, ca pe niște bătrâni ai poporului\
+      \ și judecători, și au judecat-o spre moarte."
+    chapter: null
+  - verseNumber: 42
+    text: "Si strigand cu glas mare Susana a zis: \"Dumnezeule cel Vesnic, Cunoscatorul\
+      \ celor ascunse, Care stii toate mai inainte de a se face, Tu stii ca minciuni\
+      \ au spus ei asupra mea."
+    textWithDiacritics: "Și strigând cu glas mare Susana a zis: \"Dumnezeule cel Veș\
+      nic, Cunoscătorul celor ascunse, Care știi toate mai înainte de a se face, Tu\
+      \ știi că minciuni au spus ei asupra mea."
+    chapter: null
+  - verseNumber: 43
+    text: "Si iata mor, nefacand nimic din cele ce au viclenit acestia asupra mea\"\
+      ."
+    textWithDiacritics: "Și iată mor, nefăcând nimic din cele ce au viclenit aceș\
+      tia asupra mea\"."
+    chapter: null
+  - verseNumber: 44
+    text: "Si a auzit Eylohim glasul ei si, cand o duceau sa o piarda, a desteptat\
+      \ duhul intr-un prunc tanar , caruia ii era numele Daniel."
+    textWithDiacritics: "Și a auzit Eylohim glasul ei și, când o duceau să o piardă\
+      , a deșteptat duhul într-un prunc tânăr , căruia îi era numele Daniel."
+    chapter: null
+  - verseNumber: 45
+    text: "Si a strigat pruncul cu glas mare: \"Curat sunt eu de sangele acesteia\"\
+      ."
+    textWithDiacritics: "Și a strigat pruncul cu glas mare: \"Curat sunt eu de sâ\
+      ngele acesteia\"."
+    chapter: null
+  - verseNumber: 46
+    text: "S-a intors tot poporul la el, si a zis: \"Ce inseamna aceasta?\""
+    textWithDiacritics: "S-a întors tot poporul la el, și a zis: \"Ce înseamnă aceasta?\""
+    chapter: null
+  - verseNumber: 47
+    text: "Si el, stand in mijlocul lor, a zis: \"Oare asa de nebuni sunt toti fiii\
+      \ lui Israel?"
+    textWithDiacritics: "Și el, stând în mijlocul lor, a zis: \"Oare așa de nebuni\
+      \ sunt toți fiii lui Israel?"
+    chapter: null
+  - verseNumber: 48
+    text: "Caci necercetand, nici adevarul cunoscand, ati osandit pe fata lui Israel."
+    textWithDiacritics: "Căci necercetând, nici adevărul cunoscând, ați osândit pe\
+      \ fata lui Israel."
+    chapter: null
+  - verseNumber: 49
+    text: "Intoarceti-va la judecata, pentru ca minciuni au spus ei asupra ei\"."
+    textWithDiacritics: "Întoarceți-vă la judecată, pentru că minciuni au spus ei\
+      \ asupra ei\"."
+    chapter: null
+  - verseNumber: 50
+    text: "Si s-a intors tot poporul degraba si i-au zis lui batranii: \"Vino de sezi\
+      \ in mijlocul nostru si ne spune noua ca ti-a dat Eylohim cinstea batranetilor\"\
+      ."
+    textWithDiacritics: "Și s-a întors tot poporul degrabă și i-au zis lui bătrânii:\
+      \ \"Vino de șezi în mijlocul nostru și ne spune nouă că ți-a dat Eylohim cinstea\
+      \ bătrâneților\"."
+    chapter: null
+  - verseNumber: 51
+    text: "Si a zis catre ei Daniel: \"Despartiti-i unul de altul si-i voi intreba\"\
+      ."
+    textWithDiacritics: "Și a zis către ei Daniel: \"Despărțiți-i unul de altul ș\
+      i-i voi întreba\"."
+    chapter: null
+  - verseNumber: 52
+    text: "Si dupa ce s-au despartit unul de altul, a chemat pe unul din ei si a zis\
+      \ catre el: \"Invechitule in zile rele! Acum au venit pacatele tale, pe care\
+      \ le faceai mai inainte, facand judecati strambe, si pe cei nevinovati invinuind,\
+      \ si pe cei vinovati slobozind, de vreme ce YaHWeH zice: Pe cel nevinovat si\
+      \ pe cel nedrept sa nu-l omori."
+    textWithDiacritics: "Și după ce s-au despărțit unul de altul, a chemat pe unul\
+      \ din ei și a zis către el: \"Învechitule în zile rele! Acum au venit păcatele\
+      \ tale, pe care le făceai mai înainte, făcând judecăți strâmbe, și pe cei nevinovaț\
+      i învinuind, și pe cei vinovați slobozind, de vreme ce YaHWeH zice: Pe cel nevinovat\
+      \ și pe cel nedrept să nu-l omori."
+    chapter: null
+  - verseNumber: 53
+    text: "Si de ai vazut pe aceasta femeie cu acel tanar, spune sub ce copac i-ati\
+      \ prins in fapt?\" El a zis: \"Sub mesteacan\"."
+    textWithDiacritics: "Și de ai văzut pe această femeie cu acel tânăr, spune sub\
+      \ ce copac i-ați prins în fapt?\" El a zis: \"Sub mesteacăn\"."
+    chapter: null
+  - verseNumber: 54
+    text: "Zis-a Daniel: \"Drept ai mintit asupra capului tau."
+    textWithDiacritics: "Zis-a Daniel: \"Drept ai mințit asupra capului tău."
+    chapter: null
+  - verseNumber: 55
+    text: "Acum ingerul lui Eylohim, luand porunca de la El, te va spinteca in doua\"\
+      ."
+    textWithDiacritics: "Acum îngerul lui Eylohim, luând poruncă de la El, te va spinteca\
+      \ în două\"."
+    chapter: null
+  - verseNumber: 56
+    text: "Si punandu-l alaturi, a poruncit sa aduca pe celalalt si i-a zis: \"Samanta\
+      \ lui Canaan si nu a lui Iuda, frumusetile te-au inselat si pofta a razvratit\
+      \ inima ta."
+    textWithDiacritics: "Și punându-l alături, a poruncit să aducă pe celălalt și\
+      \ i-a zis: \"Sămânța lui Canaan și nu a lui Iuda, frumusețile te-au înșelat\
+      \ și pofta a răzvrătit inima ta."
+    chapter: null
+  - verseNumber: 57
+    text: "Asa faceai fetelor lui Israel care, de frica, se impreunau cu voi; ci n-a\
+      \ suferit fata lui Iuda faradelegea voastra."
+    textWithDiacritics: "Așa făceai fetelor lui Israel care, de frică, se împreunau\
+      \ cu voi; ci n-a suferit fata lui Iuda fărădelegea voastră."
+    chapter: null
+  - verseNumber: 58
+    text: "Acum spune-mi sub ce copac i-ati prins?\" Iar el a zis: \"Sub salcam\"."
+    textWithDiacritics: "Acum spune-mi sub ce copac i-ați prins?\" Iar el a zis: \"\
+      Sub salcâm\"."
+    chapter: null
+  - verseNumber: 59
+    text: "Si i-a zis Daniel lui: \"Drept ai mintit si tu asupra capului tau."
+    textWithDiacritics: "Și i-a zis Daniel lui: \"Drept ai mințit și tu asupra capului\
+      \ tău."
+    chapter: null
+  - verseNumber: 60
+    text: "Caci asteapta ingerul lui Eylohim, avand sabie, sa te taie in doua, ca\
+      \ sa va piarda de tot pe voi\"."
+    textWithDiacritics: "Căci așteaptă îngerul lui Eylohim, având sabie, să te taie\
+      \ în două, ca să vă piardă de tot pe voi\"."
+    chapter: null
+  - verseNumber: 61
+    text: "Si a strigat toata adunarea cu glas mare si a binecuvantat pe Eylohim,\
+      \ Cel care izbaveste pe cei care nadajduiesc in El."
+    textWithDiacritics: "Și a strigat toată adunarea cu glas mare și a binecuvântat\
+      \ pe Eylohim, Cel care izbăvește pe cei care nădăjduiesc în El."
+    chapter: null
+  - verseNumber: 62
+    text: "Si s-a sculat asupra celor doi batrani, ca i-a dovedit Daniel din cuvintele\
+      \ lor , ca au marturisit stramb si le-a facut dupa legea lui Moise, precum cu\
+      \ viclesug gandit-au sa faca aproapelui lor, si i-a omorat si a scapat sangele\
+      \ cel nevinovat in ziua aceea."
+    textWithDiacritics: "Și s-a sculat asupra celor doi bătrâni, că i-a dovedit Daniel\
+      \ din cuvintele lor , că au mărturisit strâmb și le-a făcut după legea lui Moise,\
+      \ precum cu vicleșug gândit-au să facă aproapelui lor, și i-a omorât și a scă\
+      pat sângele cel nevinovat în ziua aceea."
+    chapter: null
+  - verseNumber: 63
+    text: "Iar Hilchia si femeia lui au laudat pe Eylohim pentru Susana, fiica lor,\
+      \ impreuna cu Ioachim, barbatul ei, si cu toate rudele ei, pentru ca nu s-a\
+      \ aflat intru ea lucru urat."
+    textWithDiacritics: "Iar Hilchia și femeia lui au lăudat pe Eylohim pentru Susana,\
+      \ fiica lor, împreună cu Ioachim, bărbatul ei, și cu toate rudele ei, pentru\
+      \ că nu s-a aflat întru ea lucru urât."
+    chapter: null
+  - verseNumber: 64
+    text: "Si Daniel s-a facut mare inaintea poporului din ziua aceea si de aci inainte."
+    textWithDiacritics: "Și Daniel s-a făcut mare înaintea poporului din ziua aceea\
+      \ și de aci înainte."
+    chapter: null

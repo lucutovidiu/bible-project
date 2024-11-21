@@ -1,0 +1,415 @@
+---
+bookId: 44
+name: "Cântarea celor trei tineri"
+abbreviation: "CantCelor3."
+testament: "Vechiul Testament"
+expChaptersCount: 1
+expTotalVerses: 67
+downloadedLink: "https://yahwehtora.ro/cantarea-celor-trei-tineri"
+requiresUpdate: false
+inProgress: false
+bookOrder: 44
+chapterPojo:
+- number: 1
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Si stand Azaria in mijlocul focului, si deschizand gura sa, asa s-a rugat,\
+      \ zicand:"
+    textWithDiacritics: "Și stând Azaria în mijlocul focului, și deschizând gura sa,\
+      \ așa s-a rugat, zicând:"
+    chapter: null
+  - verseNumber: 2
+    text: "\"Binecuvantat esti, YaHWeH Eylohim al parintilor nostri, si laudat si\
+      \ preaslavit este numele Tau in veci."
+    textWithDiacritics: "\"Binecuvântat ești, YaHWeH Eylohim al părinților noștri,\
+      \ și lăudat și preaslăvit este numele Tău în veci."
+    chapter: null
+  - verseNumber: 3
+    text: "Ca drept esti in toate cate ai facut noua, si toate lucrurile Tale sunt\
+      \ adevarate, si drepte caile Tale si toate judecatile Tale adevarate."
+    textWithDiacritics: "Că drept ești în toate câte ai făcut nouă, și toate lucrurile\
+      \ Tale sunt adevărate, și drepte căile Tale și toate judecățile Tale adevărate."
+    chapter: null
+  - verseNumber: 4
+    text: "Tu ai dat hotarari drepte in toate relele ce ai facut sa vina asupra noastra\
+      \ si asupra cetatii celei sfinte a parintilor nostri, Ierusalimul; ca in adevar\
+      \ si dreptate ai adus acestea peste noi din pricina pacatelor noastre:"
+    textWithDiacritics: "Tu ai dat hotărâri drepte în toate relele ce ai făcut să\
+      \ vină asupra noastră și asupra cetății celei sfinte a părinților noștri, Ierusalimul;\
+      \ că în adevăr și dreptate ai adus acestea peste noi din pricina păcatelor noastre:"
+    chapter: null
+  - verseNumber: 5
+    text: "Ca am pacatuit, ca am facut faradelege, departandu-ne de la Tine."
+    textWithDiacritics: "Că am păcătuit, că am făcut fărădelege, depărtându-ne de\
+      \ la Tine."
+    chapter: null
+  - verseNumber: 6
+    text: "Si am gresit in toate, si poruncile Tale n-am ascultat, nici le-am pazit,\
+      \ nici le-am facut, dupa cum ne-ai poruncit noua, ca sa ne fie bine."
+    textWithDiacritics: "Și am greșit în toate, și poruncile Tale n-am ascultat, nici\
+      \ le-am păzit, nici le-am făcut, după cum ne-ai poruncit nouă, ca să ne fie\
+      \ bine."
+    chapter: null
+  - verseNumber: 7
+    text: "Si cate ai adus si ai facut noua in dreapta judecata sunt."
+    textWithDiacritics: "Și câte ai adus și ai făcut nouă în dreaptă judecată sunt."
+    chapter: null
+  - verseNumber: 8
+    text: "Tu ne-ai dat in mainile vrajmasilor nostri, oameni fara lege si cei mai\
+      \ rai dintre nelegiuiti, unui rege nedrept, cel mai rau care este pe pamant."
+    textWithDiacritics: "Tu ne-ai dat în mâinile vrăjmașilor noștri, oameni fără lege\
+      \ și cei mai răi dintre nelegiuiți, unui rege nedrept, cel mai rău care este\
+      \ pe pământ."
+    chapter: null
+  - verseNumber: 9
+    text: "Si astazi nu mai putem sa deschidem gura; rusine si ocara ne-am facut robilor\
+      \ Tai si celor ce Te cinstesc pe Tine."
+    textWithDiacritics: "Și astăzi nu mai putem să deschidem gura; rușine și ocară\
+      \ ne-am făcut robilor Tăi și celor ce Te cinstesc pe Tine."
+    chapter: null
+  - verseNumber: 10
+    text: "Nu ne parasi pe noi pentru totdeauna, pentru numele Tau, si nu strica legamantul\
+      \ Tau."
+    textWithDiacritics: "Nu ne părăsi pe noi pentru totdeauna, pentru numele Tău,\
+      \ și nu strica legământul Tău."
+    chapter: null
+  - verseNumber: 11
+    text: "Si nu departa mila Ta de la noi, pentru Avraam cel iubit de Tine si pentru\
+      \ Isaac, robul Tau, si pentru Israel, sfantul Tau,"
+    textWithDiacritics: "Și nu depărta mila Ta de la noi, pentru Avraam cel iubit\
+      \ de Tine și pentru Isaac, robul Tău, și pentru Israel, sfântul Tău,"
+    chapter: null
+  - verseNumber: 12
+    text: "Carora le-ai fagaduit sa le inmultesti semintia lor, ca stelele cerului\
+      \ si ca nisipul de pe tarmul marii."
+    textWithDiacritics: "Cărora le-ai făgăduit să le înmulțești seminția lor, ca stelele\
+      \ cerului și ca nisipul de pe țărmul mării."
+    chapter: null
+  - verseNumber: 13
+    text: "Caci, Stapane, ne-am imputinat mai mult decat toate neamurile si suntem\
+      \ umiliti astazi, in tot pamantul, pentru pacatele noastre."
+    textWithDiacritics: "Căci, Stăpâne, ne-am împuținat mai mult decât toate neamurile\
+      \ și suntem umiliți astăzi, în tot pământul, pentru păcatele noastre."
+    chapter: null
+  - verseNumber: 14
+    text: "Si nu mai este in vremea aceasta capetenie, prooroc, nici conducator, nici\
+      \ ardere de tot, nici jertfa, nici prinos, nici tamaie, nici loc unde sa aducem\
+      \ inaintea Ta parga noastra si sa aflam har la Tine."
+    textWithDiacritics: "Și nu mai este în vremea aceasta căpetenie, prooroc, nici\
+      \ conducător, nici ardere de tot, nici jertfă, nici prinos, nici tămâie, nici\
+      \ loc unde să aducem înaintea Ta pârga noastră și să aflăm har la Tine."
+    chapter: null
+  - verseNumber: 15
+    text: "Ci cu suflet zdrobit si cu duh umilit sa fim primiti de Tine."
+    textWithDiacritics: "Ci cu suflet zdrobit și cu duh umilit să fim primiți de Tine."
+    chapter: null
+  - verseNumber: 16
+    text: "Ca ardere de tot de berbeci si de junci, ca zeci de mii de miei grasi,\
+      \ asa sa fie jertfa noastra inaintea Ta astazi si intelegere sa gaseasca la\
+      \ Tine; ca nu este rusine celor ce nadajduiesc in Tine."
+    textWithDiacritics: "Ca ardere de tot de berbeci si de junci, ca zeci de mii de\
+      \ miei grași, așa să fie jertfa noastră înaintea Ta astăzi și înțelegere să\
+      \ găsească la Tine; că nu este rușine celor ce nădăjduiesc în Tine."
+    chapter: null
+  - verseNumber: 17
+    text: "Si acum urmam tie cu toata inima, si ne temem de Tine, si cautam fata Ta."
+    textWithDiacritics: "Și acum urmăm ție cu toată inima, și ne temem de Tine, ș\
+      i căutăm fața Ta."
+    chapter: null
+  - verseNumber: 18
+    text: "Sa nu ne rusinezi pe noi, ci fa cu noi dupa indurarea Ta si dupa multimea\
+      \ milei Tale."
+    textWithDiacritics: "Să nu ne rușinezi pe noi, ci fă cu noi după îndurarea Ta\
+      \ și după mulțimea milei Tale."
+    chapter: null
+  - verseNumber: 19
+    text: "Si ne scoate pe noi dupa minunile Tale, si da marire numelui Tau, YaHWeH;\
+      \ si sa se rusineze toti cei ce arata robilor Tai rele."
+    textWithDiacritics: "Și ne scoate pe noi după minunile Tale, și dă mărire numelui\
+      \ Tău, YaHWeH; și să se rușineze toți cei ce arată robilor Tăi rele."
+    chapter: null
+  - verseNumber: 20
+    text: "Si sa se rusineze de toata puterea Ta, si taria lor sa se sfarame."
+    textWithDiacritics: "Și să se rușineze de toată puterea Ta, și tăria lor să se\
+      \ sfărâme."
+    chapter: null
+  - verseNumber: 21
+    text: "Si sa stie ca Tu esti YaHWeH, Eylohim singurul, si slavit peste toata lumea\"\
+      ."
+    textWithDiacritics: "Și să știe că Tu ești YaHWeH, Eylohim singurul, și slăvit\
+      \ peste toată lumea\"."
+    chapter: null
+  - verseNumber: 22
+    text: "Si n-au incetat slujitorii regelui, care ii aruncasera in cuptor, sa infierbante\
+      \ cuptorul cu catran si cu smoala si cu calti si cu vita."
+    textWithDiacritics: "Și n-au încetat slujitorii regelui, care îi aruncaseră î\
+      n cuptor, să înfierbânte cuptorul cu catran și cu smoală și cu câlți și cu viț\
+      ă."
+    chapter: null
+  - verseNumber: 23
+    text: "Si valvataia se ridica deasupra cuptorului, de patruzeci si noua de coti."
+    textWithDiacritics: "Și vâlvătaia se ridica deasupra cuptorului, de patruzeci\
+      \ și nouă de coți."
+    chapter: null
+  - verseNumber: 24
+    text: "Si izbucnind afara, ea a ars pe Caldeii care se aflau in jurul cuptorului."
+    textWithDiacritics: "Și izbucnind afară, ea a ars pe Caldeii care se aflau în\
+      \ jurul cuptorului."
+    chapter: null
+  - verseNumber: 25
+    text: "Iar ingerul lui YaHWeH s-a coborat la Azaria si la cei trei prieteni ai\
+      \ lui in cuptor si a stins vapaia."
+    textWithDiacritics: "Iar îngerul lui YaHWeH s-a coborât la Azaria și la cei trei\
+      \ prieteni ai lui în cuptor și a stins văpaia."
+    chapter: null
+  - verseNumber: 26
+    text: "Si le-a suflat in mijlocul cuptorului ca o racoare de adiere si de roua,\
+      \ asa ca focul nu i-a mai atins; nu le-a mai pricinuit nici dureri, nici teama."
+    textWithDiacritics: "Și le-a suflat în mijlocul cuptorului ca o răcoare de adiere\
+      \ și de rouă, așa că focul nu i-a mai atins; nu le-a mai pricinuit nici dureri,\
+      \ nici teamă."
+    chapter: null
+  - verseNumber: 27
+    text: "Si acei trei, intr-un singur glas, au laudat, au slavit si au binecuvantat\
+      \ pe Eylohim in cuptor , zicand:"
+    textWithDiacritics: "Și acei trei, într-un singur glas, au lăudat, au slăvit ș\
+      i au binecuvântat pe Eylohim în cuptor , zicând:"
+    chapter: null
+  - verseNumber: 28
+    text: "\"Binecuvantat esti, YaHWeH Eylohim al parintilor nostri, si laudat si\
+      \ preainaltat intru toti vecii."
+    textWithDiacritics: "\"Binecuvântat ești, YaHWeH Eylohim al părinților noștri,\
+      \ și lăudat și preaînălțat întru toți vecii."
+    chapter: null
+  - verseNumber: 29
+    text: "Binecuvantat este numele cel sfant al slavei Tale, si prealaudat si preainaltat\
+      \ intru toti vecii."
+    textWithDiacritics: "Binecuvântat este numele cel sfânt al slavei Tale, și preală\
+      udat și preaînălțat întru toți vecii."
+    chapter: null
+  - verseNumber: 30
+    text: "Binecuvantat esti in locasul sfintei Tale slave, laudat si preaslavit in\
+      \ veci."
+    textWithDiacritics: "Binecuvântat ești în locașul sfintei Tale slave, lăudat ș\
+      i preaslăvit în veci."
+    chapter: null
+  - verseNumber: 31
+    text: "Binecuvantat esti Cel ce vezi adancurile si sezi pe heruvimi si laudat\
+      \ si preainaltat in veci."
+    textWithDiacritics: "Binecuvântat ești Cel ce vezi adâncurile și șezi pe heruvimi\
+      \ și lăudat și preaînălțat în veci."
+    chapter: null
+  - verseNumber: 32
+    text: "Binecuvantat esti pe scaunul imparatiei Tale si prealaudat si preainaltat\
+      \ in veci."
+    textWithDiacritics: "Binecuvântat ești pe scaunul împărăției Tale și prealăudat\
+      \ și preaînălțat în veci."
+    chapter: null
+  - verseNumber: 33
+    text: "Binecuvantat esti pe bolta cerului si prealaudat si preaslavit in veci."
+    textWithDiacritics: "Binecuvântat ești pe bolta cerului și prealăudat și preaslă\
+      vit în veci."
+    chapter: null
+  - verseNumber: 34
+    text: "Binecuvantati toate lucrurile lui YaHWeH, pe YaHWeH, laudati-L si-L preainaltati\
+      \ pe El in veci."
+    textWithDiacritics: "Binecuvântați toate lucrurile lui YaHWeH, pe YaHWeH, lăudaț\
+      i-L și-L preaînălțați pe El în veci."
+    chapter: null
+  - verseNumber: 35
+    text: "Binecuvantati, ceruri, pe YaHWeH, laudati si-L preainaltati pe El in veci."
+    textWithDiacritics: "Binecuvântați, ceruri, pe YaHWeH, lăudați și-L preaînălț\
+      ați pe El în veci."
+    chapter: null
+  - verseNumber: 36
+    text: "Binecuvantati, ingeri, pe YaHWeH, laudati si-L preainaltati pe El in veci."
+    textWithDiacritics: "Binecuvântați, îngeri, pe YaHWeH, lăudați și-L preaînălț\
+      ați pe El în veci."
+    chapter: null
+  - verseNumber: 37
+    text: "Binecuvantati, ape si toate cele mai presus de cer, pe YaHWeH, laudati-L\
+      \ si-L preainaltati pe El in veci."
+    textWithDiacritics: "Binecuvântați, ape și toate cele mai presus de cer, pe YaHWeH,\
+      \ lăudați-L și-L preaînălțați pe El în veci."
+    chapter: null
+  - verseNumber: 38
+    text: "Binecuvantati, toate puterile lui YaHWeH, pe YaHWeH, laudati-L si-L preainaltati\
+      \ pe El in veci."
+    textWithDiacritics: "Binecuvântați, toate puterile lui YaHWeH, pe YaHWeH, lăudaț\
+      i-L și-L preaînălțați pe El în veci."
+    chapter: null
+  - verseNumber: 39
+    text: "Binecuvantati, soare si luna, pe YaHWeH, laudati-L si-L preainaltati in\
+      \ veci."
+    textWithDiacritics: "Binecuvântați, soare și lună, pe YaHWeH, lăudați-L și-L preaî\
+      nălțați în veci."
+    chapter: null
+  - verseNumber: 40
+    text: "Binecuvantati, stelele cerului, pe YaHWeH, laudati si-L preainaltati pe\
+      \ El in veci."
+    textWithDiacritics: "Binecuvântați, stelele cerului, pe YaHWeH, lăudați și-L preaî\
+      nălțați pe El în veci."
+    chapter: null
+  - verseNumber: 41
+    text: "Binecuvantati, toata ploaia si roua, pe YaHWeH, laudati si-L preainaltati\
+      \ pe El in veci."
+    textWithDiacritics: "Binecuvântați, toată ploaia și roua, pe YaHWeH, lăudați ș\
+      i-L preaînălțați pe El în veci."
+    chapter: null
+  - verseNumber: 42
+    text: "Binecuvantati, toate vanturile, pe YaHWeH, laudati si-L preainaltati pe\
+      \ El intru toti vecii."
+    textWithDiacritics: "Binecuvântați, toate vânturile, pe YaHWeH, lăudați și-L preaî\
+      nălțați pe El intru toți vecii."
+    chapter: null
+  - verseNumber: 43
+    text: "Binecuvantati, foc si caldura, pe YaHWeH, laudati si-L preainaltati in\
+      \ veci."
+    textWithDiacritics: "Binecuvântați, foc și căldură, pe YaHWeH, lăudați și-L preaî\
+      nălțați în veci."
+    chapter: null
+  - verseNumber: 44
+    text: "Binecuvantati, frig si caldura, pe YaHWeH, laudati si-L preainaltati pe\
+      \ El in veci."
+    textWithDiacritics: "Binecuvântați, frig și căldură, pe YaHWeH, lăudați și-L preaî\
+      nălțați pe El în veci."
+    chapter: null
+  - verseNumber: 45
+    text: "Binecuvantati, roua si zapada, pe YaHWeH, laudati si-L preainaltati pe\
+      \ El in veci."
+    textWithDiacritics: "Binecuvântați, rouă și zăpadă, pe YaHWeH, lăudați și-L preaî\
+      nălțați pe El în veci."
+    chapter: null
+  - verseNumber: 46
+    text: "Binecuvantati, nopti si zile, pe YaHWeH, laudati si-L preainaltati pe El\
+      \ in veci."
+    textWithDiacritics: "Binecuvântați, nopți și zile, pe YaHWeH, lăudați și-L preaî\
+      nălțați pe El în veci."
+    chapter: null
+  - verseNumber: 47
+    text: "Binecuvantati, lumina si intuneric, pe YaHWeH, laudati si-L preainaltati\
+      \ pe El in veci."
+    textWithDiacritics: "Binecuvântați, lumină și întuneric, pe YaHWeH, lăudați ș\
+      i-L preaînălțați pe El în veci."
+    chapter: null
+  - verseNumber: 48
+    text: "Binecuvantati, gheata si ger, pe YaHWeH, laudati si-L preainaltati pe El\
+      \ in veci."
+    textWithDiacritics: "Binecuvântați, gheață și ger, pe YaHWeH, lăudați și-L preaî\
+      nălțați pe El în veci."
+    chapter: null
+  - verseNumber: 49
+    text: "Binecuvantati, brume si zapezi, pe YaHWeH, laudati si-L preainaltati pe\
+      \ El in veci."
+    textWithDiacritics: "Binecuvântați, brume și zăpezi, pe YaHWeH, lăudați și-L preaî\
+      nălțați pe El în veci."
+    chapter: null
+  - verseNumber: 50
+    text: "Binecuvantati, fulgere si nori, pe YaHWeH, laudati si-L preainaltati pe\
+      \ El in veci."
+    textWithDiacritics: "Binecuvântați, fulgere și nori, pe YaHWeH, lăudați și-L preaî\
+      nălțați pe El în veci."
+    chapter: null
+  - verseNumber: 51
+    text: "Binecuvinteaza, pamantule, pe YaHWeH, lauda si-L preainalta in veci."
+    textWithDiacritics: "Binecuvintează, pământule, pe YaHWeH, laudă și-L preaînalț\
+      ă în veci."
+    chapter: null
+  - verseNumber: 52
+    text: "Binecuvantati, munti si dealuri, pe YaHWeH, laudati si-L preainaltati pe\
+      \ El in veci."
+    textWithDiacritics: "Binecuvântați, munți și dealuri, pe YaHWeH, lăudați și-L\
+      \ preaînălțați pe El în veci."
+    chapter: null
+  - verseNumber: 53
+    text: "Binecuvantati, toate cele ce rasariti pe pamant, pe YaHWeH, laudati si-L\
+      \ preainaltati pe El in veci."
+    textWithDiacritics: "Binecuvântați, toate cele ce răsăriți pe pământ, pe YaHWeH,\
+      \ lăudați și-L preaînălțați pe El în veci."
+    chapter: null
+  - verseNumber: 54
+    text: "Binecuvantati, izvoare, pe YaHWeH, laudati si-L preainaltati pe El in veci,"
+    textWithDiacritics: "Binecuvântați, izvoare, pe YaHWeH, lăudați și-L preaînălț\
+      ați pe El în veci,"
+    chapter: null
+  - verseNumber: 55
+    text: "Binecuvantati, mari si rauri, pe YaHWeH, laudati si-L preainaltati pe El\
+      \ in veci."
+    textWithDiacritics: "Binecuvântați, mări și râuri, pe YaHWeH, lăudați și-L preaî\
+      nălțați pe El în veci."
+    chapter: null
+  - verseNumber: 56
+    text: "Binecuvantati, chiti si toate cele ce se misca in ape, pe YaHWeH, laudati\
+      \ si-L preainaltati pe El in veci."
+    textWithDiacritics: "Binecuvântați, chiți și toate cele ce se mișcă în ape, pe\
+      \ YaHWeH, lăudați și-L preaînălțați pe El în veci."
+    chapter: null
+  - verseNumber: 57
+    text: "Binecuvantati, toate pasarile cerului, pe YaHWeH, laudati si-L preainaltati\
+      \ pe El in veci."
+    textWithDiacritics: "Binecuvântați, toate păsările cerului, pe YaHWeH, lăudaț\
+      i și-L preaînălțați pe El în veci."
+    chapter: null
+  - verseNumber: 58
+    text: "Binecuvantati, toate fiarele si toate dobitoacele, pe YaHWeH, laudati si-L\
+      \ preainaltati pe El in veci."
+    textWithDiacritics: "Binecuvântați, toate fiarele și toate dobitoacele, pe YaHWeH,\
+      \ lăudați și-L preaînălțați pe El în veci."
+    chapter: null
+  - verseNumber: 59
+    text: "Binecuvantati, voi fiii oamenilor, pe YaHWeH, laudati si-L preainaltati\
+      \ pe El in veci."
+    textWithDiacritics: "Binecuvântați, voi fiii oamenilor, pe YaHWeH, lăudați și-L\
+      \ preaînălțați pe El în veci."
+    chapter: null
+  - verseNumber: 60
+    text: "Binecuvinteaza, Israel, pe YaHWeH, laudati si-L preainaltati pe El in veci."
+    textWithDiacritics: "Binecuvintează, Israel, pe YaHWeH, lăudați și-L preaînălț\
+      ați pe El în veci."
+    chapter: null
+  - verseNumber: 61
+    text: "Binecuvantati, preoti, pe YaHWeH, laudati si-L preainaltati pe El in veci."
+    textWithDiacritics: "Binecuvântați, preoți, pe YaHWeH, lăudați și-L preaînălț\
+      ați pe El în veci."
+    chapter: null
+  - verseNumber: 62
+    text: "Binecuvantati, slujitori, pe YaHWeH, laudati si-L preainaltati pe El in\
+      \ veci."
+    textWithDiacritics: "Binecuvântați, slujitori, pe YaHWeH, lăudați și-L preaînă\
+      lțați pe El în veci."
+    chapter: null
+  - verseNumber: 63
+    text: "Binecuvantati, voi duhuri si suflete ale dreptilor, pe YaHWeH, laudati\
+      \ si-L preainaltati pe El in veci."
+    textWithDiacritics: "Binecuvântați, voi duhuri și suflete ale drepților, pe YaHWeH,\
+      \ lăudați și-L preaînălțați pe El în veci."
+    chapter: null
+  - verseNumber: 64
+    text: "Binecuvantati, voi cei sfinti si smeriti cu inima, pe YaHWeH, laudati si-L\
+      \ preainaltati pe El in veci."
+    textWithDiacritics: "Binecuvântați, voi cei sfinți și smeriți cu inima, pe YaHWeH,\
+      \ lăudați și-L preaînălțați pe El în veci."
+    chapter: null
+  - verseNumber: 65
+    text: "Binecuvantati, Anania, Azaria, si Misael, pe YaHWeH, laudati si-L preainaltati\
+      \ pe El in veci; ca ne-a scos pe noi din locuinta mortilor, si din mana mortii\
+      \ ne-a smuls pe noi, si ne-a izbavit pe noi din mijlocul cuptorului care arde\
+      \ cu vapaie de foc, si din mijlocul vapaii ne-a izbavit pe noi."
+    textWithDiacritics: "Binecuvântați, Anania, Azaria, și Misael, pe YaHWeH, lăudaț\
+      i și-L preaînălțați pe El în veci; că ne-a scos pe noi din locuința morților,\
+      \ și din mâna morții ne-a smuls pe noi, și ne-a izbăvit pe noi din mijlocul\
+      \ cuptorului care arde cu văpaie de foc, și din mijlocul văpăii ne-a izbăvit\
+      \ pe noi."
+    chapter: null
+  - verseNumber: 66
+    text: "Marturisiti-va lui YaHWeH, ca este bun, ca in veac este mila Lui."
+    textWithDiacritics: "Mărturisiți-vă lui YaHWeH, că este bun, că în veac este mila\
+      \ Lui."
+    chapter: null
+  - verseNumber: 67
+    text: "Binecuvantati pe YaHWeH, Eylohim, toti care va inchinati Lui, laudati si\
+      \ multumiti, ca in veac este mila Lui\"."
+    textWithDiacritics: "Binecuvântați pe YaHWeH, Eylohim, toți care vă închinați\
+      \ Lui, lăudați și mulțumiți, că în veac este mila Lui\"."
+    chapter: null

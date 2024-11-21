@@ -1,5 +1,6 @@
 package ro.bible.persistence.entity;
 
+import io.quarkus.logging.Log;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
@@ -69,11 +70,12 @@ public class BookEntity extends BaseEntity {
                 .requiresUpdate(requiresUpdate)
                 .inProgress(inProgress)
                 .bookOrder(bookOrder)
-                .chapterPojo(chapters.stream().map(ChapterEntity::getChapterPojoNoBook).collect(toList()))
+                .chapterPojo(chapters.stream().map(ChapterEntity::getChapterExclBookPojo).collect(toList()))
                 .build();
     }
 
     public void updateBook(BookInfo bookInfo) {
+        Log.infof("Update book: %s", bookInfo.getBookName());
         this.abbreviation = bookInfo.getAbbreviation();
         this.testament = bookInfo.getTestament();
         this.expChaptersCount = bookInfo.getExpChaptersCount();

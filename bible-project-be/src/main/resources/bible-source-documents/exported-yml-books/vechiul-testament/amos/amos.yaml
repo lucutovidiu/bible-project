@@ -1,0 +1,1062 @@
+---
+bookId: 30
+name: "Amos – Ahmos"
+abbreviation: "Amos."
+testament: "Vechiul Testament"
+expChaptersCount: 9
+expTotalVerses: 146
+downloadedLink: "https://yahwehtora.ro/amos-ahmos"
+requiresUpdate: false
+inProgress: false
+bookOrder: 30
+chapterPojo:
+- number: 1
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Cuvintele lui Amos, unul din pastorii din Tecoa vedeniile pe care le-a\
+      \ avut el despre Israel, pe vremea lui Ozia, imparatul lui Iuda, si pe vremea\
+      \ lui Ieroboam, fiul lui Ioas, imparatul lui Israel, cu doi ani inaintea cutremurului\
+      \ de pamint."
+    textWithDiacritics: "Cuvintele lui Amos, unul din păstorii din Tecoa vedeniile\
+      \ pe care le-a avut el despre Israel, pe vremea lui Ozia, împăratul lui Iuda,\
+      \ şi pe vremea lui Ieroboam, fiul lui Ioas, împăratul lui Israel, cu doi ani\
+      \ înaintea cutremurului de pămînt."
+    chapter: null
+  - verseNumber: 2
+    text: "El a zis: „ YaHWeH racneste din Sion, glasul Lui rasuna din Ierusalim.\
+      \ Pasunile pastorilor jelesc, si virful Carmelului este uscat.” Impotriva Damascului"
+    textWithDiacritics: "El a zis: „ YaHWeH răcneşte din Sion, glasul Lui răsună din\
+      \ Ierusalim. Păşunile păstorilor jelesc, şi vîrful Carmelului este uscat.” Î\
+      mpotriva Damascului"
+    chapter: null
+  - verseNumber: 3
+    text: "Asa vorbeste YaHWeH: „Pentru trei nelegiuiri ale Damascului, ba pentru\
+      \ patru, nu-Mi schimb hotarirea, pentru ca au treierat Galaadul cu treieratoarea\
+      \ de fier."
+    textWithDiacritics: "Aşa vorbeşte YaHWeH: „Pentru trei nelegiuiri ale Damascului,\
+      \ ba pentru patru, nu-Mi schimb hotărîrea, pentru că au treierat Galaadul cu\
+      \ treierătoarea de fier."
+    chapter: null
+  - verseNumber: 4
+    text: "De aceea voi trimite foc in casa lui Hazael, care va mistui palatele lui\
+      \ Ben-Hadad."
+    textWithDiacritics: "De aceea voi trimite foc în casa lui Hazael, care va mistui\
+      \ palatele lui Ben-Hadad."
+    chapter: null
+  - verseNumber: 5
+    text: "Voi sfarima zavoarele Damascului si voi nimici cu desavirsire pe locuitorii\
+      \ din Bicat-Aven, impreuna cu cel ce tine toiagul de cirmuire in Bet-Eden; si\
+      \ poporul Siriei va fi dus rob la Chir, zice YaHWeH.” Impotriva Gazei"
+    textWithDiacritics: "Voi sfărîma zăvoarele Damascului şi voi nimici cu desăvî\
+      rşire pe locuitorii din Bicat-Aven, împreună cu cel ce ţine toiagul de cîrmuire\
+      \ în Bet-Eden; şi poporul Siriei va fi dus rob la Chir, zice YaHWeH.” Împotriva\
+      \ Gazei"
+    chapter: null
+  - verseNumber: 6
+    text: "Asa vorbeste YaHWeH: „Pentru trei nelegiuiri ale Gazei, ba pentru patru,\
+      \ nu-Mi schimb hotarirea, pentru ca au luat pe toti oamenii prinsi de razboi\
+      \ si i-au dat Edomului:"
+    textWithDiacritics: "Aşa vorbeşte YaHWeH: „Pentru trei nelegiuiri ale Gazei, ba\
+      \ pentru patru, nu-Mi schimb hotărîrea, pentru că au luat pe toţi oamenii prinş\
+      i de război şi i-au dat Edomului:"
+    chapter: null
+  - verseNumber: 7
+    text: "de aceea voi trimite foc in zidurile Gazei, si-i va mistui palatele."
+    textWithDiacritics: "de aceea voi trimite foc în zidurile Gazei, şi-i va mistui\
+      \ palatele."
+    chapter: null
+  - verseNumber: 8
+    text: "Voi nimici cu desavirsire pe locuitorii din Asdod si pe cel ce tine toiagul\
+      \ imparatesc in Ascalon; Imi voi intoarce mina impotriva Ecronului, si ce va\
+      \ mai ramine din filisteni va pieri, zice YaHWeH, Eylohim.” Impotriva Tirului"
+    textWithDiacritics: "Voi nimici cu desăvîrşire pe locuitorii din Asdod şi pe cel\
+      \ ce ţine toiagul împărătesc în Ascalon; Îmi voi întoarce mîna împotriva Ecronului,\
+      \ şi ce va mai rămîne din filisteni va pieri, zice YaHWeH, Eylohim.” Împotriva\
+      \ Tirului"
+    chapter: null
+  - verseNumber: 9
+    text: "Asa vorbeste YaHWeH: „Pentru trei nelegiuiri ale Tirului ba pentru patru,\
+      \ nu-Mi schimb hotarirea, pentru ca au luat pe toti oamenii prinsi de razboi\
+      \ si i-au dat Edomului, si nu s-au gindit la Legamintul fratesc."
+    textWithDiacritics: "Aşa vorbeşte YaHWeH: „Pentru trei nelegiuiri ale Tirului\
+      \ ba pentru patru, nu-Mi schimb hotărîrea, pentru că au luat pe toţi oamenii\
+      \ prinşi de război şi i-au dat Edomului, şi nu s-au gîndit la Legămîntul fră\
+      ţesc."
+    chapter: null
+  - verseNumber: 10
+    text: "De aceea voi trimite foc in zidurile Tirului, si-i va mistui palatele.”\
+      \ Impotriva Edomului"
+    textWithDiacritics: "De aceea voi trimite foc în zidurile Tirului, şi-i va mistui\
+      \ palatele.” Împotriva Edomului"
+    chapter: null
+  - verseNumber: 11
+    text: "Asa vorbeste YaHWeH: „Pentru trei nelegiuiri ale Edomului ba pentru patru,\
+      \ nu-Mi schimb hotarirea, pentru ca a urmarit pe fratii sai cu sabia, inabusindu-si\
+      \ mila, a dat drumul miniei si isi tinea intruna urgia."
+    textWithDiacritics: "Aşa vorbeşte YaHWeH: „Pentru trei nelegiuiri ale Edomului\
+      \ ba pentru patru, nu-Mi schimb hotărîrea, pentru că a urmărit pe fraţii să\
+      i cu sabia, înăbuşindu-şi mila, a dat drumul mîniei şi îşi ţinea întruna urgia."
+    chapter: null
+  - verseNumber: 12
+    text: "De aceea voi trimite foc peste Teman, si va mistui palatele Botrei.” Impotriva\
+      \ lui Amon"
+    textWithDiacritics: "De aceea voi trimite foc peste Teman, şi va mistui palatele\
+      \ Boţrei.” Împotriva lui Amon"
+    chapter: null
+  - verseNumber: 13
+    text: "Asa vorbeste YaHWeH: „Pentru trei nelegiuiri ale copiilor lui Amon, ba\
+      \ pentru patru, nu-Mi schimb hotarirea, pentru ca au spintecat pintecele femeilor\
+      \ insarcinate ale Galaadului, ca sa-si mareasca tinutul:"
+    textWithDiacritics: "Aşa vorbeşte YaHWeH: „Pentru trei nelegiuiri ale copiilor\
+      \ lui Amon, ba pentru patru, nu-Mi schimb hotărîrea, pentru că au spintecat\
+      \ pîntecele femeilor însărcinate ale Galaadului, ca să-şi mărească ţinutul:"
+    chapter: null
+  - verseNumber: 14
+    text: "de aceea voi aprinde focul in zidurile Rabei si-i va mistui palatele, in\
+      \ mijlocul strigatelor de razboi in ziua luptei, si in mijlocul vijeliei, in\
+      \ ziua furtunii."
+    textWithDiacritics: "de aceea voi aprinde focul în zidurile Rabei şi-i va mistui\
+      \ palatele, în mijlocul strigătelor de război în ziua luptei, şi în mijlocul\
+      \ vijeliei, în ziua furtunii."
+    chapter: null
+  - verseNumber: 15
+    text: "Si imparatul lor va merge in robie, el si capeteniile lui impreuna cu el,\
+      \ zice YaHWeH.”"
+    textWithDiacritics: "Şi împăratul lor va merge în robie, el şi căpeteniile lui\
+      \ împreună cu el, zice YaHWeH.”"
+    chapter: null
+- number: 2
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Asa vorbeste YaHWeH: „Pentru trei nelegiuiri ale Moabului, ba pentru patru,\
+      \ nu-Mi schimb hotarirea, pentru ca a ars, a ars pina le-a facut var, oasele\
+      \ imparatului Edomului,"
+    textWithDiacritics: "Aşa vorbeşte YaHWeH: „Pentru trei nelegiuiri ale Moabului,\
+      \ ba pentru patru, nu-Mi schimb hotărîrea, pentru că a ars, a ars pînă le-a\
+      \ făcut var, oasele împăratului Edomului,"
+    chapter: null
+  - verseNumber: 2
+    text: "de aceea voi trimite foc in Moab, si va mistui palatele Cheriotului; si\
+      \ Moabul va pieri in mijlocul zarvei, in mijlocul strigatelor de razboi si sunetului\
+      \ trimbitei."
+    textWithDiacritics: "de aceea voi trimite foc în Moab, şi va mistui palatele Cheriotului;\
+      \ şi Moabul va pieri în mijlocul zarvei, în mijlocul strigătelor de război ş\
+      i sunetului trîmbiţei."
+    chapter: null
+  - verseNumber: 3
+    text: "Voi nimici cu desavirsire pe judecator din mijlocul lui si voi ucide pe\
+      \ toate capeteniile lui impreuna cu el, zice YaHWeH.” Impotriva lui Iuda"
+    textWithDiacritics: "Voi nimici cu desăvîrşire pe judecător din mijlocul lui ş\
+      i voi ucide pe toate căpeteniile lui împreună cu el, zice YaHWeH.” Împotriva\
+      \ lui Iuda"
+    chapter: null
+  - verseNumber: 4
+    text: "Asa vorbeste YaHWeH: „Pentru trei nelegiuiri ale lui Iuda, ba pentru patru,\
+      \ nu-Mi schimb hotarirea, pentru ca au nesocotit Legea lui YaHWeH si n-au pazit\
+      \ Poruncile Lui, ci s-au lasat dusi in ratacire de idolii cei mincinosi dupa\
+      \ care au umblat si parintii lor;"
+    textWithDiacritics: "Aşa vorbeşte YaHWeH: „Pentru trei nelegiuiri ale lui Iuda,\
+      \ ba pentru patru, nu-Mi schimb hotărîrea, pentru că au nesocotit Legea lui\
+      \ YaHWeH şi n-au păzit Poruncile Lui, ci s-au lăsat duşi în rătăcire de idolii\
+      \ cei mincinoşi după care au umblat şi părinţii lor;"
+    chapter: null
+  - verseNumber: 5
+    text: "de aceea voi trimite foc in Iuda, si va mistui palatele Ierusalimului.”\
+      \ Tora - Pericopa 9 - Vayeshev 37 : 1 - 40 : 23 Haftarah - Amos / Ahmos 2 :\
+      \ 6 - 3 : 8 Legamintul Innoit - Fapt.Ap. / Maaseh Shlichim 7 : 9 - 16 Impotriva\
+      \ lui Israel"
+    textWithDiacritics: "de aceea voi trimite foc în Iuda, şi va mistui palatele Ierusalimului.”\
+      \ Tora - Pericopa 9 - Vayeshev 37 : 1 - 40 : 23 Haftarah - Amos / Ahmos 2 :\
+      \ 6 - 3 : 8 Legămîntul Înnoit - Fapt.Ap. / Maaseh Shlichim 7 : 9 - 16 Împotriva\
+      \ lui Israel"
+    chapter: null
+  - verseNumber: 6
+    text: "Asa vorbeste YaHWeH: „Pentru trei nelegiuiri ale lui Israel, ba pentru\
+      \ patru, nu-Mi schimb hotarirea, pentru ca au vindut pe cel neprihanit pe bani\
+      \ si pe sarac, pe o pereche de incaltaminte."
+    textWithDiacritics: "Aşa vorbeşte YaHWeH: „Pentru trei nelegiuiri ale lui Israel,\
+      \ ba pentru patru, nu-Mi schimb hotărîrea, pentru că au vîndut pe cel neprihă\
+      nit pe bani şi pe sărac, pe o pereche de încălţăminte."
+    chapter: null
+  - verseNumber: 7
+    text: "Ei doresc sa vada tarina pamintului pe capul celor sarmani si calca in\
+      \ picioare dreptul celor nenorociti. Fiul si tatal se duc la aceeasi fata, ca\
+      \ sa pingareasca Numele Meu cel sfint."
+    textWithDiacritics: "Ei doresc să vadă ţărîna pămîntului pe capul celor sărmani\
+      \ şi calcă în picioare dreptul celor nenorociţi. Fiul şi tatăl se duc la aceeaş\
+      i fată, ca să pîngărească Numele Meu cel sfînt."
+    chapter: null
+  - verseNumber: 8
+    text: "Se intind linga fiecare altar pe haine luate ca zalog si beau in casa dumnezeilor\
+      \ amenda celor osinditi de ei."
+    textWithDiacritics: "Se întind lîngă fiecare altar pe haine luate ca zălog şi\
+      \ beau în casa dumnezeilor amenda celor osîndiţi de ei."
+    chapter: null
+  - verseNumber: 9
+    text: "Si totusi Eu am nimicit dinaintea lor pe amoriti care erau cit cedrii de\
+      \ inalti si tari ca stejarii; le-am nimicit roadele din virf pina in radacini."
+    textWithDiacritics: "Şi totuşi Eu am nimicit dinaintea lor pe amoriţi care erau\
+      \ cît cedrii de înalţi şi tari ca stejarii; le-am nimicit roadele din vîrf pî\
+      nă în rădăcini."
+    chapter: null
+  - verseNumber: 10
+    text: "Si Eu v-am scos din tara Egiptului, si v-am povatuit patruzeci de ani in\
+      \ pustiu, ca sa va dau in stapinire tara amoritilor."
+    textWithDiacritics: "Şi Eu v-am scos din ţara Egiptului, şi v-am povăţuit patruzeci\
+      \ de ani în pustiu, ca să vă dau în stăpînire ţara amoriţilor."
+    chapter: null
+  - verseNumber: 11
+    text: "Am ridicat proroci dintre fiii vostri si nazirei dintre tinerii vostri.\
+      \ Nu este asa, copii ai lui Israel? – zice YaHWeH …"
+    textWithDiacritics: "Am ridicat proroci dintre fiii voştri şi nazirei dintre tinerii\
+      \ voştri. Nu este aşa, copii ai lui Israel? – zice YaHWeH …"
+    chapter: null
+  - verseNumber: 12
+    text: "Iar voi ati dat nazireilor sa bea vin, si prorocilor le-ati poruncit: „\
+      Nu prorociti!”"
+    textWithDiacritics: "Iar voi aţi dat nazireilor să bea vin, şi prorocilor le-aţ\
+      i poruncit: „Nu prorociţi!”"
+    chapter: null
+  - verseNumber: 13
+    text: "Iata va voi stropsi cum stropseste pamintul carul incarcat cu snopi,"
+    textWithDiacritics: "Iată vă voi stropşi cum stropşeşte pămîntul carul încărcat\
+      \ cu snopi,"
+    chapter: null
+  - verseNumber: 14
+    text: "asa ca cel iute nu va putea sa fuga, iar cel tare nu se va putea sluji\
+      \ de taria lui, si omul viteaz nu-si va scapa viata."
+    textWithDiacritics: "aşa că cel iute nu va putea să fugă, iar cel tare nu se va\
+      \ putea sluji de tăria lui, şi omul viteaz nu-şi va scăpa viaţa."
+    chapter: null
+  - verseNumber: 15
+    text: "Cel ce minuieste arcul nu va putea sa tina piept, cel iute de picioare\
+      \ nu va scapa, si calaretul nu-si va scapa viata;"
+    textWithDiacritics: "Cel ce mînuieşte arcul nu va putea să ţină piept, cel iute\
+      \ de picioare nu va scăpa, şi călăreţul nu-şi va scăpa viaţa;"
+    chapter: null
+  - verseNumber: 16
+    text: "iar cel mai inimos dintre razboinici va fugi in pielea goala in ziua aceea,\
+      \ zice YaHWeH.”"
+    textWithDiacritics: "iar cel mai inimos dintre războinici va fugi în pielea goală\
+      \ în ziua aceea, zice YaHWeH.”"
+    chapter: null
+- number: 3
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Ascultati cuvintul acesta, pe care-l rosteste YaHWeH impotriva voastra,\
+      \ copii ai lui Israel, impotriva intregii familii pe care am scos-o din tara\
+      \ Egiptului!"
+    textWithDiacritics: "Ascultaţi cuvîntul acesta, pe care-l rosteşte YaHWeH împotriva\
+      \ voastră, copii ai lui Israel, împotriva întregii familii pe care am scos-o\
+      \ din ţara Egiptului!"
+    chapter: null
+  - verseNumber: 2
+    text: "„Eu v-am ales numai pe voi dintre toate familiile pamintului: de aceea\
+      \ va voi si pedepsi pentru toate nelegiuirile voastre.”"
+    textWithDiacritics: "„Eu v-am ales numai pe voi dintre toate familiile pămîntului:\
+      \ de aceea vă voi şi pedepsi pentru toate nelegiuirile voastre.”"
+    chapter: null
+  - verseNumber: 3
+    text: "Merg oare doi oameni impreuna fara sa fie invoiti?"
+    textWithDiacritics: "Merg oare doi oameni împreună fără să fie învoiţi?"
+    chapter: null
+  - verseNumber: 4
+    text: "Racneste leul in padure, daca n-are prada? Zbiara puiul de leu din fundul\
+      \ vizuinii, lui daca n-a prins nimic?"
+    textWithDiacritics: "Răcneşte leul în pădure, dacă n-are pradă? Zbiară puiul de\
+      \ leu din fundul vizuinii, lui dacă n-a prins nimic?"
+    chapter: null
+  - verseNumber: 5
+    text: "Cade pasarea in latul de pe pamint, daca nu i s-a intins o cursa? Se ridica\
+      \ latul de la pamint fara sa se fi prins ceva in el?"
+    textWithDiacritics: "Cade pasărea în laţul de pe pămînt, dacă nu i s-a întins\
+      \ o cursă? Se ridică laţul de la pămînt fără să se fi prins ceva în el?"
+    chapter: null
+  - verseNumber: 6
+    text: "Sau suna cineva cu trimbita intr-o cetate fara sa se inspaiminte poporul?\
+      \ Sau se intimpla o nenorocire intr-o cetate fara s-o fi facut YaHWeH?"
+    textWithDiacritics: "Sau sună cineva cu trîmbiţa într-o cetate fără să se înspă\
+      imînte poporul? Sau se întîmplă o nenorocire într-o cetate fără s-o fi făcut\
+      \ YaHWeH?"
+    chapter: null
+  - verseNumber: 7
+    text: "Nu, YaHWeH, Eylohim nu face nimic fara sa-Si descopere taina Sa slujitorilor\
+      \ Sai proroci."
+    textWithDiacritics: "Nu, YaHWeH, Eylohim nu face nimic fără să-Şi descopere taina\
+      \ Sa slujitorilor Săi proroci."
+    chapter: null
+  - verseNumber: 8
+    text: "Leul racneste: cine nu se va speria? YaHWeH, Eylohim vorbeste: cine nu\
+      \ va proroci?"
+    textWithDiacritics: "Leul răcneşte: cine nu se va speria? YaHWeH, Eylohim vorbeş\
+      te: cine nu va proroci?"
+    chapter: null
+  - verseNumber: 9
+    text: "„Strigati de pe acoperisul palatelor Asdodului si de pe palatele tarii\
+      \ Egiptului si spuneti: „Stringeti-va pe muntii Samariei si vedeti ce neorinduiala\
+      \ mare este in mijlocul ei, ce asupriri sunt in ea!"
+    textWithDiacritics: "„Strigaţi de pe acoperişul palatelor Asdodului şi de pe palatele\
+      \ ţării Egiptului şi spuneţi: „Strîngeţi-vă pe munţii Samariei şi vedeţi ce\
+      \ neorînduială mare este în mijlocul ei, ce asupriri sunt în ea!"
+    chapter: null
+  - verseNumber: 10
+    text: "Nu sunt in stare sa lucreze cu neprihanire, zice YaHWeH, ci isi ingramadesc\
+      \ in palate comori cistigate prin silnicie si rapire.”"
+    textWithDiacritics: "Nu sunt în stare să lucreze cu neprihănire, zice YaHWeH,\
+      \ ci îşi îngrămădesc în palate comori cîştigate prin silnicie şi răpire.”"
+    chapter: null
+  - verseNumber: 11
+    text: "De aceea, asa vorbeste YaHWeH, Eylohim: „Vrajmasul va impresura tara, iti\
+      \ va dobori taria, si palatele tale vor fi jefuite!”"
+    textWithDiacritics: "De aceea, aşa vorbeşte YaHWeH, Eylohim: „Vrăjmaşul va împresura\
+      \ ţara, îţi va doborî tăria, şi palatele tale vor fi jefuite!”"
+    chapter: null
+  - verseNumber: 12
+    text: "Asa vorbeste YaHWeH: „Dupa cum pastorul scapa din gura leului numai doua\
+      \ bucati de picioare sau un virf de ureche, asa vor scapa copiii lui Israel\
+      \ care stau in Samaria in coltul unui pat si pe covoare de Damasc!”"
+    textWithDiacritics: "Aşa vorbeşte YaHWeH: „După cum păstorul scapă din gura leului\
+      \ numai două bucăţi de picioare sau un vîrf de ureche, aşa vor scăpa copiii\
+      \ lui Israel care stau în Samaria în colţul unui pat şi pe covoare de Damasc!”"
+    chapter: null
+  - verseNumber: 13
+    text: "Ascultati si spuneti lucrul acesta casei lui Iacov, zice YaHWeH, Eylohim\
+      \ al ostirilor:"
+    textWithDiacritics: "Ascultaţi şi spuneţi lucrul acesta casei lui Iacov, zice\
+      \ YaHWeH, Eylohim al oştirilor:"
+    chapter: null
+  - verseNumber: 14
+    text: "„In ziua cind voi pedepsi pe Israel pentru faradelegile lui, voi pedepsi\
+      \ si altarele din Betel; coarnele altarului vor fi sfarimate si vor cadea la\
+      \ pamint."
+    textWithDiacritics: "„În ziua cînd voi pedepsi pe Israel pentru fărădelegile lui,\
+      \ voi pedepsi şi altarele din Betel; coarnele altarului vor fi sfărîmate şi\
+      \ vor cădea la pămînt."
+    chapter: null
+  - verseNumber: 15
+    text: "Voi surpa casele de iarna si casele de vara; palatele de fildes se vor\
+      \ duce, si casele cele multe se vor nimici, zice YaHWeH.”"
+    textWithDiacritics: "Voi surpa casele de iarnă şi casele de vară; palatele de\
+      \ fildeş se vor duce, şi casele cele multe se vor nimici, zice YaHWeH.”"
+    chapter: null
+- number: 4
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Ascultati cuvintul acesta, juncane din Basan, de pe muntele Samariei, voi\
+      \ care asupriti pe cei sarmani, zdrobiti pe cei lipsiti si ziceti barbatilor\
+      \ vostri: „Dati-ne sa bem!”"
+    textWithDiacritics: "Ascultaţi cuvîntul acesta, juncane din Basan, de pe muntele\
+      \ Samariei, voi care asupriţi pe cei sărmani, zdrobiţi pe cei lipsiţi şi ziceţ\
+      i bărbaţilor voştri: „Daţi-ne să bem!”"
+    chapter: null
+  - verseNumber: 2
+    text: "YaHWeH, Eylohim a jurat pe sfintenia Lui si a zis: „Iata vin zile pentru\
+      \ voi, cind va vor prinde cu cirligele si ramasita voastra, cu undite de pescari;"
+    textWithDiacritics: "YaHWeH, Eylohim a jurat pe sfinţenia Lui şi a zis: „Iată\
+      \ vin zile pentru voi, cînd vă vor prinde cu cîrligele şi rămăşiţa voastră,\
+      \ cu undiţe de pescari;"
+    chapter: null
+  - verseNumber: 3
+    text: "veti iesi prin sparturi, fiecare drept inainte, si veti fi lepadate in\
+      \ Harmon, zice YaHWeH."
+    textWithDiacritics: "veţi ieşi prin spărturi, fiecare drept înainte, şi veţi fi\
+      \ lepădate în Harmon, zice YaHWeH."
+    chapter: null
+  - verseNumber: 4
+    text: "Duceti-va numai la Betel si pacatuiti! Duceti-va la Ghilgal si pacatuiti\
+      \ si mai mult! Aduceti-va jertfele in fiecare dimineata si zeciuielile la fiecare\
+      \ trei zile!"
+    textWithDiacritics: "Duceţi-vă numai la Betel şi păcătuiţi! Duceţi-vă la Ghilgal\
+      \ şi păcătuiţi şi mai mult! Aduceţi-vă jertfele în fiecare dimineaţă şi zeciuielile\
+      \ la fiecare trei zile!"
+    chapter: null
+  - verseNumber: 5
+    text: "Faceti sa fumege jertfe de multumire facute cu aluat! Trimbitati-va, vestiti-va\
+      \ darurile de mincare de bunavoie! Caci asa va place, copii ai lui Israel, zice\
+      \ YaHWeH, Eylohim."
+    textWithDiacritics: "Faceţi să fumege jertfe de mulţumire făcute cu aluat! Trî\
+      mbiţaţi-vă, vestiţi-vă darurile de mîncare de bunăvoie! Căci aşa vă place, copii\
+      \ ai lui Israel, zice YaHWeH, Eylohim."
+    chapter: null
+  - verseNumber: 6
+    text: "Si Eu, de partea Mea, v-am trimis foametea in toate cetatile voastre si\
+      \ lipsa de piine, in toate locuintele voastre. Cu toate acestea, tot nu v-ati\
+      \ intors la Mine, zice YaHWeH."
+    textWithDiacritics: "Şi Eu, de partea Mea, v-am trimis foametea în toate cetăţ\
+      ile voastre şi lipsa de pîine, în toate locuinţele voastre. Cu toate acestea,\
+      \ tot nu v-aţi întors la Mine, zice YaHWeH."
+    chapter: null
+  - verseNumber: 7
+    text: "N-am vrut sa va dau nici ploaie, cind mai erau inca trei luni pina la secerat;\
+      \ am dat ploaie peste o cetate, dar n-am dat ploaie peste o alta cetate; intr-un\
+      \ ogor a plouat, si altul, in care n-a plouat, s-a uscat."
+    textWithDiacritics: "N-am vrut să vă dau nici ploaie, cînd mai erau încă trei\
+      \ luni pînă la secerat; am dat ploaie peste o cetate, dar n-am dat ploaie peste\
+      \ o altă cetate; într-un ogor a plouat, şi altul, în care n-a plouat, s-a uscat."
+    chapter: null
+  - verseNumber: 8
+    text: "Doua, trei cetati s-au dus la alta ca sa bea apa, si tot nu si-au potolit\
+      \ setea. Cu toate acestea, tot nu v-ati intors la Mine, zice YaHWeH."
+    textWithDiacritics: "Două, trei cetăţi s-au dus la alta ca să bea apă, şi tot\
+      \ nu şi-au potolit setea. Cu toate acestea, tot nu v-aţi întors la Mine, zice\
+      \ YaHWeH."
+    chapter: null
+  - verseNumber: 9
+    text: "V-am lovit cu rugina in griu si cu taciune; gradinile voastre cele multe,\
+      \ viile, smochinii si maslinii vostri i-au mincat deseori lacustele. Cu toate\
+      \ acestea, tot nu v-ati intors la Mine, zice YaHWeH!"
+    textWithDiacritics: "V-am lovit cu rugină în grîu şi cu tăciune; grădinile voastre\
+      \ cele multe, viile, smochinii şi măslinii voştri i-au mîncat deseori lăcustele.\
+      \ Cu toate acestea, tot nu v-aţi întors la Mine, zice YaHWeH!"
+    chapter: null
+  - verseNumber: 10
+    text: "Am trimis in voi ciuma, ca in Egipt; v-am ucis tinerii cu sabia si am lasat\
+      \ sa vi se ia caii, am facut sa vi se suie in nari duhoarea taberei voastre.\
+      \ Si cu toate acestea, tot nu v-ati intors la Mine, zice YaHWeH."
+    textWithDiacritics: "Am trimis în voi ciuma, ca în Egipt; v-am ucis tinerii cu\
+      \ sabia şi am lăsat să vi se ia caii, am făcut să vi se suie în nări duhoarea\
+      \ taberei voastre. Şi cu toate acestea, tot nu v-aţi întors la Mine, zice YaHWeH."
+    chapter: null
+  - verseNumber: 11
+    text: "V-am nimicit ca pe Sodoma si Gomora, pe care le-a nimicit Eylohim; si ati\
+      \ fost ca un taciune scos din foc. Cu toate acestea, tot nu v-ati intors la\
+      \ Mine, zice YaHWeH …"
+    textWithDiacritics: "V-am nimicit ca pe Sodoma şi Gomora, pe care le-a nimicit\
+      \ Eylohim; şi aţi fost ca un tăciune scos din foc. Cu toate acestea, tot nu\
+      \ v-aţi întors la Mine, zice YaHWeH …"
+    chapter: null
+  - verseNumber: 12
+    text: "De aceea, iti voi face astfel, Israele – si fiindca iti voi face astfel,\
+      \ pregateste-te sa intilnesti pe Eylohim al tau, Israele!”"
+    textWithDiacritics: "De aceea, îţi voi face astfel, Israele – şi fiindcă îţi voi\
+      \ face astfel, pregăteşte-te să întîlneşti pe Eylohim al tău, Israele!”"
+    chapter: null
+  - verseNumber: 13
+    text: "Caci iata ca El a intocmit muntii, a facut vintul si spune omului pina\
+      \ si gindurile lui. El preface zorile in intuneric si umbla pe inaltimile pamintului:\
+      \ YaHWeH Eylohim este numele Lui."
+    textWithDiacritics: "Căci iată că El a întocmit munţii, a făcut vîntul şi spune\
+      \ omului pînă şi gîndurile lui. El preface zorile în întuneric şi umblă pe î\
+      nălţimile pămîntului: YaHWeH Eylohim este numele Lui."
+    chapter: null
+- number: 5
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Ascultati cuvintul acesta, cintecul acesta de jale pe care-l fac pentru\
+      \ voi, casa lui Israel!"
+    textWithDiacritics: "Ascultaţi cuvîntul acesta, cîntecul acesta de jale pe care-l\
+      \ fac pentru voi, casa lui Israel!"
+    chapter: null
+  - verseNumber: 2
+    text: "„A cazut, si nu se va mai scula, fecioara lui Israel, sta trintita la pamint,\
+      \ si nimeni n-o ridica.”"
+    textWithDiacritics: "„A căzut, şi nu se va mai scula, fecioara lui Israel, stă\
+      \ trîntită la pămînt, şi nimeni n-o ridică.”"
+    chapter: null
+  - verseNumber: 3
+    text: "Caci asa vorbeste YaHWeH, Eylohim: „Cetatea care scotea la lupta o mie\
+      \ de oameni nu va ramine decit cu o suta, si cea care scotea o suta de oameni\
+      \ nu va mai ramine decit cu zece din casa lui Israel.”"
+    textWithDiacritics: "Căci aşa vorbeşte YaHWeH, Eylohim: „Cetatea care scotea la\
+      \ luptă o mie de oameni nu va rămîne decît cu o sută, şi cea care scotea o sută\
+      \ de oameni nu va mai rămîne decît cu zece din casa lui Israel.”"
+    chapter: null
+  - verseNumber: 4
+    text: "Caci asa vorbeste YaHWeH catre casa lui Israel: „Cautati-Ma si veti trai!"
+    textWithDiacritics: "Căci aşa vorbeşte YaHWeH către casa lui Israel: „Căutaţi-Mă\
+      \ şi veţi trăi!"
+    chapter: null
+  - verseNumber: 5
+    text: "Nu cautati Betelul, nu va duceti la Ghilgal si nu treceti la Beer-Seba.\
+      \ Caci Ghilgalul va fi dus in robie, si Betelul va fi nimicit."
+    textWithDiacritics: "Nu căutaţi Betelul, nu vă duceţi la Ghilgal şi nu treceţ\
+      i la Beer-Şeba. Căci Ghilgalul va fi dus în robie, şi Betelul va fi nimicit."
+    chapter: null
+  - verseNumber: 6
+    text: "Cautati pe YaHWeH, si veti trai! Temeti-va, ca nu cumva sa apuce ca un\
+      \ foc casa lui Iosif, si focul acesta s-o mistuie, fara sa fie cineva la Betel\
+      \ ca sa-l stinga,"
+    textWithDiacritics: "Căutaţi pe YaHWeH, şi veţi trăi! Temeţi-vă, ca nu cumva să\
+      \ apuce ca un foc casa lui Iosif, şi focul acesta s-o mistuie, fără să fie cineva\
+      \ la Betel ca să-l stingă,"
+    chapter: null
+  - verseNumber: 7
+    text: "voi care prefaceti dreptul in pelin si calcati dreptatea in picioare!”"
+    textWithDiacritics: "voi care prefaceţi dreptul în pelin şi călcaţi dreptatea\
+      \ în picioare!”"
+    chapter: null
+  - verseNumber: 8
+    text: "El a facut Closca cu pui si Orionul, El preface intunericul in zori, iar\
+      \ ziua in noapte neagra; El cheama apele marii si le varsa pe fata pamintului:\
+      \ YaHWeH este numele Lui."
+    textWithDiacritics: "El a făcut Cloşca cu pui şi Orionul, El preface întunericul\
+      \ în zori, iar ziua în noapte neagră; El cheamă apele mării şi le varsă pe faţ\
+      a pămîntului: YaHWeH este numele Lui."
+    chapter: null
+  - verseNumber: 9
+    text: "El aduce ca fulgerul prapadul peste cei puternici, asa ca nimicirea vine\
+      \ peste cetatui."
+    textWithDiacritics: "El aduce ca fulgerul prăpădul peste cei puternici, aşa că\
+      \ nimicirea vine peste cetăţui."
+    chapter: null
+  - verseNumber: 10
+    text: "Ei urasc pe cel ce-i mustra la poarta cetatii si le este scirba de cel\
+      \ ce vorbeste din inima."
+    textWithDiacritics: "Ei urăsc pe cel ce-i mustră la poarta cetăţii şi le este\
+      \ scîrbă de cel ce vorbeşte din inimă."
+    chapter: null
+  - verseNumber: 11
+    text: "De aceea, pentru ca pe sarac il calcati in picioare si luati daruri de\
+      \ griu de la el, macar ca ati zidit case de piatra cioplita, nu le veti locui;\
+      \ macar ca ati sadit vii foarte bune, nu veti bea din vinul lor!"
+    textWithDiacritics: "De aceea, pentru că pe sărac îl călcaţi în picioare şi luaţ\
+      i daruri de grîu de la el, măcar că aţi zidit case de piatră cioplită, nu le\
+      \ veţi locui; măcar că aţi sădit vii foarte bune, nu veţi bea din vinul lor!"
+    chapter: null
+  - verseNumber: 12
+    text: "„Caci Eu stiu ca nelegiuirile voastre sunt multe si ca pacatele voastre\
+      \ sunt fara numar: asupriti pe cel drept, luati mita si calcati in picioare\
+      \ la poarta cetatii dreptul saracilor.”"
+    textWithDiacritics: "„Căci Eu ştiu că nelegiuirile voastre sunt multe şi că pă\
+      catele voastre sunt fără număr: asupriţi pe cel drept, luaţi mită şi călcaţ\
+      i în picioare la poarta cetăţii dreptul săracilor.”"
+    chapter: null
+  - verseNumber: 13
+    text: "De aceea, in vremuri ca acestea, inteleptul trebuie sa taca; caci sunt\
+      \ vremuri rele."
+    textWithDiacritics: "De aceea, în vremuri ca acestea, înţeleptul trebuie să tacă\
+      ; căci sunt vremuri rele."
+    chapter: null
+  - verseNumber: 14
+    text: "Cautati binele, si nu raul, ca sa traiti, si ca astfel, YaHWeH, Eylohim\
+      \ al ostirilor sa fie cu voi, cum spuneti voi!"
+    textWithDiacritics: "Căutaţi binele, şi nu răul, ca să trăiţi, şi ca astfel, YaHWeH,\
+      \ Eylohim al oştirilor să fie cu voi, cum spuneţi voi!"
+    chapter: null
+  - verseNumber: 15
+    text: "Uriti raul, si iubiti binele, faceti sa stapineasca dreptatea la poarta\
+      \ cetatii; si poate ca YaHWeH, Eylohim al ostirilor va avea mila de ramasitele\
+      \ lui Iosif."
+    textWithDiacritics: "Urîţi răul, şi iubiţi binele, faceţi să stăpînească dreptatea\
+      \ la poarta cetăţii; şi poate că YaHWeH, Eylohim al oştirilor va avea milă de\
+      \ rămăşiţele lui Iosif."
+    chapter: null
+  - verseNumber: 16
+    text: "De aceea, asa vorbeste YaHWeH, Eylohim al ostirilor, Cel Atotputernic:\
+      \ „In toate pietele se vor boci si pe toate ulitele vor zice: „Vai! Vai!” Vor\
+      \ chema pe plugar la jale si la bocire pe cei ce fac jelanii pentru morti."
+    textWithDiacritics: "De aceea, aşa vorbeşte YaHWeH, Eylohim al oştirilor, Cel\
+      \ Atotputernic: „În toate pieţele se vor boci şi pe toate uliţele vor zice:\
+      \ „Vai! Vai!” Vor chema pe plugar la jale şi la bocire pe cei ce fac jelanii\
+      \ pentru morţi."
+    chapter: null
+  - verseNumber: 17
+    text: "In toate viile va fi bocet, cind voi trece prin mijlocul tau, zice YaHWeH."
+    textWithDiacritics: "În toate viile va fi bocet, cînd voi trece prin mijlocul\
+      \ tău, zice YaHWeH."
+    chapter: null
+  - verseNumber: 18
+    text: "Vai de cei ce doresc „ziua lui YaHWeH”! Ce asteptati voi de la ziua lui\
+      \ YaHWeH Ea va fi intuneric, si nu lumina."
+    textWithDiacritics: "Vai de cei ce doresc „ziua lui YaHWeH”! Ce aşteptaţi voi\
+      \ de la ziua lui YaHWeH Ea va fi întuneric, şi nu lumină."
+    chapter: null
+  - verseNumber: 19
+    text: "Veti fi ca un om care fuge dinaintea unui leu pe care-l intilneste un urs\
+      \ si care, cind ajunge acasa, isi reazema mina pe zid, si-l musca un sarpe!"
+    textWithDiacritics: "Veţi fi ca un om care fuge dinaintea unui leu pe care-l î\
+      ntîlneşte un urs şi care, cînd ajunge acasă, îşi reazemă mîna pe zid, şi-l muş\
+      că un şarpe!"
+    chapter: null
+  - verseNumber: 20
+    text: "Nu va fi oare ziua lui YaHWeH intuneric in loc de lumina? Nu va fi ea intunecoasa\
+      \ si fara stralucire?"
+    textWithDiacritics: "Nu va fi oare ziua lui YaHWeH întuneric în loc de lumină\
+      ? Nu va fi ea întunecoasă şi fără strălucire?"
+    chapter: null
+  - verseNumber: 21
+    text: "Eu urasc, dispretuiesc sarbatorile voastre si nu pot sa va sufar adunarile\
+      \ de sarbatoare!"
+    textWithDiacritics: "Eu urăsc, dispreţuiesc sărbătorile voastre şi nu pot să vă\
+      \ sufăr adunările de sărbătoare!"
+    chapter: null
+  - verseNumber: 22
+    text: "Cind Imi aduceti arderi de tot si daruri de mincare, n-am nicio placere\
+      \ de ele; si viteii ingrasati pe care-i aduceti ca jertfe de multumire, nici\
+      \ nu Ma uit la ei."
+    textWithDiacritics: "Cînd Îmi aduceţi arderi de tot şi daruri de mîncare, n-am\
+      \ nicio plăcere de ele; şi viţeii îngrăşaţi pe care-i aduceţi ca jertfe de mulţ\
+      umire, nici nu Mă uit la ei."
+    chapter: null
+  - verseNumber: 23
+    text: "Departeaza de Mine vuietul cintecelor tale; nu pot asculta sunetul lautelor\
+      \ tale!"
+    textWithDiacritics: "Depărtează de Mine vuietul cîntecelor tale; nu pot asculta\
+      \ sunetul lăutelor tale!"
+    chapter: null
+  - verseNumber: 24
+    text: "Ci dreptatea sa curga ca o apa curgatoare, si neprihanirea, ca un piriu\
+      \ care nu seaca niciodata!"
+    textWithDiacritics: "Ci dreptatea să curgă ca o apă curgătoare, şi neprihănirea,\
+      \ ca un pîrîu care nu seacă niciodată!"
+    chapter: null
+  - verseNumber: 25
+    text: "Mi-ati adus voi jertfe si daruri de mincare in timpul celor patruzeci de\
+      \ ani din pustiu, casa lui Israel?"
+    textWithDiacritics: "Mi-aţi adus voi jertfe şi daruri de mîncare în timpul celor\
+      \ patruzeci de ani din pustiu, casa lui Israel?"
+    chapter: null
+  - verseNumber: 26
+    text: "Veti ridica, dar, pe Sacut, imparatul vostru, si pe Caivan, chipurile voastre\
+      \ idolesti, steaua dumnezeului vostru pe care vi l-ati facut,"
+    textWithDiacritics: "Veţi ridica, dar, pe Sacut, împăratul vostru, şi pe Caivan,\
+      \ chipurile voastre idoleşti, steaua dumnezeului vostru pe care vi l-aţi fă\
+      cut,"
+    chapter: null
+  - verseNumber: 27
+    text: "si va voi duce in robie dincolo de Damasc, zice YaHWeH Eylohim al ostirilor!”"
+    textWithDiacritics: "şi vă voi duce în robie dincolo de Damasc, zice YaHWeH Eylohim\
+      \ al oştirilor!”"
+    chapter: null
+- number: 6
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Vai de cei ce traiesc fara grija in Sion si la adapost pe muntele Samariei,\
+      \ vai de mai marii acestia ai celui dintii dintre neamuri, la care alearga casa\
+      \ lui Israel!…"
+    textWithDiacritics: "Vai de cei ce trăiesc fără grijă în Sion şi la adăpost pe\
+      \ muntele Samariei, vai de mai marii aceştia ai celui dintîi dintre neamuri,\
+      \ la care aleargă casa lui Israel!…"
+    chapter: null
+  - verseNumber: 2
+    text: "Treceti la Calne si vedeti, duceti-va de acolo pina la Hamatul cel mare\
+      \ si coboriti-va in Gat la filisteni; sunt oare cetatile acestea mai infloritoare\
+      \ decit cele doua imparatii ale voastre si este tinutul lor mai intins decit\
+      \ al vostru?"
+    textWithDiacritics: "Treceţi la Calne şi vedeţi, duceţi-vă de acolo pînă la Hamatul\
+      \ cel mare şi coborîţi-vă în Gat la filisteni; sunt oare cetăţile acestea mai\
+      \ înfloritoare decît cele două împărăţii ale voastre şi este ţinutul lor mai\
+      \ întins decît al vostru?"
+    chapter: null
+  - verseNumber: 3
+    text: "Credeti ca ziua nenorocirii este departe si faceti sa se apropie stapinirea\
+      \ silniciei."
+    textWithDiacritics: "Credeţi că ziua nenorocirii este departe şi faceţi să se\
+      \ apropie stăpînirea silniciei."
+    chapter: null
+  - verseNumber: 4
+    text: "Ei se culca pe paturi de fildes si stau intinsi alene pe asternuturile\
+      \ lor; maninca miei din turma si vitei pusi la ingrasat."
+    textWithDiacritics: "Ei se culcă pe paturi de fildeş şi stau întinşi alene pe\
+      \ aşternuturile lor; mănîncă miei din turmă şi viţei puşi la îngrăşat."
+    chapter: null
+  - verseNumber: 5
+    text: "Aiureaza in sunetul lautei, se cred iscusiti ca David in instrumentele\
+      \ de muzica."
+    textWithDiacritics: "Aiurează în sunetul lăutei, se cred iscusiţi ca David în\
+      \ instrumentele de muzică."
+    chapter: null
+  - verseNumber: 6
+    text: "Beau vin cu pahare largi, se ung cu cel mai bun untdelemn, si nu se intristeaza\
+      \ de prapadul lui Iosif!"
+    textWithDiacritics: "Beau vin cu pahare largi, se ung cu cel mai bun untdelemn,\
+      \ şi nu se întristează de prăpădul lui Iosif!"
+    chapter: null
+  - verseNumber: 7
+    text: "De aceea vor merge in robie, in fruntea prinsilor de razboi; si vor inceta\
+      \ strigatele de veselie ale acestor desfatati."
+    textWithDiacritics: "De aceea vor merge în robie, în fruntea prinşilor de război;\
+      \ şi vor înceta strigătele de veselie ale acestor desfătaţi."
+    chapter: null
+  - verseNumber: 8
+    text: "YaHWeH, Eylohim a jurat pe Sine insusi si YaHWeH, Eylohim al ostirilor\
+      \ a zis: „Mi-e scirba de mindria lui Iacov si-i urasc palatele; de aceea voi\
+      \ da in mina vrajmasului cetatea cu tot ce este in ea.”"
+    textWithDiacritics: "YaHWeH, Eylohim a jurat pe Sine însuşi şi YaHWeH, Eylohim\
+      \ al oştirilor a zis: „Mi-e scîrbă de mîndria lui Iacov şi-i urăsc palatele;\
+      \ de aceea voi da în mîna vrăjmaşului cetatea cu tot ce este în ea.”"
+    chapter: null
+  - verseNumber: 9
+    text: "Si daca vor mai ramine zece oameni intr-o casa, vor muri."
+    textWithDiacritics: "Şi dacă vor mai rămîne zece oameni într-o casă, vor muri."
+    chapter: null
+  - verseNumber: 10
+    text: "Cind unchiul sau va lua pe cel mort sa-l arda, ridicindu-i oasele din casa,\
+      \ si va intreba pe cel din fundul casei: „Mai este cineva cu tine?” acela va\
+      \ raspunde: „Nimeni”…, iar celalalt va zice: „Tacere! Caci nu trebuie sa pomenim\
+      \ acum Numele lui YaHWeH!”"
+    textWithDiacritics: "Cînd unchiul său va lua pe cel mort să-l ardă, ridicîndu-i\
+      \ oasele din casă, şi va întreba pe cel din fundul casei: „Mai este cineva cu\
+      \ tine?” acela va răspunde: „Nimeni”…, iar celălalt va zice: „Tăcere! Căci nu\
+      \ trebuie să pomenim acum Numele lui YaHWeH!”"
+    chapter: null
+  - verseNumber: 11
+    text: "Caci iata ca YaHWeH porunceste sa se darime casa cea mare si sa se faca\
+      \ bucati casa cea mica."
+    textWithDiacritics: "Căci iată că YaHWeH porunceşte să se dărîme casa cea mare\
+      \ şi să se facă bucăţi casa cea mică."
+    chapter: null
+  - verseNumber: 12
+    text: "Pot caii sa alerge pe o stinca? Sau poate cineva sa are marea cu boii,\
+      \ de ati prefacut judecata in otrava si rodul dreptatii, in pelin?"
+    textWithDiacritics: "Pot caii să alerge pe o stîncă? Sau poate cineva să are marea\
+      \ cu boii, de aţi prefăcut judecata în otravă şi rodul dreptăţii, în pelin?"
+    chapter: null
+  - verseNumber: 13
+    text: "Va bucurati de lucruri de nimic si ziceti: „Oare nu prin taria noastra\
+      \ am cistigat noi putere?”"
+    textWithDiacritics: "Vă bucuraţi de lucruri de nimic şi ziceţi: „Oare nu prin\
+      \ tăria noastră am cîştigat noi putere?”"
+    chapter: null
+  - verseNumber: 14
+    text: "„De aceea iata, voi ridica impotriva voastra, casa lui Israel, zice YaHWeH,\
+      \ Eylohim al ostirilor, un neam care va va asupri de la intrarea Hamatului pina\
+      \ la piriul pustiului.”"
+    textWithDiacritics: "„De aceea iată, voi ridica împotriva voastră, casa lui Israel,\
+      \ zice YaHWeH, Eylohim al oştirilor, un neam care vă va asupri de la intrarea\
+      \ Hamatului pînă la pîrîul pustiului.”"
+    chapter: null
+- number: 7
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "YaHWeH, Eylohim mi-a trimis vedenia aceasta: Iata, facea niste lacuste,\
+      \ in clipa cind incepea sa creasca otava; era otava dupa cositul imparatului."
+    textWithDiacritics: "YaHWeH, Eylohim mi-a trimis vedenia aceasta: Iată, făcea\
+      \ nişte lăcuste, în clipa cînd începea să crească otava; era otava după cositul\
+      \ împăratului."
+    chapter: null
+  - verseNumber: 2
+    text: "Si dupa ce au mincat ele cu desavirsire toata iarba din tara, am zis: „\
+      \ YaHWeH, Eylohim, iarta! Cum ar putea sa stea Iacov in picioare? Caci este\
+      \ asa de slab!”"
+    textWithDiacritics: "Şi după ce au mîncat ele cu desăvîrşire toată iarba din ţ\
+      ară, am zis: „ YaHWeH, Eylohim, iartă! Cum ar putea să stea Iacov în picioare?\
+      \ Căci este aşa de slab!”"
+    chapter: null
+  - verseNumber: 3
+    text: "Atunci YaHWeH S-a cait de lucrul acesta: „Nu se va intimpla una ca aceasta,\
+      \ a zis YaHWeH.”"
+    textWithDiacritics: "Atunci YaHWeH S-a căit de lucrul acesta: „Nu se va întîmpla\
+      \ una ca aceasta, a zis YaHWeH.”"
+    chapter: null
+  - verseNumber: 4
+    text: "YaHWeH, Eylohim mi-a trimis vedenia aceasta: Iata, YaHWeH, Eylohim vestea\
+      \ pedeapsa prin foc; si focul minca Adincul cel mare si apucase si cimpia."
+    textWithDiacritics: "YaHWeH, Eylohim mi-a trimis vedenia aceasta: Iată, YaHWeH,\
+      \ Eylohim vestea pedeapsa prin foc; şi focul mînca Adîncul cel mare şi apucase\
+      \ şi cîmpia."
+    chapter: null
+  - verseNumber: 5
+    text: "Eu am zis: „ YaHWeH, Eylohim, opreste! Cum ar putea sa stea in picioare\
+      \ Iacov? Caci este asa de slab!”"
+    textWithDiacritics: "Eu am zis: „ YaHWeH, Eylohim, opreşte! Cum ar putea să stea\
+      \ în picioare Iacov? Căci este aşa de slab!”"
+    chapter: null
+  - verseNumber: 6
+    text: "Atunci YaHWeH S-a cait si de lucrul acesta: „Niciuna ca aceasta nu se va\
+      \ intimpla, a zis YaHWeH, Eylohim.”"
+    textWithDiacritics: "Atunci YaHWeH S-a căit şi de lucrul acesta: „Niciuna ca aceasta\
+      \ nu se va întîmpla, a zis YaHWeH, Eylohim.”"
+    chapter: null
+  - verseNumber: 7
+    text: "El mi-a trimis vedenia aceasta: Iata, YaHWeH statea pe un zid facut la\
+      \ cumpana si avea o cumpana in mina."
+    textWithDiacritics: "El mi-a trimis vedenia aceasta: Iată, YaHWeH stătea pe un\
+      \ zid făcut la cumpănă şi avea o cumpănă în mînă."
+    chapter: null
+  - verseNumber: 8
+    text: "YaHWeH mi-a zis: „Ce vezi, Amos?” Eu am raspuns: „O cumpana.” Si YaHWeH\
+      \ a zis: „Iata, voi pune cumpana in mijlocul poporului Meu, Israel, si nu-l\
+      \ voi mai ierta;"
+    textWithDiacritics: "YaHWeH mi-a zis: „Ce vezi, Amos?” Eu am răspuns: „O cumpă\
+      nă.” Şi YaHWeH a zis: „Iată, voi pune cumpăna în mijlocul poporului Meu, Israel,\
+      \ şi nu-l voi mai ierta;"
+    chapter: null
+  - verseNumber: 9
+    text: "ci inaltimile lui Isaac vor fi pustiite; sfintele locasuri ale lui Israel\
+      \ vor fi darimate, si Ma voi ridica impotriva casei lui Ieroboam cu sabia.”"
+    textWithDiacritics: "ci înălţimile lui Isaac vor fi pustiite; sfintele locaşuri\
+      \ ale lui Israel vor fi dărîmate, şi Mă voi ridica împotriva casei lui Ieroboam\
+      \ cu sabia.”"
+    chapter: null
+  - verseNumber: 10
+    text: "Atunci Amatia, preotul din Betel, a trimis sa spuna lui Ieroboam imparatul\
+      \ lui Israel: „Amos unelteste impotriva ta in mijlocul casei lui Israel; tara\
+      \ nu poate sa sufere toate cuvintele lui!"
+    textWithDiacritics: "Atunci Amaţia, preotul din Betel, a trimis să spună lui Ieroboam\
+      \ împăratul lui Israel: „Amos unelteşte împotriva ta în mijlocul casei lui Israel;\
+      \ ţara nu poate să sufere toate cuvintele lui!"
+    chapter: null
+  - verseNumber: 11
+    text: "Caci iata ce zice Amos: „Ieroboam va fi ucis de sabie, si Israel va fi\
+      \ dus in robie departe de tara sa!”"
+    textWithDiacritics: "Căci iată ce zice Amos: „Ieroboam va fi ucis de sabie, ş\
+      i Israel va fi dus în robie departe de ţara sa!”"
+    chapter: null
+  - verseNumber: 12
+    text: "Si Amatia a zis lui Amos: „Pleaca, vazatorule, si fugi in tara lui Iuda!\
+      \ Maninca-ti piinea acolo si acolo proroceste."
+    textWithDiacritics: "Şi Amaţia a zis lui Amos: „Pleacă, văzătorule, şi fugi î\
+      n ţara lui Iuda! Mănîncă-ţi pîinea acolo şi acolo proroceşte."
+    chapter: null
+  - verseNumber: 13
+    text: "Dar nu mai proroci la Betel caci este un locas sfint al imparatului si\
+      \ este un templu al imparatiei!”"
+    textWithDiacritics: "Dar nu mai proroci la Betel căci este un locaş sfînt al î\
+      mpăratului şi este un templu al împărăţiei!”"
+    chapter: null
+  - verseNumber: 14
+    text: "Amos a raspuns lui Amatia: „Eu nu sunt nici proroc, nici fiu de proroc;\
+      \ ci sunt pastor si stringator de smochine de Egipt."
+    textWithDiacritics: "Amos a răspuns lui Amaţia: „Eu nu sunt nici proroc, nici\
+      \ fiu de proroc; ci sunt păstor şi strîngător de smochine de Egipt."
+    chapter: null
+  - verseNumber: 15
+    text: "Dar YaHWeH m-a luat de la oi si YaHWeH mi-a zis: „Du-te si proroceste poporului\
+      \ Meu, Israel!”"
+    textWithDiacritics: "Dar YaHWeH m-a luat de la oi şi YaHWeH mi-a zis: „Du-te ş\
+      i proroceşte poporului Meu, Israel!”"
+    chapter: null
+  - verseNumber: 16
+    text: "Asculta acum cuvintul lui YaHWeH, tu care zici: „Nu proroci impotriva lui\
+      \ Israel, nu vorbi impotriva casei lui Isaac!”"
+    textWithDiacritics: "Ascultă acum cuvîntul lui YaHWeH, tu care zici: „Nu proroci\
+      \ împotriva lui Israel, nu vorbi împotriva casei lui Isaac!”"
+    chapter: null
+  - verseNumber: 17
+    text: "Din pricina aceasta, iata ce zice YaHWeH: „Nevasta ta va curvi in cetate,\
+      \ fiii si fiicele tale vor cadea loviti de sabie, ogorul tau va fi impartit\
+      \ cu fringhia de masurat; tu insa vei muri intr-un pamint necurat, si Israel\
+      \ va fi dus in robie departe de tara lui!”"
+    textWithDiacritics: "Din pricina aceasta, iată ce zice YaHWeH: „Nevasta ta va\
+      \ curvi în cetate, fiii şi fiicele tale vor cădea loviţi de sabie, ogorul tă\
+      u va fi împărţit cu frînghia de măsurat; tu însă vei muri într-un pămînt necurat,\
+      \ şi Israel va fi dus în robie departe de ţara lui!”"
+    chapter: null
+- number: 8
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "YaHWeH, Eylohim mi-a trimis urmatoarea vedenie: Iata, era un cos cu poame\
+      \ coapte."
+    textWithDiacritics: "YaHWeH, Eylohim mi-a trimis următoarea vedenie: Iată, era\
+      \ un coş cu poame coapte."
+    chapter: null
+  - verseNumber: 2
+    text: "El a zis: „Ce vezi, Amos?” Eu am raspuns: „Un cos cu poame coapte.” Si\
+      \ YaHWeH mi-a zis: „A venit sfirsitul poporului Meu, Israel; nu-l mai pot ierta!"
+    textWithDiacritics: "El a zis: „Ce vezi, Amos?” Eu am răspuns: „Un coş cu poame\
+      \ coapte.” Şi YaHWeH mi-a zis: „A venit sfîrşitul poporului Meu, Israel; nu-l\
+      \ mai pot ierta!"
+    chapter: null
+  - verseNumber: 3
+    text: "In ziua aceea, cintecele Templului se vor preface in gemete, zice YaHWeH\
+      \ Eylohim, pretutindeni vor arunca in tacere o multime de trupuri moarte.”"
+    textWithDiacritics: "În ziua aceea, cîntecele Templului se vor preface în gemete,\
+      \ zice YaHWeH Eylohim, pretutindeni vor arunca în tăcere o mulţime de trupuri\
+      \ moarte.”"
+    chapter: null
+  - verseNumber: 4
+    text: "Ascultati lucrul acesta, voi care mincati pe cel lipsit si prapaditi pe\
+      \ cei nenorociti din tara!"
+    textWithDiacritics: "Ascultaţi lucrul acesta, voi care mîncaţi pe cel lipsit ş\
+      i prăpădiţi pe cei nenorociţi din ţară!"
+    chapter: null
+  - verseNumber: 5
+    text: "Voi care ziceti: „Cind va trece luna noua, ca sa vindem griul, si Sabatul,\
+      \ ca sa deschidem grinarele, sa micsoram efa si sa marim siclul, si sa strimbam\
+      \ cumpana, ca sa inselam?"
+    textWithDiacritics: "Voi care ziceţi: „Cînd va trece luna nouă, ca să vindem grî\
+      ul, şi Șabatul, ca să deschidem grînarele, să micşorăm efa şi să mărim siclul,\
+      \ şi să strîmbăm cumpăna, ca să înşelăm?"
+    chapter: null
+  - verseNumber: 6
+    text: "Apoi vom cumpara pe cei nevoiasi pe argint si pe sarac, pe o pereche de\
+      \ incaltaminte, si vom vinde codina in loc de griu.”"
+    textWithDiacritics: "Apoi vom cumpăra pe cei nevoiaşi pe argint şi pe sărac, pe\
+      \ o pereche de încălţăminte, şi vom vinde codină în loc de grîu.”"
+    chapter: null
+  - verseNumber: 7
+    text: "YaHWeH a jurat pe slava lui Iacov: „Niciodata nu voi uita niciuna din faptele\
+      \ lor!"
+    textWithDiacritics: "YaHWeH a jurat pe slava lui Iacov: „Niciodată nu voi uita\
+      \ niciuna din faptele lor!"
+    chapter: null
+  - verseNumber: 8
+    text: "Nu se va cutremura tara din pricina acestor miselii si nu se vor jeli toti\
+      \ locuitorii ei? Nu se va umfla toata tara ca riul, ridicindu-se si coborindu-se\
+      \ iarasi ca riul Egiptului?"
+    textWithDiacritics: "Nu se va cutremura ţara din pricina acestor mişelii şi nu\
+      \ se vor jeli toţi locuitorii ei? Nu se va umfla toată ţara ca rîul, ridicî\
+      ndu-se şi coborîndu-se iarăşi ca rîul Egiptului?"
+    chapter: null
+  - verseNumber: 9
+    text: "In ziua aceea, zice YaHWeH, Eylohim, voi face sa asfinteasca soarele la\
+      \ amiaza si voi intuneca pamintul ziua in amiaza mare."
+    textWithDiacritics: "În ziua aceea, zice YaHWeH, Eylohim, voi face să asfinţească\
+      \ soarele la amiază şi voi întuneca pămîntul ziua în amiaza mare."
+    chapter: null
+  - verseNumber: 10
+    text: "Va voi preface Sarbatorile in jale si toate cintarile in bociri pentru\
+      \ morti, voi acoperi toate coapsele cu saci si voi face toate capetele plesuve;\
+      \ voi arunca tara intr-o jale ca pentru un singur fiu, si sfirsitul ei va fi\
+      \ ca o zi amara."
+    textWithDiacritics: "Vă voi preface Sărbătorile în jale şi toate cîntările în\
+      \ bociri pentru morţi, voi acoperi toate coapsele cu saci şi voi face toate\
+      \ capetele pleşuve; voi arunca ţara într-o jale ca pentru un singur fiu, şi\
+      \ sfîrşitul ei va fi ca o zi amară."
+    chapter: null
+  - verseNumber: 11
+    text: "Iata, vin zile, zice YaHWeH, Eylohim, cind voi trimite foamete in tara,\
+      \ nu foamete de piine, nici sete de apa, ci foame si sete dupa auzirea cuvintelor\
+      \ lui YaHWeH."
+    textWithDiacritics: "Iată, vin zile, zice YaHWeH, Eylohim, cînd voi trimite foamete\
+      \ în ţară, nu foamete de pîine, nici sete de apă, ci foame şi sete după auzirea\
+      \ cuvintelor lui YaHWeH."
+    chapter: null
+  - verseNumber: 12
+    text: "Vor pribegi atunci de la o mare la alta, de la miazanoapte la rasarit,\
+      \ vor umbla istoviti incoace si incolo, ca sa caute cuvintul lui YaHWeH, si\
+      \ tot nu-l vor gasi."
+    textWithDiacritics: "Vor pribegi atunci de la o mare la alta, de la miazănoapte\
+      \ la răsărit, vor umbla istoviţi încoace şi încolo, ca să caute cuvîntul lui\
+      \ YaHWeH, şi tot nu-l vor găsi."
+    chapter: null
+  - verseNumber: 13
+    text: "In ziua aceea se vor topi de sete fetele frumoase si flacaii."
+    textWithDiacritics: "În ziua aceea se vor topi de sete fetele frumoase şi flă\
+      căii."
+    chapter: null
+  - verseNumber: 14
+    text: "Ei, care jura acum pe pacatul Samariei si zic: pe (Eylohim al tau) Dane!”\
+      \ si: „Pe drumul Beer-Sebei!” vor cadea, si nu se vor mai scula.”"
+    textWithDiacritics: "Ei, care jură acum pe păcatul Samariei şi zic: pe (Eylohim\
+      \ al tău) Dane!” şi: „Pe drumul Beer-Şebei!” vor cădea, şi nu se vor mai scula.”"
+    chapter: null
+- number: 9
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Am vazut pe YaHWeH stind pe altar. Si a zis: „Loveste pragul de sus al\
+      \ portii, ca sa se cutremure usiorii, si sfarima-i peste capetele lor ale tuturor.\
+      \ Ramasita lor insa o voi pierde cu sabia, asa ca niciunul din ei nu va putea\
+      \ sa scape fugind si niciunul din cei ce vor scapa nu va scapa."
+    textWithDiacritics: "Am văzut pe YaHWeH stînd pe altar. Şi a zis: „Loveşte pragul\
+      \ de sus al porţii, ca să se cutremure uşiorii, şi sfărîmă-i peste capetele\
+      \ lor ale tuturor. Rămăşiţa lor însă o voi pierde cu sabia, aşa că niciunul\
+      \ din ei nu va putea să scape fugind şi niciunul din cei ce vor scăpa nu va\
+      \ scăpa."
+    chapter: null
+  - verseNumber: 2
+    text: "De ar patrunde chiar pina in Locuinta mortilor, si de acolo ii va smulge\
+      \ mina Mea; de s-ar sui chiar in ceruri, si de acolo ii voi cobori."
+    textWithDiacritics: "De ar pătrunde chiar pînă în Locuinţa morţilor, şi de acolo\
+      \ îi va smulge mîna Mea; de s-ar sui chiar în ceruri, şi de acolo îi voi coborî\
+      ."
+    chapter: null
+  - verseNumber: 3
+    text: "De s-ar ascunde chiar pe virful Carmelului, si acolo ii voi cauta si-i\
+      \ voi lua; de s-ar ascunde de privirile Mele chiar in fundul marii, si acolo\
+      \ voi porunci sarpelui sa-i muste."
+    textWithDiacritics: "De s-ar ascunde chiar pe vîrful Carmelului, şi acolo îi voi\
+      \ căuta şi-i voi lua; de s-ar ascunde de privirile Mele chiar în fundul mării,\
+      \ şi acolo voi porunci şarpelui să-i muşte."
+    chapter: null
+  - verseNumber: 4
+    text: "De ar merge in robie chiar inaintea vrajmasilor lor, si acolo voi porunci\
+      \ sabiei sa-i piarda; voi pune astfel ochii pe ei ca sa le fac rau, nu bine.”"
+    textWithDiacritics: "De ar merge în robie chiar înaintea vrăjmaşilor lor, şi acolo\
+      \ voi porunci sabiei să-i piardă; voi pune astfel ochii pe ei ca să le fac ră\
+      u, nu bine.”"
+    chapter: null
+  - verseNumber: 5
+    text: "YaHWeH, Eylohim al ostirilor atinge pamintul, si se topeste, si toti locuitorii\
+      \ lui jelesc. Se inalta ca riul Nil si se coboara ca riul Egiptului."
+    textWithDiacritics: "YaHWeH, Eylohim al oştirilor atinge pămîntul, şi se topeş\
+      te, şi toţi locuitorii lui jelesc. Se înalţă ca rîul Nil şi se coboară ca rî\
+      ul Egiptului."
+    chapter: null
+  - verseNumber: 6
+    text: "El Si-a zidit camara in ceruri, Si-a intemeiat bolta deasupra pamintului;\
+      \ cheama apele marii si le varsa pe fata pamintului. YaHWeH este numele Lui!\
+      \ Se citeste ca Pericopa 29 in an cu 12 luni Tora - Pericopa 30 - Kedoshim 19\
+      \ : 1 - 20 : 27 Se citeste separat in an cu 13 luni Haftarah - Amos / Ahmos\
+      \ 9 : 7 - 15 Legamintul Innoit - Fapt.Ap. - Maaseh Schlichim - 15 : 1 - 21"
+    textWithDiacritics: "El Şi-a zidit cămara în ceruri, Şi-a întemeiat bolta deasupra\
+      \ pămîntului; cheamă apele mării şi le varsă pe faţa pămîntului. YaHWeH este\
+      \ numele Lui! Se citește ca Pericopa 29 in an cu 12 luni Tora - Pericopa 30\
+      \ - Kedoshim 19 : 1 - 20 : 27 Se citește separat in an cu 13 luni Haftarah -\
+      \ Amos / Ahmos 9 : 7 - 15 Legămîntul Innoit - Fapt.Ap. - Maaseh Schlichim -\
+      \ 15 : 1 - 21"
+    chapter: null
+  - verseNumber: 7
+    text: "„Nu sunteti voi oare pentru Mine ca si copiii etiopienilor, copii ai lui\
+      \ Israel? – zice YaHWeH. N-am scos Eu pe Israel din tara Egiptului, ca si pe\
+      \ filisteni din Caftor si pe sirieni din Chir?"
+    textWithDiacritics: "„Nu sunteţi voi oare pentru Mine ca şi copiii etiopienilor,\
+      \ copii ai lui Israel? – zice YaHWeH. N-am scos Eu pe Israel din ţara Egiptului,\
+      \ ca şi pe filisteni din Caftor şi pe sirieni din Chir?"
+    chapter: null
+  - verseNumber: 8
+    text: "Iata, YaHWeH, Eylohim are ochii pironiti peste imparatia aceasta vinovata,\
+      \ ca s-o nimicesc de pe fata pamintului; totusi nu voi nimici de tot casa lui\
+      \ Iacov, zice YaHWeH."
+    textWithDiacritics: "Iată, YaHWeH, Eylohim are ochii pironiţi peste împărăţia\
+      \ aceasta vinovată, ca s-o nimicesc de pe faţa pămîntului; totuşi nu voi nimici\
+      \ de tot casa lui Iacov, zice YaHWeH."
+    chapter: null
+  - verseNumber: 9
+    text: "Caci iata voi porunci si voi vintura casa lui Israel intre toate popoarele,\
+      \ cum se vintura cu ciurul, fara sa cada un singur bob la pamint!"
+    textWithDiacritics: "Căci iată voi porunci şi voi vîntura casa lui Israel între\
+      \ toate popoarele, cum se vîntură cu ciurul, fără să cadă un singur bob la pă\
+      mînt!"
+    chapter: null
+  - verseNumber: 10
+    text: "Toti pacatosii poporului, vor muri de sabia Mea, cei ce zic: „Nu ne va\
+      \ ajunge nenorocirea si nu va veni peste noi.”"
+    textWithDiacritics: "Toţi păcătoşii poporului, vor muri de sabia Mea, cei ce zic:\
+      \ „Nu ne va ajunge nenorocirea şi nu va veni peste noi.”"
+    chapter: null
+  - verseNumber: 11
+    text: "In vremea aceea voi ridica din caderea lui cortul lui David, ii voi drege\
+      \ sparturile, ii voi ridica darimaturile si-l voi zidi iarasi cum era odinioara,"
+    textWithDiacritics: "În vremea aceea voi ridica din căderea lui cortul lui David,\
+      \ îi voi drege spărturile, îi voi ridica dărîmăturile şi-l voi zidi iarăşi cum\
+      \ era odinioară,"
+    chapter: null
+  - verseNumber: 12
+    text: "ca sa stapineasca ramasita Edomului si toate popoarele peste care a fost\
+      \ chemat Numele Meu, zice YaHWeH care va implini aceste lucruri."
+    textWithDiacritics: "ca să stăpînească rămăşiţa Edomului şi toate popoarele peste\
+      \ care a fost chemat Numele Meu, zice YaHWeH care va împlini aceste lucruri."
+    chapter: null
+  - verseNumber: 13
+    text: "Iata, vin zile, zice YaHWeH, cind plugarul va ajunge pe secerator si cel\
+      \ ce calca strugurii, pe cel ce imprastie saminta, cind mustul va picura din\
+      \ munti si va curge de pe toate dealurile."
+    textWithDiacritics: "Iată, vin zile, zice YaHWeH, cînd plugarul va ajunge pe seceră\
+      tor şi cel ce calcă strugurii, pe cel ce împrăştie sămînţa, cînd mustul va picura\
+      \ din munţi şi va curge de pe toate dealurile."
+    chapter: null
+  - verseNumber: 14
+    text: "Voi aduce inapoi pe prinsii de razboi ai poporului Meu, Israel; ei vor\
+      \ zidi iarasi cetatile pustiite si le vor locui, vor sadi vii si le vor bea\
+      \ vinul, vor face gradini si le vor minca roadele."
+    textWithDiacritics: "Voi aduce înapoi pe prinşii de război ai poporului Meu, Israel;\
+      \ ei vor zidi iarăşi cetăţile pustiite şi le vor locui, vor sădi vii şi le vor\
+      \ bea vinul, vor face grădini şi le vor mînca roadele."
+    chapter: null
+  - verseNumber: 15
+    text: "Ii voi sadi in tara lor, si nu vor mai fi smulsi din tara pe care le-am\
+      \ dat-o, zice YaHWeH, Eylohim al tau!” HalleluYah"
+    textWithDiacritics: "Îi voi sădi în ţara lor, şi nu vor mai fi smulşi din ţara\
+      \ pe care le-am dat-o, zice YaHWeH, Eylohim al tău!” HalleluYah"
+    chapter: null

@@ -11,7 +11,7 @@ class FileUtilTest {
 
     @Test
     public void test_getFileFromClasspath() {
-        Optional<String> fileFromClasspath = FileUtil.getFileFromClasspath("bible-source-documents/menu/book-table.json");
+        Optional<String> fileFromClasspath = FileUtil.getFileFromClasspath("bible-source-documents/books-metadata/book-table.json");
         assertTrue(fileFromClasspath.isPresent());
     }
 

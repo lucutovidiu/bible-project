@@ -1,5 +1,6 @@
 package ro.bible.persistence.service;
 
+import io.quarkus.logging.Log;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import jakarta.transaction.Transactional;
@@ -78,6 +79,7 @@ public class BookService {
         Optional<BookEntity> book = bookRepository.findByBookName(bookName);
 
         if (book.isEmpty()) {
+            Log.infof("Create Book: %s", bookName);
             BookEntity bookEntity = new BookEntity();
             bookEntity.setName(bookName);
             bookEntity.setAbbreviation(PLACE_HOLDER_MSG);
@@ -89,6 +91,7 @@ public class BookService {
             return bookEntity;
         }
 
+        Log.infof("Book found: %s, no need to create", bookName);
         return book.get();
     }
 

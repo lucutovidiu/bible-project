@@ -23,7 +23,8 @@ import java.util.stream.Stream;
 @UtilityClass
 public class FileUtil {
 
-    public static final String RESOURCE_FOLDER = "src/main/resources";
+    public static final String RESOURCE_FOLDER = "src/main/resources/bible-source-documents";
+    public static final String BIBLE_RESOURCE_FOLDER = "bible-source-documents";
 
     public static String getFileContentAsString(String path) {
         try {

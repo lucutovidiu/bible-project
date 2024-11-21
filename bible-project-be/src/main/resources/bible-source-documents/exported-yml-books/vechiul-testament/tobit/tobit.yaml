@@ -1,0 +1,1769 @@
+---
+bookId: 40
+name: "Cartea lui Tobit – Tobiyah"
+abbreviation: "Tobit."
+testament: "Vechiul Testament"
+expChaptersCount: 14
+expTotalVerses: 247
+downloadedLink: "https://yahwehtora.ro/cartea-lui-tobit-tobiyah"
+requiresUpdate: false
+inProgress: false
+bookOrder: 40
+chapterPojo:
+- number: 1
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Cartea istoriei lui Tobit, fiul lui Tobiel, al lui Ananiel, al lui Aduel,\
+      \ al lui Gabael, din neamul l ui Asiel, din semintia lui Neftali,"
+    textWithDiacritics: "Cartea istoriei lui Tobit, fiul lui Tobiel, al lui Ananiel,\
+      \ al lui Aduel, al lui Gabael, din neamul l ui Asiel, din seminția lui Neftali,"
+    chapter: null
+  - verseNumber: 2
+    text: "Care, in zilele lui Salmanasar, regele Asiriei, a fost luat in robie din\
+      \ Tisbe, care se afla la miazazi de Cades Neftali, in Galileea de sus, mai sus\
+      \ de Hator, retras spre apus, si la miazanoapte de Sefat."
+    textWithDiacritics: "Care, în zilele lui Salmanasar, regele Asiriei, a fost luat\
+      \ în robie din Tisbe, care se află la miazăzi de Cadeș Neftali, în Galileea\
+      \ de sus, mai sus de Hațor, retras spre apus, și la miazănoapte de Șefat."
+    chapter: null
+  - verseNumber: 3
+    text: "Eu, Tobit, in toate zilele vietii mele am umblat pe caile adevarului si\
+      \ ale dreptatii si am facut multe binefaceri fratilor mei si poporului meu,\
+      \ care venise impreuna cu mine la Ninive, in tara Asiriei."
+    textWithDiacritics: "Eu, Tobit, în toate zilele vieții mele am umblat pe căile\
+      \ adevărului și ale dreptății și am făcut multe binefaceri fraților mei și poporului\
+      \ meu, care venise împreună cu mine la Ninive, în țara Asiriei."
+    chapter: null
+  - verseNumber: 4
+    text: "Cand traiam eu in tara mea, in pamantul lui Israel, fiind inca tanar, toata\
+      \ semintia lui Neftali, strabunul meu, s-a despartit de casa lui David si de\
+      \ Ierusalim. Acesta fusese ales dintre toate triburile lui Israel pentru jertfele\
+      \ lor; acolo fusese zidit templul in care locuieste Cel Preainalt si Sfintit\
+      \ pentru toate neamurile viitoare."
+    textWithDiacritics: "Când trăiam eu în țara mea, în pământul lui Israel, fiind\
+      \ încă tânăr, toată seminția lui Neftali, străbunul meu, s-a despărțit de casa\
+      \ lui David și de Ierusalim. Acesta fusese ales dintre toate triburile lui Israel\
+      \ pentru jertfele lor; acolo fusese zidit templul în care locuiește Cel Preaî\
+      nalt și Sfințit pentru toate neamurile viitoare."
+    chapter: null
+  - verseNumber: 5
+    text: "Toti fratii mei si casa lui Neftali jertfeau vitelului lui Baal pe care-l\
+      \ facuse Ieroboam, regele lui Israel, la Dan, pe muntii Galileii."
+    textWithDiacritics: "Toți frații mei și casa lui Neftali jertfeau vițelului lui\
+      \ Baal pe care-l făcuse Ieroboam, regele lui Israel, la Dan, pe munții Galileii."
+    chapter: null
+  - verseNumber: 6
+    text: "Ma duceam adesea singur la Ierusalim, de sarbatori, ca sa implinesc legea\
+      \ ce indatoreaza pe tot Israelul pentru totdeauna. Ma duceam la Ierusalim cu\
+      \ parga din roade si din animale, cu dijma din vite si cu prima tunsoare a oilor\
+      \ ."
+    textWithDiacritics: "Mă duceam adesea singur la Ierusalim, de sărbători, ca să\
+      \ împlinesc legea ce îndatorează pe tot Israelul pentru totdeauna. Mă duceam\
+      \ la Ierusalim cu pârgă din roade și din animale, cu dijmă din vite și cu prima\
+      \ tunsoare a oilor ."
+    chapter: null
+  - verseNumber: 7
+    text: "Si le dam preotilor, fiii lui Aaron, pentru jertfelnic, iar o zeciuiala\
+      \ din vin si grau, din masline, din rodie si din celelalte roade ale pamantului\
+      \ o dadeam fiilor lui Levi care slujeau in Ierusalim; a doua zeciuiala o vindeam\
+      \ si in fiecare an ma duceam si o cheltuiam la Ierusalim;"
+    textWithDiacritics: "Și le dam preoților, fiii lui Aaron, pentru jertfelnic, iar\
+      \ o zeciuială din vin și grâu, din măsline, din rodie și din celelalte roade\
+      \ ale pământului o dădeam fiilor lui Levi care slujeau în Ierusalim; a doua\
+      \ zeciuială o vindeam și în fiecare an mă duceam și o cheltuiam la Ierusalim;"
+    chapter: null
+  - verseNumber: 8
+    text: "Iar o a treia o dadeam orfanilor, vaduvelor si strainilor care locuiesc\
+      \ cu Israelitii; le-o aduceam ca dar din trei in trei ani. Noi o mancam, credinciosi\
+      \ in acelasi timp sfaturilor Deborei, mama tatalui meu, Ananiel, caci eu, dupa\
+      \ moartea tatalui meu, am ramas orfan."
+    textWithDiacritics: "Iar o a treia o dădeam orfanilor, văduvelor și străinilor\
+      \ care locuiesc cu Israeliții; le-o aduceam ca dar din trei în trei ani. Noi\
+      \ o mâncam, credincioși în același timp sfaturilor Deborei, mama tatălui meu,\
+      \ Ananiel, căci eu, după moartea tatălui meu, am rămas orfan."
+    chapter: null
+  - verseNumber: 9
+    text: "Ajungand in varsta barbateasca, mi-am luat de femeie pe Ana, din neamul\
+      \ nostru si ea mi-a nascut pe Tobie."
+    textWithDiacritics: "Ajungând în vârstă bărbătească, mi-am luat de femeie pe Ana,\
+      \ din neamul nostru și ea mi-a născut pe Tobie."
+    chapter: null
+  - verseNumber: 10
+    text: "Si cand am fost dus in robie la Ninive, toti fratii mei si toti cei de\
+      \ un neam cu mine au mancat din mancarurile acelora."
+    textWithDiacritics: "Și când am fost dus în robie la Ninive, toți frații mei ș\
+      i toți cei de un neam cu mine au mâncat din mâncărurile acelora."
+    chapter: null
+  - verseNumber: 11
+    text: "Iar eu mi-am pazit sufletul si n-am mancat,"
+    textWithDiacritics: "Iar eu mi-am păzit sufletul și n-am mâncat,"
+    chapter: null
+  - verseNumber: 12
+    text: "Caci mi-am adus aminte de Eylohim cu toata inima mea."
+    textWithDiacritics: "Căci mi-am adus aminte de Eylohim cu toată inima mea."
+    chapter: null
+  - verseNumber: 13
+    text: "Si mi-a daruit Cel Preainalt mila si bunavointa inaintea lui Salmanasar\
+      \ si am fost omul lui de incredere."
+    textWithDiacritics: "Și mi-a dăruit Cel Preaînalt milă și bunăvoință înaintea\
+      \ lui Salmanasar și am fost omul lui de încredere."
+    chapter: null
+  - verseNumber: 14
+    text: "M-am dus in Media si am dat lui Gabael, fratele lui Gabri, din Raghesul\
+      \ Mediei, zece talanti de argint sa-i pastreze."
+    textWithDiacritics: "M-am dus în Media și am dat lui Gabael, fratele lui Gabri,\
+      \ din Ragheșul Mediei, zece talanți de argint să-i păstreze."
+    chapter: null
+  - verseNumber: 15
+    text: "Iar daca a murit Salmanasar, s-a facut rege in locul lui fiul sau, Sanherib;\
+      \ caile Mediei s-au inchis, si eu nu m-am mai putut duce in Media."
+    textWithDiacritics: "Iar dacă a murit Salmanasar, s-a făcut rege în locul lui\
+      \ fiul său, Sanherib; căile Mediei s-au închis, și eu nu m-am mai putut duce\
+      \ în Media."
+    chapter: null
+  - verseNumber: 16
+    text: "In zilele lui Salmanasar am facut multe binefaceri fratilor mei de neam:"
+    textWithDiacritics: "În zilele lui Salmanasar am făcut multe binefaceri fraților\
+      \ mei de neam:"
+    chapter: null
+  - verseNumber: 17
+    text: "Celor flamanzi le dadeam painea mea, celor goi, hainele mele, si de vedeam\
+      \ pe careva din neamul meu mort si aruncat peste zidurile Ninivei, il ingropam."
+    textWithDiacritics: "Celor flămânzi le dădeam pâinea mea, celor goi, hainele mele,\
+      \ și de vedeam pe careva din neamul meu mort și aruncat peste zidurile Ninivei,\
+      \ îl îngropam."
+    chapter: null
+  - verseNumber: 18
+    text: "Ba am ingropat pe ascuns si pe aceia pe care i-a ucis regele Sanherib,\
+      \ cand se intorceau fugari din Iudeea. Sanherib a ucis multi Israeliti in mania\
+      \ sa. Si a cautat regele trupurile si nu le-a gasit."
+    textWithDiacritics: "Ba am îngropat pe ascuns și pe aceia pe care i-a ucis regele\
+      \ Sanherib, când se întorceau fugari din Iudeea. Sanherib a ucis mulți Israeliț\
+      i în mânia sa. Și a căutat regele trupurile și nu le-a găsit."
+    chapter: null
+  - verseNumber: 19
+    text: "Si s-a dus unul dintre niniviteni si m-a parat la rege, ca eu i-am ingropat,\
+      \ si atunci eu m-am ascuns. Afland insa ca ma cauta sa ma ucida, de frica am\
+      \ fugit din cetate."
+    textWithDiacritics: "Și s-a dus unul dintre niniviteni și m-a pârât la rege, că\
+      \ eu i-am îngropat, și atunci eu m-am ascuns. Aflând însă că mă caută să mă\
+      \ ucidă, de frică am fugit din cetate."
+    chapter: null
+  - verseNumber: 20
+    text: "Si mi s-a jefuit atunci toata averea mea si nu mi-a ramas nimic, decat\
+      \ numai Ana, femeia mea, si fiul meu, Tobie."
+    textWithDiacritics: "Și mi s-a jefuit atunci toată averea mea și nu mi-a rămas\
+      \ nimic, decât numai Ana, femeia mea, și fiul meu, Tobie."
+    chapter: null
+  - verseNumber: 21
+    text: "Dar n-au trecut patruzeci de zile, si regele a fost ucis de cei doi fii\
+      \ ai sai care au fugit in muntii Araratului. In locul lui s-a facut rege Asarhadon,\
+      \ fiul sau, care a pus pe Ahiacar, fiul fratelui meu, Anael, peste toate veniturile\
+      \ regatului sau si peste toata Carmuirea casei lui."
+    textWithDiacritics: "Dar n-au trecut patruzeci de zile, și regele a fost ucis\
+      \ de cei doi fii ai săi care au fugit în munții Araratului. În locul lui s-a\
+      \ făcut rege Asarhadon, fiul său, care a pus pe Ahiacar, fiul fratelui meu,\
+      \ Anael, peste toate veniturile regatului său și peste toată Cârmuirea casei\
+      \ lui."
+    chapter: null
+  - verseNumber: 22
+    text: "Si a mijlocit Ahiacar pentru mine si m-am intors la Ninive. Ahiacar insa\
+      \ era si paharnic si pastratorul sigiliului, carmuitor al casei si vistiernic.\
+      \ Si Asarhadon l-a pus al doilea dupa el, si el era fiul fratelui meu."
+    textWithDiacritics: "Și a mijlocit Ahiacar pentru mine și m-am întors la Ninive.\
+      \ Ahiacar însă era și paharnic și păstrătorul sigiliului, cârmuitor al casei\
+      \ și vistiernic. Și Asarhadon l-a pus al doilea după el, și el era fiul fratelui\
+      \ meu."
+    chapter: null
+- number: 2
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Iar cand m-am intors eu la casa mea si mi-au fost dati inapoi Ana, femeia\
+      \ mea, si fiul meu, Tobie, in ziua Cincizecimii, sarbatoarea Saptamanilor, s-a\
+      \ pregatit la mine un pranz bun si m-am asezat la masa."
+    textWithDiacritics: "Iar când m-am întors eu la casa mea și mi-au fost dați î\
+      napoi Ana, femeia mea, și fiul meu, Tobie, în ziua Cincizecimii, sărbătoarea\
+      \ Săptămânilor, s-a pregătit la mine un prânz bun și m-am așezat la masă."
+    chapter: null
+  - verseNumber: 2
+    text: "Si vazand eu multele mancaruri, am zis catre fiul meu: \"Mergi si adu sa\
+      \ manance cu noi un sarac cu inima credincioasa, dintre fratii nostri, robi\
+      \ in Ninive, iar eu te astept\"."
+    textWithDiacritics: "Și văzând eu multele mâncăruri, am zis către fiul meu: \"\
+      Mergi și adu să mănânce cu noi un sărac cu inimă credincioasă, dintre frații\
+      \ noștri, robi în Ninive, iar eu te aștept\"."
+    chapter: null
+  - verseNumber: 3
+    text: "Si a venit el si a zis: \"Tata, unul din neamul nostru este sugrumat si\
+      \ aruncat in piata\"."
+    textWithDiacritics: "Și a venit el și a zis: \"Tată, unul din neamul nostru este\
+      \ sugrumat și aruncat în piață\"."
+    chapter: null
+  - verseNumber: 4
+    text: "Atunci eu, in loc sa stau sa mananc, am iesit repede si l-am dus intr-o\
+      \ casa pana dupa asfintitul soarelui."
+    textWithDiacritics: "Atunci eu, în loc să stau să mănânc, am ieșit repede și l-am\
+      \ dus într-o casă până după asfințitul soarelui."
+    chapter: null
+  - verseNumber: 5
+    text: "Si apoi, intorcandu-ma, m-am spalat si mi-am mancat painea cu intristare."
+    textWithDiacritics: "Și apoi, întorcându-mă, m-am spălat și mi-am mâncat pâinea\
+      \ cu întristare."
+    chapter: null
+  - verseNumber: 6
+    text: "Atunci mi-am adus aminte de proorocia lui Amos, care zice: \"Praznuirile\
+      \ voastre se vor preface in jale si toate cantarile voastre in tanguire\". Si\
+      \ am plans."
+    textWithDiacritics: "Atunci mi-am adus aminte de proorocia lui Amos, care zice:\
+      \ \"Prăznuirile voastre se vor preface în jale și toate cântările voastre î\
+      n tânguire\". Și am plâns."
+    chapter: null
+  - verseNumber: 7
+    text: "Iar daca a asfintit soarele, m-am dus si, sapand o groapa, l-am ingropat."
+    textWithDiacritics: "Iar dacă a asfințit soarele, m-am dus și, săpând o groapă\
+      , l-am îngropat."
+    chapter: null
+  - verseNumber: 8
+    text: "Vecinii insa radeau de mine si ziceau: \"Tot nu se teme ca va fi ucis pentru\
+      \ fapta asta; a mai fost fugar si iata iar se apuca de ingropat mortii\"."
+    textWithDiacritics: "Vecinii însă râdeau de mine și ziceau: \"Tot nu se teme că\
+      \ va fi ucis pentru fapta asta; a mai fost fugar și iată iar se apucă de îngropat\
+      \ morții\"."
+    chapter: null
+  - verseNumber: 9
+    text: "Si chiar in noaptea aceea, dupa ce m-am intors de la inmormantare, fiind\
+      \ necurat, m-am culcat sa dorm afara linga zidul curtii, cu fata descoperita."
+    textWithDiacritics: "Și chiar în noaptea aceea, după ce m-am întors de la înmormâ\
+      ntare, fiind necurat, m-am culcat să dorm afară lîngă zidul curții, cu fața\
+      \ descoperită."
+    chapter: null
+  - verseNumber: 10
+    text: "Si n-am bagat de seama ca pe zid erau vrabii. Si pe cand stam cu ochii\
+      \ deschisi, vrabiile au lasat de sus necuratie in ochii mei si am facut albeata.\
+      \ Si m-am dus eu la doctori, pentru ingrijire. Ei mi-au uns ochii cu o alifie,\
+      \ dar am ramas orb. Fratii au ramas adanc intristati de aceasta. Ahiacar a purtat\
+      \ grija de intretinerea mea timp de doi ani, inainte de a pleca la Elimaida."
+    textWithDiacritics: "Și n-am băgat de seamă că pe zid erau vrăbii. Și pe când\
+      \ stam cu ochii deschiși, vrăbiile au lăsat de sus necurăție în ochii mei ș\
+      i am făcut albeață. Și m-am dus eu la doctori, pentru îngrijire. Ei mi-au uns\
+      \ ochii cu o alifie, dar am rămas orb. Frații au rămas adânc întristați de aceasta.\
+      \ Ahiacar a purtat grijă de întreținerea mea timp de doi ani, înainte de a pleca\
+      \ la Elimaida."
+    chapter: null
+  - verseNumber: 11
+    text: "Si atunci Ana, femeia mea, a luat de lucru ca muncitoare, sa toarca lana\
+      \ si sa teasa panza."
+    textWithDiacritics: "Și atunci Ana, femeia mea, a luat de lucru ca muncitoare,\
+      \ să toarcă lână și să țeasă pânză."
+    chapter: null
+  - verseNumber: 12
+    text: "Ea aducea lucrul facut si i se platea; si o data, peste plata, a primit\
+      \ ca dar un ied pentru mancare."
+    textWithDiacritics: "Ea aducea lucrul făcut și i se plătea; și o dată, peste plată\
+      , a primit ca dar un ied pentru mâncare."
+    chapter: null
+  - verseNumber: 13
+    text: "Si venind acasa, iedul a inceput sa zbiere; si eu am intrebat pe femeie:\
+      \ \"De unde este iedul acesta? Nu cumva este de furat? Da-l stapanului lui,\
+      \ caci nu se cuvine sa mancam de furat\"."
+    textWithDiacritics: "Și venind acasă, iedul a început să zbiere; și eu am întrebat\
+      \ pe femeie: \"De unde este iedul acesta? Nu cumva este de furat? Dă-l stăpâ\
+      nului lui, căci nu se cuvine să mâncăm de furat\"."
+    chapter: null
+  - verseNumber: 14
+    text: "Atunci ea mi-a raspuns: \"Mi-a fost daruit peste plata\". Si eu n-am crezut-o\
+      \ si i-am zis sa-l dea stapanului si m-am inrosit inaintea ei. Ea insa mi-a\
+      \ raspuns: \"Unde-ti sunt milosteniile si faptele tale cele bune? Toata lumea\
+      \ stie ce ti-au adus\"."
+    textWithDiacritics: "Atunci ea mi-a răspuns: \"Mi-a fost dăruit peste plată\"\
+      . Și eu n-am crezut-o și i-am zis să-l dea stăpânului și m-am înroșit înaintea\
+      \ ei. Ea însă mi-a răspuns: \"Unde-ți sunt milosteniile și faptele tale cele\
+      \ bune? Toată lumea știe ce ți-au adus\"."
+    chapter: null
+- number: 3
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "si cu sufletul adanc intristat, am suspinat, am plans si m-am rugat cu\
+      \ durere, zicand:"
+    textWithDiacritics: "și cu sufletul adânc întristat, am suspinat, am plâns și\
+      \ m-am rugat cu durere, zicând:"
+    chapter: null
+  - verseNumber: 2
+    text: "\"Drept esti Tu, YaHWeH, si toate lucrurile Tale sunt drepte si caile Tale\
+      \ sunt mila si adevar, si Tu esti judecatorul lumii!"
+    textWithDiacritics: "\"Drept ești Tu, YaHWeH, și toate lucrurile Tale sunt drepte\
+      \ și căile Tale sunt milă și adevăr, și Tu ești judecătorul lumii!"
+    chapter: null
+  - verseNumber: 3
+    text: "Adu-ti aminte de mine si cauta spre mine si nu ma pedepsi pentru pacatele\
+      \ mele si pentru greselile mele si ale parintilor mei. Caci noi am pacatuit\
+      \ inaintea Ta!"
+    textWithDiacritics: "Adu-ți aminte de mine și caută spre mine și nu mă pedepsi\
+      \ pentru păcatele mele și pentru greșelile mele și ale părinților mei. Căci\
+      \ noi am păcătuit înaintea Ta!"
+    chapter: null
+  - verseNumber: 4
+    text: "Si am calcat poruncile Tale, si Tu ne-ai dat spre jaf la robie si la moarte,\
+      \ ca sa fim pilda de batjocura si de ocara la toate popoarele printre care Tu\
+      \ ne-ai risipit!"
+    textWithDiacritics: "Și am călcat poruncile Tale, și Tu ne-ai dat spre jaf la\
+      \ robie și la moarte, ca să fim pildă de batjocură și de ocară la toate popoarele\
+      \ printre care Tu ne-ai risipit!"
+    chapter: null
+  - verseNumber: 5
+    text: "Si acum toate hotararile Tale sunt drepte, cand Tu faci cu mine dupa pacatele\
+      \ mele si dupa pacatele parintilor mei, pentru ca n-am implinit poruncile Tale\
+      \ si n-am umblat intru adevar inaintea Ta."
+    textWithDiacritics: "Și acum toate hotărârile Tale sunt drepte, când Tu faci cu\
+      \ mine după păcatele mele și după păcatele părinților mei, pentru că n-am î\
+      mplinit poruncile Tale și n-am umblat întru adevăr înaintea Ta."
+    chapter: null
+  - verseNumber: 6
+    text: "Fa deci cu mine ceea ce binevoiesti! Porunceste sa mi se ia duhul, ca sa\
+      \ ma desfac si sa ma intorc in pamant, fiindca mi-e mai bine sa mor decat sa\
+      \ traiesc, caci mi s-au facut invinuiri nedrepte si sunt cumplit de amarat!\
+      \ Porunceste sa fiu scapat de aceasta povara in locasul de veci, si nu-ti intoarce\
+      \ fata Ta de la mine!\""
+    textWithDiacritics: "Fă deci cu mine ceea ce binevoiești! Poruncește să mi se\
+      \ ia duhul, ca să mă desfac și să mă întorc în pământ, fiindcă mi-e mai bine\
+      \ să mor decât să trăiesc, căci mi s-au făcut învinuiri nedrepte și sunt cumplit\
+      \ de amărât! Poruncește să fiu scăpat de această povară în locașul de veci,\
+      \ și nu-ți întoarce fața Ta de la mine!\""
+    chapter: null
+  - verseNumber: 7
+    text: "Tot in ziua aceea s-a intamplat ca si Sara, fiica lui Raguel din Ecbatana\
+      \ Mediei, sa sufere ocari de la una din slujnicele tatalui sau,"
+    textWithDiacritics: "Tot în ziua aceea s-a întâmplat ca și Sara, fiica lui Raguel\
+      \ din Ecbatana Mediei, să sufere ocări de la una din slujnicele tatălui său,"
+    chapter: null
+  - verseNumber: 8
+    text: "Pentru ca ea fusese maritata dupa sapte barbati. Si Asmodeu, duhul cel\
+      \ rau, ii ucisese inainte de a trai ea cu ei! Si-i zicea slujnica: \"Da, tu\
+      \ esti cea care ti-ai ucis barbatii? Caci, iata, ai fost data in casatorie la\
+      \ sapte, si n-ai avut noroc de nici unul!"
+    textWithDiacritics: "Pentru că ea fusese măritată după șapte bărbați. Și Asmodeu,\
+      \ duhul cel rău, îi ucisese înainte de a trăi ea cu ei! Și-i zicea slujnica:\
+      \ \"Da, tu ești cea care ți-ai ucis bărbații? Căci, iată, ai fost dată în că\
+      sătorie la șapte, și n-ai avut noroc de nici unul!"
+    chapter: null
+  - verseNumber: 9
+    text: "Daca barbatii tai au murit, nu trebuie sa ne pedepsiti pe noi. Du-te si\
+      \ tu dupa ei, ca sa nu vedem de la tine fiu sau fiica niciodata!\""
+    textWithDiacritics: "Dacă bărbații tăi au murit, nu trebuie să ne pedepsiți pe\
+      \ noi. Du-te și tu după ei, ca să nu vedem de la tine fiu sau fiică niciodată\
+      !\""
+    chapter: null
+  - verseNumber: 10
+    text: "Auzind acestea, in acea zi ea s-a intristat foarte tare, plangea cu hohote\
+      \ si s-a suit in camera tatalui sau cu gandul sa se spanzure, dar chibzuind\
+      \ ea, gandi: \"Sunt singura la tatal meu. De voi face aceasta, va fi necinstire\
+      \ pentru el si voi cobori batranetea lui cu amaraciune in locasul mortilor.\
+      \ As face mai bine sa nu ma spanzur, ci sa rog pe YaHWeH sa-mi dea moarte, ca\
+      \ sa nu mai aud ocari in viata mea!\""
+    textWithDiacritics: "Auzind acestea, în acea zi ea s-a întristat foarte tare,\
+      \ plângea cu hohote și s-a suit în camera tatălui său cu gândul să se spânzure,\
+      \ dar chibzuind ea, gândi: \"Sunt singură la tatăl meu. De voi face aceasta,\
+      \ va fi necinstire pentru el și voi coborî bătrânețea lui cu amărăciune în locaș\
+      ul morților. Aș face mai bine să nu mă spânzur, ci să rog pe YaHWeH să-mi dea\
+      \ moarte, ca să nu mai aud ocări în viața mea!\""
+    chapter: null
+  - verseNumber: 11
+    text: "Si in clipa aceea, intinzand bratele spre fereastra se ruga astfel: \"\
+      Binecuvantat esti Tu, YaHWeH Eylohim al meu si binecuvantat sa fie numele Tau\
+      \ cel sfant si slavit in veci! Sa Te binecuvanteze pe Tine toate fapturile Tale\
+      \ in veci!"
+    textWithDiacritics: "Și în clipa aceea, întinzând brațele spre fereastră se ruga\
+      \ astfel: \"Binecuvântat ești Tu, YaHWeH Eylohim al meu și binecuvântat să fie\
+      \ numele Tău cel sfânt și slăvit în veci! Să Te binecuvânteze pe Tine toate\
+      \ făpturile Tale în veci!"
+    chapter: null
+  - verseNumber: 12
+    text: "Si acum catre Tine, YaHWeH, imi intorc ochii si fata mea si ma rog."
+    textWithDiacritics: "Și acum către Tine, YaHWeH, îmi întorc ochii și fața mea\
+      \ și mă rog."
+    chapter: null
+  - verseNumber: 13
+    text: "Ia-ma de pe pamantul acesta si nu-mi da sa mai aud ocari!"
+    textWithDiacritics: "Ia-mă de pe pământul acesta și nu-mi da să mai aud ocări!"
+    chapter: null
+  - verseNumber: 14
+    text: "Tu stii, YaHWeH, ca sunt curata, ca nici un barbat nu s-a atins de mine."
+    textWithDiacritics: "Tu știi, YaHWeH, că sunt curată, că nici un bărbat nu s-a\
+      \ atins de mine."
+    chapter: null
+  - verseNumber: 15
+    text: "Si nu mi-am necinstit numele, nici numele tatalui meu in pamantul robiei\
+      \ mele. Sunt singura la tatal meu, el n-are alt copil ca sa-l mosteneasca, nici\
+      \ frate pe langa el, nici ruda, pentru care sa fiu pastrata spre a-i fi sotie.\
+      \ Pana acum am pierdut sapte barbati. De ce as mai trai? Iar daca Tu nu binevoiesti\
+      \ sa faci sa mor, atunci binevoieste a cauta spre mine si a ma milui, ca sa\
+      \ nu mai aud ocari!\""
+    textWithDiacritics: "Și nu mi-am necinstit numele, nici numele tatălui meu în\
+      \ pământul robiei mele. Sunt singură la tatăl meu, el n-are alt copil ca să\
+      -l moștenească, nici frate pe lângă el, nici rudă, pentru care să fiu păstrată\
+      \ spre a-i fi soție. Până acum am pierdut șapte bărbați. De ce aș mai trăi?\
+      \ Iar dacă Tu nu binevoiești să faci să mor, atunci binevoiește a căuta spre\
+      \ mine și a mă milui, ca să nu mai aud ocări!\""
+    chapter: null
+  - verseNumber: 16
+    text: "Si a fost auzita rugaciunea amandurora inaintea slavei marelui Eylohim."
+    textWithDiacritics: "Și a fost auzită rugăciunea amândurora înaintea slavei marelui\
+      \ Eylohim."
+    chapter: null
+  - verseNumber: 17
+    text: "Si Rafael a fost trimis sa-i vindece pe amandoi: sa ridice albeata lui\
+      \ Tobit, ca sa vada cu ochii sai lumina lui Eylohim si sa dea pe Sara, fiica\
+      \ lui Raguel, de sotie lui Tobie, fiul lui Tobit, legand pe Asmodeu, duhul cel\
+      \ rau; caci Tobie era menit s-o mosteneasca. Si in acelasi timp Tobit, dupa\
+      \ intoarcere, a intrat in casa sa, iar Sara, fiica lui Raguel, s-a coborat din\
+      \ foisorul sau."
+    textWithDiacritics: "Și Rafael a fost trimis să-i vindece pe amândoi: să ridice\
+      \ albeața lui Tobit, ca să vadă cu ochii săi lumina lui Eylohim și să dea pe\
+      \ Sara, fiica lui Raguel, de soție lui Tobie, fiul lui Tobit, legând pe Asmodeu,\
+      \ duhul cel rău; căci Tobie era menit s-o moștenească. Și în același timp Tobit,\
+      \ după întoarcere, a intrat în casa sa, iar Sara, fiica lui Raguel, s-a coborâ\
+      t din foișorul său."
+    chapter: null
+- number: 4
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "In ziua aceea si-a adus aminte Tobit de argintul pe care-l incredintase\
+      \ spre pastrare lui Gabael in Raghesul Mediei."
+    textWithDiacritics: "În ziua aceea și-a adus aminte Tobit de argintul pe care-l\
+      \ încredințase spre păstrare lui Gabael în Ragheșul Mediei."
+    chapter: null
+  - verseNumber: 2
+    text: "Si el si-a zis in sine: \"Eu mi-am cerut moarte. As face bine sa chem pe\
+      \ fiul meu Tobie, ca sa-i spun de acesti talanti pana nu mor!\""
+    textWithDiacritics: "Și el și-a zis în sine: \"Eu mi-am cerut moarte. Aș face\
+      \ bine să chem pe fiul meu Tobie, ca să-i spun de acești talanți până nu mor!\""
+    chapter: null
+  - verseNumber: 3
+    text: "Si chemandu-l, i-a zis: \"Fiule, cand voi muri, sa ma ingropi si sa nu\
+      \ parasesti pe mama ta; cinsteste-o in toate zilele vietii tale, fa ce-i place\
+      \ ei si sa nu-i pricinuiesti amaraciuni!"
+    textWithDiacritics: "Și chemându-l, i-a zis: \"Fiule, când voi muri, să mă îngropi\
+      \ și să nu părăsești pe mama ta; cinstește-o în toate zilele vieții tale, fă\
+      \ ce-i place ei și să nu-i pricinuiești amărăciuni!"
+    chapter: null
+  - verseNumber: 4
+    text: "Adu-ti aminte, fiule, ca ea a infruntat multe primejdii pentru tine, cand\
+      \ te-a purtat in pantece. Si cand ea va muri, s-o ingropi langa mine in acelasi\
+      \ mormant."
+    textWithDiacritics: "Adu-ți aminte, fiule, că ea a înfruntat multe primejdii pentru\
+      \ tine, când te-a purtat în pântece. Și când ea va muri, s-o îngropi lângă mine\
+      \ în același mormânt."
+    chapter: null
+  - verseNumber: 5
+    text: "Adu-ti aminte in toate zilele, fiule, de YaHWeH Eylohim al nostru si sa\
+      \ nu doresti a gresi si a calca poruncile Lui. Sa faci fapte bune, in toate\
+      \ zilele vietii tale, si sa nu umbli pe caile nedreptatii."
+    textWithDiacritics: "Adu-ți aminte în toate zilele, fiule, de YaHWeH Eylohim al\
+      \ nostru și să nu dorești a greși și a călca poruncile Lui. Să faci fapte bune,\
+      \ în toate zilele vieții tale, și să nu umbli pe căile nedreptății."
+    chapter: null
+  - verseNumber: 6
+    text: "Caci daca tu lucrezi intru adevar, vei izbuti in toate lucrarile tale,\
+      \ ca toti cei ce umbla dupa adevar!"
+    textWithDiacritics: "Căci dacă tu lucrezi întru adevăr, vei izbuti în toate lucră\
+      rile tale, ca toți cei ce umblă după adevăr!"
+    chapter: null
+  - verseNumber: 7
+    text: "Da milostenie din averea ta si sa nu aiba ochiul tau parere de rau cand\
+      \ vei face milostenie. De la nici un sarac sa nuti intorci fata ta, si atunci\
+      \ nici de la tine nu se va intoarce fata lui Eylohim."
+    textWithDiacritics: "Dă milostenie din averea ta și să nu aibă ochiul tău părere\
+      \ de rău când vei face milostenie. De la nici un sărac să nuți întorci fața\
+      \ ta, și atunci nici de la tine nu se va întoarce fața lui Eylohim."
+    chapter: null
+  - verseNumber: 8
+    text: "Cand ai mult, da mai mult; daca ai putin da mai putin, dar nu pregeta sa\
+      \ faci milostenie."
+    textWithDiacritics: "Când ai mult, dă mai mult; dacă ai puțin dă mai puțin, dar\
+      \ nu pregeta să faci milostenie."
+    chapter: null
+  - verseNumber: 9
+    text: "Si-ti vei aduna prin aceasta vistierie bogata pentru zile grele,"
+    textWithDiacritics: "Și-ți vei aduna prin aceasta vistierie bogată pentru zile\
+      \ grele,"
+    chapter: null
+  - verseNumber: 10
+    text: "Ca milostenia izbaveste de la moarte si nu te lasa sa te cobori in intuneric."
+    textWithDiacritics: "Că milostenia izbăvește de la moarte și nu te lasă să te\
+      \ cobori în întuneric."
+    chapter: null
+  - verseNumber: 11
+    text: "In fata Celui Preainalt, milostenia este dar bogat pentru toti cei ce o\
+      \ fac."
+    textWithDiacritics: "În fața Celui Preaînalt, milostenia este dar bogat pentru\
+      \ toți cei ce o fac."
+    chapter: null
+  - verseNumber: 12
+    text: "Pazeste-te, fiule, de orice desfranare! Sa-ti iei femeie din semintia tatalui\
+      \ tau, si sa nu-ti iei femeie straina, caci noi suntem fii de prooroci. Parintii\
+      \ nostri din vechime sunt Noe, Avraam, Isaac si Iacov. Adu-ti aminte, fiule,\
+      \ ca ei cu totii si-au luat femei din mijlocul fratilor lor si au fost binecuvantati\
+      \ in fiii lor, si urmasii lor vor mosteni pamantul."
+    textWithDiacritics: "Păzește-te, fiule, de orice desfrânare! Să-ți iei femeie\
+      \ din seminția tatălui tău, și să nu-ți iei femeie străină, căci noi suntem\
+      \ fii de prooroci. Părinții noștri din vechime sunt Noe, Avraam, Isaac și Iacov.\
+      \ Adu-ți aminte, fiule, că ei cu toții și-au luat femei din mijlocul fraților\
+      \ lor și au fost binecuvântați în fiii lor, și urmașii lor vor moșteni pămâ\
+      ntul."
+    chapter: null
+  - verseNumber: 13
+    text: "Asadar, fiule, sa iubesti pe fratii tai, si sa nu te mandresti in inima\
+      \ ta fata de fratii tai si fata de fiii si fiicele poporului tau, incat sa nu-ti\
+      \ iei femeie de la ei, pentru ca din mandrie izvoraste pieire si mare neoranduire,\
+      \ iar din lene, saracie si lipsa mare, caci lenea este mama foamei."
+    textWithDiacritics: "Așadar, fiule, să iubești pe frații tăi, și să nu te mândreș\
+      ti în inima ta față de frații tăi și față de fiii și fiicele poporului tău,\
+      \ încât să nu-ți iei femeie de la ei, pentru că din mândrie izvorăște pieire\
+      \ și mare neorânduire, iar din lene, sărăcie și lipsă mare, căci lenea este\
+      \ mama foamei."
+    chapter: null
+  - verseNumber: 14
+    text: "Plata celor care lucreaza pentru tine nu o amana pe maine, ci da-le-o indata,\
+      \ caci si tie ti se va rasplati, de vei sluji lui Eylohim. Ia seama, fiul meu,\
+      \ in toate lucrarile tale si fii bine crescut in toata purtarea ta!"
+    textWithDiacritics: "Plata celor care lucrează pentru tine nu o amâna pe mâine,\
+      \ ci dă-le-o îndată, căci și ție ți se va răsplăti, de vei sluji lui Eylohim.\
+      \ Ia seama, fiul meu, în toate lucrările tale și fii bine crescut în toată purtarea\
+      \ ta!"
+    chapter: null
+  - verseNumber: 15
+    text: "Ceea ce urasti tu insuti, aceea nimanui sa nu faci. Vin pana la imbatare\
+      \ sa nu bei si betia sa nu calatoreasca cu tine pe cale!"
+    textWithDiacritics: "Ceea ce urăști tu însuți, aceea nimănui să nu faci. Vin pâ\
+      nă la îmbătare să nu bei și beția să nu călătorească cu tine pe cale!"
+    chapter: null
+  - verseNumber: 16
+    text: "Da celui flamand din painea ta si celui gol din hainele tale. Din toate\
+      \ cate ai din belsug, fa milostenie, si sa nu-i para rau ochiului tau cand vei\
+      \ face milostenie!"
+    textWithDiacritics: "Dă celui flămând din pâinea ta și celui gol din hainele tale.\
+      \ Din toate câte ai din belșug, fă milostenie, și să nu-i pară rău ochiului\
+      \ tău când vei face milostenie!"
+    chapter: null
+  - verseNumber: 17
+    text: "Fii darnic cu painea si cu vinul tau la mormantul celor drepti, dar pacatosilor\
+      \ sa nu dai!"
+    textWithDiacritics: "Fii darnic cu pâinea și cu vinul tău la mormântul celor drepț\
+      i, dar păcătoșilor să nu dai!"
+    chapter: null
+  - verseNumber: 18
+    text: "De la tot inteleptul sa ceri sfat si sfatul folositor sa nu-l dispretuiesti."
+    textWithDiacritics: "De la tot înțeleptul să ceri sfat și sfatul folositor să\
+      \ nu-l disprețuiești."
+    chapter: null
+  - verseNumber: 19
+    text: "Binecuvinteaza pe YaHWeH Eylohim in tot timpul si cere de la El sa calauzeasca\
+      \ caile tale si ca toate gandurile tale sa izbandeasca, caci intelepciunea nu\
+      \ este data la tot neamul, si YaHWeH da tot binele si, pe cine voieste, il ridica\
+      \ sau il coboara pana in adancul locasului mortilor. Tine minte deci, fiule,\
+      \ poruncile mele si sa nu se stearga ele din inima ta."
+    textWithDiacritics: "Binecuvintează pe YaHWeH Eylohim în tot timpul și cere de\
+      \ la El să călăuzească căile tale și ca toate gândurile tale să izbândească\
+      , căci înțelepciunea nu este dată la tot neamul, și YaHWeH dă tot binele și,\
+      \ pe cine voiește, îl ridică sau îl coboară până în adâncul locașului morților.\
+      \ Ține minte deci, fiule, poruncile mele și să nu se șteargă ele din inima ta."
+    chapter: null
+  - verseNumber: 20
+    text: "Si acum iti descopar ca am dat zece talanti de argint in pastrarea lui\
+      \ Gabael, fiul lui Gabri, din Raghesul Mediei. Nu te teme, fiule, ca am saracit!\
+      \ Tu ai o mare bogatie, daca te vei teme de YaHWeH si, indepartandu-te de orice\
+      \ pacat, vei face cele placute inaintea Lui\"."
+    textWithDiacritics: "Și acum îți descopăr că am dat zece talanți de argint în\
+      \ păstrarea lui Gabael, fiul lui Gabri, din Ragheșul Mediei. Nu te teme, fiule,\
+      \ că am sărăcit! Tu ai o mare bogăție, dacă te vei teme de YaHWeH și, îndepă\
+      rtându-te de orice păcat, vei face cele plăcute înaintea Lui\"."
+    chapter: null
+- number: 5
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Si raspunzand, Tobie a zis: \"Tata, voi face tot ce mi-ai poruncit!"
+    textWithDiacritics: "Și răspunzând, Tobie a zis: \"Tată, voi face tot ce mi-ai\
+      \ poruncit!"
+    chapter: null
+  - verseNumber: 2
+    text: "Dar cum voi putea sa primesc argintul? El nu ma cunoaste pe mine, si nici\
+      \ eu nu-l cunosc pe el. Ce semn de recunoastere ii voi da, ca sa ma creada si\
+      \ sa-mi dea argintul? Si nu cunosc nici drumurile pentru aceasta calatorie in\
+      \ Media\"."
+    textWithDiacritics: "Dar cum voi putea să primesc argintul? El nu mă cunoaște\
+      \ pe mine, și nici eu nu-l cunosc pe el. Ce semn de recunoaștere îi voi da,\
+      \ ca să mă creadă și să-mi dea argintul? Și nu cunosc nici drumurile pentru\
+      \ această călătorie în Media\"."
+    chapter: null
+  - verseNumber: 3
+    text: "Atunci tatal i-a dat inscrisul si i-a zis: \"Gaseste-ti un om care sa te\
+      \ intovaraseasca si ii voi plati eu si du-te dupa argint pana sunt inca in viata!\""
+    textWithDiacritics: "Atunci tatăl i-a dat înscrisul și i-a zis: \"Găsește-ți un\
+      \ om care să te întovărășească și îi voi plăti eu și du-te după argint până\
+      \ sunt încă în viață!\""
+    chapter: null
+  - verseNumber: 4
+    text: "Si s-a dus Tobie sa caute omul si s-a intalnit cu Rafael. Acesta era inger,\
+      \ dar el nu stia."
+    textWithDiacritics: "Și s-a dus Tobie să caute omul și s-a întâlnit cu Rafael.\
+      \ Acesta era înger, dar el nu știa."
+    chapter: null
+  - verseNumber: 5
+    text: "Si i-a zis: \"Poti sa mergi cu mine la Raghesul Mediei? Cunosti tu locurile\
+      \ acelea?\""
+    textWithDiacritics: "Și i-a zis: \"Poți să mergi cu mine la Ragheșul Mediei? Cunoș\
+      ti tu locurile acelea?\""
+    chapter: null
+  - verseNumber: 6
+    text: "Si ingerul i-a raspuns: \"Pot sa merg cu tine si stiu drumul; ba chiar\
+      \ am gazduit la Gabael, fratele nostru!\""
+    textWithDiacritics: "Și îngerul i-a răspuns: \"Pot să merg cu tine și știu drumul;\
+      \ ba chiar am găzduit la Gabael, fratele nostru!\""
+    chapter: null
+  - verseNumber: 7
+    text: "Atunci Tobie i-a zis: \"Asteapta-ma, am sa spun tatalui meu\"."
+    textWithDiacritics: "Atunci Tobie i-a zis: \"Așteaptă-mă, am să spun tatălui meu\"\
+      ."
+    chapter: null
+  - verseNumber: 8
+    text: "Si acela a zis: \"Du-te, numai nu zabovi!\""
+    textWithDiacritics: "Și acela a zis: \"Du-te, numai nu zăbovi!\""
+    chapter: null
+  - verseNumber: 9
+    text: "Si a venit el si a zis catre tatal sau: \"Iata, mi-am gasit tovaras!\"\
+      \ Iar tatal a zis: \"Cheama-l la mine, ca sa aflu din ce semintie este el si\
+      \ daca este om de incredere ca sa mearga cu tine\"."
+    textWithDiacritics: "Și a venit el și a zis către tatăl său: \"Iată, mi-am gă\
+      sit tovarăș!\" Iar tatăl a zis: \"Cheamă-l la mine, ca să aflu din ce seminț\
+      ie este el și dacă este om de încredere ca să meargă cu tine\"."
+    chapter: null
+  - verseNumber: 10
+    text: "Si l-a chemat, si a venit acela si s-au imbratisat."
+    textWithDiacritics: "Și l-a chemat, și a venit acela și s-au îmbrățișat."
+    chapter: null
+  - verseNumber: 11
+    text: "A intrebat Tobit: \"Spune-mi, frate, din ce semintie si din ce neam esti?\""
+    textWithDiacritics: "A întrebat Tobit: \"Spune-mi, frate, din ce seminție și din\
+      \ ce neam ești?\""
+    chapter: null
+  - verseNumber: 12
+    text: "Si ingerul a raspuns: \"Semintie si neam cauti tu sau simbrias, care sa\
+      \ intovaraseasca pe fiul tau?\" Iar Tobit a zis catre el: \"Frate, vreau sa-ti\
+      \ stiu neamul si numele tau!\""
+    textWithDiacritics: "Și îngerul a răspuns: \"Seminție și neam cauți tu sau simbriaș\
+      , care să întovărășească pe fiul tău?\" Iar Tobit a zis către el: \"Frate, vreau\
+      \ să-ți știu neamul și numele tău!\""
+    chapter: null
+  - verseNumber: 13
+    text: "Zis-a acela: \"Eu sunt Azaria al lui Anania cel mare, din neamul fratilor\
+      \ tai\"."
+    textWithDiacritics: "Zis-a acela: \"Eu sunt Azaria al lui Anania cel mare, din\
+      \ neamul fraților tăi\"."
+    chapter: null
+  - verseNumber: 14
+    text: "Atunci Tobit i-a zis: \"Frate, du-te cu bine si nu te supara pe mine ca\
+      \ te-am intrebat de semintia si neamul tau! Tu-mi esti frate dintr-un neam bun\
+      \ si cinstit. Eu am cunoscut pe Anania si pe Ionatan, feciorii lui Simei cel\
+      \ Mare; am fost impreuna la Ierusalim, ca sa ne inchinam, cu parga si cu zeciuieli\
+      \ din roade, caci noi nu ne-am lasat ademeniti de ratacirea fratilor nostri.\
+      \ Tu, frate, esti de neam bun si cinstit."
+    textWithDiacritics: "Atunci Tobit i-a zis: \"Frate, du-te cu bine și nu te supă\
+      ra pe mine că te-am întrebat de seminția și neamul tău! Tu-mi ești frate dintr-un\
+      \ neam bun și cinstit. Eu am cunoscut pe Anania și pe Ionatan, feciorii lui\
+      \ Șimei cel Mare; am fost împreună la Ierusalim, ca să ne închinăm, cu pârgă\
+      \ și cu zeciuieli din roade, căci noi nu ne-am lăsat ademeniți de rătăcirea\
+      \ fraților noștri. Tu, frate, ești de neam bun și cinstit."
+    chapter: null
+  - verseNumber: 15
+    text: "Dar spune-mi: Ce plata trebuie sa-ti dau eu? Iti dau o drahma pe zi si\
+      \ toate cele de trebuinta pentru tine ca si pentru fiul meu,"
+    textWithDiacritics: "Dar spune-mi: Ce plată trebuie să-ți dau eu? Îți dau o drahmă\
+      \ pe zi și toate cele de trebuință pentru tine ca și pentru fiul meu,"
+    chapter: null
+  - verseNumber: 16
+    text: "Si-ti voi mai adauga inca la plata, daca va veti intoarce cu bine\"."
+    textWithDiacritics: "Și-ți voi mai adăuga încă la plată, dacă vă veți întoarce\
+      \ cu bine\"."
+    chapter: null
+  - verseNumber: 17
+    text: "Si asa s-au inteles. Atunci tatal a zis catre Tobie: \"Fii gata de drum\
+      \ si plecati cu bine\". Si fiul sau a pregatit cele pentru drum, iar tatal i-a\
+      \ mai zis: \"Du-te cu omul acesta si Eylohim, Cel care locuieste in ceruri,\
+      \ va indrepta calea voastra si ingerul Lui va merge impreuna cu voi!\" Si amandoi\
+      \ au iesit sa plece si s-a dus cu ei si cainele tanarului."
+    textWithDiacritics: "Și așa s-au înțeles. Atunci tatăl a zis către Tobie: \"Fii\
+      \ gata de drum și plecați cu bine\". Și fiul său a pregătit cele pentru drum,\
+      \ iar tatăl i-a mai zis: \"Du-te cu omul acesta și Eylohim, Cel care locuieș\
+      te în ceruri, va îndrepta calea voastră și îngerul Lui va merge împreună cu\
+      \ voi!\" Și amândoi au ieșit să plece și s-a dus cu ei și câinele tânărului."
+    chapter: null
+  - verseNumber: 18
+    text: "Iar Ana, mama lui, a plans si a zis catre Tobit: \"De ce ai trimis tu pe\
+      \ fiul nostru? Nu era el, oare, toiagul batranetilor noastre, cand intra si\
+      \ iesea inaintea noastra?"
+    textWithDiacritics: "Iar Ana, mama lui, a plâns și a zis către Tobit: \"De ce\
+      \ ai trimis tu pe fiul nostru? Nu era el, oare, toiagul bătrâneților noastre,\
+      \ când intra și ieșea înaintea noastră?"
+    chapter: null
+  - verseNumber: 19
+    text: "Nu da intaietate argintului. Sa fie acesta ca gunoiul inaintea fiului nostru."
+    textWithDiacritics: "Nu da întâietate argintului. Să fie acesta ca gunoiul înaintea\
+      \ fiului nostru."
+    chapter: null
+  - verseNumber: 20
+    text: "Caci cat ne e randuit de la YaHWeH sa traim avem destul pentru aceasta\"\
+      ."
+    textWithDiacritics: "Căci cât ne e rânduit de la YaHWeH să trăim avem destul pentru\
+      \ aceasta\"."
+    chapter: null
+  - verseNumber: 21
+    text: "Iar Tobit a zis catre ea: \"Nu te intrista, sora! Caci el se va intoarce\
+      \ sanatos si-l vor vedea ochii tai,"
+    textWithDiacritics: "Iar Tobit a zis către ea: \"Nu te întrista, soră! Căci el\
+      \ se va întoarce sănătos și-l vor vedea ochii tăi,"
+    chapter: null
+  - verseNumber: 22
+    text: "Caci un inger bun va merge impreuna cu el, si va avea izbanda la drum si\
+      \ se va intoarce sanatos!\""
+    textWithDiacritics: "Căci un înger bun va merge împreună cu el, și va avea izbâ\
+      ndă la drum și se va întoarce sănătos!\""
+    chapter: null
+  - verseNumber: 23
+    text: "Si a incetat ea de a mai plange."
+    textWithDiacritics: "Și a încetat ea de a mai plânge."
+    chapter: null
+- number: 6
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Iar calatorii au ajuns seara la fluviul Tigru si s-au oprit peste noapte\
+      \ acolo."
+    textWithDiacritics: "Iar călătorii au ajuns seara la fluviul Tigru și s-au oprit\
+      \ peste noapte acolo."
+    chapter: null
+  - verseNumber: 2
+    text: "Si tanarul s-a dus sa se spele, dar din fluviu a sarit un peste si a vrut\
+      \ sa inghita pe tanar ."
+    textWithDiacritics: "Și tânărul s-a dus să se spele, dar din fluviu a sărit un\
+      \ pește și a vrut să înghită pe tânăr ."
+    chapter: null
+  - verseNumber: 3
+    text: "Atunci ingerul a zis catre el: :Prinde acest peste!\" Si tanarul a apucat\
+      \ pestele si l-a tarat pe uscat."
+    textWithDiacritics: "Atunci îngerul a zis către el: :Prinde acest pește!\" Și\
+      \ tânărul a apucat peștele și l-a târât pe uscat."
+    chapter: null
+  - verseNumber: 4
+    text: "Si i-a zis ingerul: \"Spinteca pestele si i-ai inima, ficatul si fierea,\
+      \ si pastreaza-le!\""
+    textWithDiacritics: "Și i-a zis îngerul: \"Spintecă peștele și i-ai inima, ficatul\
+      \ și fierea, și păstrează-le!\""
+    chapter: null
+  - verseNumber: 5
+    text: "Si a facut tanarul cum i-a zis ingerul, iar pestele l-au fript si l-au\
+      \ mancat."
+    textWithDiacritics: "Și a făcut tânărul cum i-a zis îngerul, iar peștele l-au\
+      \ fript și l-au mâncat."
+    chapter: null
+  - verseNumber: 6
+    text: "Si au plecat amandoi mai departe si au ajuns la Ecbatana."
+    textWithDiacritics: "Și au plecat amândoi mai departe și au ajuns la Ecbatana."
+    chapter: null
+  - verseNumber: 7
+    text: "Si a zis tanarul catre inger: \"Frate Azaria, pentru ce sunt bune ficatul,\
+      \ inima si fierea acestui peste?\""
+    textWithDiacritics: "Și a zis tânărul către înger: \"Frate Azaria, pentru ce sunt\
+      \ bune ficatul, inima și fierea acestui pește?\""
+    chapter: null
+  - verseNumber: 8
+    text: "Si acela i-a raspuns: \"De-l chinuie pe cineva un demon sau un duh rau,\
+      \ se afuma barbatul sau femeia aceea cu inima si ficatul si nu-l va mai munci."
+    textWithDiacritics: "Și acela i-a răspuns: \"De-l chinuie pe cineva un demon sau\
+      \ un duh rău, se afumă bărbatul sau femeia aceea cu inima și ficatul și nu-l\
+      \ va mai munci."
+    chapter: null
+  - verseNumber: 9
+    text: "Iar cu fierea se unge la ochi omul care are albeata, si se vindeca\"."
+    textWithDiacritics: "Iar cu fierea se unge la ochi omul care are albeață, și se\
+      \ vindecă\"."
+    chapter: null
+  - verseNumber: 10
+    text: "Iar daca s-au apropiat de Ecbatana,"
+    textWithDiacritics: "Iar dacă s-au apropiat de Ecbatana,"
+    chapter: null
+  - verseNumber: 11
+    text: "A zis ingerul catre tanar: \"Frate, acum avem sa poposim la Raguel, ruda\
+      \ ta, care are o fata cu numele Sara."
+    textWithDiacritics: "A zis îngerul către tânăr: \"Frate, acum avem să poposim\
+      \ la Raguel, ruda ta, care are o fată cu numele Sara."
+    chapter: null
+  - verseNumber: 12
+    text: "Am sa vorbesc de ea ca sa ti-o dea de femeie, ca tie ti-e dat s-o mostenesti,\
+      \ fiindca esti din neamul ei, iar fata este frumoasa si desteapta."
+    textWithDiacritics: "Am să vorbesc de ea ca să ți-o dea de femeie, că ție ți-e\
+      \ dat s-o moștenești, fiindcă ești din neamul ei, iar fata este frumoasă și\
+      \ deșteaptă."
+    chapter: null
+  - verseNumber: 13
+    text: "Deci, sa ma asculti pe mine, ca eu am sa graiesc cu tatal ei, si cand ne\
+      \ vom intoarce din Raghes vom face nunta. Eu cunosc pe Raguel. El n-are sa vrea\
+      \ s-o dea dupa barbat strain, impotriva legii lui Moise, fiindca s-ar face vinovat\
+      \ de moarte, caci mostenirea se cuvine s-o primesti tu, iar nu altul\"."
+    textWithDiacritics: "Deci, să mă asculți pe mine, că eu am să grăiesc cu tată\
+      l ei, și când ne vom întoarce din Ragheș vom face nunta. Eu cunosc pe Raguel.\
+      \ El n-are să vrea s-o dea după bărbat străin, împotriva legii lui Moise, fiindcă\
+      \ s-ar face vinovat de moarte, căci moștenirea se cuvine s-o primești tu, iar\
+      \ nu altul\"."
+    chapter: null
+  - verseNumber: 14
+    text: "Atunci tanarul a zis catre inger: \"Frate Azaria, eu am auzit ca aceasta\
+      \ fata a fost maritata cu sapte barbati si ca totiau pierit in camera de nunta.\
+      \ Eu insa sunt singur la tata si ma tem ca nu cumva intrand la ea sa mor ca\
+      \ si ceilalti. Pe ea o iubeste un demon care nu face rau nimanui, decat numai\
+      \ celor ce se apropie de ea."
+    textWithDiacritics: "Atunci tânărul a zis către înger: \"Frate Azaria, eu am auzit\
+      \ că această fată a fost măritată cu șapte bărbați și că toțiau pierit în camera\
+      \ de nuntă. Eu însă sunt singur la tata și mă tem ca nu cumva intrând la ea\
+      \ să mor ca și ceilalți. Pe ea o iubește un demon care nu face rău nimănui,\
+      \ decât numai celor ce se apropie de ea."
+    chapter: null
+  - verseNumber: 15
+    text: "Si de aceea ma tem ca nu cumva sa mor si sa cobor viata tatalui si a mamei\
+      \ mele in mormant prin intristarea dupa mine, caci ei n-au alt fiu care sa-i\
+      \ ingroape\"."
+    textWithDiacritics: "Și de aceea mă tem ca nu cumva să mor și să cobor viața tată\
+      lui și a mamei mele în mormânt prin întristarea după mine, căci ei n-au alt\
+      \ fiu care să-i îngroape\"."
+    chapter: null
+  - verseNumber: 16
+    text: "Si i-a zis ingerul: \"Oare ai uitat cuvintele pe care ti le-a spus tatal\
+      \ tau, ca sa-ti iei femeie din neamul tau? Asculta-ma deci pe mine, frate. Ea\
+      \ trebuie sa fie femeia ta, iar de demon nu te nelinisti! Chiar in noaptea aceasta\
+      \ au sa ti-o dea de femeie."
+    textWithDiacritics: "Și i-a zis îngerul: \"Oare ai uitat cuvintele pe care ți\
+      \ le-a spus tatăl tău, ca să-ti iei femeie din neamul tău? Ascultă-mă deci pe\
+      \ mine, frate. Ea trebuie să fie femeia ta, iar de demon nu te neliniști! Chiar\
+      \ în noaptea aceasta au să ți-o dea de femeie."
+    chapter: null
+  - verseNumber: 17
+    text: "Deci, cand vei intra in camera de nunta, sa iei catuia, sa pui in ea inima\
+      \ si ficatul pestelui si sa afumi; si demonul va simti mirosul si se va departa\
+      \ si nu se va mai intoarce niciodata,"
+    textWithDiacritics: "Deci, când vei intra în camera de nuntă, să iei cățuia, să\
+      \ pui în ea inima și ficatul peștelui și să afumi; și demonul va simți mirosul\
+      \ și se va depărta și nu se va mai întoarce niciodată,"
+    chapter: null
+  - verseNumber: 18
+    text: "Si cand va trebui sa te apropii de ea, ridicati-va amandoi si sa strigati\
+      \ catre milostivul Eylohim, si El va va mantui si va va milui. Nu te teme, caci\
+      \ ea este menita din veac pentru tine si tu o vei mantui, si ea va merge cu\
+      \ tine, si stiu ca vei avea de la ea copii\"."
+    textWithDiacritics: "Și când va trebui să te apropii de ea, ridicați-vă amândoi\
+      \ și să strigați către milostivul Eylohim, și El vă va mântui și vă va milui.\
+      \ Nu te teme, căci ea este menită din veac pentru tine și tu o vei mântui, ș\
+      i ea va merge cu tine, și știu că vei avea de la ea copii\"."
+    chapter: null
+  - verseNumber: 19
+    text: "Si ascultand Tobie acestea, a iubit-o si sufletul lui s-a lipit de ea foarte."
+    textWithDiacritics: "Și ascultând Tobie acestea, a iubit-o și sufletul lui s-a\
+      \ lipit de ea foarte."
+    chapter: null
+- number: 7
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Si sosind ei la Ecbatana, s-au dus la casa lui Raguel, iar Sara i-a intampinat\
+      \ si i-a salutat si au salutat-o si ei, si ea ia dus in casa."
+    textWithDiacritics: "Și sosind ei la Ecbatana, s-au dus la casa lui Raguel, iar\
+      \ Sara i-a întâmpinat și i-a salutat și au salutat-o și ei, și ea ia dus în\
+      \ casă."
+    chapter: null
+  - verseNumber: 2
+    text: "Si a zis Raguel catre Edna, femeia sa: \"Cat de bine seamana acest tanar,\
+      \ cu Tobit, fratele meu!\""
+    textWithDiacritics: "Și a zis Raguel către Edna, femeia sa: \"Cât de bine seamă\
+      nă acest tânăr, cu Tobit, fratele meu!\""
+    chapter: null
+  - verseNumber: 3
+    text: "Si i-a intrebat Raguel: \"De unde sunteti voi, fratilor?\" Iar ei au raspuns:\
+      \ \"Noi suntem fiii lui Neftali, care sunt robi la Ninive\"."
+    textWithDiacritics: "Și i-a întrebat Raguel: \"De unde sunteți voi, fraților?\"\
+      \ Iar ei au răspuns: \"Noi suntem fiii lui Neftali, care sunt robi la Ninive\"\
+      ."
+    chapter: null
+  - verseNumber: 4
+    text: "Si i-a mai intrebat Raguel: \"Cunoasteti voi pe fratele nostru, Tobit?\"\
+      \ Si ei au raspuns: \"Cunoastem\". Apoi el i-a intrebat: \"E sanatos?\""
+    textWithDiacritics: "Și i-a mai întrebat Raguel: \"Cunoașteți voi pe fratele nostru,\
+      \ Tobit?\" Și ei au răspuns: \"Cunoaștem\". Apoi el i-a întrebat: \"E sănătos?\""
+    chapter: null
+  - verseNumber: 5
+    text: "Si ei au raspuns: \"Este in viata, este sanatos\". Si Tobie a adaugat:\
+      \ \"El este tatal meu\"."
+    textWithDiacritics: "Și ei au răspuns: \"Este în viață, este sănătos\". Și Tobie\
+      \ a adăugat: \"El este tatăl meu\"."
+    chapter: null
+  - verseNumber: 6
+    text: "Atunci Raguel s-a aruncat la gatul lui si l-a sarutat si a plans."
+    textWithDiacritics: "Atunci Raguel s-a aruncat la gâtul lui și l-a sărutat și\
+      \ a plâns."
+    chapter: null
+  - verseNumber: 7
+    text: "Apoi a vorbit si a zis: \"Binecuvantat sa fii copilul meu! Tu esti fiul\
+      \ unui om foarte bun si cinstit\". Auzind insa ca Tobit a pierdut vederea, s-a\
+      \ intristat si a plans."
+    textWithDiacritics: "Apoi a vorbit și a zis: \"Binecuvântat să fii copilul meu!\
+      \ Tu ești fiul unui om foarte bun și cinstit\". Auzind însă că Tobit a pierdut\
+      \ vederea, s-a întristat și a plâns."
+    chapter: null
+  - verseNumber: 8
+    text: "Si a plans si Edna, femeia lui, si fata lui, Sara."
+    textWithDiacritics: "Și a plâns și Edna, femeia lui, și fata lui, Sara."
+    chapter: null
+  - verseNumber: 9
+    text: "Si asa i-a primit foarte bine, si au junghiat un berbec si le-au dat mancare\
+      \ din belsug."
+    textWithDiacritics: "Și așa i-a primit foarte bine, și au junghiat un berbec ș\
+      i le-au dat mâncare din belșug."
+    chapter: null
+  - verseNumber: 10
+    text: "Iar Tobie a zis catre Rafael: \"Frate Azaria, graieste de cele ce mi-ai\
+      \ spus pe cale si sa se tocmeasca si lucrul acesta\"."
+    textWithDiacritics: "Iar Tobie a zis către Rafael: \"Frate Azaria, grăiește de\
+      \ cele ce mi-ai spus pe cale și să se tocmească și lucrul acesta\"."
+    chapter: null
+  - verseNumber: 11
+    text: "Si el a spus vorba aceasta lui Raguel, si Raguel a zis catre Tobie: \"\
+      Mananca, bea si te veseleste, ca tie ti se cuvine sa iei pe fata mea! Dar am\
+      \ sa-ti spun adevarul. Eu am maritat pe fata mea cu sapte barbati si cand intrau\
+      \ la ea, mureau chiar in noaptea aceea. Dar tu fii vesel acum\". Si a zis Tobie:\
+      \ \"Nu voi manca nimic aici, pana cand nu va tocmiti si nu va invoiti cu mine!\"\
+      \ Iar Raguel a zis: \"Ia-o chiar acum caci ti se cade. Tu esti fratele ei si\
+      \ ea este sora ta! Milostivul Eylohim sa va faca parte de toate cele bune!\""
+    textWithDiacritics: "Și el a spus vorba aceasta lui Raguel, și Raguel a zis că\
+      tre Tobie: \"Mănâncă, bea și te veselește, că ție ți se cuvine să iei pe fata\
+      \ mea! Dar am să-ti spun adevărul. Eu am măritat pe fata mea cu șapte bărbaț\
+      i și când intrau la ea, mureau chiar în noaptea aceea. Dar tu fii vesel acum\"\
+      . Și a zis Tobie: \"Nu voi mânca nimic aici, până când nu vă tocmiți și nu vă\
+      \ învoiți cu mine!\" Iar Raguel a zis: \"Ia-o chiar acum căci ți se cade. Tu\
+      \ ești fratele ei și ea este sora ta! Milostivul Eylohim să vă facă parte de\
+      \ toate cele bune!\""
+    chapter: null
+  - verseNumber: 12
+    text: "Si a chemat pe Sara, fiica sa si, luand-o de mana, a dat-o lui Tobie de\
+      \ femeie si a zis:"
+    textWithDiacritics: "Și a chemat pe Sara, fiica sa și, luând-o de mână, a dat-o\
+      \ lui Tobie de femeie și a zis:"
+    chapter: null
+  - verseNumber: 13
+    text: "\"Iata, dupa legea lui Moise, ia-o si du-o la tatal tau!\" Si i-a binecuvantat."
+    textWithDiacritics: "\"Iată, după legea lui Moise, ia-o și du-o la tatăl tău!\"\
+      \ Și i-a binecuvântat."
+    chapter: null
+  - verseNumber: 14
+    text: "Si chemand pe Edna, femeia sa, si luand o hartie, a scris invoiala si a\
+      \ pecetluit-o; apoi au inceput a manca."
+    textWithDiacritics: "Și chemând pe Edna, femeia sa, și luând o hârtie, a scris\
+      \ învoiala și a pecetluit-o; apoi au început a mânca."
+    chapter: null
+  - verseNumber: 15
+    text: "Si a chemat Raguel pe Edna, femeia sa, si a zis: \"Pregateste, soro, cealalta\
+      \ camera de culcare si du-o acolo\"."
+    textWithDiacritics: "Și a chemat Raguel pe Edna, femeia sa, și a zis: \"Pregă\
+      tește, soro, cealaltă cameră de culcare și du-o acolo\"."
+    chapter: null
+  - verseNumber: 16
+    text: "Si facand cum a zis el, a dus-o acolo, si aceasta a plans, si impartasind\
+      \ si ea lacrimile fiicei satle, i-a zis:"
+    textWithDiacritics: "Și făcând cum a zis el, a dus-o acolo, și aceasta a plâns,\
+      \ și împărtășind și ea lacrimile fiicei sațle, i-a zis:"
+    chapter: null
+  - verseNumber: 17
+    text: "\"Indrazneste, fiica! YaHWeH al cerului si al pamantului iii va da bucurie\
+      \ in locul intristarii. Indrazneste, fiica!\""
+    textWithDiacritics: "\"Îndrăznește, fiică! YaHWeH al cerului și al pământului\
+      \ îii va da bucurie în locul întristării. Îndrăznește, fiică!\""
+    chapter: null
+- number: 8
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Si dupa ce au sfarsit cina, au condus pe Tobie la Sara, in camera."
+    textWithDiacritics: "Și după ce au sfârșit cina, au condus pe Tobie la Sara, î\
+      n cameră."
+    chapter: null
+  - verseNumber: 2
+    text: "Iar acesta, mergand, si-a adus aminte de cuvintele lui Rafael si a luat\
+      \ catuia si a pus inima si ficatul pestelui si a afumat."
+    textWithDiacritics: "Iar acesta, mergând, și-a adus aminte de cuvintele lui Rafael\
+      \ și a luat cățuia și a pus inima și ficatul peștelui și a afumat."
+    chapter: null
+  - verseNumber: 3
+    text: "Si simtind demonul mirosul acesta, a fugit in partile de sus ale Egiptului,\
+      \ si ingerul l-a legat."
+    textWithDiacritics: "Și simțind demonul mirosul acesta, a fugit în părțile de\
+      \ sus ale Egiptului, și îngerul l-a legat."
+    chapter: null
+  - verseNumber: 4
+    text: "Iar cand au ramas numai amandoi in camera, Tobie s-a sculat din pat si\
+      \ a zis: \"Scoala, soro, sa ne rugam ca sa ne miluiasca YaHWeH!\""
+    textWithDiacritics: "Iar când au rămas numai amândoi în cameră, Tobie s-a sculat\
+      \ din pat și a zis: \"Scoală, soro, să ne rugăm ca să ne miluiască YaHWeH!\""
+    chapter: null
+  - verseNumber: 5
+    text: "Si a inceput Tobie a zice: \"Binecuvantat esti Tu, Eylohim al parintilor\
+      \ nostri, si binecuvantat este numele Tau cel sfant si slavit intru toti vecii!\
+      \ Sa Te binecuvanteze pe Tine cerurile si toate fapturile Tale!"
+    textWithDiacritics: "Și a început Tobie a zice: \"Binecuvântat ești Tu, Eylohim\
+      \ al părinților noștri, și binecuvântat este numele Tău cel sfânt și slăvit\
+      \ întru toți vecii! Să Te binecuvânteze pe Tine cerurile și toate făpturile\
+      \ Tale!"
+    chapter: null
+  - verseNumber: 6
+    text: "Tu ai facut pe Adam si Tu ai facut pe Eva, femeia lui, pentru a-i fi ajutor\
+      \ si sprijin, si din ei s-a nascut neamul omenesc. Tu ai zis: \"Nu este bine\
+      \ sa fie omul singur; sa-i facem un ajutor asemenea lui\"."
+    textWithDiacritics: "Tu ai făcut pe Adam și Tu ai făcut pe Eva, femeia lui, pentru\
+      \ a-i fi ajutor și sprijin, și din ei s-a născut neamul omenesc. Tu ai zis:\
+      \ \"Nu este bine să fie omul singur; să-i facem un ajutor asemenea lui\"."
+    chapter: null
+  - verseNumber: 7
+    text: "Si acum, YaHWeH, nu placerea o caut, luand pe sora mea, ci o fac cu inima\
+      \ curata. Binevoieste deci a avea mila de ea si de mine si a ne duce impreuna\
+      \ pana la batranete!\""
+    textWithDiacritics: "Și acum, YaHWeH, nu plăcerea o caut, luând pe sora mea, ci\
+      \ o fac cu inimă curată. Binevoiește deci a avea milă de ea și de mine și a\
+      \ ne duce împreună până la bătrânețe!\""
+    chapter: null
+  - verseNumber: 8
+    text: "si a zis si ea cu el: \"Amin!\""
+    textWithDiacritics: "și a zis și ea cu el: \"Amin!\""
+    chapter: null
+  - verseNumber: 9
+    text: "Apoi au dormit amandoi linistiti in noaptea aceea."
+    textWithDiacritics: "Apoi au dormit amândoi liniștiți în noaptea aceea."
+    chapter: null
+  - verseNumber: 10
+    text: "Iar Raguel, sculandu-se, s-a dus si a sapat o groapa, zicand: \"Nu cumva\
+      \ va muri si acesta?\""
+    textWithDiacritics: "Iar Raguel, sculându-se, s-a dus și a săpat o groapă, zicâ\
+      nd: \"Nu cumva va muri și acesta?\""
+    chapter: null
+  - verseNumber: 11
+    text: "Si, venind in casa, Raguel a zis catre Edna, femeia sa:"
+    textWithDiacritics: "Și, venind în casă, Raguel a zis către Edna, femeia sa:"
+    chapter: null
+  - verseNumber: 12
+    text: "\"Trimite pe una din slujnice sa vada de este viu; iar de nu, sa-l ingropam\
+      \ fara sa stie nimeni\"."
+    textWithDiacritics: "\"Trimite pe una din slujnice să vadă de este viu; iar de\
+      \ nu, să-l îngropăm fără să știe nimeni\"."
+    chapter: null
+  - verseNumber: 13
+    text: "Si, deschizand slujnica usa, a intrat si a vazut ca dorm amandoi."
+    textWithDiacritics: "Și, deschizând slujnica ușa, a intrat și a văzut că dorm\
+      \ amândoi."
+    chapter: null
+  - verseNumber: 14
+    text: "Si iesind, le-a spus ca este viu."
+    textWithDiacritics: "Și ieșind, le-a spus că este viu."
+    chapter: null
+  - verseNumber: 15
+    text: "Si a binecuvantat Raguel pe Eylohim si a zis: \"Binecuvantat esti Tu, Eylohim,\
+      \ cu tot felul de binecuvantare curata si sfanta! Sa Te binecuvanteze pe Tine\
+      \ dreptii Tai si toate fapturile Tale si toti ingerii Tai, si toti alesii Tai\
+      \ sa Te binecuvanteze in veci!"
+    textWithDiacritics: "Și a binecuvântat Raguel pe Eylohim și a zis: \"Binecuvâ\
+      ntat ești Tu, Eylohim, cu tot felul de binecuvântare curată și sfântă! Să Te\
+      \ binecuvânteze pe Tine drepții Tăi și toate făpturile Tale și toți îngerii\
+      \ Tăi, și toți aleșii Tăi să Te binecuvânteze în veci!"
+    chapter: null
+  - verseNumber: 16
+    text: "Binecuvantat esti Tu ca m-ai bucurat si nu mi s-a intamplat cum socoteam,\
+      \ ci ai facut cu noi dupa mila Ta cea mare!"
+    textWithDiacritics: "Binecuvântat ești Tu că m-ai bucurat și nu mi s-a întâmplat\
+      \ cum socoteam, ci ai făcut cu noi după mila Ta cea mare!"
+    chapter: null
+  - verseNumber: 17
+    text: "Binecuvantat esti Tu, ca ai miluit pe doi copii, singuri la parintii lor!\
+      \ Miluieste-i pe ei, Stapane, si da-le sa-si termine viata cu sanatate, cu veselie\
+      \ si cu mila!\""
+    textWithDiacritics: "Binecuvântat ești Tu, că ai miluit pe doi copii, singuri\
+      \ la părinții lor! Miluiește-i pe ei, Stăpâne, și dă-le să-și termine viața\
+      \ cu sănătate, cu veselie și cu milă!\""
+    chapter: null
+  - verseNumber: 18
+    text: "Apoi a poruncit robilor sai sa astupe groapa."
+    textWithDiacritics: "Apoi a poruncit robilor săi să astupe groapa."
+    chapter: null
+  - verseNumber: 19
+    text: "Si le-a facut ospat de nunta, paisprezece zile."
+    textWithDiacritics: "Și le-a făcut ospăț de nuntă, paisprezece zile."
+    chapter: null
+  - verseNumber: 20
+    text: "Si a zis Raguel catre el cu juramant, inainte de a se ispravi zilele ospatului\
+      \ de nunta: \"Nu pleca pana nu se implinesc aceste paisprezece zile ale nuntii."
+    textWithDiacritics: "Și a zis Raguel către el cu jurământ, înainte de a se ispră\
+      vi zilele ospățului de nuntă: \"Nu pleca până nu se împlinesc aceste paisprezece\
+      \ zile ale nunții."
+    chapter: null
+  - verseNumber: 21
+    text: "Si atunci, luand jumatate din avere, mergi cu sanatate la tatal tau, iar\
+      \ cealalta jumatate o vei primi cand voi muri eu si femeia mea\"."
+    textWithDiacritics: "Și atunci, luând jumătate din avere, mergi cu sănătate la\
+      \ tatăl tău, iar cealaltă jumătate o vei primi când voi muri eu și femeia mea\"\
+      ."
+    chapter: null
+- number: 9
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Si a chemat Tobie pe Rafael si a zis catre el:"
+    textWithDiacritics: "Și a chemat Tobie pe Rafael și a zis către el:"
+    chapter: null
+  - verseNumber: 2
+    text: "\"Frate Azaria, ia cu tine un rob si doua camile si te coboara la Gabael\
+      \ in Raghesul Mediei, si adu-mi argintul si adu-l si pe el aici la nunta,"
+    textWithDiacritics: "\"Frate Azaria, ia cu tine un rob și două cămile și te coboară\
+      \ la Gabael în Ragheșul Mediei, și adu-mi argintul și adu-l și pe el aici la\
+      \ nuntă,"
+    chapter: null
+  - verseNumber: 3
+    text: "Caci Raguel m-a legat cu juramant ca sa nu plec."
+    textWithDiacritics: "Căci Raguel m-a legat cu jurământ ca să nu plec."
+    chapter: null
+  - verseNumber: 4
+    text: "Iar tatal meu numara zilele; si de voi intarzia mult, va fi foarte mahnit\"\
+      ."
+    textWithDiacritics: "Iar tatăl meu numără zilele; și de voi întârzia mult, va\
+      \ fi foarte mâhnit\"."
+    chapter: null
+  - verseNumber: 5
+    text: "Si s-a dus Rafael si a fost gazduit la Gabael, si i-a dat inscrisul; el\
+      \ a adus pungile pecetluite si le-a dat."
+    textWithDiacritics: "Și s-a dus Rafael și a fost găzduit la Gabael, și i-a dat\
+      \ înscrisul; el a adus pungile pecetluite și le-a dat."
+    chapter: null
+  - verseNumber: 6
+    text: "Si a doua zi, dis-de-dimineata, s-au sculat si au venit impreuna la nunta.\
+      \ Si Gabael a binecuvantat pe Tobie si pe femeia sa."
+    textWithDiacritics: "Și a doua zi, dis-de-dimineață, s-au sculat și au venit î\
+      mpreună la nuntă. Și Gabael a binecuvântat pe Tobie și pe femeia sa."
+    chapter: null
+- number: 10
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Iar Tobit, tatal sau, a numarat fiecare zi; si cand s-au implinit zilele\
+      \ socotite pentru calatorie, si Tobie nu venise,"
+    textWithDiacritics: "Iar Tobit, tatăl său, a numărat fiecare zi; și când s-au\
+      \ împlinit zilele socotite pentru călătorie, și Tobie nu venise,"
+    chapter: null
+  - verseNumber: 2
+    text: "El a zis: \"Nu cumva au fost opriti acolo? Sau poate a murit Gabael si\
+      \ n-are cine sa le dea argintul?\""
+    textWithDiacritics: "El a zis: \"Nu cumva au fost opriți acolo? Sau poate a murit\
+      \ Gabael și n-are cine să le dea argintul?\""
+    chapter: null
+  - verseNumber: 3
+    text: "si s-a intristat foarte tare."
+    textWithDiacritics: "și s-a întristat foarte tare."
+    chapter: null
+  - verseNumber: 4
+    text: "Si i-a zis lui femeia: \"A pierit fiul nostru, de aceea intarzie!\" Si\
+      \ a inceput sa-l planga si a zis:"
+    textWithDiacritics: "Și i-a zis lui femeia: \"A pierit fiul nostru, de aceea î\
+      ntârzie!\" Și a început să-l plângă și a zis:"
+    chapter: null
+  - verseNumber: 5
+    text: "\"Cat de rau imi pare ca te-am lasat sa pleci, fiul meu, lumina ochilor\
+      \ mei!\""
+    textWithDiacritics: "\"Cât de rău îmi pare că te-am lăsat să pleci, fiul meu,\
+      \ lumina ochilor mei!\""
+    chapter: null
+  - verseNumber: 6
+    text: "Iar Tobit i-a zis: \"Taci, nu te mai tulbura, caci el este sanatos\"."
+    textWithDiacritics: "Iar Tobit i-a zis: \"Taci, nu te mai tulbura, căci el este\
+      \ sănătos\"."
+    chapter: null
+  - verseNumber: 7
+    text: "Ea insa i-a raspuns: \"Ba taci tu, si nu ma mai amagi! Copilasul meu a\
+      \ pierit!\" Si iesea ea in fiecare zi afara din cetate pe drumul pe care plecase\
+      \ el. Ziua nu manca paine, si noaptea nu inceta a plange pe fiul sau, Tobie,\
+      \ pana cand s-au implinit cele paisprezece zile ale nuntii, pe care Raguel il\
+      \ jurase sa le petreaca acolo."
+    textWithDiacritics: "Ea însă i-a răspuns: \"Ba taci tu, și nu mă mai amăgi! Copilaș\
+      ul meu a pierit!\" Și ieșea ea în fiecare zi afară din cetate pe drumul pe care\
+      \ plecase el. Ziua nu mânca pâine, și noaptea nu înceta a plânge pe fiul să\
+      u, Tobie, până când s-au împlinit cele paisprezece zile ale nunții, pe care\
+      \ Raguel îl jurase să le petreacă acolo."
+    chapter: null
+  - verseNumber: 8
+    text: "Atunci Tobie a zis catre Raguel: \"Da-mi drumul, ca tatal si mama mea nu\
+      \ nadajduiesc sa ma mai vada\"."
+    textWithDiacritics: "Atunci Tobie a zis către Raguel: \"Dă-mi drumul, că tată\
+      l și mama mea nu nădăjduiesc să mă mai vadă\"."
+    chapter: null
+  - verseNumber: 9
+    text: "Iar socrul i-a zis: \"Ramai la mine, si eu voi trimite la tatal tau si\
+      \ i se va duce stirea despre tine\"."
+    textWithDiacritics: "Iar socrul i-a zis: \"Rămâi la mine, și eu voi trimite la\
+      \ tatăl tău și i se va duce știrea despre tine\"."
+    chapter: null
+  - verseNumber: 10
+    text: "Si Tobie a zis: \"Ba nu, lasa-ma sa ma duc la tatal meu!\""
+    textWithDiacritics: "Și Tobie a zis: \"Ba nu, lasă-mă să mă duc la tatăl meu!\""
+    chapter: null
+  - verseNumber: 11
+    text: "Atunci s-a sculat Raguel si i-a dat pe Sara, femeia lui, si jumatate din\
+      \ avere, robi si vite si argint,"
+    textWithDiacritics: "Atunci s-a sculat Raguel și i-a dat pe Sara, femeia lui,\
+      \ și jumătate din avere, robi și vite și argint,"
+    chapter: null
+  - verseNumber: 12
+    text: "Si, lasandu-i sa plece multumiti, i-a binecuvantat, zicand lui Tobie: \"\
+      Sanatate buna, copilul meu, si calatorie buna! YaHWeH al cerului sa va fie in\
+      \ ajutor, tie si femeii tale, Sara! Nadajduiesc sa vad pe copiii vostri inainte\
+      \ de a muri\". Apoi a zis catre Sara, fiica sa: \"Sa cinstesti pe socrul si\
+      \ pe soacra ta! De acum, ei iti sunt parinti! Doresc sa aud veste buna de tine!\"\
+      \ Si a sarutat-o."
+    textWithDiacritics: "Și, lăsându-i să plece mulțumiți, i-a binecuvântat, zicâ\
+      nd lui Tobie: \"Sănătate bună, copilul meu, și călătorie bună! YaHWeH al cerului\
+      \ să vă fie în ajutor, ție și femeii tale, Sara! Nădăjduiesc să văd pe copiii\
+      \ voștri înainte de a muri\". Apoi a zis către Sara, fiica sa: \"Să cinsteș\
+      ti pe socrul și pe soacra ta! De acum, ei îți sunt părinți! Doresc să aud veste\
+      \ bună de tine!\" Și a sărutat-o."
+    chapter: null
+  - verseNumber: 13
+    text: "Si Edna a zis catre Tobie: \"Iubite frate, sa te inalte YaHWeH al cerului\
+      \ si sa-mi daruiasca sa-ti vad copii de la Sara, fiica mea, ca sa ma bucur inaintea\
+      \ lui YaHWeH. Iata, iti dau pe fiica mea in grija; sa n-o amarasti\"."
+    textWithDiacritics: "Și Edna a zis către Tobie: \"Iubite frate, să te înalțe YaHWeH\
+      \ al cerului și să-mi dăruiască să-ți văd copii de la Sara, fiica mea, ca să\
+      \ mă bucur înaintea lui YaHWeH. Iată, îți dau pe fiica mea în grijă; să n-o\
+      \ amărăști\"."
+    chapter: null
+  - verseNumber: 14
+    text: "Dupa aceea Tobie a plecat, binecuvantand pe Eylohim, pentru ca i-a indreptat\
+      \ calea, si a binecuvantat si pe Raguel si pe Edna, femeia lui."
+    textWithDiacritics: "După aceea Tobie a plecat, binecuvântând pe Eylohim, pentru\
+      \ că i-a îndreptat calea, și a binecuvântat și pe Raguel și pe Edna, femeia\
+      \ lui."
+    chapter: null
+- number: 11
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Si au mers ei pana s-au apropiat de Caserin in fata Ninivei."
+    textWithDiacritics: "Și au mers ei până s-au apropiat de Caserin în fața Ninivei."
+    chapter: null
+  - verseNumber: 2
+    text: "Si a zis Rafael catre Tobie: \"Tu, frate, nu stii cum ai lasat pe tatal\
+      \ tau?"
+    textWithDiacritics: "Și a zis Rafael către Tobie: \"Tu, frate, nu știi cum ai\
+      \ lăsat pe tatăl tău?"
+    chapter: null
+  - verseNumber: 3
+    text: "Sa mergem acasa inaintea femeii tale si sa pregatim locuinta."
+    textWithDiacritics: "Să mergem acasă înaintea femeii tale și să pregătim locuinț\
+      a."
+    chapter: null
+  - verseNumber: 4
+    text: "Ia cu tine fierea pestelui\". Si au mers ei si dupa ei venea cainele."
+    textWithDiacritics: "Ia cu tine fierea peștelui\". Și au mers ei și după ei venea\
+      \ câinele."
+    chapter: null
+  - verseNumber: 5
+    text: "In vremea aceea Ana sedea si se uita pe drum ca sa vada pe fiul sau."
+    textWithDiacritics: "În vremea aceea Ana ședea și se uita pe drum ca să vadă pe\
+      \ fiul său."
+    chapter: null
+  - verseNumber: 6
+    text: "Si zarindu-l ca vine, a zis catre tatal lui: \"Iata, vine fiul tau cu tovarasul\
+      \ sau de drum\"."
+    textWithDiacritics: "Și zărindu-l că vine, a zis către tatăl lui: \"Iată, vine\
+      \ fiul tău cu tovarășul său de drum\"."
+    chapter: null
+  - verseNumber: 7
+    text: "Si Rafael a zis: \"Tobie, stiu ca se vor deschide ochii tatalui tau, ca\
+      \ sa vada."
+    textWithDiacritics: "Și Rafael a zis: \"Tobie, știu că se vor deschide ochii tată\
+      lui tău, ca să vadă."
+    chapter: null
+  - verseNumber: 8
+    text: "Sa ungi ochii lui cu fiere si el va simti usturime, ii va freca si va cadea\
+      \ albeata si te va vedea\"."
+    textWithDiacritics: "Să ungi ochii lui cu fiere și el va simți usturime, îi va\
+      \ freca și va cădea albeața și te va vedea\"."
+    chapter: null
+  - verseNumber: 9
+    text: "Si, alergand, Ana s-a aruncat de gatul fiului sau si i-a zis: \"Bine ca\
+      \ te-am vazut, copilul meu! De acum pot sa mor!\" Si au plans amandoi."
+    textWithDiacritics: "Și, alergând, Ana s-a aruncat de gâtul fiului său și i-a\
+      \ zis: \"Bine că te-am văzut, copilul meu! De acum pot să mor!\" Și au plâns\
+      \ amândoi."
+    chapter: null
+  - verseNumber: 10
+    text: "Atunci Tobit a iesit in usa si s-a impiedicat. Fiul sau a alergat inaintea\
+      \ lui,"
+    textWithDiacritics: "Atunci Tobit a ieșit în ușă și s-a împiedicat. Fiul său a\
+      \ alergat înaintea lui,"
+    chapter: null
+  - verseNumber: 11
+    text: "A sprijinit pe tatal sau si i-a uns ochii cu fiere, zicand: \"Ai incredere,\
+      \ tata!\" si l-a lasat catva timp."
+    textWithDiacritics: "A sprijinit pe tatăl său și i-a uns ochii cu fiere, zicâ\
+      nd: \"Ai încredere, tată!\" și l-a lăsat câtva timp."
+    chapter: null
+  - verseNumber: 12
+    text: "Si au inceput sa-l usture ochii si el i-a sters si s-a desprins albeata\
+      \ de pe marginea ochilor lui."
+    textWithDiacritics: "Și au început să-l usture ochii și el i-a șters și s-a desprins\
+      \ albeața de pe marginea ochilor lui."
+    chapter: null
+  - verseNumber: 13
+    text: "Si vazand pe fiul sau a cazut pe grumazul lui"
+    textWithDiacritics: "Și văzând pe fiul său a căzut pe grumazul lui"
+    chapter: null
+  - verseNumber: 14
+    text: "Si a plans si a strigat: \"Te vad fiul meu, lumina ochilor mei!\" Si a\
+      \ zis: Binecuvantat esti Tu, Eylohim, si binecuvantat este numele Tau in veci,\
+      \ si binecuvantati sunt toti sfintii Tai ingeri,"
+    textWithDiacritics: "Și a plâns și a strigat: \"Te văd fiul meu, lumina ochilor\
+      \ mei!\" Și a zis: Binecuvântat ești Tu, Eylohim, și binecuvântat este numele\
+      \ Tău în veci, și binecuvântați sunt toți sfinții Tăi îngeri,"
+    chapter: null
+  - verseNumber: 15
+    text: "Pentru ca m-ai pedepsit si m-ai miluit. Iata, acum eu vad pe Tobie, fiul\
+      \ meu!\" Si a intrat fiul sau cu bucurie si a povestit tatalui sau despre lucrurile\
+      \ minunate ce s-au petrecut cu el in Media."
+    textWithDiacritics: "Pentru că m-ai pedepsit și m-ai miluit. Iată, acum eu vă\
+      d pe Tobie, fiul meu!\" Și a intrat fiul său cu bucurie și a povestit tatălui\
+      \ său despre lucrurile minunate ce s-au petrecut cu el în Media."
+    chapter: null
+  - verseNumber: 16
+    text: "Si a iesit Tobit intru intampinarea nurorii sale, catre poarta Ninivei,\
+      \ bucurandu-se si binecuvantand pe Eylohim. Iar cei ce-l vedeau umbland se mirau\
+      \ cum de vede. Si Tobit marturisea inaintea lor ca Eylohim l-a miluit."
+    textWithDiacritics: "Și a ieșit Tobit întru întâmpinarea nurorii sale, către poarta\
+      \ Ninivei, bucurându-se și binecuvântând pe Eylohim. Iar cei ce-l vedeau umblâ\
+      nd se mirau cum de vede. Și Tobit mărturisea înaintea lor că Eylohim l-a miluit."
+    chapter: null
+  - verseNumber: 17
+    text: "Si daca s-a apropiat Tobit de Sara, nora sa, a binecuvantat-o si a zis:\
+      \ \"Bine ai venit, fiica! Binecuvantat este Eylohim, Cel care te-a adus la noi!\
+      \ Binecuvantati sa fie tatal tau si mama ta! Binecuvantat sa fie fiul meu Tobie\
+      \ si binecuvantata sa fii tu, fiica mea! Binevenita sa fii in casa ta, in bucurie\
+      \ si binecuvantare! Intra, fiica mea!\""
+    textWithDiacritics: "Și dacă s-a apropiat Tobit de Sara, nora sa, a binecuvântat-o\
+      \ și a zis: \"Bine ai venit, fiică! Binecuvântat este Eylohim, Cel care te-a\
+      \ adus la noi! Binecuvântați să fie tatăl tău și mama ta! Binecuvântat să fie\
+      \ fiul meu Tobie și binecuvântată să fii tu, fiica mea! Binevenită să fii î\
+      n casa ta, în bucurie și binecuvântare! Intră, fiica mea!\""
+    chapter: null
+  - verseNumber: 18
+    text: "Si s-au bucurat in ziua aceea toti fratii lui din Ninive."
+    textWithDiacritics: "Și s-au bucurat în ziua aceea toți frații lui din Ninive."
+    chapter: null
+  - verseNumber: 19
+    text: "Si a venit Ahiacar si Nadab, rudele lui, si au praznuit cu veselie nunta\
+      \ lui Tobie sapte zile."
+    textWithDiacritics: "Și a venit Ahiacar și Nadab, rudele lui, și au prăznuit cu\
+      \ veselie nunta lui Tobie șapte zile."
+    chapter: null
+- number: 12
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Si chemand Tobit pe fiul sau, Tobie, i-a zis: \"Fiule, pregateste plata\
+      \ omului care a fost cu tine! Trebuie sa-i mai adaugam ceva\"."
+    textWithDiacritics: "Și chemând Tobit pe fiul său, Tobie, i-a zis: \"Fiule, pregă\
+      tește plata omului care a fost cu tine! Trebuie să-i mai adăugăm ceva\"."
+    chapter: null
+  - verseNumber: 2
+    text: "Si el a raspuns: \"Tata, socot ca n-am sa fiu in paguba de ii voi da jumatate\
+      \ din cele ce am adus;"
+    textWithDiacritics: "Și el a răspuns: \"Tată, socot că n-am să fiu în pagubă de\
+      \ îi voi da jumătate din cele ce am adus;"
+    chapter: null
+  - verseNumber: 3
+    text: "Pentru ca el m-a adus la tine sanatos si pe femeia mea a lecuit-o; mi-a\
+      \ adus argintul si te-a vindecat si pe tine!\""
+    textWithDiacritics: "Pentru că el m-a adus la tine sănătos și pe femeia mea a\
+      \ lecuit-o; mi-a adus argintul și te-a vindecat și pe tine!\""
+    chapter: null
+  - verseNumber: 4
+    text: "Si a zis batranul: \"I se cuvine!\""
+    textWithDiacritics: "Și a zis bătrânul: \"I se cuvine!\""
+    chapter: null
+  - verseNumber: 5
+    text: "Si a chemat pe inger si i-a zis: \"Ia jumatate din toate cele ce ati adus,\
+      \ si mergi in pace!\""
+    textWithDiacritics: "Și a chemat pe înger și i-a zis: \"Ia jumătate din toate\
+      \ cele ce ați adus, și mergi în pace!\""
+    chapter: null
+  - verseNumber: 6
+    text: "Atunci ingerul i-a chemat pe amandoi deoparte si le-a zis: \"Binecuvantati\
+      \ pe Eylohim, slaviti-L si cunoasteti slava Lui si marturisiti inaintea tuturor\
+      \ celor vii ce a facut El pentru voi! Bun lucru este a binecuvanta pe Eylohim,\
+      \ a preainalta numele Lui si a vesti, slavind faptele lui Eylohim! Si voi sa\
+      \ nu va leneviti a-L preaslavi."
+    textWithDiacritics: "Atunci îngerul i-a chemat pe amândoi deoparte și le-a zis:\
+      \ \"Binecuvântați pe Eylohim, slăviți-L și cunoașteți slava Lui și mărturisiț\
+      i înaintea tuturor celor vii ce a făcut El pentru voi! Bun lucru este a binecuvâ\
+      nta pe Eylohim, a preaînălța numele Lui și a vesti, slăvind faptele lui Eylohim!\
+      \ Și voi să nu vă leneviți a-L preaslăvi."
+    chapter: null
+  - verseNumber: 7
+    text: "Taina regelui se cuvine s-o pastrezi, iar lucrurile lui Eylohim este de\
+      \ lauda sa le vestesti. Faceti bine si raul nu va va ajunge!"
+    textWithDiacritics: "Taina regelui se cuvine s-o păstrezi, iar lucrurile lui Eylohim\
+      \ este de laudă să le vestești. Faceți bine și răul nu vă va ajunge!"
+    chapter: null
+  - verseNumber: 8
+    text: "Mai mult pretuieste rugaciunea cu post si cu milostenie si cu dreptate,\
+      \ decat bogatie cu nedreptate; mai bine sa faci milostenie, decat sa aduni aur,"
+    textWithDiacritics: "Mai mult prețuiește rugăciunea cu post și cu milostenie ș\
+      i cu dreptate, decât bogăție cu nedreptate; mai bine să faci milostenie, decâ\
+      t să aduni aur,"
+    chapter: null
+  - verseNumber: 9
+    text: "Caci milostenia izbaveste de la moarte si curata orice pacat. Cei ce fac\
+      \ milostenie si dreptate vor trai mult."
+    textWithDiacritics: "Căci milostenia izbăvește de la moarte și curăță orice pă\
+      cat. Cei ce fac milostenie și dreptate vor trăi mult."
+    chapter: null
+  - verseNumber: 10
+    text: "Iar pacatosii sunt dusmanii vietii lor."
+    textWithDiacritics: "Iar păcătoșii sunt dușmanii vieții lor."
+    chapter: null
+  - verseNumber: 11
+    text: "Nimic n-am sa ascund de voi si v-am si spus: \"Taina regelui se cuvine\
+      \ s-o pastrezi, iar lucrurile lui Eylohim este de lauda sa le vestesti\"."
+    textWithDiacritics: "Nimic n-am să ascund de voi și v-am și spus: \"Taina regelui\
+      \ se cuvine s-o păstrezi, iar lucrurile lui Eylohim este de laudă să le vesteș\
+      ti\"."
+    chapter: null
+  - verseNumber: 12
+    text: "Cand te rugai tu si nora ta Sara, eu duceam pomenirea rugaciunii voastre\
+      \ inaintea Celui Sfant si cand ingropai tu pe cei morti, inca eram cu tine."
+    textWithDiacritics: "Când te rugai tu și nora ta Sara, eu duceam pomenirea rugă\
+      ciunii voastre înaintea Celui Sfânt și când îngropai tu pe cei morți, încă eram\
+      \ cu tine."
+    chapter: null
+  - verseNumber: 13
+    text: "si cand tu nu te-ai lenevit sa te scoli si sa-ti lasi pranzul tau ca sa\
+      \ te duci sa ridici pe cel mort, binefacerea ta nu s-a ascuns de mine, ci eu\
+      \ eram cu tine."
+    textWithDiacritics: "și când tu nu te-ai lenevit să te scoli și să-ți lași prâ\
+      nzul tău ca să te duci să ridici pe cel mort, binefacerea ta nu s-a ascuns de\
+      \ mine, ci eu eram cu tine."
+    chapter: null
+  - verseNumber: 14
+    text: "Si acum Eylohim m-a trimis, sa te vindec pe tine si pe nora ta, Sara."
+    textWithDiacritics: "Și acum Eylohim m-a trimis, să te vindec pe tine și pe nora\
+      \ ta, Sara."
+    chapter: null
+  - verseNumber: 15
+    text: "Eu sunt Rafael, unul din cei sapte sfinti ingeri, care ridica rugaciunile\
+      \ sfintilor si le inalta inaintea slavei Celui Sfant\"."
+    textWithDiacritics: "Eu sunt Rafael, unul din cei șapte sfinți îngeri, care ridică\
+      \ rugăciunile sfinților și le înalță înaintea slavei Celui Sfânt\"."
+    chapter: null
+  - verseNumber: 16
+    text: "Atunci s-au inspaimantat amandoi si au cazut cu fata la pamant, caci erau\
+      \ cuprinsi de frica."
+    textWithDiacritics: "Atunci s-au înspăimântat amândoi și au căzut cu fața la pă\
+      mânt, căci erau cuprinși de frică."
+    chapter: null
+  - verseNumber: 17
+    text: "Dar el le-a zis: \"Nu va temeti! Pace veti avea! Binecuvantati pe Eylohim\
+      \ in veac!"
+    textWithDiacritics: "Dar el le-a zis: \"Nu vă temeți! Pace veți avea! Binecuvâ\
+      ntați pe Eylohim în veac!"
+    chapter: null
+  - verseNumber: 18
+    text: "Caci eu n-am venit de voia mea, ci dupa voia lui Eylohim al nostru, de\
+      \ aceea sa-L si binecuvantati in veac."
+    textWithDiacritics: "Căci eu n-am venit de voia mea, ci după voia lui Eylohim\
+      \ al nostru, de aceea să-L și binecuvântați în veac."
+    chapter: null
+  - verseNumber: 19
+    text: "In toate zilele am fost vazut de voi, dar eu n-am mancat nici n-am baut,\
+      \ ci numai ochilor vostri s-a parut aceasta."
+    textWithDiacritics: "În toate zilele am fost văzut de voi, dar eu n-am mâncat\
+      \ nici n-am băut, ci numai ochilor voștri s-a părut aceasta."
+    chapter: null
+  - verseNumber: 20
+    text: "Asadar, preaslaviti acum pe Eylohim, caci eu ma inalt la Cel Care m-a trimis,\
+      \ si scrieti intr-o carte toate cele ce sau savarsit\"."
+    textWithDiacritics: "Așadar, preaslăviți acum pe Eylohim, căci eu mă înalț la\
+      \ Cel Care m-a trimis, și scrieți într-o carte toate cele ce sau săvârșit\"."
+    chapter: null
+  - verseNumber: 21
+    text: "Si sculandu-se ei nu l-au mai vazut."
+    textWithDiacritics: "Și sculându-se ei nu l-au mai văzut."
+    chapter: null
+  - verseNumber: 22
+    text: "Si au inceput sa istoriseasca lucrurile cele mari si minunate ale lui Eylohim\
+      \ si cum li s-a aratat ingerul lui YaHWeH."
+    textWithDiacritics: "Și au început să istorisească lucrurile cele mari și minunate\
+      \ ale lui Eylohim și cum li s-a arătat îngerul lui YaHWeH."
+    chapter: null
+- number: 13
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Atunci Tobit a scris cu bucurie rugaciunea aceasta si a zis: \"Binecuvantat\
+      \ este Eylohim cel vesnic viu si binecuvantata este Imparatia Lui."
+    textWithDiacritics: "Atunci Tobit a scris cu bucurie rugăciunea aceasta și a zis:\
+      \ \"Binecuvântat este Eylohim cel veșnic viu și binecuvântată este Împărăția\
+      \ Lui."
+    chapter: null
+  - verseNumber: 2
+    text: "Caci El pedepseste si miluieste, coboara pana la locuinta mortilor si iarasi\
+      \ inalta, si nu este nimeni care ar scapa din mana Lui!"
+    textWithDiacritics: "Căci El pedepsește și miluiește, coboară până la locuinț\
+      a morților și iarăși înalță, și nu este nimeni care ar scăpa din mâna Lui!"
+    chapter: null
+  - verseNumber: 3
+    text: "Fiii lui Israel, preaslaviti-L in fata neamurilor caci El ne-a risipit\
+      \ printre ele."
+    textWithDiacritics: "Fiii lui Israel, preaslăviți-L în fața neamurilor căci El\
+      \ ne-a risipit printre ele."
+    chapter: null
+  - verseNumber: 4
+    text: "Vestiti acolo slava Lui, preaanaltati-L inaintea tuturor celor vii, caci\
+      \ El este YaHWeH si Eylohim si Tatal nostru in toti vecii."
+    textWithDiacritics: "Vestiți acolo slava Lui, preaânălțați-L înaintea tuturor\
+      \ celor vii, căci El este YaHWeH și Eylohim și Tatăl nostru în toți vecii."
+    chapter: null
+  - verseNumber: 5
+    text: "El va va pedepsi pentru nedreptatile voastre si va va milui si va va aduna\
+      \ din toate neamurile, printre care ati fost risipiti."
+    textWithDiacritics: "El vă va pedepsi pentru nedreptățile voastre și vă va milui\
+      \ și vă va aduna din toate neamurile, printre care ați fost risipiți."
+    chapter: null
+  - verseNumber: 6
+    text: "De va veti intoarce la El cu toata inima voastra si cu tot sufletul vostru,\
+      \ ca sa umblati inaintea Lui cu dreptate, atunci si El se va intoarce spre voi\
+      \ si nu-Si va ascunde fata Sa de la voi. Veti vedea ce va face El cu voi. Preaslaviti-L\
+      \ cu glas inalt si binecuvantati pe YaHWeH al dreptatii si preainaltati pe Imparatul\
+      \ veacurilor . Il voi preaslavi in tara robiei si voi vesti puterea si slava\
+      \ Lui poporului pacatosilor! Intoarceti-va pacatosi, si faceti dreptate inaintea\
+      \ Lui! Poate va va fi binevoitor si va va arata mila."
+    textWithDiacritics: "De vă veți întoarce la El cu toată inima voastră și cu tot\
+      \ sufletul vostru, ca să umblați înaintea Lui cu dreptate, atunci și El se va\
+      \ întoarce spre voi și nu-Și va ascunde fața Sa de la voi. Veți vedea ce va\
+      \ face El cu voi. Preaslăviți-L cu glas înalt și binecuvântați pe YaHWeH al\
+      \ dreptății și preaînălțați pe Împăratul veacurilor . Îl voi preaslăvi în ț\
+      ara robiei și voi vesti puterea și slava Lui poporului păcătoșilor! Întoarceț\
+      i-vă păcătoși, și faceți dreptate înaintea Lui! Poate vă va fi binevoitor ș\
+      i vă va arăta milă."
+    chapter: null
+  - verseNumber: 7
+    text: "Voi inalta pe Eylohim al meu, si sufletul meu va inalta pe Imparatul cerului\
+      \ si se va bucura de slava Lui."
+    textWithDiacritics: "Voi înălța pe Eylohim al meu, și sufletul meu va înălța pe\
+      \ Împăratul cerului și se va bucura de slava Lui."
+    chapter: null
+  - verseNumber: 8
+    text: "Sa Il vesteasca toti si sa-L preaslaveasca in Ierusalim!"
+    textWithDiacritics: "Să Îl vestească toți și să-L preaslăvească în Ierusalim!"
+    chapter: null
+  - verseNumber: 9
+    text: "Ierusalime, cetate sfanta, El te va pedepsi pentru pacatele fiilor tai\
+      \ si iarasi va milui pe fiii celor drepti."
+    textWithDiacritics: "Ierusalime, cetate sfântă, El te va pedepsi pentru păcatele\
+      \ fiilor tăi și iarăși va milui pe fiii celor drepți."
+    chapter: null
+  - verseNumber: 10
+    text: "Slaveste pe YaHWeH cu sarguinta si binecuvinteaza pe Imparatul veacurilor\
+      \ , ca sa se zideasca iarasi locasul Lui cu bucurie in mijlocul tau, si ca El\
+      \ sa veseleasca in mijlocul tau pe cei dusi in robie si sa-i iubeasca pe cei\
+      \ nenorociti ai tai in toate neamurile veacului."
+    textWithDiacritics: "Slăvește pe YaHWeH cu sârguință și binecuvintează pe Împă\
+      ratul veacurilor , ca să se zidească iarăși locașul Lui cu bucurie în mijlocul\
+      \ tău, și ca El să veselească în mijlocul tău pe cei duși în robie și să-i iubească\
+      \ pe cei nenorociți ai tăi în toate neamurile veacului."
+    chapter: null
+  - verseNumber: 11
+    text: "Popoare multe vor veni de departe in numele lui YaHWeH Eylohim cu daruri\
+      \ in maini, cu daruri ce aduc Imparatului cerului."
+    textWithDiacritics: "Popoare multe vor veni de departe în numele lui YaHWeH Eylohim\
+      \ cu daruri în mâini, cu daruri ce aduc Împăratului cerului."
+    chapter: null
+  - verseNumber: 12
+    text: "Neamurile neamurilor Te vor lauda in strigate de bucurie. Blestemati fie\
+      \ toti cei ce Te urasc pe Tine, iar cei ce Te iubesc sa fie binecuvantati in\
+      \ veac!"
+    textWithDiacritics: "Neamurile neamurilor Te vor lăuda în strigăte de bucurie.\
+      \ Blestemați fie toți cei ce Te urăsc pe Tine, iar cei ce Te iubesc să fie binecuvâ\
+      ntați în veac!"
+    chapter: null
+  - verseNumber: 13
+    text: "Bucura-Te si Te veseleste de fiii dreptilor, caci aceia se vor aduna si\
+      \ vor binecuvanta pe YaHWeH al dreptilor."
+    textWithDiacritics: "Bucură-Te și Te veselește de fiii drepților, căci aceia se\
+      \ vor aduna și vor binecuvânta pe YaHWeH al drepților."
+    chapter: null
+  - verseNumber: 14
+    text: "O, fericiti cei ce Te iubesc pe Tine, ca aceia se vor bucura de pacea Ta!\
+      \ Fericiti cei ce s-au intristat de toate pedepsele Tale, ca aceia se vor bucura\
+      \ de Tine, cand vor vedea toata slava Ta, si vesnic se vor veseli."
+    textWithDiacritics: "O, fericiți cei ce Te iubesc pe Tine, că aceia se vor bucura\
+      \ de pacea Ta! Fericiți cei ce s-au întristat de toate pedepsele Tale, că aceia\
+      \ se vor bucura de Tine, când vor vedea toată slava Ta, și veșnic se vor veseli."
+    chapter: null
+  - verseNumber: 15
+    text: "Sa binecuvanteze sufletul meu pe Eylohim, Imparatul cel mare, caci Ierusalimul\
+      \ se va zidi din nou, cu safir , cu smarald si cu pietre scumpe!"
+    textWithDiacritics: "Să binecuvânteze sufletul meu pe Eylohim, Împăratul cel mare,\
+      \ căci Ierusalimul se va zidi din nou, cu safir , cu smarald și cu pietre scumpe!"
+    chapter: null
+  - verseNumber: 16
+    text: "Iar zidurile tale, turnurile si intariturile se vor face de aur curat!"
+    textWithDiacritics: "Iar zidurile tale, turnurile și întăriturile se vor face\
+      \ de aur curat!"
+    chapter: null
+  - verseNumber: 17
+    text: "Pietele Ierusalimului vor fi pardosite cu beril, rubin si piatra de Ofir."
+    textWithDiacritics: "Piețele Ierusalimului vor fi pardosite cu beril, rubin ș\
+      i piatră de Ofir."
+    chapter: null
+  - verseNumber: 18
+    text: "Pe toate ulitele lui va rasuna \"Aliluia\", si se va canta: Bine este cuvantat\
+      \ Eylohim al lui Israel! Intru Tine se va binecuvanta numele Tau cel sfant in\
+      \ vecii vecilor!\""
+    textWithDiacritics: "Pe toate ulițele lui va răsuna \"Aliluia\", și se va cânta:\
+      \ Bine este cuvântat Eylohim al lui Israel! Întru Tine se va binecuvânta numele\
+      \ Tău cel sfânt în vecii vecilor!\""
+    chapter: null
+- number: 14
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Si a sfarsit Tobit cantarea lui de lauda."
+    textWithDiacritics: "Și a sfârșit Tobit cântarea lui de laudă."
+    chapter: null
+  - verseNumber: 2
+    text: "Cand si-a pierdut el vederea era de cincizeci si opt de ani, si a vazut\
+      \ dupa opt ani. Si a facut milostenii, si binecuvanta totdeauna pe Eylohim si\
+      \ lauda slava Lui."
+    textWithDiacritics: "Când și-a pierdut el vederea era de cincizeci și opt de ani,\
+      \ și a văzut după opt ani. Și a făcut milostenii, și binecuvânta totdeauna pe\
+      \ Eylohim și lăuda slava Lui."
+    chapter: null
+  - verseNumber: 3
+    text: "Cand era aproape sa moara el a chemat pe fiul sau Tobie, si pe cei sapte\
+      \ fii ai lui si i-a zis: \"Fiule, ia pe fiii tai; iata, eu am imbatranit si\
+      \ sunt la capatul vietii mele."
+    textWithDiacritics: "Când era aproape să moară el a chemat pe fiul său Tobie,\
+      \ și pe cei șapte fii ai lui și i-a zis: \"Fiule, ia pe fiii tăi; iată, eu am\
+      \ îmbătrânit și sunt la capătul vieții mele."
+    chapter: null
+  - verseNumber: 4
+    text: "Du-te in Media, fiule, caci sunt incredintat ca Ninive va fi daramata,\
+      \ dupa cum a spus proorocul Iona, iar in Media va fi mai liniste o vreme. Fratii\
+      \ nostri, care se afla in tara, vor fi imprastiati din acel scump pamant, Ierusalimul\
+      \ va fi pustiit, si templul lui Eylohim din el va fi ars si va ramane o vreme\
+      \ pustiu."
+    textWithDiacritics: "Du-te în Media, fiule, căci sunt încredințat că Ninive va\
+      \ fi dărâmată, după cum a spus proorocul Iona, iar în Media va fi mai liniș\
+      te o vreme. Frații noștri, care se află în țară, vor fi împrăștiați din acel\
+      \ scump pământ, Ierusalimul va fi pustiit, și templul lui Eylohim din el va\
+      \ fi ars și va rămâne o vreme pustiu."
+    chapter: null
+  - verseNumber: 5
+    text: "Dar Eylohim iarasi ii va milui si-i va intoarce in rara; si templul lui\
+      \ Eylohim se va ridica, dar nu asa ca acel de mai inainte, pana nu se vor implini\
+      \ timpurile veacului. si dupa aceea se vor intoarce din robie si vor zidi minunat\
+      \ Ierusalimul, si templul lui Eylohim se va face din nou in el pentru toate\
+      \ neamurile veacului - zidire mareata, cum au grait despre el proorocii."
+    textWithDiacritics: "Dar Eylohim iarăși îi va milui și-i va întoarce în rară;\
+      \ și templul lui Eylohim se va ridica, dar nu așa ca acel de mai înainte, pâ\
+      nă nu se vor împlini timpurile veacului. și după aceea se vor întoarce din robie\
+      \ și vor zidi minunat Ierusalimul, și templul lui Eylohim se va face din nou\
+      \ în el pentru toate neamurile veacului - zidire măreață, cum au grăit despre\
+      \ el proorocii."
+    chapter: null
+  - verseNumber: 6
+    text: "Si se vor intoarce toate popoarele si se vor inchina cu adevarat inaintea\
+      \ lui YaHWeH Eylohim si vor sfarama idolii lor."
+    textWithDiacritics: "Și se vor întoarce toate popoarele și se vor închina cu adevă\
+      rat înaintea lui YaHWeH Eylohim și vor sfărâma idolii lor."
+    chapter: null
+  - verseNumber: 7
+    text: "Si toate popoarele vor binecuvanta pe YaHWeH, si va binecuvanta si poporul\
+      \ Lui pe Eylohim si YaHWeH va inalta pe poporul Sau. Si toti cei ce iubesc adevarat\
+      \ si drept pe YaHWeH Eylohim se vor bucura si vor face mila cu fratii nostri."
+    textWithDiacritics: "Și toate popoarele vor binecuvânta pe YaHWeH, și va binecuvâ\
+      nta și poporul Lui pe Eylohim și YaHWeH va înălța pe poporul Său. Și toți cei\
+      \ ce iubesc adevărat și drept pe YaHWeH Eylohim se vor bucura și vor face milă\
+      \ cu frații noștri."
+    chapter: null
+  - verseNumber: 8
+    text: "Deci, fiule, pleaca din Ninive, ca negresit se va implini ceea ce a zis\
+      \ Iona."
+    textWithDiacritics: "Deci, fiule, pleacă din Ninive, că negreșit se va împlini\
+      \ ceea ce a zis Iona."
+    chapter: null
+  - verseNumber: 9
+    text: "Sa pazesti legea si poruncile; sa fii bland, milostiv si drept, ca sa-ti\
+      \ fie bine."
+    textWithDiacritics: "Să păzești legea și poruncile; să fii blând, milostiv și\
+      \ drept, ca să-ți fie bine."
+    chapter: null
+  - verseNumber: 10
+    text: "Pe mine sa ma ingropi dupa cuviinta, si pe mama ta alaturi de mine, si\
+      \ dupa aceea sa nu mai ramaneti in Ninive."
+    textWithDiacritics: "Pe mine să mă îngropi după cuviință, și pe mama ta alături\
+      \ de mine, și după aceea să nu mai rămâneți în Ninive."
+    chapter: null
+  - verseNumber: 11
+    text: "Fiule, vezi ce-a facut Nadab cu Ahiacar, care l-a crescut. Cum l-a dus\
+      \ el din lumina la intuneric, si cum i s-a rasplatit. Dar Eylohim a mantuit\
+      \ pe Ahiacar, iar acela a primit vrednica rasplata, coborandu-se in intuneric.\
+      \ Ahiacar a facut milostenie si s-a mantuit din cursa mortii, care i se intinsese,\
+      \ iar Nadab a cazut in laturi si a pierit."
+    textWithDiacritics: "Fiule, vezi ce-a făcut Nadab cu Ahiacar, care l-a crescut.\
+      \ Cum l-a dus el din lumină la întuneric, și cum i s-a răsplătit. Dar Eylohim\
+      \ a mântuit pe Ahiacar, iar acela a primit vrednică răsplată, coborându-se î\
+      n întuneric. Ahiacar a făcut milostenie și s-a mântuit din cursa morții, care\
+      \ i se întinsese, iar Nadab a căzut în lațuri și a pierit."
+    chapter: null
+  - verseNumber: 12
+    text: "Deci, copiilor, iata ce face milostenia si cum izbaveste dreptatea\"."
+    textWithDiacritics: "Deci, copiilor, iată ce face milostenia și cum izbăvește\
+      \ dreptatea\"."
+    chapter: null
+  - verseNumber: 13
+    text: "Si dupa ce a spus el acestea, i-a iesit sufletul. Si era el atunci de o\
+      \ suta cincizeci si opt de ani si fiul sau l-a ingropat cu cinste."
+    textWithDiacritics: "Și după ce a spus el acestea, i-a ieșit sufletul. Și era\
+      \ el atunci de o sută cincizeci și opt de ani și fiul său l-a îngropat cu cinste."
+    chapter: null
+  - verseNumber: 14
+    text: "Si dupa ce a murit si Ana, a ingropat-o si pe ea cu tatal sau. Iar dupa\
+      \ aceea Tobie cu femeia si copiii sai a plecat la Ecbatana, la sacrul sau Raguel,\
+      \ si a ajuns la batranete cinstita si a ingropat cu cinste pe socrul si pe soacra\
+      \ sa si a capatat mostenire averea lor si a lui Tobit, tatal sau, si a murit\
+      \ de o suta douazeci si sapte de ani, in Ecbatana Mediei."
+    textWithDiacritics: "Și după ce a murit și Ana, a îngropat-o și pe ea cu tată\
+      l său. Iar după aceea Tobie cu femeia și copiii săi a plecat la Ecbatana, la\
+      \ sacrul său Raguel, și a ajuns la bătrânețe cinstită și a îngropat cu cinste\
+      \ pe socrul și pe soacra sa și a căpătat moștenire averea lor și a lui Tobit,\
+      \ tatăl său, și a murit de o sută douăzeci și șapte de ani, în Ecbatana Mediei."
+    chapter: null
+  - verseNumber: 15
+    text: "Dar inainte de a muri a auzit el de pieirea Ninivei, pe care a cucerit-o\
+      \ Nabucodonosor si Ahasveros, si s-a bucurat inainte de moartea sa pentru Ninive."
+    textWithDiacritics: "Dar înainte de a muri a auzit el de pieirea Ninivei, pe care\
+      \ a cucerit-o Nabucodonosor și Ahașveroș, și s-a bucurat înainte de moartea\
+      \ sa pentru Ninive."
+    chapter: null

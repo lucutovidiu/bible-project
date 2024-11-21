@@ -3,6 +3,3 @@ quarkus:
   http:
     cors:
       origins: "https://bible.prowebart.co.uk"
-
-migration:
-  enabled: false

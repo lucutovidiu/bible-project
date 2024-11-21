@@ -1,0 +1,1870 @@
+---
+bookId: 15
+name: "Ezra – Ezrah"
+abbreviation: "Ezra."
+testament: "Vechiul Testament"
+expChaptersCount: 10
+expTotalVerses: 280
+downloadedLink: "https://yahwehtora.ro/ezra-ezrah"
+requiresUpdate: false
+inProgress: false
+bookOrder: 15
+chapterPojo:
+- number: 1
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "In cel dintii an al lui Cirus, imparatul persilor, ca sa se implineasca\
+      \ cuvintul lui YaHWeH rostit prin gura lui Ieremia, YaHWeH a trezit duhul lui\
+      \ Cirus, imparatul persilor, care a pus sa se faca prin viu grai si prin scris\
+      \ vestirea aceasta in toata imparatia lui:"
+    textWithDiacritics: "În cel dintîi an al lui Cirus, împăratul perşilor, ca să\
+      \ se împlinească cuvîntul lui YaHWeH rostit prin gura lui Ieremia, YaHWeH a\
+      \ trezit duhul lui Cirus, împăratul perşilor, care a pus să se facă prin viu\
+      \ grai şi prin scris vestirea aceasta în toată împărăţia lui:"
+    chapter: null
+  - verseNumber: 2
+    text: "„Asa vorbeste Cirus, imparatul persilor: „ Eylohim al cerurilor mi-a dat\
+      \ toate imparatiile pamintului si mi-a poruncit sa-I zidesc o Casa la Ierusalim\
+      \ in Iuda."
+    textWithDiacritics: "„Aşa vorbeşte Cirus, împăratul perşilor: „ Eylohim al cerurilor\
+      \ mi-a dat toate împărăţiile pămîntului şi mi-a poruncit să-I zidesc o Casă\
+      \ la Ierusalim în Iuda."
+    chapter: null
+  - verseNumber: 3
+    text: "Cine dintre voi este din poporul Lui? Eylohim al lui sa fie cu el, si sa\
+      \ se suie la Ierusalim in Iuda, si sa zideasca acolo Casa lui YaHWeH al lui\
+      \ Israel! El este adevaratul Eylohim care locuieste la Ierusalim."
+    textWithDiacritics: "Cine dintre voi este din poporul Lui? Eylohim al lui să fie\
+      \ cu el, şi să se suie la Ierusalim în Iuda, şi să zidească acolo Casa lui YaHWeH\
+      \ al lui Israel! El este adevăratul Eylohim care locuieşte la Ierusalim."
+    chapter: null
+  - verseNumber: 4
+    text: "Oriunde locuiesc ramasite din poporul lui YaHWeH, oamenii din locul acela\
+      \ sa le dea argint, aur, avere si vite, pe linga daruri de bunavoie, pentru\
+      \ Casa lui YaHWeH, care este la Ierusalim!”"
+    textWithDiacritics: "Oriunde locuiesc rămăşiţe din poporul lui YaHWeH, oamenii\
+      \ din locul acela să le dea argint, aur, avere şi vite, pe lîngă daruri de bună\
+      voie, pentru Casa lui YaHWeH, care este la Ierusalim!”"
+    chapter: null
+  - verseNumber: 5
+    text: "Capii de familie din Iuda si Beniamin, preotii si levitii, si anume toti\
+      \ aceia al caror duh l-a trezit YaHWeH, s-au sculat sa mearga sa zideasca la\
+      \ Ierusalim Casa lui YaHWeH."
+    textWithDiacritics: "Capii de familie din Iuda şi Beniamin, preoţii şi leviţii,\
+      \ şi anume toţi aceia al căror duh l-a trezit YaHWeH, s-au sculat să meargă\
+      \ să zidească la Ierusalim Casa lui YaHWeH."
+    chapter: null
+  - verseNumber: 6
+    text: "Si toti cei dimprejurul lor le-au dat lucruri de argint, de aur, avere,\
+      \ vite si lucruri scumpe, afara de toate darurile de bunavoie."
+    textWithDiacritics: "Şi toţi cei dimprejurul lor le-au dat lucruri de argint,\
+      \ de aur, avere, vite şi lucruri scumpe, afară de toate darurile de bunăvoie."
+    chapter: null
+  - verseNumber: 7
+    text: "Imparatul Cirus a dat inapoi uneltele Casei lui YaHWeH pe care le luase\
+      \ Nebucadnetar din Ierusalim si le pusese in casa dumnezeului sau."
+    textWithDiacritics: "Împăratul Cirus a dat înapoi uneltele Casei lui YaHWeH pe\
+      \ care le luase Nebucadneţar din Ierusalim şi le pusese în casa dumnezeului\
+      \ său."
+    chapter: null
+  - verseNumber: 8
+    text: "Cirus, imparatul persilor, le-a scos prin Mitredat, vistiernicul, care\
+      \ le-a dat lui Sesbatar a) voievodul lui Iuda. [ a) Zorobabel ]"
+    textWithDiacritics: "Cirus, împăratul perşilor, le-a scos prin Mitredat, vistiernicul,\
+      \ care le-a dat lui Şeşbaţar a) voievodul lui Iuda. [ a) Zorobabel ]"
+    chapter: null
+  - verseNumber: 9
+    text: "Iata-le numarul: treizeci de lighene de aur, o mie de lighene de argint,\
+      \ douazeci si noua de cutite,"
+    textWithDiacritics: "Iată-le numărul: treizeci de lighene de aur, o mie de lighene\
+      \ de argint, douăzeci şi nouă de cuţite,"
+    chapter: null
+  - verseNumber: 10
+    text: "treizeci de potire de aur, patru sute zece potire de argint de mina a doua\
+      \ si o mie de alte unelte."
+    textWithDiacritics: "treizeci de potire de aur, patru sute zece potire de argint\
+      \ de mîna a doua şi o mie de alte unelte."
+    chapter: null
+  - verseNumber: 11
+    text: "Toate lucrurile de aur si de argint erau in numar de cinci mii patru sute.\
+      \ Sesbatar a adus tot din Babilon la Ierusalim, impreuna cu cei ce s-au intors\
+      \ din robie."
+    textWithDiacritics: "Toate lucrurile de aur şi de argint erau în număr de cinci\
+      \ mii patru sute. Şeşbaţar a adus tot din Babilon la Ierusalim, împreună cu\
+      \ cei ce s-au întors din robie."
+    chapter: null
+- number: 2
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Iata oamenii din tara care s-au intors din robie, si anume aceia pe care\
+      \ ii luase Nebucadnetar, imparatul Babilonului, robi la Babilon si care s-au\
+      \ intors la Ierusalim si in Iuda, fiecare in cetatea lui."
+    textWithDiacritics: "Iată oamenii din ţară care s-au întors din robie, şi anume\
+      \ aceia pe care îi luase Nebucadneţar, împăratul Babilonului, robi la Babilon\
+      \ şi care s-au întors la Ierusalim şi în Iuda, fiecare în cetatea lui."
+    chapter: null
+  - verseNumber: 2
+    text: "Au plecat cu Zorobabel, Iosua, Neemia, Seraia, Reelaia, Mardoheu, Bilsan,\
+      \ Mispar, Bigvai, Rehum, Baana. Numarul barbatilor din poporul lui Israel:"
+    textWithDiacritics: "Au plecat cu Zorobabel, Iosua, Neemia, Seraia, Reelaia, Mardoheu,\
+      \ Bilşan, Mispar, Bigvai, Rehum, Baana. Numărul bărbaţilor din poporul lui Israel:"
+    chapter: null
+  - verseNumber: 3
+    text: "fiii lui Pareos, doua mii o suta saptezeci si doi;"
+    textWithDiacritics: "fiii lui Pareoş, două mii o sută şaptezeci şi doi;"
+    chapter: null
+  - verseNumber: 4
+    text: "fiii lui Sefatia, trei sute saptezeci si doi;"
+    textWithDiacritics: "fiii lui Şefatia, trei sute şaptezeci şi doi;"
+    chapter: null
+  - verseNumber: 5
+    text: "fiii lui Arah, sapte sute saptezeci si cinci;"
+    textWithDiacritics: "fiii lui Arah, şapte sute şaptezeci şi cinci;"
+    chapter: null
+  - verseNumber: 6
+    text: "fiii lui Pahat-Moab, din fiii lui Iosua si lui Ioab, doua mii opt sute\
+      \ doisprezece;"
+    textWithDiacritics: "fiii lui Pahat-Moab, din fiii lui Iosua şi lui Ioab, două\
+      \ mii opt sute doisprezece;"
+    chapter: null
+  - verseNumber: 7
+    text: "fiii lui Elam, o mie doua sute cincizeci si patru;"
+    textWithDiacritics: "fiii lui Elam, o mie două sute cincizeci şi patru;"
+    chapter: null
+  - verseNumber: 8
+    text: "fiii lui Zatu, noua sute patruzeci si cinci;"
+    textWithDiacritics: "fiii lui Zatu, nouă sute patruzeci şi cinci;"
+    chapter: null
+  - verseNumber: 9
+    text: "fiii lui Zacai, sapte sute saizeci;"
+    textWithDiacritics: "fiii lui Zacai, şapte sute şaizeci;"
+    chapter: null
+  - verseNumber: 10
+    text: "fiii lui Bani, sase sute patruzeci si doi;"
+    textWithDiacritics: "fiii lui Bani, şase sute patruzeci şi doi;"
+    chapter: null
+  - verseNumber: 11
+    text: "fiii lui Bebai, sase sute douazeci si trei;"
+    textWithDiacritics: "fiii lui Bebai, şase sute douăzeci şi trei;"
+    chapter: null
+  - verseNumber: 12
+    text: "fiii lui Azgad, o mie doua sute douazeci si doi;"
+    textWithDiacritics: "fiii lui Azgad, o mie două sute douăzeci şi doi;"
+    chapter: null
+  - verseNumber: 13
+    text: "fiii lui Adonicam, sase sute saizeci si sase;"
+    textWithDiacritics: "fiii lui Adonicam, şase sute şaizeci şi şase;"
+    chapter: null
+  - verseNumber: 14
+    text: "fiii lui Bigvai, doua mii cincizeci si sase;"
+    textWithDiacritics: "fiii lui Bigvai, două mii cincizeci şi şase;"
+    chapter: null
+  - verseNumber: 15
+    text: "fiii lui Adin, patru sute cincizeci si patru;"
+    textWithDiacritics: "fiii lui Adin, patru sute cincizeci şi patru;"
+    chapter: null
+  - verseNumber: 16
+    text: "fiii lui Ater, din familia lui Ezechia, nouazeci si opt;"
+    textWithDiacritics: "fiii lui Ater, din familia lui Ezechia, nouăzeci şi opt;"
+    chapter: null
+  - verseNumber: 17
+    text: "fiii lui Betai, trei sute douazeci si trei;"
+    textWithDiacritics: "fiii lui Beţai, trei sute douăzeci şi trei;"
+    chapter: null
+  - verseNumber: 18
+    text: "fiii lui Iora, o suta doisprezece;"
+    textWithDiacritics: "fiii lui Iora, o sută doisprezece;"
+    chapter: null
+  - verseNumber: 19
+    text: "fiii lui Hasum, doua sute douazeci si trei;"
+    textWithDiacritics: "fiii lui Haşum, două sute douăzeci şi trei;"
+    chapter: null
+  - verseNumber: 20
+    text: "fiii lui Ghibar, nouazeci si cinci;"
+    textWithDiacritics: "fiii lui Ghibar, nouăzeci şi cinci;"
+    chapter: null
+  - verseNumber: 21
+    text: "fiii lui Betleem, o suta douazeci si trei;"
+    textWithDiacritics: "fiii lui Betleem, o sută douăzeci şi trei;"
+    chapter: null
+  - verseNumber: 22
+    text: "oamenii din Netofa, cincizeci si sase;"
+    textWithDiacritics: "oamenii din Netofa, cincizeci şi şase;"
+    chapter: null
+  - verseNumber: 23
+    text: "oamenii din Anatot, o suta douazeci si opt;"
+    textWithDiacritics: "oamenii din Anatot, o sută douăzeci şi opt;"
+    chapter: null
+  - verseNumber: 24
+    text: "fiii lui Azmavet, patruzeci si doi;"
+    textWithDiacritics: "fiii lui Azmavet, patruzeci şi doi;"
+    chapter: null
+  - verseNumber: 25
+    text: "fiii lui Chiriat-Arim, Chefirei si Beerotului, sapte sute patruzeci si\
+      \ trei;"
+    textWithDiacritics: "fiii lui Chiriat-Arim, Chefirei şi Beerotului, şapte sute\
+      \ patruzeci şi trei;"
+    chapter: null
+  - verseNumber: 26
+    text: "fiii Ramei si ai Ghebei, sase sute douazeci si unu;"
+    textWithDiacritics: "fiii Ramei şi ai Ghebei, şase sute douăzeci şi unu;"
+    chapter: null
+  - verseNumber: 27
+    text: "oamenii din Micmas, o suta douazeci si doi;"
+    textWithDiacritics: "oamenii din Micmas, o sută douăzeci şi doi;"
+    chapter: null
+  - verseNumber: 28
+    text: "oamenii din Betel si Ai, doua sute douazeci si trei;"
+    textWithDiacritics: "oamenii din Betel şi Ai, două sute douăzeci şi trei;"
+    chapter: null
+  - verseNumber: 29
+    text: "fiii lui Nebo, cincizeci si doi;"
+    textWithDiacritics: "fiii lui Nebo, cincizeci şi doi;"
+    chapter: null
+  - verseNumber: 30
+    text: "fiii lui Magbis, o suta cincizeci si sase;"
+    textWithDiacritics: "fiii lui Magbiş, o sută cincizeci şi şase;"
+    chapter: null
+  - verseNumber: 31
+    text: "fiii celuilalt Elam, o mie doua sute cincizeci si patru"
+    textWithDiacritics: "fiii celuilalt Elam, o mie două sute cincizeci şi patru"
+    chapter: null
+  - verseNumber: 32
+    text: "fiii lui Harim, trei sute douazeci;"
+    textWithDiacritics: "fiii lui Harim, trei sute douăzeci;"
+    chapter: null
+  - verseNumber: 33
+    text: "fiii lui Lod, lui Hadid si lui Ono, sapte sute douazeci si cinci;"
+    textWithDiacritics: "fiii lui Lod, lui Hadid şi lui Ono, şapte sute douăzeci ş\
+      i cinci;"
+    chapter: null
+  - verseNumber: 34
+    text: "fiii Ierihonului, trei sute patruzeci si cinci;"
+    textWithDiacritics: "fiii Ierihonului, trei sute patruzeci şi cinci;"
+    chapter: null
+  - verseNumber: 35
+    text: "fiii lui Senaa, trei mii sase sute treizeci."
+    textWithDiacritics: "fiii lui Senaa, trei mii şase sute treizeci."
+    chapter: null
+  - verseNumber: 36
+    text: "Preoti: fiii lui Iedaeia, din casa lui Iosua, noua sute saptezeci si trei;"
+    textWithDiacritics: "Preoţi: fiii lui Iedaeia, din casa lui Iosua, nouă sute ş\
+      aptezeci şi trei;"
+    chapter: null
+  - verseNumber: 37
+    text: "fiii lui Imer, o mie cincizeci si doi;"
+    textWithDiacritics: "fiii lui Imer, o mie cincizeci şi doi;"
+    chapter: null
+  - verseNumber: 38
+    text: "fiii lui Pashur, o mie doua sute patruzeci si sapte;"
+    textWithDiacritics: "fiii lui Paşhur, o mie două sute patruzeci şi şapte;"
+    chapter: null
+  - verseNumber: 39
+    text: "fiii lui Harim, o mie saptesprezece."
+    textWithDiacritics: "fiii lui Harim, o mie şaptesprezece."
+    chapter: null
+  - verseNumber: 40
+    text: "Leviti: fiii lui Iosua si Cadmiel, din fiii lui Hodavia, saptezeci si patru."
+    textWithDiacritics: "Leviţi: fiii lui Iosua şi Cadmiel, din fiii lui Hodavia,\
+      \ şaptezeci şi patru."
+    chapter: null
+  - verseNumber: 41
+    text: "Cintareti: fiii lui Asaf, o suta douazeci si opt."
+    textWithDiacritics: "Cîntăreţi: fiii lui Asaf, o sută douăzeci şi opt."
+    chapter: null
+  - verseNumber: 42
+    text: "Fiii usierilor: fiii lui Salum, fiii lui Ater, fiii lui Talmon, fiii lui\
+      \ Acub, fiii lui Hatita, fiii lui Sobai, de toti o suta treizeci si noua."
+    textWithDiacritics: "Fiii uşierilor: fiii lui Şalum, fiii lui Ater, fiii lui Talmon,\
+      \ fiii lui Acub, fiii lui Hatita, fiii lui Şobai, de toţi o sută treizeci ş\
+      i nouă."
+    chapter: null
+  - verseNumber: 43
+    text: "Slujitorii Templului: fiii lui Tiha, fiii lui Hasufa, fiii lui Tabaot,"
+    textWithDiacritics: "Slujitorii Templului: fiii lui Ţiha, fiii lui Hasufa, fiii\
+      \ lui Tabaot,"
+    chapter: null
+  - verseNumber: 44
+    text: "fiii lui Cheros, fiii lui Siaha, fiii lui Padon,"
+    textWithDiacritics: "fiii lui Cheros, fiii lui Siaha, fiii lui Padon,"
+    chapter: null
+  - verseNumber: 45
+    text: "fiii lui Lebana, fiii lui Hagaba, fiii lui Acub,"
+    textWithDiacritics: "fiii lui Lebana, fiii lui Hagaba, fiii lui Acub,"
+    chapter: null
+  - verseNumber: 46
+    text: "fiii lui Hagab, fiii lui Samlai, fiii lui Hanan,"
+    textWithDiacritics: "fiii lui Hagab, fiii lui Şamlai, fiii lui Hanan,"
+    chapter: null
+  - verseNumber: 47
+    text: "fiii lui Ghidel, fiii lui Gahar, fiii lui Reaia,"
+    textWithDiacritics: "fiii lui Ghidel, fiii lui Gahar, fiii lui Reaia,"
+    chapter: null
+  - verseNumber: 48
+    text: "fiii lui Retin, fiii lui Necoda, fiii lui Gazam,"
+    textWithDiacritics: "fiii lui Reţin, fiii lui Necoda, fiii lui Gazam,"
+    chapter: null
+  - verseNumber: 49
+    text: "fiii lui Uza, fiii lui Paseah, fiii lui Besai,"
+    textWithDiacritics: "fiii lui Uza, fiii lui Paseah, fiii lui Besai,"
+    chapter: null
+  - verseNumber: 50
+    text: "fiii lui Asna, fiii lui Mehunim, fiii lui Nefusim,"
+    textWithDiacritics: "fiii lui Asna, fiii lui Mehunim, fiii lui Nefusim,"
+    chapter: null
+  - verseNumber: 51
+    text: "fiii lui Bacbuc, fiii lui Hacufa, fiii lui Harhur,"
+    textWithDiacritics: "fiii lui Bacbuc, fiii lui Hacufa, fiii lui Harhur,"
+    chapter: null
+  - verseNumber: 52
+    text: "fiii lui Batlut, fiii lui Mehida, fiii lui Harsa,"
+    textWithDiacritics: "fiii lui Baţlut, fiii lui Mehida, fiii lui Harşa,"
+    chapter: null
+  - verseNumber: 53
+    text: "fiii lui Barcos, fiii lui Sisera, fiii lui Tamah,"
+    textWithDiacritics: "fiii lui Barcos, fiii lui Sisera, fiii lui Tamah,"
+    chapter: null
+  - verseNumber: 54
+    text: "fiii lui Netiah, fiii lui Hatifa."
+    textWithDiacritics: "fiii lui Neţiah, fiii lui Hatifa."
+    chapter: null
+  - verseNumber: 55
+    text: "Fiii robilor lui Solomon: fiii lui Sotai, fiii lui Soferet, fiii lui Peruda,"
+    textWithDiacritics: "Fiii robilor lui Solomon: fiii lui Sotai, fiii lui Soferet,\
+      \ fiii lui Peruda,"
+    chapter: null
+  - verseNumber: 56
+    text: "fiii lui Iaala, fiii lui Darcon, fiii lui Ghidel,"
+    textWithDiacritics: "fiii lui Iaala, fiii lui Darcon, fiii lui Ghidel,"
+    chapter: null
+  - verseNumber: 57
+    text: "fiii lui Sefatia, fiii lui Hatil, fiii lui Pocheret-Hatebaim, fiii lui\
+      \ Ami."
+    textWithDiacritics: "fiii lui Şefatia, fiii lui Hatil, fiii lui Pocheret-Haţebaim,\
+      \ fiii lui Ami."
+    chapter: null
+  - verseNumber: 58
+    text: "Toti slujitorii Templului si fiii robilor lui Solomon erau trei sute nouazeci\
+      \ si doi."
+    textWithDiacritics: "Toţi slujitorii Templului şi fiii robilor lui Solomon erau\
+      \ trei sute nouăzeci şi doi."
+    chapter: null
+  - verseNumber: 59
+    text: "Iata cei ce au plecat din Tel-Melah, din Tel-Harsa, din Cherub-Adan, din\
+      \ Imer si care n-au putut sa-si arate casa lor parinteasca si neamul, ca sa\
+      \ faca dovada ca erau din Israel:"
+    textWithDiacritics: "Iată cei ce au plecat din Tel-Melah, din Tel-Harşa, din Cherub-Adan,\
+      \ din Imer şi care n-au putut să-şi arate casa lor părintească şi neamul, ca\
+      \ să facă dovada că erau din Israel:"
+    chapter: null
+  - verseNumber: 60
+    text: "fiii lui Delaia, fiii lui Tobia, fiii lui Necoda, sase sute cincizeci si\
+      \ doi."
+    textWithDiacritics: "fiii lui Delaia, fiii lui Tobia, fiii lui Necoda, şase sute\
+      \ cincizeci şi doi."
+    chapter: null
+  - verseNumber: 61
+    text: "Si dintre fiii preotilor: fiii lui Habaia, fiii lui Hacot, fiii lui Barzilai,\
+      \ care luase de nevasta pe una din fetele lui Barzilai, galaaditul, si a fost\
+      \ numit cu numele lor."
+    textWithDiacritics: "Şi dintre fiii preoţilor: fiii lui Habaia, fiii lui Hacoţ\
+      , fiii lui Barzilai, care luase de nevastă pe una din fetele lui Barzilai, galaaditul,\
+      \ şi a fost numit cu numele lor."
+    chapter: null
+  - verseNumber: 62
+    text: "Si-au cautat insemnarea in cartile spitelor de neam, dar n-au gasit-o.\
+      \ De aceea, au fost indepartati de la preotie,"
+    textWithDiacritics: "Şi-au căutat însemnarea în cărţile spiţelor de neam, dar\
+      \ n-au găsit-o. De aceea, au fost îndepărtaţi de la preoţie,"
+    chapter: null
+  - verseNumber: 63
+    text: "si dregatorul le-a spus sa nu manince lucruri preasfinte, pina cind un\
+      \ preot va intreba pe Urim si Tumim."
+    textWithDiacritics: "şi dregătorul le-a spus să nu mănînce lucruri preasfinte,\
+      \ pînă cînd un preot va întreba pe Urim şi Tumim."
+    chapter: null
+  - verseNumber: 64
+    text: "Toata Adunarea era de patruzeci si doua de mii trei sute saizeci de insi,"
+    textWithDiacritics: "Toată Adunarea era de patruzeci şi două de mii trei sute\
+      \ şaizeci de inşi,"
+    chapter: null
+  - verseNumber: 65
+    text: "afara de robii si roabele lor, in numar de sapte mii trei sute treizeci\
+      \ si sapte. Intre ei se aflau doua sute de cintareti si cintarete."
+    textWithDiacritics: "afară de robii şi roabele lor, în număr de şapte mii trei\
+      \ sute treizeci şi şapte. Între ei se aflau două sute de cîntăreţi şi cîntă\
+      reţe."
+    chapter: null
+  - verseNumber: 66
+    text: "Aveau sapte sute treizeci si sase de cai, doua sute patruzeci si cinci\
+      \ de catiri,"
+    textWithDiacritics: "Aveau şapte sute treizeci şi şase de cai, două sute patruzeci\
+      \ şi cinci de catîri,"
+    chapter: null
+  - verseNumber: 67
+    text: "patru sute treizeci si cinci de camile si sase mii sapte sute douazeci\
+      \ de magari."
+    textWithDiacritics: "patru sute treizeci şi cinci de cămile şi şase mii şapte\
+      \ sute douăzeci de măgari."
+    chapter: null
+  - verseNumber: 68
+    text: "Unii capi de familie, la venirea lor la Casa lui YaHWeH in Ierusalim, au\
+      \ adus daruri de bunavoie pentru Casa lui YaHWeH, ca s-o aseze din nou pe locul\
+      \ unde fusese."
+    textWithDiacritics: "Unii capi de familie, la venirea lor la Casa lui YaHWeH î\
+      n Ierusalim, au adus daruri de bunăvoie pentru Casa lui YaHWeH, ca s-o aşeze\
+      \ din nou pe locul unde fusese."
+    chapter: null
+  - verseNumber: 69
+    text: "Au dat la vistieria lucrarii, dupa mijloacele lor, saizeci si una de mii\
+      \ de darici de aur, cinci mii de mine de argint si o suta de haine preotesti."
+    textWithDiacritics: "Au dat la vistieria lucrării, după mijloacele lor, şaizeci\
+      \ şi una de mii de darici de aur, cinci mii de mine de argint şi o sută de haine\
+      \ preoţeşti."
+    chapter: null
+  - verseNumber: 70
+    text: "Preotii si levitii, oamenii din popor, cintaretii, usierii si slujitorii\
+      \ Templului s-au asezat in cetatile lor. Tot Israelul a locuit in cetatile lui."
+    textWithDiacritics: "Preoţii şi leviţii, oamenii din popor, cîntăreţii, uşierii\
+      \ şi slujitorii Templului s-au aşezat în cetăţile lor. Tot Israelul a locuit\
+      \ în cetăţile lui."
+    chapter: null
+- number: 3
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Cind a venit luna a saptea, copiii lui Israel erau in cetatile lor. Atunci\
+      \ poporul s-a strins ca un singur om la Ierusalim."
+    textWithDiacritics: "Cînd a venit luna a şaptea, copiii lui Israel erau în cetă\
+      ţile lor. Atunci poporul s-a strîns ca un singur om la Ierusalim."
+    chapter: null
+  - verseNumber: 2
+    text: "Iosua, fiul lui Iotadac, cu fratii sai, preotii, si Zorobabel, fiul lui\
+      \ Sealtiel, cu fratii sai s-au sculat si au zidit altarul lui YaHWeH al lui\
+      \ Israel, ca sa aduca pe el arderi de tot, dupa cum este scris in Legea lui\
+      \ Moise, omul lui YaHWeH."
+    textWithDiacritics: "Iosua, fiul lui Ioţadac, cu fraţii săi, preoţii, şi Zorobabel,\
+      \ fiul lui Şealtiel, cu fraţii săi s-au sculat şi au zidit altarul lui YaHWeH\
+      \ al lui Israel, ca să aducă pe el arderi de tot, după cum este scris în Legea\
+      \ lui Moise, omul lui YaHWeH."
+    chapter: null
+  - verseNumber: 3
+    text: "Au asezat din nou altarul pe temeliile lui, macar ca au avut sa se teama\
+      \ de popoarele tarii, si au adus arderi de tot lui YaHWeH, arderile de tot de\
+      \ dimineata si de seara."
+    textWithDiacritics: "Au aşezat din nou altarul pe temeliile lui, măcar că au avut\
+      \ să se teamă de popoarele ţării, şi au adus arderi de tot lui YaHWeH, arderile\
+      \ de tot de dimineaţă şi de seară."
+    chapter: null
+  - verseNumber: 4
+    text: "Au praznuit Sarbatoarea Corturilor, cum este scris, si au adus zi de zi\
+      \ arderi de tot, dupa numarul poruncit pentru fiecare zi."
+    textWithDiacritics: "Au prăznuit Sărbătoarea Corturilor, cum este scris, şi au\
+      \ adus zi de zi arderi de tot, după numărul poruncit pentru fiecare zi."
+    chapter: null
+  - verseNumber: 5
+    text: "Dupa aceea au adus arderea de tot necurmata, arderile de tot pentru fiecare\
+      \ luna noua si pentru toate sarbatorile inchinate lui YaHWeH, afara de cele\
+      \ pe care le aducea fiecare ca daruri de bunavoie lui YaHWeH."
+    textWithDiacritics: "După aceea au adus arderea de tot necurmată, arderile de\
+      \ tot pentru fiecare lună nouă şi pentru toate sărbătorile închinate lui YaHWeH,\
+      \ afară de cele pe care le aducea fiecare ca daruri de bunăvoie lui YaHWeH."
+    chapter: null
+  - verseNumber: 6
+    text: "Din cea dintii zi a lunii a saptea au inceput sa aduca lui YaHWeH arderi\
+      \ de tot. Insa temeliile Templului lui YaHWeH nu erau inca puse."
+    textWithDiacritics: "Din cea dintîi zi a lunii a şaptea au început să aducă lui\
+      \ YaHWeH arderi de tot. Însă temeliile Templului lui YaHWeH nu erau încă puse."
+    chapter: null
+  - verseNumber: 7
+    text: "Au dat argint cioplitorilor de piatra si timplarilor, si merinde, bauturi\
+      \ si untdelemn, sidonienilor si tirienilor, ca sa aduca pe mare, pina la Iafo,\
+      \ lemne de cedru din Liban, dupa invoirea data de Cirus, imparatul persilor.\
+      \ Punerea temeliilor Templului"
+    textWithDiacritics: "Au dat argint cioplitorilor de piatră şi tîmplarilor, şi\
+      \ merinde, băuturi şi untdelemn, sidonienilor şi tirienilor, ca să aducă pe\
+      \ mare, pînă la Iafo, lemne de cedru din Liban, după învoirea dată de Cirus,\
+      \ împăratul perşilor. Punerea temeliilor Templului"
+    chapter: null
+  - verseNumber: 8
+    text: "In al doilea an de la venirea lor la Casa lui YaHWeH la Ierusalim, in luna\
+      \ a doua, Zorobabel, fiul lui Sealtiel, Iosua, fiul lui Iotadac, cu ceilalti\
+      \ frati ai lor, preoti si leviti, si toti cei ce se intorsesera din robie la\
+      \ Ierusalim s-au pus pe lucru si au insarcinat pe levitii de la douazeci de\
+      \ ani in sus sa vegheze asupra lucrarilor Casei lui YaHWeH."
+    textWithDiacritics: "În al doilea an de la venirea lor la Casa lui YaHWeH la Ierusalim,\
+      \ în luna a doua, Zorobabel, fiul lui Şealtiel, Iosua, fiul lui Ioţadac, cu\
+      \ ceilalţi fraţi ai lor, preoţi şi leviţi, şi toţi cei ce se întorseseră din\
+      \ robie la Ierusalim s-au pus pe lucru şi au însărcinat pe leviţii de la două\
+      zeci de ani în sus să vegheze asupra lucrărilor Casei lui YaHWeH."
+    chapter: null
+  - verseNumber: 9
+    text: "Si Iosua cu fiii si fratii sai, Cadmiel cu fiii sai, fiii lui Iuda, fiii\
+      \ lui Henadad cu fiii si fratii lor, levitii, s-au pregatit toti, ca un om,\
+      \ sa vegheze asupra celor ce lucrau la Casa lui YaHWeH."
+    textWithDiacritics: "Şi Iosua cu fiii şi fraţii săi, Cadmiel cu fiii săi, fiii\
+      \ lui Iuda, fiii lui Henadad cu fiii şi fraţii lor, leviţii, s-au pregătit toţ\
+      i, ca un om, să vegheze asupra celor ce lucrau la Casa lui YaHWeH."
+    chapter: null
+  - verseNumber: 10
+    text: "Cind au pus lucratorii temeliile Templului lui YaHWeH, au asezat pe preoti\
+      \ in vesminte, cu trimbite, si pe leviti, fiii lui Asaf, cu chimvale, ca sa\
+      \ laude pe YaHWeH, dupa rinduiala lui David, imparatul lui Israel."
+    textWithDiacritics: "Cînd au pus lucrătorii temeliile Templului lui YaHWeH, au\
+      \ aşezat pe preoţi în veşminte, cu trîmbiţe, şi pe leviţi, fiii lui Asaf, cu\
+      \ chimvale, ca să laude pe YaHWeH, după rînduiala lui David, împăratul lui Israel."
+    chapter: null
+  - verseNumber: 11
+    text: "Cintau, marind si laudind pe YaHWeH prin aceste cuvinte: „Caci este bun,\
+      \ caci indurarea Lui pentru Israel tine in veac!” Si tot poporul scotea mari\
+      \ strigate de bucurie, laudind pe YaHWeH, pentru ca puneau temeliile Casei lui\
+      \ YaHWeH."
+    textWithDiacritics: "Cîntau, mărind şi lăudînd pe YaHWeH prin aceste cuvinte:\
+      \ „Căci este bun, căci îndurarea Lui pentru Israel ţine în veac!” Şi tot poporul\
+      \ scotea mari strigăte de bucurie, lăudînd pe YaHWeH, pentru că puneau temeliile\
+      \ Casei lui YaHWeH."
+    chapter: null
+  - verseNumber: 12
+    text: "Dar multi din preoti si leviti si din capii de familii mai in virsta, care\
+      \ vazusera Casa dintii, plingeau tare, cind se puneau sub ochii lor temeliile\
+      \ Casei acesteia. Multi altii isi aratau bucuria prin strigate,"
+    textWithDiacritics: "Dar mulţi din preoţi şi leviţi şi din capii de familii mai\
+      \ în vîrstă, care văzuseră Casa dintîi, plîngeau tare, cînd se puneau sub ochii\
+      \ lor temeliile Casei acesteia. Mulţi alţii îşi arătau bucuria prin strigăte,"
+    chapter: null
+  - verseNumber: 13
+    text: "asa incit nu se putea deosebi glasul strigatelor de bucurie de glasul plinsetelor\
+      \ poporului; caci poporul scotea mari strigate, al caror sunet se auzea de departe."
+    textWithDiacritics: "aşa încît nu se putea deosebi glasul strigătelor de bucurie\
+      \ de glasul plînsetelor poporului; căci poporul scotea mari strigăte, al că\
+      ror sunet se auzea de departe."
+    chapter: null
+- number: 4
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Vrajmasii lui Iuda si Beniamin au auzit ca fiii robiei zidesc un Templu\
+      \ lui YaHWeH, Eylohim al lui Israel."
+    textWithDiacritics: "Vrăjmaşii lui Iuda şi Beniamin au auzit că fiii robiei zidesc\
+      \ un Templu lui YaHWeH, Eylohim al lui Israel."
+    chapter: null
+  - verseNumber: 2
+    text: "Au venit la Zorobabel si la capii de familii si le-au zis: „Sa zidim si\
+      \ noi cu voi; caci si noi chemam ca si voi pe YaHWeH Eylohim al vostru si-I\
+      \ aducem jertfe din vremea lui Esar-Hadon, imparatul Asiriei, care ne-a adus\
+      \ aici.”"
+    textWithDiacritics: "Au venit la Zorobabel şi la capii de familii şi le-au zis:\
+      \ „Să zidim şi noi cu voi; căci şi noi chemăm ca şi voi pe YaHWeH Eylohim al\
+      \ vostru şi-I aducem jertfe din vremea lui Esar-Hadon, împăratul Asiriei, care\
+      \ ne-a adus aici.”"
+    chapter: null
+  - verseNumber: 3
+    text: "Dar Zorobabel, Iosua si ceilalti capi ai familiilor lui Israel le-au raspuns:\
+      \ „Nu se cuvine sa ziditi impreuna cu noi Casa lui YaHWeH Eylohim al nostru;\
+      \ ci noi singuri o vom zidi lui YaHWeH, Eylohim al lui Israel, cum ne-a poruncit\
+      \ imparatul Cirus, imparatul persilor.”"
+    textWithDiacritics: "Dar Zorobabel, Iosua şi ceilalţi capi ai familiilor lui Israel\
+      \ le-au răspuns: „Nu se cuvine să zidiţi împreună cu noi Casa lui YaHWeH Eylohim\
+      \ al nostru; ci noi singuri o vom zidi lui YaHWeH, Eylohim al lui Israel, cum\
+      \ ne-a poruncit împăratul Cirus, împăratul perşilor.”"
+    chapter: null
+  - verseNumber: 4
+    text: "Atunci oamenii tarii au inmuiat inima poporului lui Iuda; l-au infricosat\
+      \ ca sa-l impiedice sa zideasca"
+    textWithDiacritics: "Atunci oamenii ţării au înmuiat inima poporului lui Iuda;\
+      \ l-au înfricoşat ca să-l împiedice să zidească"
+    chapter: null
+  - verseNumber: 5
+    text: "si au mituit cu pret de argint pe sfetnici ca sa-i zadarniceasca lucrarea.\
+      \ Asa a fost tot timpul vietii lui Cirus, imparatul persilor, pina lastapinirealui\
+      \ Darius, imparatul persilor."
+    textWithDiacritics: "şi au mituit cu preţ de argint pe sfetnici ca să-i zădărnicească\
+      \ lucrarea. Aşa a fost tot timpul vieţii lui Cirus, împăratul perşilor, pînă\
+      \ lastăpînirealui Darius, împăratul perşilor."
+    chapter: null
+  - verseNumber: 6
+    text: "Substapinirealui Asuerus, la inceputul stapinirei lui, au scris o pira\
+      \ impotriva locuitorilor din Iuda si din Ierusalim."
+    textWithDiacritics: "Substăpînirealui Asuerus, la începutul stăpînirei lui, au\
+      \ scris o pîră împotriva locuitorilor din Iuda şi din Ierusalim."
+    chapter: null
+  - verseNumber: 7
+    text: "Si pe vremea lui Artaxerxe, Bislam, Mitredat, Tabeel si ceilalti frati\
+      \ de slujba ai lor au scris lui Artaxerxe, imparatul persilor. Scrisoarea a\
+      \ fost scrisa cu slove aramaice si talmacita in limba aramaica."
+    textWithDiacritics: "Şi pe vremea lui Artaxerxe, Bişlam, Mitredat, Tabeel şi ceilalţ\
+      i frați de slujbă ai lor au scris lui Artaxerxe, împăratul perşilor. Scrisoarea\
+      \ a fost scrisă cu slove aramaice şi tălmăcită în limba aramaică."
+    chapter: null
+  - verseNumber: 8
+    text: "Dregatorul Rehum si logofatul Simsai au scris imparatului Artaxerxe scrisoarea\
+      \ urmatoare la Ierusalim."
+    textWithDiacritics: "Dregătorul Rehum şi logofătul Şimşai au scris împăratului\
+      \ Artaxerxe scrisoarea următoare la Ierusalim."
+    chapter: null
+  - verseNumber: 9
+    text: "Dregatorul Rehum, logofatul Simsai si ceilalti frati de slujba ai lor,\
+      \ cei din Din, din Arfarsatac, din Tarpel, din Afaras, din Erec, din Babilon,\
+      \ din Susa, din Deha, din Elam"
+    textWithDiacritics: "Dregătorul Rehum, logofătul Şimşai şi ceilalţi frați de slujbă\
+      \ ai lor, cei din Din, din Arfarsatac, din Tarpel, din Afaras, din Erec, din\
+      \ Babilon, din Susa, din Deha, din Elam"
+    chapter: null
+  - verseNumber: 10
+    text: "si celelalte popoare pe care le-a mutat marele si vestitul Osnapar si le-a\
+      \ asezat in cetatea Samariei si in celelalte locuri de dincoace de Riu si asa\
+      \ mai departe."
+    textWithDiacritics: "şi celelalte popoare pe care le-a mutat marele şi vestitul\
+      \ Osnapar şi le-a aşezat în cetatea Samariei şi în celelalte locuri de dincoace\
+      \ de Rîu şi aşa mai departe."
+    chapter: null
+  - verseNumber: 11
+    text: "Iata cuprinsul scrisorii pe care au trimis-o imparatului Artaxerxe: „Robii\
+      \ tai, oamenii de dincoace de Riu, si asa mai departe…"
+    textWithDiacritics: "Iată cuprinsul scrisorii pe care au trimis-o împăratului\
+      \ Artaxerxe: „Robii tăi, oamenii de dincoace de Rîu, şi aşa mai departe…"
+    chapter: null
+  - verseNumber: 12
+    text: "Sa stie imparatul ca iudeii plecati de la tine si veniti printre noi la\
+      \ Ierusalim zidesc din nou cetatea aceea razvratita si rea, ii ridica zidurile\
+      \ si-i dreg temeliile."
+    textWithDiacritics: "Să ştie împăratul că iudeii plecaţi de la tine şi veniţi\
+      \ printre noi la Ierusalim zidesc din nou cetatea aceea răzvrătită şi rea, î\
+      i ridică zidurile şi-i dreg temeliile."
+    chapter: null
+  - verseNumber: 13
+    text: "Sa stie, dar, imparatul ca, daca se va zidi cetatea aceasta si i se vor\
+      \ ridica zidurile, nu vor mai plati nici bir, nici dare, nici drept de trecere,\
+      \ si vistieria imparateasca va suferi din pricina aceasta."
+    textWithDiacritics: "Să ştie, dar, împăratul că, dacă se va zidi cetatea aceasta\
+      \ şi i se vor ridica zidurile, nu vor mai plăti nici bir, nici dare, nici drept\
+      \ de trecere, şi vistieria împărătească va suferi din pricina aceasta."
+    chapter: null
+  - verseNumber: 14
+    text: "Si, fiindca noi mincam sarea curtii imparatesti si nu ne sade bine sa vedem\
+      \ pe imparat pagubit, trimitem imparatului aceste stiri."
+    textWithDiacritics: "Şi, fiindcă noi mîncăm sarea curţii împărătești şi nu ne\
+      \ şade bine să vedem pe împărat păgubit, trimitem împăratului aceste ştiri."
+    chapter: null
+  - verseNumber: 15
+    text: "Sa se faca cercetari in cartea cronicilor parintilor tai; si vei gasi si\
+      \ vei vedea in cartea cronicilor ca cetatea aceasta este o cetate razvratita,\
+      \ vatamatoare imparatilor si tinuturilor, si ca s-au dedat la rascoala inca\
+      \ din vremuri strabune. De aceea a fost nimicita cetatea aceasta."
+    textWithDiacritics: "Să se facă cercetări în cartea cronicilor părinţilor tăi;\
+      \ şi vei găsi şi vei vedea în cartea cronicilor că cetatea aceasta este o cetate\
+      \ răzvrătită, vătămătoare împăraţilor şi ţinuturilor, şi că s-au dedat la ră\
+      scoală încă din vremuri străbune. De aceea a fost nimicită cetatea aceasta."
+    chapter: null
+  - verseNumber: 16
+    text: "Facem cunoscut imparatului ca, daca va fi zidita din nou cetatea aceasta\
+      \ si daca i se vor ridica zidurile, prin chiar faptul acesta, nu vei mai avea\
+      \ stapinire dincoace de Riu.”"
+    textWithDiacritics: "Facem cunoscut împăratului că, dacă va fi zidită din nou\
+      \ cetatea aceasta şi dacă i se vor ridica zidurile, prin chiar faptul acesta,\
+      \ nu vei mai avea stăpînire dincoace de Rîu.”"
+    chapter: null
+  - verseNumber: 17
+    text: "Iata raspunsul trimis de imparat dregatorului Rehum, logofatului Simsai\
+      \ si celorlalti frati ai lui de slujba, care locuiau la Samaria si in alte locuri\
+      \ de cealalta parte a Riului: „Sanatate si asa mai departe…"
+    textWithDiacritics: "Iată răspunsul trimis de împărat dregătorului Rehum, logofă\
+      tului Şimşai şi celorlalţi frați ai lui de slujbă, care locuiau la Samaria ş\
+      i în alte locuri de cealaltă parte a Rîului: „Sănătate şi aşa mai departe…"
+    chapter: null
+  - verseNumber: 18
+    text: "Scrisoarea pe care ne-ati trimis-o a fost citita intocmai inaintea mea."
+    textWithDiacritics: "Scrisoarea pe care ne-aţi trimis-o a fost citită întocmai\
+      \ înaintea mea."
+    chapter: null
+  - verseNumber: 19
+    text: "Am dat porunca sa se faca cercetari; si s-a gasit ca din vremuri vechi\
+      \ cetatea aceasta s-a rasculat impotriva imparatilor si s-a dedat la rascoala\
+      \ si la razvratire."
+    textWithDiacritics: "Am dat poruncă să se facă cercetări; şi s-a găsit că din\
+      \ vremuri vechi cetatea aceasta s-a răsculat împotriva împăraţilor şi s-a dedat\
+      \ la răscoală şi la răzvrătire."
+    chapter: null
+  - verseNumber: 20
+    text: "Au fost la Ierusalim imparati puternici, stapini peste toata tara de dincolo\
+      \ de Riu, si carora li se platea bir, dare si drept de trecere pe drum."
+    textWithDiacritics: "Au fost la Ierusalim împăraţi puternici, stăpîni peste toată\
+      \ ţara de dincolo de Rîu, şi cărora li se plătea bir, dare şi drept de trecere\
+      \ pe drum."
+    chapter: null
+  - verseNumber: 21
+    text: "Ca urmare, porunciti sa inceteze lucrarile oamenilor acelora si sa nu se\
+      \ mai zideasca cetatea aceasta pina ce nu vor avea o invoire din partea mea."
+    textWithDiacritics: "Ca urmare, porunciţi să înceteze lucrările oamenilor acelora\
+      \ şi să nu se mai zidească cetatea aceasta pînă ce nu vor avea o învoire din\
+      \ partea mea."
+    chapter: null
+  - verseNumber: 22
+    text: "Vedeti sa nu va abateti de la porunca aceasta, ca sa nu creasca raul acela\
+      \ spre paguba imparatilor.”"
+    textWithDiacritics: "Vedeţi să nu vă abateţi de la porunca aceasta, ca să nu crească\
+      \ răul acela spre paguba împăraţilor.”"
+    chapter: null
+  - verseNumber: 23
+    text: "Indata ce s-a citit cuprinsul scrisorii imparatului Artaxerxe inaintea\
+      \ lui Rehum, inaintea logofatului Simsai si inaintea insotitorilor lor la slujba,\
+      \ s-au dus in graba la Ierusalim la iudei si i-au oprit cu sila si cu putere\
+      \ de la lucrarile lor."
+    textWithDiacritics: "Îndată ce s-a citit cuprinsul scrisorii împăratului Artaxerxe\
+      \ înaintea lui Rehum, înaintea logofătului Şimşai şi înaintea însoţitorilor\
+      \ lor la slujbă, s-au dus în grabă la Ierusalim la iudei şi i-au oprit cu silă\
+      \ şi cu putere de la lucrările lor."
+    chapter: null
+  - verseNumber: 24
+    text: "Atunci s-a oprit lucrarea Casei lui YaHWeH la Ierusalim si a fost oprita\
+      \ pina in anul al doilea al stapinirii lui Darius, imparatul persilor."
+    textWithDiacritics: "Atunci s-a oprit lucrarea Casei lui YaHWeH la Ierusalim ş\
+      i a fost oprită pînă în anul al doilea al stăpînirii lui Darius, împăratul perş\
+      ilor."
+    chapter: null
+- number: 5
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Prorocii: Hagai, prorocul, si Zaharia, fiul lui Ido, au prorocit iudeilor\
+      \ care erau in Iuda si la Ierusalim in Numele lui YaHWeH Eylohim al lui Israel."
+    textWithDiacritics: "Prorocii: Hagai, prorocul, şi Zaharia, fiul lui Ido, au prorocit\
+      \ iudeilor care erau în Iuda şi la Ierusalim în Numele lui YaHWeH Eylohim al\
+      \ lui Israel."
+    chapter: null
+  - verseNumber: 2
+    text: "Atunci Zorobabel, fiul lui Sealtiel, si Iosua, fiul lui Iotadac, s-au sculat\
+      \ si au inceput zidirea Casei lui YaHWeH la Ierusalim. Si impreuna cu ei erau\
+      \ si prorocii lui YaHWeH, care-i ajutau."
+    textWithDiacritics: "Atunci Zorobabel, fiul lui Şealtiel, şi Iosua, fiul lui Ioţ\
+      adac, s-au sculat şi au început zidirea Casei lui YaHWeH la Ierusalim. Şi î\
+      mpreună cu ei erau şi prorocii lui YaHWeH, care-i ajutau."
+    chapter: null
+  - verseNumber: 3
+    text: "In aceeasi vreme, Tatnai, dregatorul de dincoace de Riu, Setar-Boznai si\
+      \ insotitori lor de slujba au venit la ei si le-au vorbit asa: „Cine v-a dat\
+      \ invoire sa ziditi Casa aceasta si sa ridicati zidurile acestea?”"
+    textWithDiacritics: "În aceeaşi vreme, Tatnai, dregătorul de dincoace de Rîu,\
+      \ Şetar-Boznai şi însoţitori lor de slujbă au venit la ei şi le-au vorbit aş\
+      a: „Cine v-a dat învoire să zidiţi Casa aceasta şi să ridicaţi zidurile acestea?”"
+    chapter: null
+  - verseNumber: 4
+    text: "Ei le-au mai zis: „Care sunt numele oamenilor care zidesc cladirea aceasta?”"
+    textWithDiacritics: "Ei le-au mai zis: „Care sunt numele oamenilor care zidesc\
+      \ clădirea aceasta?”"
+    chapter: null
+  - verseNumber: 5
+    text: "Dar ochiul lui YaHWeH veghea asupra batrinilor iudeilor. Si au lasat sa\
+      \ mearga inainte lucrarile pina la trimiterea unei instiintari catre Darius\
+      \ si pina la primirea unei scrisori de la el in aceasta privinta."
+    textWithDiacritics: "Dar ochiul lui YaHWeH veghea asupra bătrînilor iudeilor.\
+      \ Şi au lăsat să meargă înainte lucrările pînă la trimiterea unei înştiinţă\
+      ri către Darius şi pînă la primirea unei scrisori de la el în această privinţ\
+      ă."
+    chapter: null
+  - verseNumber: 6
+    text: "Iata cuprinsul scrisorii trimise imparatului Darius de Tatnai, dregatorul\
+      \ de dincoace de Riu, de Setar-Boznai si insotitori lor din Afarsac care locuiau\
+      \ dincoace de Riu."
+    textWithDiacritics: "Iată cuprinsul scrisorii trimise împăratului Darius de Tatnai,\
+      \ dregătorul de dincoace de Rîu, de Şetar-Boznai şi însoţitori lor din Afarsac\
+      \ care locuiau dincoace de Rîu."
+    chapter: null
+  - verseNumber: 7
+    text: "I-au trimis o scrisoare cu urmatorul cuprins: „Catre imparatul Darius,\
+      \ sanatate!"
+    textWithDiacritics: "I-au trimis o scrisoare cu următorul cuprins: „Către împă\
+      ratul Darius, sănătate!"
+    chapter: null
+  - verseNumber: 8
+    text: "Sa stie imparatul ca ne-am dus in tinuturile lui Iuda, la Casa lui YaHWeH\
+      \ Cel Atotputernic. Ea se zideste din pietre cioplite, si in pereti se pune\
+      \ lemn; lucrul merge repede si izbuteste in miinile lor."
+    textWithDiacritics: "Să ştie împăratul că ne-am dus în ţinuturile lui Iuda, la\
+      \ Casa lui YaHWeH Cel Atotputernic. Ea se zideşte din pietre cioplite, şi î\
+      n pereţi se pune lemn; lucrul merge repede şi izbuteşte în mîinile lor."
+    chapter: null
+  - verseNumber: 9
+    text: "Am intrebat pe batrini si le-am vorbit asa: „Cine v-a dat invoire sa ziditi\
+      \ Casa aceasta si sa ridicati zidurile acestea?”"
+    textWithDiacritics: "Am întrebat pe bătrîni şi le-am vorbit aşa: „Cine v-a dat\
+      \ învoire să zidiţi Casa aceasta şi să ridicaţi zidurile acestea?”"
+    chapter: null
+  - verseNumber: 10
+    text: "Le-am cerut si numele lor ca sa ti le facem cunoscut si am pus in scris\
+      \ numele oamenilor care sunt in fruntea lor."
+    textWithDiacritics: "Le-am cerut şi numele lor ca să ţi le facem cunoscut şi am\
+      \ pus în scris numele oamenilor care sunt în fruntea lor."
+    chapter: null
+  - verseNumber: 11
+    text: "Iata raspunsul pe care ni l-au dat: „Noi suntem slujitorii lui YaHWeH al\
+      \ cerurilor si al pamintului si zidim din nou Casa care fusese zidita acum multi\
+      \ ani. Un mare imparat al lui Israel o zidise si o ispravise."
+    textWithDiacritics: "Iată răspunsul pe care ni l-au dat: „Noi suntem slujitorii\
+      \ lui YaHWeH al cerurilor şi al pămîntului şi zidim din nou Casa care fusese\
+      \ zidită acum mulţi ani. Un mare împărat al lui Israel o zidise şi o isprăvise."
+    chapter: null
+  - verseNumber: 12
+    text: "Dar, dupa ce parintii nostri au miniat pe Eylohim al cerurilor, El i-a\
+      \ dat in miinile lui Nebucadnetar, imparatul Babilonului, haldeianul, care a\
+      \ nimicit Casa aceasta si a luat pe popor rob la Babilon."
+    textWithDiacritics: "Dar, după ce părinţii noştri au mîniat pe Eylohim al cerurilor,\
+      \ El i-a dat în mîinile lui Nebucadneţar, împăratul Babilonului, haldeianul,\
+      \ care a nimicit Casa aceasta şi a luat pe popor rob la Babilon."
+    chapter: null
+  - verseNumber: 13
+    text: "Totusi in cel dintii an al lui Cirus, imparatul Babilonului, imparatul\
+      \ Cirus a dat porunca sa se zideasca din nou aceasta Casa a lui YaHWeH."
+    textWithDiacritics: "Totuşi în cel dintîi an al lui Cirus, împăratul Babilonului,\
+      \ împăratul Cirus a dat poruncă să se zidească din nou această Casă a lui YaHWeH."
+    chapter: null
+  - verseNumber: 14
+    text: "Si chiar imparatul Cirus a scos din templul din Babilon uneltele de aur\
+      \ si de argint ale Casei lui YaHWeH, pe care le luase Nebucadnetar din Templul\
+      \ de la Ierusalim si le dusese in templul din Babilon, le-a dat in mina asa-zisului\
+      \ Sesbatar, pe care l-a pus dregator,"
+    textWithDiacritics: "Şi chiar împăratul Cirus a scos din templul din Babilon uneltele\
+      \ de aur şi de argint ale Casei lui YaHWeH, pe care le luase Nebucadneţar din\
+      \ Templul de la Ierusalim şi le dusese în templul din Babilon, le-a dat în mî\
+      na aşa-zisului Şeşbaţar, pe care l-a pus dregător,"
+    chapter: null
+  - verseNumber: 15
+    text: "si i-a zis: „Ia uneltele acestea, du-te de le pune in Templul din Ierusalim\
+      \ si sa se zideasca din nou Casa lui YaHWeH pe locul unde era.”"
+    textWithDiacritics: "şi i-a zis: „Ia uneltele acestea, du-te de le pune în Templul\
+      \ din Ierusalim şi să se zidească din nou Casa lui YaHWeH pe locul unde era.”"
+    chapter: null
+  - verseNumber: 16
+    text: "Acest Sesbatar a venit, dar, si a pus temeliile Casei lui YaHWeH la Ierusalim.\
+      \ De atunci pina acum se zideste ea, si nu s-a ispravit."
+    textWithDiacritics: "Acest Şeşbaţar a venit, dar, şi a pus temeliile Casei lui\
+      \ YaHWeH la Ierusalim. De atunci pînă acum se zideşte ea, şi nu s-a isprăvit."
+    chapter: null
+  - verseNumber: 17
+    text: "Acum, daca imparatul gaseste cu cale, sa se faca cercetari in casa vistieriilor\
+      \ imparatului la Babilon, ca sa vada daca s-a dat din partea imparatului Cirus\
+      \ o porunca pentru zidirea Casei acesteia a lui YaHWeH la Ierusalim. Apoi, sa\
+      \ ne trimita imparatul vointa lui asupra acestui lucru.”"
+    textWithDiacritics: "Acum, dacă împăratul găseşte cu cale, să se facă cercetă\
+      ri în casa vistieriilor împăratului la Babilon, ca să vadă dacă s-a dat din\
+      \ partea împăratului Cirus o poruncă pentru zidirea Casei acesteia a lui YaHWeH\
+      \ la Ierusalim. Apoi, să ne trimită împăratul voinţa lui asupra acestui lucru.”"
+    chapter: null
+- number: 6
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Atunci imparatul Darius a dat porunca sa se faca cercetari in casa scrisorilor,\
+      \ unde se puneau vistieriile in Babilon."
+    textWithDiacritics: "Atunci împăratul Darius a dat poruncă să se facă cercetă\
+      ri în casa scrisorilor, unde se puneau vistieriile în Babilon."
+    chapter: null
+  - verseNumber: 2
+    text: "Si s-a gasit la Ahmeta, capitala tinutului Mediei, un sul pe care era scrisa\
+      \ aceasta aducere aminte:"
+    textWithDiacritics: "Şi s-a găsit la Ahmeta, capitala ţinutului Mediei, un sul\
+      \ pe care era scrisă această aducere aminte:"
+    chapter: null
+  - verseNumber: 3
+    text: "„In anul intii al stapinirii imparatului Cirus, imparatul Cirus a dat aceasta\
+      \ porunca privitoare la Casa lui YaHWeH din Ierusalim: „Casa sa fie zidita iarasi,\
+      \ ca sa fie un loc unde sa se aduca jertfe si sa aiba temelii tari. Sa aiba\
+      \ o inaltime de saizeci de coti, o latime de saizeci de coti,"
+    textWithDiacritics: "„În anul întîi al stăpînirii împăratului Cirus, împăratul\
+      \ Cirus a dat această poruncă privitoare la Casa lui YaHWeH din Ierusalim: „\
+      Casa să fie zidită iarăşi, ca să fie un loc unde să se aducă jertfe şi să aibă\
+      \ temelii tari. Să aibă o înălţime de şaizeci de coţi, o lăţime de şaizeci de\
+      \ coţi,"
+    chapter: null
+  - verseNumber: 4
+    text: "trei rinduri de pietre cioplite si un rind de lemn nou. Cheltuielile vor\
+      \ fi platite din casa imparatului."
+    textWithDiacritics: "trei rînduri de pietre cioplite şi un rînd de lemn nou. Cheltuielile\
+      \ vor fi plătite din casa împăratului."
+    chapter: null
+  - verseNumber: 5
+    text: "Mai mult, uneltele de aur si de argint ale Casei lui YaHWeH, pe care le\
+      \ luase Nebucadnetar din Templul de la Ierusalim si le adusese la Babilon, sa\
+      \ fie date inapoi, duse in Templul din Ierusalim, la locul unde erau, si puse\
+      \ in Casa lui YaHWeH.”"
+    textWithDiacritics: "Mai mult, uneltele de aur şi de argint ale Casei lui YaHWeH,\
+      \ pe care le luase Nebucadneţar din Templul de la Ierusalim şi le adusese la\
+      \ Babilon, să fie date înapoi, duse în Templul din Ierusalim, la locul unde\
+      \ erau, şi puse în Casa lui YaHWeH.”"
+    chapter: null
+  - verseNumber: 6
+    text: "Acum, Tatnai, dregatorul de dincolo de Riu, Setar-Boznai si insotitori\
+      \ vostri de slujba din Afarsac, care locuiti dincolo de Riu, departati-va de\
+      \ locul acesta."
+    textWithDiacritics: "Acum, Tatnai, dregătorul de dincolo de Rîu, Şetar-Boznai\
+      \ şi însoţitori voştri de slujbă din Afarsac, care locuiţi dincolo de Rîu, depă\
+      rtaţi-vă de locul acesta."
+    chapter: null
+  - verseNumber: 7
+    text: "Lasati sa mearga inainte lucrarile acestei Case a lui YaHWeH; dregatorul\
+      \ iudeilor si batrinii iudeilor s-o zideasca iarasi pe locul unde era."
+    textWithDiacritics: "Lăsaţi să meargă înainte lucrările acestei Case a lui YaHWeH;\
+      \ dregătorul iudeilor şi bătrînii iudeilor s-o zidească iarăşi pe locul unde\
+      \ era."
+    chapter: null
+  - verseNumber: 8
+    text: "Iata porunca pe care o dau cu privire la ce veti avea de facut fata de\
+      \ acesti batrini ai iudeilor, pentru zidirea acestei Case a lui YaHWeH: cheltuielile,\
+      \ luate din averile imparatului venite din birurile de dincolo de Riu, sa fie\
+      \ platite indata oamenilor acestora ca sa nu inceteze lucrul."
+    textWithDiacritics: "Iată porunca pe care o dau cu privire la ce veţi avea de\
+      \ făcut faţă de aceşti bătrîni ai iudeilor, pentru zidirea acestei Case a lui\
+      \ YaHWeH: cheltuielile, luate din averile împăratului venite din birurile de\
+      \ dincolo de Rîu, să fie plătite îndată oamenilor acestora ca să nu înceteze\
+      \ lucrul."
+    chapter: null
+  - verseNumber: 9
+    text: "Lucrurile trebuincioase pentru arderile de tot ale lui YaHWeH al cerurilor,\
+      \ vitei, berbeci si miei, griu, sare, vin si untdelemn, sa li se dea, la cerere,\
+      \ preotilor din Ierusalim, zi de zi si fara nicio lipsa,"
+    textWithDiacritics: "Lucrurile trebuincioase pentru arderile de tot ale lui YaHWeH\
+      \ al cerurilor, viţei, berbeci şi miei, grîu, sare, vin şi untdelemn, să li\
+      \ se dea, la cerere, preoţilor din Ierusalim, zi de zi şi fără nicio lipsă,"
+    chapter: null
+  - verseNumber: 10
+    text: "ca sa aduca jertfe de bun miros lui YaHWeH al cerurilor si sa se roage\
+      \ pentru viata imparatului si a fiilor lui."
+    textWithDiacritics: "ca să aducă jertfe de bun miros lui YaHWeH al cerurilor ş\
+      i să se roage pentru viaţa împăratului şi a fiilor lui."
+    chapter: null
+  - verseNumber: 11
+    text: "Si iata porunca pe care o dau cu privire la oricine va calca porunca aceasta:\
+      \ sa se scoata din casa lui o birna, s-o ridice ca sa fie spinzurat pe ea, si\
+      \ casa sa i se prefaca intr-o gramada de gunoi."
+    textWithDiacritics: "Şi iată porunca pe care o dau cu privire la oricine va că\
+      lca porunca aceasta: să se scoată din casa lui o bîrnă, s-o ridice ca să fie\
+      \ spînzurat pe ea, şi casa să i se prefacă într-o grămadă de gunoi."
+    chapter: null
+  - verseNumber: 12
+    text: "YaHWeH care a pus sa locuiasca in locul acela Numele Lui sa rastoarne pe\
+      \ orice imparat si pe orice popor care ar intinde mina sa calce cuvintul meu\
+      \ ca sa nimiceasca aceasta Casa a lui YaHWeH din Ierusalim! Eu, Darius, am dat\
+      \ porunca aceasta. Sa fie implinita intocmai.”"
+    textWithDiacritics: "YaHWeH care a pus să locuiască în locul acela Numele Lui\
+      \ să răstoarne pe orice împărat şi pe orice popor care ar întinde mîna să calce\
+      \ cuvîntul meu ca să nimicească această Casă a lui YaHWeH din Ierusalim! Eu,\
+      \ Darius, am dat porunca aceasta. Să fie împlinită întocmai.”"
+    chapter: null
+  - verseNumber: 13
+    text: "Tatnai, dregatorul de dincoace de Riu, Setar-Boznai si insotitori lor de\
+      \ slujba au implinit intocmai porunca aceasta pe care le-a trimis-o imparatul\
+      \ Darius."
+    textWithDiacritics: "Tatnai, dregătorul de dincoace de Rîu, Şetar-Boznai şi î\
+      nsoţitori lor de slujbă au împlinit întocmai porunca aceasta pe care le-a trimis-o\
+      \ împăratul Darius."
+    chapter: null
+  - verseNumber: 14
+    text: "Si batrinii iudeilor au zidit cu izbinda, dupa prorociile prorocului Hagai\
+      \ si ale lui Zaharia, fiul lui Ido; au zidit si au ispravit, dupa porunca lui\
+      \ YaHWeH al lui Israel si dupa porunca lui Cirus, lui Darius si lui Artaxerxe,\
+      \ imparatul persilor."
+    textWithDiacritics: "Şi bătrînii iudeilor au zidit cu izbîndă, după prorociile\
+      \ prorocului Hagai şi ale lui Zaharia, fiul lui Ido; au zidit şi au isprăvit,\
+      \ după porunca lui YaHWeH al lui Israel şi după porunca lui Cirus, lui Darius\
+      \ şi lui Artaxerxe, împăratul perşilor."
+    chapter: null
+  - verseNumber: 15
+    text: "Casa a fost ispravita in ziua a treia a lunii Adar, in al saselea an al\
+      \ stapinirii imparatului Darius. Sfintirea Templului"
+    textWithDiacritics: "Casa a fost isprăvită în ziua a treia a lunii Adar, în al\
+      \ şaselea an al stăpînirii împăratului Darius. Sfinţirea Templului"
+    chapter: null
+  - verseNumber: 16
+    text: "Copiii lui Israel, preotii si levitii, si ceilalti fiii ai robiei au facut\
+      \ cu bucurie sfintirea acestei Case a lui YaHWeH."
+    textWithDiacritics: "Copiii lui Israel, preoţii şi leviţii, şi ceilalţi fiii ai\
+      \ robiei au făcut cu bucurie sfinţirea acestei Case a lui YaHWeH."
+    chapter: null
+  - verseNumber: 17
+    text: "Au adus pentru sfintirea acestei Case a lui YaHWeH o suta de vitei, doua\
+      \ sute de berbeci, patru sute de miei si, ca jertfe ispasitoare pentru tot Israelul,\
+      \ doisprezece tapi, dupa numarul semintiilor lui Israel."
+    textWithDiacritics: "Au adus pentru sfinţirea acestei Case a lui YaHWeH o sută\
+      \ de viţei, două sute de berbeci, patru sute de miei şi, ca jertfe ispăşitoare\
+      \ pentru tot Israelul, doisprezece ţapi, după numărul seminţiilor lui Israel."
+    chapter: null
+  - verseNumber: 18
+    text: "Au pus pe preoti, dupa cetele lor, si pe leviti, dupa impartirile lor,\
+      \ pentru slujba lui YaHWeH la Ierusalim, cum este scris in cartea lui Moise."
+    textWithDiacritics: "Au pus pe preoţi, după cetele lor, şi pe leviţi, după împă\
+      rţirile lor, pentru slujba lui YaHWeH la Ierusalim, cum este scris în cartea\
+      \ lui Moise."
+    chapter: null
+  - verseNumber: 19
+    text: "Fiii robiei au injunghiat pastile in a paisprezecea zi a lunii intii."
+    textWithDiacritics: "Fiii robiei au înjunghiat paştile în a paisprezecea zi a\
+      \ lunii întîi."
+    chapter: null
+  - verseNumber: 20
+    text: "Preotii si levitii se curatasera cu totii, asa ca toti erau curati; au\
+      \ injunghiat pastile pentru toti fiii robiei, pentru fratii lor, preotii, si\
+      \ pentru ei insisi."
+    textWithDiacritics: "Preoţii şi leviţii se curăţaseră cu toţii, aşa că toţi erau\
+      \ curaţi; au înjunghiat paştile pentru toţi fiii robiei, pentru fraţii lor,\
+      \ preoţii, şi pentru ei înşişi."
+    chapter: null
+  - verseNumber: 21
+    text: "Copiii lui Israel intorsi din robie au mincat pastile impreuna cu toti\
+      \ cei ce se departasera de necuratia neamurilor tarii si care s-au unit cu ei\
+      \ ca sa caute pe YaHWeH, Eylohim al lui Israel."
+    textWithDiacritics: "Copiii lui Israel întorşi din robie au mîncat paştile împreună\
+      \ cu toţi cei ce se depărtaseră de necurăţia neamurilor ţării şi care s-au unit\
+      \ cu ei ca să caute pe YaHWeH, Eylohim al lui Israel."
+    chapter: null
+  - verseNumber: 22
+    text: "Au praznuit cu bucurie sapte zile Sarbatoarea Azimelor, caci YaHWeH ii\
+      \ inveselise facind pe imparatul Asiriei sa-i sprijine in lucrarea Casei lui\
+      \ YaHWeH, Eylohim al lui Israel."
+    textWithDiacritics: "Au prăznuit cu bucurie şapte zile Sărbătoarea Azimelor, că\
+      ci YaHWeH îi înveselise făcînd pe împăratul Asiriei să-i sprijine în lucrarea\
+      \ Casei lui YaHWeH, Eylohim al lui Israel."
+    chapter: null
+- number: 7
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Dupa aceste lucruri, sub stapinirea lui Artaxerxe, imparatul persilor,\
+      \ a venit Ezra, fiul lui Seraia, fiul lui Azaria, fiul lui Hilchia,"
+    textWithDiacritics: "După aceste lucruri, sub stăpînirea lui Artaxerxe, împăratul\
+      \ perşilor, a venit Ezra, fiul lui Seraia, fiul lui Azaria, fiul lui Hilchia,"
+    chapter: null
+  - verseNumber: 2
+    text: "fiul lui Salum, fiul lui Tadoc, fiul lui Ahitub,"
+    textWithDiacritics: "fiul lui Şalum, fiul lui Ţadoc, fiul lui Ahitub,"
+    chapter: null
+  - verseNumber: 3
+    text: "fiul lui Amaria, fiul lui Azaria, fiul lui Meraiot,"
+    textWithDiacritics: "fiul lui Amaria, fiul lui Azaria, fiul lui Meraiot,"
+    chapter: null
+  - verseNumber: 4
+    text: "fiul lui Zerahia, fiul lui Uzi, fiul lui Buchi,"
+    textWithDiacritics: "fiul lui Zerahia, fiul lui Uzi, fiul lui Buchi,"
+    chapter: null
+  - verseNumber: 5
+    text: "fiul lui Abisua, fiul lui Fineas, fiul lui Eleazar, fiul lui Aaron, marele\
+      \ preot."
+    textWithDiacritics: "fiul lui Abişua, fiul lui Fineas, fiul lui Eleazar, fiul\
+      \ lui Aaron, marele preot."
+    chapter: null
+  - verseNumber: 6
+    text: "Acest Ezra a venit din Babilon: era un carturar iscusit in Legea lui YaHWeH,\
+      \ data lui Moise, Legea lui Eylohim al lui Israel. Si fiindca mina lui YaHWeH,\
+      \ Eylohim al sau era peste el, imparatul i-a dat tot ce ceruse."
+    textWithDiacritics: "Acest Ezra a venit din Babilon: era un cărturar iscusit î\
+      n Legea lui YaHWeH, dată lui Moise, Legea lui Eylohim al lui Israel. Şi fiindcă\
+      \ mîna lui YaHWeH, Eylohim al său era peste el, împăratul i-a dat tot ce ceruse."
+    chapter: null
+  - verseNumber: 7
+    text: "Multi din copiii lui Israel, din preoti si din leviti, din cintareti, din\
+      \ usieri si din slujitorii Templului au venit si ei la Ierusalim, in al saptelea\
+      \ an al imparatului Artaxerxe."
+    textWithDiacritics: "Mulţi din copiii lui Israel, din preoţi şi din leviţi, din\
+      \ cîntăreţi, din uşieri şi din slujitorii Templului au venit şi ei la Ierusalim,\
+      \ în al şaptelea an al împăratului Artaxerxe."
+    chapter: null
+  - verseNumber: 8
+    text: "Ezra a venit la Ierusalim in a cincea luna a anului al saptelea al imparatului."
+    textWithDiacritics: "Ezra a venit la Ierusalim în a cincea lună a anului al ş\
+      aptelea al împăratului."
+    chapter: null
+  - verseNumber: 9
+    text: "Plecase din Babilon in ziua intii a lunii intii si a ajuns la Ierusalim\
+      \ in ziua intii a lunii a cincea, mina buna a lui YaHWeH Eylohim al sau fiind\
+      \ peste el."
+    textWithDiacritics: "Plecase din Babilon în ziua întîi a lunii întîi şi a ajuns\
+      \ la Ierusalim în ziua întîi a lunii a cincea, mîna bună a lui YaHWeH Eylohim\
+      \ al său fiind peste el."
+    chapter: null
+  - verseNumber: 10
+    text: "Caci Ezra isi pusese inima sa adinceasca si sa implineasca Legea lui YaHWeH,\
+      \ si sa invete pe oameni in mijlocul lui Israel Legile si Poruncile."
+    textWithDiacritics: "Căci Ezra îşi pusese inima să adîncească şi să împlinească\
+      \ Legea lui YaHWeH, şi să înveţe pe oameni în mijlocul lui Israel Legile şi\
+      \ Poruncile."
+    chapter: null
+  - verseNumber: 11
+    text: "Iata cuprinsul scrisorii date de imparatul Artaxerxe preotului si carturarului\
+      \ Ezra, care invata Poruncile si Legile lui YaHWeH cu privire la Israel:"
+    textWithDiacritics: "Iată cuprinsul scrisorii date de împăratul Artaxerxe preotului\
+      \ şi cărturarului Ezra, care învăţa Poruncile şi Legile lui YaHWeH cu privire\
+      \ la Israel:"
+    chapter: null
+  - verseNumber: 12
+    text: "„Artaxerxe, imparatul imparatilor, catre Ezra, preotul si carturarul iscusit\
+      \ in Legea lui Eylohim al cerurilor, si asa mai departe…:"
+    textWithDiacritics: "„Artaxerxe, împăratul împăraţilor, către Ezra, preotul ş\
+      i cărturarul iscusit în Legea lui Eylohim al cerurilor, şi aşa mai departe…:"
+    chapter: null
+  - verseNumber: 13
+    text: "Am dat porunca sa se lase sa plece aceia din poporul lui Israel, din preotii\
+      \ si din levitii lui care se afla in imparatia mea si care vor sa plece cu tine\
+      \ la Ierusalim."
+    textWithDiacritics: "Am dat poruncă să se lase să plece aceia din poporul lui\
+      \ Israel, din preoţii şi din leviţii lui care se află în împărăţia mea şi care\
+      \ vor să plece cu tine la Ierusalim."
+    chapter: null
+  - verseNumber: 14
+    text: "Tu esti trimis de imparatul si de cei sapte sfetnici ai lui sa cercetezi\
+      \ in Iuda si Ierusalim, dupa Legea lui YaHWeH care este in miinile tale,"
+    textWithDiacritics: "Tu eşti trimis de împăratul şi de cei şapte sfetnici ai lui\
+      \ să cercetezi în Iuda şi Ierusalim, după Legea lui YaHWeH care este în mîinile\
+      \ tale,"
+    chapter: null
+  - verseNumber: 15
+    text: "si sa duci argintul si aurul pe care imparatul si sfetnicii sai l-au daruit\
+      \ cu draga inima lui YaHWeH Eylohim al lui Israel, a carui locuinta este la\
+      \ Ierusalim,"
+    textWithDiacritics: "şi să duci argintul şi aurul pe care împăratul şi sfetnicii\
+      \ săi l-au dăruit cu dragă inimă lui YaHWeH Eylohim al lui Israel, a cărui locuinţ\
+      ă este la Ierusalim,"
+    chapter: null
+  - verseNumber: 16
+    text: "tot argintul si aurul pe care-l vei gasi in tot tinutul Babilonului si\
+      \ darurile de bunavoie facute de popor si preoti pentru Casa lui Eylohim al\
+      \ lor la Ierusalim."
+    textWithDiacritics: "tot argintul şi aurul pe care-l vei găsi în tot ţinutul Babilonului\
+      \ şi darurile de bunăvoie făcute de popor şi preoţi pentru Casa lui Eylohim\
+      \ al lor la Ierusalim."
+    chapter: null
+  - verseNumber: 17
+    text: "Ca urmare, vei avea grija sa cumperi cu argintul acesta vitei, berbeci,\
+      \ miei si ce trebuie pentru darurile de mincare si jertfele de bautura si sa\
+      \ le aduci pe altarul Casei lui YaHWeH la Ierusalim."
+    textWithDiacritics: "Ca urmare, vei avea grijă să cumperi cu argintul acesta viţ\
+      ei, berbeci, miei şi ce trebuie pentru darurile de mîncare şi jertfele de bă\
+      utură şi să le aduci pe altarul Casei lui YaHWeH la Ierusalim."
+    chapter: null
+  - verseNumber: 18
+    text: "Cu celalalt argint si aur sa faceti ce veti crede de cuviinta, tu si fratii\
+      \ tai, potrivit cu voia lui YaHWeH Eylohim al vostru."
+    textWithDiacritics: "Cu celălalt argint şi aur să faceţi ce veţi crede de cuviinţ\
+      ă, tu şi fraţii tăi, potrivit cu voia lui YaHWeH Eylohim al vostru."
+    chapter: null
+  - verseNumber: 19
+    text: "Pune inaintea lui YaHWeH la Ierusalim uneltele care-ti vor fi incredintate\
+      \ pentru slujba Casei lui YaHWeH Eylohim al tau."
+    textWithDiacritics: "Pune înaintea lui YaHWeH la Ierusalim uneltele care-ţi vor\
+      \ fi încredinţate pentru slujba Casei lui YaHWeH Eylohim al tău."
+    chapter: null
+  - verseNumber: 20
+    text: "Sa scoti din casa vistieriilor imparatului ce va trebui pentru celelalte\
+      \ cheltuieli pe care le vei avea de facut cu privire la Casa lui YaHWeH."
+    textWithDiacritics: "Să scoţi din casa vistieriilor împăratului ce va trebui pentru\
+      \ celelalte cheltuieli pe care le vei avea de făcut cu privire la Casa lui YaHWeH."
+    chapter: null
+  - verseNumber: 21
+    text: "Eu, imparatul Artaxerxe, dau porunca tuturor vistiernicilor de dincolo\
+      \ de Riu sa dea indata lui Ezra, preot si carturar iscusit in Legea lui YaHWeH,\
+      \ tot ce va va cere,"
+    textWithDiacritics: "Eu, împăratul Artaxerxe, dau poruncă tuturor vistiernicilor\
+      \ de dincolo de Rîu să dea îndată lui Ezra, preot şi cărturar iscusit în Legea\
+      \ lui YaHWeH, tot ce vă va cere,"
+    chapter: null
+  - verseNumber: 22
+    text: "pina la o suta de talanti de argint, o suta de cori de griu, o suta de\
+      \ bati de vin, o suta de bati de untdelemn si sare cita va vrea."
+    textWithDiacritics: "pînă la o sută de talanţi de argint, o sută de cori de grî\
+      u, o sută de baţi de vin, o sută de baţi de untdelemn şi sare cîtă va vrea."
+    chapter: null
+  - verseNumber: 23
+    text: "Tot ce este poruncit de Eylohim al cerurilor sa se faca intocmai pentru\
+      \ Casa lui YaHWeH pentru ca sa nu vina minia Lui asupra imparatiei, asupra imparatului\
+      \ si asupra fiilor sai."
+    textWithDiacritics: "Tot ce este poruncit de Eylohim al cerurilor să se facă î\
+      ntocmai pentru Casa lui YaHWeH pentru ca să nu vină mînia Lui asupra împărăţ\
+      iei, asupra împăratului şi asupra fiilor săi."
+    chapter: null
+  - verseNumber: 24
+    text: "Va facem cunoscut ca nu puteti pune nici bir, nici dare, nici vama de trecere\
+      \ peste niciunul din preoti, din leviti, din cintareti, din usieri, din slujitorii\
+      \ Templului si din slujitorii acestei Case a lui YaHWeH."
+    textWithDiacritics: "Vă facem cunoscut că nu puteţi pune nici bir, nici dare,\
+      \ nici vamă de trecere peste niciunul din preoţi, din leviţi, din cîntăreţi,\
+      \ din uşieri, din slujitorii Templului şi din slujitorii acestei Case a lui\
+      \ YaHWeH."
+    chapter: null
+  - verseNumber: 25
+    text: "Si tu, Ezra, dupa intelepciunea lui YaHWeH pe care o ai, pune judecatori\
+      \ si dregatori care sa faca dreptate la tot poporul de dincolo de Riu, tuturor\
+      \ celor ce cunosc Legile lui YaHWeH Eylohim al tau; si fa-le cunoscut celor\
+      \ ce nu le cunosc."
+    textWithDiacritics: "Şi tu, Ezra, după înţelepciunea lui YaHWeH pe care o ai,\
+      \ pune judecători şi dregători care să facă dreptate la tot poporul de dincolo\
+      \ de Rîu, tuturor celor ce cunosc Legile lui YaHWeH Eylohim al tău; şi fă-le\
+      \ cunoscut celor ce nu le cunosc."
+    chapter: null
+  - verseNumber: 26
+    text: "Oricine nu va pazi intocmai Legea lui YaHWeH Eylohim al tau si legea imparatului\
+      \ sa fie osindit la moarte, la surghiun, la o gloaba sau la temnita.”"
+    textWithDiacritics: "Oricine nu va păzi întocmai Legea lui YaHWeH Eylohim al tă\
+      u şi legea împăratului să fie osîndit la moarte, la surghiun, la o gloabă sau\
+      \ la temniţă.”"
+    chapter: null
+  - verseNumber: 27
+    text: "„Binecuvintat sa fie YaHWeH, Eylohim al parintilor nostri, care a pregatit\
+      \ inima imparatului ca sa slaveasca astfel Casa lui YaHWeH la Ierusalim"
+    textWithDiacritics: "„Binecuvîntat să fie YaHWeH, Eylohim al părinţilor noştri,\
+      \ care a pregătit inima împăratului ca să slăvească astfel Casa lui YaHWeH la\
+      \ Ierusalim"
+    chapter: null
+  - verseNumber: 28
+    text: "si a indreptat asupra mea bunavointa imparatului, a sfetnicilor sai si\
+      \ a tuturor capeteniilor puternice ale lui! Intarit de mina lui YaHWeH, Eylohim\
+      \ al meu care era asupra mea, am strins pe capeteniile lui Israel, ca sa plece\
+      \ cu mine."
+    textWithDiacritics: "şi a îndreptat asupra mea bunăvoinţa împăratului, a sfetnicilor\
+      \ săi şi a tuturor căpeteniilor puternice ale lui! Întărit de mîna lui YaHWeH,\
+      \ Eylohim al meu care era asupra mea, am strîns pe căpeteniile lui Israel, ca\
+      \ să plece cu mine."
+    chapter: null
+- number: 8
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Iata capii de familii si spitele de neam ale celor ce s-au suit cu mine\
+      \ din Babilon, substapinireaimparatului Artaxerxe:"
+    textWithDiacritics: "Iată capii de familii şi spiţele de neam ale celor ce s-au\
+      \ suit cu mine din Babilon, substăpînireaîmpăratului Artaxerxe:"
+    chapter: null
+  - verseNumber: 2
+    text: "din fiii lui Fineas, Ghersom; din fiii lui Itamar, Daniel; din fiii lui\
+      \ David, Hatus;"
+    textWithDiacritics: "din fiii lui Fineas, Gherşom; din fiii lui Itamar, Daniel;\
+      \ din fiii lui David, Hatuş;"
+    chapter: null
+  - verseNumber: 3
+    text: "din fiii lui Secania; din fiii lui Pareos, Zaharia, si cu el o suta cincizeci\
+      \ de barbati inscrisi;"
+    textWithDiacritics: "din fiii lui Şecania; din fiii lui Pareoş, Zaharia, şi cu\
+      \ el o sută cincizeci de bărbaţi înscrişi;"
+    chapter: null
+  - verseNumber: 4
+    text: "din fiii lui Pahat-Moab, Elioenai, fiul lui Zerahia, si cu el doua sute\
+      \ de barbati;"
+    textWithDiacritics: "din fiii lui Pahat-Moab, Elioenai, fiul lui Zerahia, şi cu\
+      \ el două sute de bărbaţi;"
+    chapter: null
+  - verseNumber: 5
+    text: "din fiii lui Secania, fiul lui Iahaziel, si cu el trei sute de barbati;"
+    textWithDiacritics: "din fiii lui Şecania, fiul lui Iahaziel, şi cu el trei sute\
+      \ de bărbaţi;"
+    chapter: null
+  - verseNumber: 6
+    text: "din fiii lui Adin, Ebed, fiul lui Ionatan, si cu el cincizeci de barbati;"
+    textWithDiacritics: "din fiii lui Adin, Ebed, fiul lui Ionatan, şi cu el cincizeci\
+      \ de bărbaţi;"
+    chapter: null
+  - verseNumber: 7
+    text: "din fiii lui Elam, Isaia, fiul Ataliei, si cu el saptezeci de barbati;"
+    textWithDiacritics: "din fiii lui Elam, Isaia, fiul Ataliei, şi cu el şaptezeci\
+      \ de bărbaţi;"
+    chapter: null
+  - verseNumber: 8
+    text: "din fiii lui Sefatia, Zebadia, fiul lui Micael, si cu el optzeci de barbati;"
+    textWithDiacritics: "din fiii lui Şefatia, Zebadia, fiul lui Micael, şi cu el\
+      \ optzeci de bărbaţi;"
+    chapter: null
+  - verseNumber: 9
+    text: "din fiii lui Ioab, Obadia, fiul lui Iehiel, si cu el doua sute optsprezece\
+      \ barbati;"
+    textWithDiacritics: "din fiii lui Ioab, Obadia, fiul lui Iehiel, şi cu el două\
+      \ sute optsprezece bărbaţi;"
+    chapter: null
+  - verseNumber: 10
+    text: "din fiii lui Selomit, fiul lui Iosifia, si cu el o suta saizeci de barbati;"
+    textWithDiacritics: "din fiii lui Şelomit, fiul lui Iosifia, şi cu el o sută ş\
+      aizeci de bărbaţi;"
+    chapter: null
+  - verseNumber: 11
+    text: "din fiii lui Bebai, Zaharia, fiul lui Bebai, si cu el douazeci si opt de\
+      \ barbati;"
+    textWithDiacritics: "din fiii lui Bebai, Zaharia, fiul lui Bebai, şi cu el două\
+      zeci şi opt de bărbaţi;"
+    chapter: null
+  - verseNumber: 12
+    text: "din fiii lui Azgad, Iohanan, fiul lui Hacatan, si cu el o suta zece barbati;"
+    textWithDiacritics: "din fiii lui Azgad, Iohanan, fiul lui Hacatan, şi cu el o\
+      \ sută zece bărbaţi;"
+    chapter: null
+  - verseNumber: 13
+    text: "din fiii lui Adonicam, cei din urma, ale caror nume iata-le: Elifelet,\
+      \ Ieiel si Semaia, si cu ei saizeci de barbati;"
+    textWithDiacritics: "din fiii lui Adonicam, cei din urmă, ale căror nume iată\
+      -le: Elifelet, Ieiel şi Şemaia, şi cu ei şaizeci de bărbaţi;"
+    chapter: null
+  - verseNumber: 14
+    text: "din fiii lui Bigvai, Utai si Zabud, si cu ei saptezeci de barbati."
+    textWithDiacritics: "din fiii lui Bigvai, Utai şi Zabud, şi cu ei şaptezeci de\
+      \ bărbaţi."
+    chapter: null
+  - verseNumber: 15
+    text: "I-am strins la riul care curge spre Ahava si am tabarit acolo trei zile.\
+      \ Am cautat intre popor si preoti, si n-am gasit acolo pe niciunul din fiii\
+      \ lui Levi."
+    textWithDiacritics: "I-am strîns la rîul care curge spre Ahava şi am tăbărît acolo\
+      \ trei zile. Am căutat între popor şi preoţi, şi n-am găsit acolo pe niciunul\
+      \ din fiii lui Levi."
+    chapter: null
+  - verseNumber: 16
+    text: "Atunci am trimis sa cheme pe capeteniile Eliezer, Ariel, Semaia, Elnatan,\
+      \ Iarib, Elnatan, Natan, Zaharia si Mesulam, si pe invatatorii, Ioiarib si Elnatan."
+    textWithDiacritics: "Atunci am trimis să cheme pe căpeteniile Eliezer, Ariel,\
+      \ Şemaia, Elnatan, Iarib, Elnatan, Natan, Zaharia şi Meşulam, şi pe învăţătorii,\
+      \ Ioiarib şi Elnatan."
+    chapter: null
+  - verseNumber: 17
+    text: "I-am trimis la capetenia Ido, care locuia la Casifia, si am pus in gura\
+      \ lor ce trebuiau sa spuna lui Ido si fratilor sai slujitori ai Templului care\
+      \ erau la Casifia, ca sa ne aduca slujitori pentru Casa lui YaHWeH Eylohim al\
+      \ nostru."
+    textWithDiacritics: "I-am trimis la căpetenia Ido, care locuia la Casifia, şi\
+      \ am pus în gura lor ce trebuiau să spună lui Ido şi fraţilor săi slujitori\
+      \ ai Templului care erau la Casifia, ca să ne aducă slujitori pentru Casa lui\
+      \ YaHWeH Eylohim al nostru."
+    chapter: null
+  - verseNumber: 18
+    text: "Si, fiindca mina cea buna a lui YaHWeH Eylohim al nostru era peste noi,\
+      \ ne-au adus pe Serebia, barbat cu minte, dintre fiii lui Mahli, fiul lui Levi,\
+      \ fiul lui Israel, si cu el pe fiii si fratii lui, in numar de optsprezece;"
+    textWithDiacritics: "Şi, fiindcă mîna cea bună a lui YaHWeH Eylohim al nostru\
+      \ era peste noi, ne-au adus pe Serebia, bărbat cu minte, dintre fiii lui Mahli,\
+      \ fiul lui Levi, fiul lui Israel, şi cu el pe fiii şi fraţii lui, în număr de\
+      \ optsprezece;"
+    chapter: null
+  - verseNumber: 19
+    text: "pe Hasabia, si cu el pe Isaia, dintre fiii lui Merari, fratii sai si fiii\
+      \ lor, in numar de douazeci;"
+    textWithDiacritics: "pe Haşabia, şi cu el pe Isaia, dintre fiii lui Merari, fraţ\
+      ii săi şi fiii lor, în număr de douăzeci;"
+    chapter: null
+  - verseNumber: 20
+    text: "si dintre slujitorii Templului, pe care David si capeteniile ii pusesera\
+      \ in slujba levitilor, doua sute douazeci de slujitori ai Templului, toti numiti\
+      \ pe nume."
+    textWithDiacritics: "şi dintre slujitorii Templului, pe care David şi căpeteniile\
+      \ îi puseseră în slujba leviţilor, două sute douăzeci de slujitori ai Templului,\
+      \ toţi numiţi pe nume."
+    chapter: null
+  - verseNumber: 21
+    text: "Acolo, la riul Ahava, am vestit un post de smerire inaintea lui YaHWeH\
+      \ Eylohim al nostru, ca sa cerem de la El o calatorie fericita pentru noi, pentru\
+      \ copiii nostri si pentru tot ce era al nostru."
+    textWithDiacritics: "Acolo, la rîul Ahava, am vestit un post de smerire înaintea\
+      \ lui YaHWeH Eylohim al nostru, ca să cerem de la El o călătorie fericită pentru\
+      \ noi, pentru copiii noştri şi pentru tot ce era al nostru."
+    chapter: null
+  - verseNumber: 22
+    text: "Imi era rusine sa cer imparatului o oaste de insotire si calareti, ca sa\
+      \ ne ocroteasca impotriva vrajmasului pe drum, caci spusesem imparatului: „\
+      Mina lui YaHWeH Eylohim al nostru este, spre binele lor, peste toti cei ce-L\
+      \ cauta, dar puterea si minia Lui sunt peste toti cei ce-L parasesc.”"
+    textWithDiacritics: "Îmi era ruşine să cer împăratului o oaste de însoţire şi\
+      \ călăreţi, ca să ne ocrotească împotriva vrăjmaşului pe drum, căci spusesem\
+      \ împăratului: „Mîna lui YaHWeH Eylohim al nostru este, spre binele lor, peste\
+      \ toţi cei ce-L caută, dar puterea şi mînia Lui sunt peste toţi cei ce-L pă\
+      răsesc.”"
+    chapter: null
+  - verseNumber: 23
+    text: "Pentru aceasta am postit si am chemat pe YaHWeH Eylohim al nostru. Si El\
+      \ ne-a ascultat."
+    textWithDiacritics: "Pentru aceasta am postit şi am chemat pe YaHWeH Eylohim al\
+      \ nostru. Şi El ne-a ascultat."
+    chapter: null
+  - verseNumber: 24
+    text: "Am ales douasprezece capetenii dintre preoti, pe Serebia, Hasabia si zece\
+      \ din fratii lor."
+    textWithDiacritics: "Am ales douăsprezece căpetenii dintre preoţi, pe Şerebia,\
+      \ Haşabia şi zece din fraţii lor."
+    chapter: null
+  - verseNumber: 25
+    text: "Am cintarit inaintea lor argintul, aurul si uneltele date in dar, pentru\
+      \ Casa lui YaHWeH Eylohim al nostru, de imparat, sfetnicii si capeteniile lui,\
+      \ si de toti cei din Israel care se aflau acolo."
+    textWithDiacritics: "Am cîntărit înaintea lor argintul, aurul şi uneltele date\
+      \ în dar, pentru Casa lui YaHWeH Eylohim al nostru, de împărat, sfetnicii ş\
+      i căpeteniile lui, şi de toţi cei din Israel care se aflau acolo."
+    chapter: null
+  - verseNumber: 26
+    text: "Am dat in miinile lor sase sute cincizeci de talanti de argint, unelte\
+      \ de argint de o suta de talanti, o suta de talanti de aur,"
+    textWithDiacritics: "Am dat în mîinile lor şase sute cincizeci de talanţi de argint,\
+      \ unelte de argint de o sută de talanţi, o sută de talanţi de aur,"
+    chapter: null
+  - verseNumber: 27
+    text: "douazeci de pahare de aur de o mie de darici si doua vase de arama frumos\
+      \ poleita, tot atit de scumpa ca aurul."
+    textWithDiacritics: "douăzeci de pahare de aur de o mie de darici şi două vase\
+      \ de aramă frumos poleită, tot atît de scumpă ca aurul."
+    chapter: null
+  - verseNumber: 28
+    text: "Apoi le-am zis: „Sunteti inchinati lui YaHWeH. Vasele acestea sunt lucruri\
+      \ sfinte, si argintul si aurul acesta sunt un dar de bunavoie facut lui YaHWeH,\
+      \ Eylohim al parintilor vostri."
+    textWithDiacritics: "Apoi le-am zis: „Sunteţi închinaţi lui YaHWeH. Vasele acestea\
+      \ sunt lucruri sfinte, şi argintul şi aurul acesta sunt un dar de bunăvoie fă\
+      cut lui YaHWeH, Eylohim al părinţilor voştri."
+    chapter: null
+  - verseNumber: 29
+    text: "Fiti cu ochii in patru si luati lucrurile acestea sub paza voastra, pina\
+      \ le veti cintari inaintea capeteniilor preotilor si inaintea levitilor, si\
+      \ inaintea capilor de familii ai lui Israel, la Ierusalim, in camarile Casei\
+      \ lui YaHWeH.”"
+    textWithDiacritics: "Fiţi cu ochii în patru şi luaţi lucrurile acestea sub paza\
+      \ voastră, pînă le veţi cîntări înaintea căpeteniilor preoţilor şi înaintea\
+      \ leviţilor, şi înaintea capilor de familii ai lui Israel, la Ierusalim, în\
+      \ cămările Casei lui YaHWeH.”"
+    chapter: null
+  - verseNumber: 30
+    text: "Si preotii si levitii au luat greutatea argintului, aurului si vaselor,\
+      \ ca sa le duca la Ierusalim in Casa lui YaHWeH."
+    textWithDiacritics: "Şi preoţii şi leviţii au luat greutatea argintului, aurului\
+      \ şi vaselor, ca să le ducă la Ierusalim în Casa lui YaHWeH."
+    chapter: null
+  - verseNumber: 31
+    text: "Am plecat de la riul Ahava, ca sa ne ducem la Ierusalim, in a douasprezecea\
+      \ zi a lunii intii. Mina lui YaHWeH Eylohim al nostru a fost peste noi si ne-a\
+      \ pazit de loviturile vrajmasului si de orice piedica pe drum."
+    textWithDiacritics: "Am plecat de la rîul Ahava, ca să ne ducem la Ierusalim,\
+      \ în a douăsprezecea zi a lunii întîi. Mîna lui YaHWeH Eylohim al nostru a fost\
+      \ peste noi şi ne-a păzit de loviturile vrăjmaşului şi de orice piedică pe drum."
+    chapter: null
+  - verseNumber: 32
+    text: "Am ajuns la Ierusalim si ne-am odihnit acolo trei zile."
+    textWithDiacritics: "Am ajuns la Ierusalim şi ne-am odihnit acolo trei zile."
+    chapter: null
+  - verseNumber: 33
+    text: "In ziua a patra, am cintarit in Casa lui YaHWeH Eylohim al nostru, argintul,\
+      \ aurul si vasele, pe care le-am incredintat lui Meremot, fiul lui Urie, preotul.\
+      \ Cu el era Eleazar, fiul lui Fineas, si impreuna cu ei levitii, Iozabad, fiul\
+      \ lui Iosua, si Noadia, fiul lui Binui."
+    textWithDiacritics: "În ziua a patra, am cîntărit în Casa lui YaHWeH Eylohim al\
+      \ nostru, argintul, aurul şi vasele, pe care le-am încredinţat lui Meremot,\
+      \ fiul lui Urie, preotul. Cu el era Eleazar, fiul lui Fineas, şi împreună cu\
+      \ ei leviţii, Iozabad, fiul lui Iosua, şi Noadia, fiul lui Binui."
+    chapter: null
+  - verseNumber: 34
+    text: "Fiind cercetate toate dupa numar si greutate, au pus atunci in scris greutatea\
+      \ tuturor."
+    textWithDiacritics: "Fiind cercetate toate după număr şi greutate, au pus atunci\
+      \ în scris greutatea tuturor."
+    chapter: null
+  - verseNumber: 35
+    text: "Fiii robiei, intorsi din robie, au adus ca ardere de tot lui Eylohim al\
+      \ lui Israel doisprezece vitei pentru tot Israelul, nouazeci si sase de berbeci,\
+      \ saptezeci si sapte de miei si doisprezece tapi ca jertfe ispasitoare, toate\
+      \ ca ardere de tot lui YaHWeH."
+    textWithDiacritics: "Fiii robiei, întorşi din robie, au adus ca ardere de tot\
+      \ lui Eylohim al lui Israel doisprezece viţei pentru tot Israelul, nouăzeci\
+      \ şi şase de berbeci, şaptezeci şi şapte de miei şi doisprezece ţapi ca jertfe\
+      \ ispăşitoare, toate ca ardere de tot lui YaHWeH."
+    chapter: null
+  - verseNumber: 36
+    text: "Au dat poruncile imparatului dregatorilor imparatului si cirmuitorilor\
+      \ de dincoace de Riu, care au ajutat pe popor si Casa lui YaHWeH."
+    textWithDiacritics: "Au dat poruncile împăratului dregătorilor împăratului şi\
+      \ cîrmuitorilor de dincoace de Rîu, care au ajutat pe popor şi Casa lui YaHWeH."
+    chapter: null
+- number: 9
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Dupa ce s-a sfirsit lucrul acesta, capeteniile s-au apropiat de mine si\
+      \ au zis: „Poporul lui Israel, preotii si levitii nu s-au despartit de popoarele\
+      \ acestor tari si au facut uriciunile lor, ale canaanitilor, hetitilor, ferezitilor,\
+      \ iebusitilor, amonitilor, moabitilor, egiptenilor si amoritilor."
+    textWithDiacritics: "După ce s-a sfîrşit lucrul acesta, căpeteniile s-au apropiat\
+      \ de mine şi au zis: „Poporul lui Israel, preoţii şi leviţii nu s-au despărţ\
+      it de popoarele acestor ţări şi au făcut urîciunile lor, ale canaaniţilor, hetiţ\
+      ilor, fereziţilor, iebusiţilor, amoniţilor, moabiţilor, egiptenilor şi amoriţ\
+      ilor."
+    chapter: null
+  - verseNumber: 2
+    text: "Caci si-au luat neveste din fetele lor pentru ei si pentru fiii lor, si\
+      \ au amestecat neamul sfint cu popoarele tarilor acestora. Si capeteniile si\
+      \ dregatorii au fost cei dintii care au savirsit pacatul acesta.”"
+    textWithDiacritics: "Căci şi-au luat neveste din fetele lor pentru ei şi pentru\
+      \ fiii lor, şi au amestecat neamul sfînt cu popoarele ţărilor acestora. Şi că\
+      peteniile şi dregătorii au fost cei dintîi care au săvîrşit păcatul acesta.”"
+    chapter: null
+  - verseNumber: 3
+    text: "Cind am auzit lucrul acesta, mi-am sfisiat hainele si mantaua, mi-am smuls\
+      \ parul din cap si perii din barba si am stat jos mihnit."
+    textWithDiacritics: "Cînd am auzit lucrul acesta, mi-am sfîşiat hainele şi mantaua,\
+      \ mi-am smuls părul din cap şi perii din barbă şi am stat jos mîhnit."
+    chapter: null
+  - verseNumber: 4
+    text: "Atunci s-au strins la mine toti cei ce se temeau de cuvintele lui YaHWeH\
+      \ Eylohim al lui Israel, din pricina pacatului fiilor robiei. Si eu am stat\
+      \ jos, mihnit, pina la jertfa de seara."
+    textWithDiacritics: "Atunci s-au strîns la mine toţi cei ce se temeau de cuvintele\
+      \ lui YaHWeH Eylohim al lui Israel, din pricina păcatului fiilor robiei. Şi\
+      \ eu am stat jos, mîhnit, pînă la jertfa de seară."
+    chapter: null
+  - verseNumber: 5
+    text: "Apoi, in clipa jertfei de seara, m-am sculat din smerirea mea, cu hainele\
+      \ si mantaua sfisiate, am cazut in genunchi, am intins miinile spre YaHWeH,\
+      \ Eylohim al meu si am zis:"
+    textWithDiacritics: "Apoi, în clipa jertfei de seară, m-am sculat din smerirea\
+      \ mea, cu hainele şi mantaua sfîşiate, am căzut în genunchi, am întins mîinile\
+      \ spre YaHWeH, Eylohim al meu şi am zis:"
+    chapter: null
+  - verseNumber: 6
+    text: "„ YaHWeH, sunt uluit si mi-e rusine, YaHWeH,sa-mi ridic fata spre Tine.\
+      \ Caci faradelegile noastre s-au inmultit deasupra capetelor noastre, si greselile\
+      \ noastre au ajuns pina la ceruri."
+    textWithDiacritics: "„ YaHWeH, sunt uluit şi mi-e ruşine, YaHWeH,să-mi ridic faţ\
+      a spre Tine. Căci fărădelegile noastre s-au înmulţit deasupra capetelor noastre,\
+      \ şi greşelile noastre au ajuns pînă la ceruri."
+    chapter: null
+  - verseNumber: 7
+    text: "Din zilele parintilor nostri am fost foarte vinovati pina in ziua de azi,\
+      \ si din pricina faradelegilor noastre am fost dati, noi, imparatii nostri si\
+      \ preotii nostri, in miinile imparatilor straini, prada sabiei, robiei, jafului\
+      \ si rusinii care ne acopera astazi fata."
+    textWithDiacritics: "Din zilele părinţilor noştri am fost foarte vinovaţi pînă\
+      \ în ziua de azi, şi din pricina fărădelegilor noastre am fost daţi, noi, î\
+      mpăraţii noştri şi preoţii noştri, în mîinile împăraţilor străini, pradă sabiei,\
+      \ robiei, jafului şi ruşinii care ne acoperă astăzi faţa."
+    chapter: null
+  - verseNumber: 8
+    text: "Si totusi YaHWeH, Eylohim al nostru s-a indurat de noi, lasindu-ne citiva\
+      \ oameni scapati si dindu-ne un adapost in Locul Lui cel Sfint, ca sa ne lumineze\
+      \ ochii si sa ne dea putina rasuflare in mijlocul robiei noastre."
+    textWithDiacritics: "Şi totuşi YaHWeH, Eylohim al nostru s-a îndurat de noi, lă\
+      sîndu-ne cîţiva oameni scăpaţi şi dîndu-ne un adăpost în Locul Lui cel Sfînt,\
+      \ ca să ne lumineze ochii şi să ne dea puţină răsuflare în mijlocul robiei noastre."
+    chapter: null
+  - verseNumber: 9
+    text: "Caci suntem robi, dar YaHWeH Eylohim nu ne-a parasit in robia noastra.\
+      \ A indreptat spre noi bunavointa imparatilor persilor, si ei ne-au dat o noua\
+      \ putere de viata, ca sa putem zidi Casa lui YaHWeH Eylohim al nostru si sa-i\
+      \ dregem darimaturile, facindu-ne astfel rost de un loc de adapost in Iuda si\
+      \ la Ierusalim."
+    textWithDiacritics: "Căci suntem robi, dar YaHWeH Eylohim nu ne-a părăsit în robia\
+      \ noastră. A îndreptat spre noi bunăvoinţa împăraţilor perşilor, şi ei ne-au\
+      \ dat o nouă putere de viaţă, ca să putem zidi Casa lui YaHWeH Eylohim al nostru\
+      \ şi să-i dregem dărîmăturile, făcîndu-ne astfel rost de un loc de adăpost î\
+      n Iuda şi la Ierusalim."
+    chapter: null
+  - verseNumber: 10
+    text: "Acum, ce sa mai zicem noi dupa aceste lucruri, YaHWeH? Caci am parasit\
+      \ Poruncile Tale,"
+    textWithDiacritics: "Acum, ce să mai zicem noi după aceste lucruri, YaHWeH? Că\
+      ci am părăsit Poruncile Tale,"
+    chapter: null
+  - verseNumber: 11
+    text: "pe care ni le poruncisesi prin robii Tai prorocii, zicind: „Tara in care\
+      \ intrati s-o stapiniti este o tara intinata de necuratiile popoarelor din aceste\
+      \ tinuturi, de uriciunile cu care au umplut-o de la un capat la altul cu necuratiile\
+      \ lor."
+    textWithDiacritics: "pe care ni le porunciseşi prin robii Tăi prorocii, zicînd:\
+      \ „Ţara în care intraţi s-o stăpîniţi este o ţară întinată de necurăţiile popoarelor\
+      \ din aceste ţinuturi, de urîciunile cu care au umplut-o de la un capăt la altul\
+      \ cu necurăţiile lor."
+    chapter: null
+  - verseNumber: 12
+    text: "Sa nu dati deci pe fetele voastre dupa fiii lor, nici sa nu luati pe fetele\
+      \ lor de neveste pentru fiii vostri, si sa nu va pese niciodata nici de propasirea\
+      \ lor, nici de bunastarea lor. In chipul acesta veti ajunge tari, veti minca\
+      \ cele mai bune roade ale tarii si o veti lasa pe veci mostenire fiilor vostri.”"
+    textWithDiacritics: "Să nu daţi deci pe fetele voastre după fiii lor, nici să\
+      \ nu luaţi pe fetele lor de neveste pentru fiii voştri, şi să nu vă pese niciodată\
+      \ nici de propăşirea lor, nici de bunăstarea lor. În chipul acesta veţi ajunge\
+      \ tari, veţi mînca cele mai bune roade ale ţării şi o veţi lăsa pe veci moş\
+      tenire fiilor voştri.”"
+    chapter: null
+  - verseNumber: 13
+    text: "Dupa tot ce mi s-a intimplat din pricina faptelor rele si marilor greseli\
+      \ pe care le-am facut, macar ca Tu, YaHWeH, nu ne-ai pedepsit dupa faradelegile\
+      \ noastre, se cuvine ca acum, cind ne-ai pastrat pe acesti oameni scapati,"
+    textWithDiacritics: "După tot ce mi s-a întîmplat din pricina faptelor rele ş\
+      i marilor greşeli pe care le-am făcut, măcar că Tu, YaHWeH, nu ne-ai pedepsit\
+      \ după fărădelegile noastre, se cuvine ca acum, cînd ne-ai păstrat pe aceşti\
+      \ oameni scăpaţi,"
+    chapter: null
+  - verseNumber: 14
+    text: "sa incepem iarasi sa incalcam Poruncile Tale si sa ne incuscrim cu aceste\
+      \ popoare uricioase? N-ar izbucni atunci iarasi minia Ta impotriva noastra,\
+      \ pina acolo incit ne-ar nimici, fara sa lase nici ramasita, nici robi izbaviti?"
+    textWithDiacritics: "să începem iarăşi să încălcăm Poruncile Tale şi să ne încuscrim\
+      \ cu aceste popoare urîcioase? N-ar izbucni atunci iarăşi mînia Ta împotriva\
+      \ noastră, pînă acolo încît ne-ar nimici, fără să lase nici rămăşiţă, nici robi\
+      \ izbăviţi?"
+    chapter: null
+  - verseNumber: 15
+    text: "YaHWeH Eylohim al lui Israel, Tu esti drept; caci astazi noi suntem o ramasita\
+      \ de robi izbaviti. Iata-ne inaintea Ta ca niste vinovati, si din aceasta pricina\
+      \ nu putem sta inaintea Ta.”"
+    textWithDiacritics: "YaHWeH Eylohim al lui Israel, Tu eşti drept; căci astăzi\
+      \ noi suntem o rămăşiţă de robi izbăviţi. Iată-ne înaintea Ta ca nişte vinovaţ\
+      i, şi din această pricină nu putem sta înaintea Ta.”"
+    chapter: null
+- number: 10
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Pe cind statea Ezra plingind si cu fata la pamint inaintea Casei lui YaHWeH\
+      \ si facea aceasta rugaciune si marturisire, se strinsese la el o multime foarte\
+      \ mare de oameni din Israel, barbati, femei si copii, si poporul varsa multe\
+      \ lacrimi."
+    textWithDiacritics: "Pe cînd stătea Ezra plîngînd şi cu faţa la pămînt înaintea\
+      \ Casei lui YaHWeH şi făcea această rugăciune şi mărturisire, se strînsese la\
+      \ el o mulţime foarte mare de oameni din Israel, bărbaţi, femei şi copii, ş\
+      i poporul vărsa multe lacrimi."
+    chapter: null
+  - verseNumber: 2
+    text: "Atunci Secania, fiul lui Iehiel, dintre fiii lui Elam, a luat cuvintul\
+      \ si a zis lui Ezra: „Am pacatuit impotriva lui YaHWeH, ducindu-ne la femei\
+      \ straine care fac parte din popoarele tarii. Dar Israel n-a ramas fara nadejde\
+      \ in aceasta privinta."
+    textWithDiacritics: "Atunci Şecania, fiul lui Iehiel, dintre fiii lui Elam, a\
+      \ luat cuvîntul şi a zis lui Ezra: „Am păcătuit împotriva lui YaHWeH, ducîndu-ne\
+      \ la femei străine care fac parte din popoarele ţării. Dar Israel n-a rămas\
+      \ fără nădejde în această privinţă."
+    chapter: null
+  - verseNumber: 3
+    text: "Sa facem acum un legamint cu YaHWeH Eylohim al nostru pentru izgonirea\
+      \ tuturor acestor femei si a copiilor lor, dupa parerea stapinului meu si a\
+      \ celor ce se tem de Poruncile lui YaHWeH Eylohim al nostru. Si faca-se dupa\
+      \ Lege."
+    textWithDiacritics: "Să facem acum un legămînt cu YaHWeH Eylohim al nostru pentru\
+      \ izgonirea tuturor acestor femei şi a copiilor lor, după părerea stăpînului\
+      \ meu şi a celor ce se tem de Poruncile lui YaHWeH Eylohim al nostru. Şi facă\
+      -se după Lege."
+    chapter: null
+  - verseNumber: 4
+    text: "Scoala-te, caci treaba aceasta te priveste. Noi vom fi cu tine. Imbarbateaza-te\
+      \ si lucreaza.”"
+    textWithDiacritics: "Scoală-te, căci treaba aceasta te priveşte. Noi vom fi cu\
+      \ tine. Îmbărbătează-te şi lucrează.”"
+    chapter: null
+  - verseNumber: 5
+    text: "Ezra s-a sculat si a pus pe capeteniile preotilor, levitilor si intregului\
+      \ Israel sa jure ca vor face ce se spusese. Si ei au jurat."
+    textWithDiacritics: "Ezra s-a sculat şi a pus pe căpeteniile preoţilor, leviţ\
+      ilor şi întregului Israel să jure că vor face ce se spusese. Şi ei au jurat."
+    chapter: null
+  - verseNumber: 6
+    text: "Apoi, Ezra a plecat dinaintea Casei lui YaHWeH si s-a dus in odaia lui\
+      \ Iohanan, fiul lui Eliasib. Cind a intrat, n-a mincat piine si n-a baut apa,\
+      \ pentru ca era mihnit din pricina pacatului fiilor robiei."
+    textWithDiacritics: "Apoi, Ezra a plecat dinaintea Casei lui YaHWeH şi s-a dus\
+      \ în odaia lui Iohanan, fiul lui Eliaşib. Cînd a intrat, n-a mîncat pîine ş\
+      i n-a băut apă, pentru că era mîhnit din pricina păcatului fiilor robiei."
+    chapter: null
+  - verseNumber: 7
+    text: "S-a dat de veste in Iuda si la Ierusalim ca toti fiii robiei trebuie sa\
+      \ se adune la Ierusalim"
+    textWithDiacritics: "S-a dat de veste în Iuda şi la Ierusalim că toţi fiii robiei\
+      \ trebuie să se adune la Ierusalim"
+    chapter: null
+  - verseNumber: 8
+    text: "si ca, dupa parerea capeteniilor si batrinilor, oricui nu va veni in trei\
+      \ zile, i se vor lua averile, si el insusi va fi izgonit din Adunarea fiilor\
+      \ robiei."
+    textWithDiacritics: "şi că, după părerea căpeteniilor şi bătrînilor, oricui nu\
+      \ va veni în trei zile, i se vor lua averile, şi el însuşi va fi izgonit din\
+      \ Adunarea fiilor robiei."
+    chapter: null
+  - verseNumber: 9
+    text: "Toti barbatii lui Iuda si Beniamin s-au strins la Ierusalim in trei zile.\
+      \ Era a douazecea zi a lunii a noua. Tot poporul statea pe locul deschis dinaintea\
+      \ Casei lui YaHWeH, tremurind din pricina imprejurarii aceleia si de ploaie."
+    textWithDiacritics: "Toţi bărbaţii lui Iuda şi Beniamin s-au strîns la Ierusalim\
+      \ în trei zile. Era a douăzecea zi a lunii a noua. Tot poporul stătea pe locul\
+      \ deschis dinaintea Casei lui YaHWeH, tremurînd din pricina împrejurării aceleia\
+      \ şi de ploaie."
+    chapter: null
+  - verseNumber: 10
+    text: "Preotul Ezra s-a sculat si le-a zis: „Ati pacatuit luind femei straine\
+      \ si ati facut pe Israel si mai vinovat."
+    textWithDiacritics: "Preotul Ezra s-a sculat şi le-a zis: „Aţi păcătuit luînd\
+      \ femei străine şi aţi făcut pe Israel şi mai vinovat."
+    chapter: null
+  - verseNumber: 11
+    text: "Marturisiti-va acum greseala inaintea lui YaHWeH, Eylohim al parintilor\
+      \ vostri si faceti voia Lui! Despartiti-vade popoarele tarii si de femeile straine.”"
+    textWithDiacritics: "Mărturisiţi-vă acum greşeala înaintea lui YaHWeH, Eylohim\
+      \ al părinţilor voştri şi faceţi voia Lui! Despărţiţi-văde popoarele ţării ş\
+      i de femeile străine.”"
+    chapter: null
+  - verseNumber: 12
+    text: "Toata Adunarea a raspuns cu glas tare: „Trebuie sa facem cum ai zis!"
+    textWithDiacritics: "Toată Adunarea a răspuns cu glas tare: „Trebuie să facem\
+      \ cum ai zis!"
+    chapter: null
+  - verseNumber: 13
+    text: "Dar poporul este in mare numar, vremea este ploioasa, si nu poate sa ramina\
+      \ afara. De altfel, aceasta nu este treaba de o zi sau doua, caci sunt multi\
+      \ printre noi care au pacatuit in privinta aceasta."
+    textWithDiacritics: "Dar poporul este în mare număr, vremea este ploioasă, şi\
+      \ nu poate să rămînă afară. De altfel, aceasta nu este treabă de o zi sau două\
+      , căci sunt mulţi printre noi care au păcătuit în privinţa aceasta."
+    chapter: null
+  - verseNumber: 14
+    text: "Sa ramina, dar, toate capeteniile noastre in locul intregii adunari. Si\
+      \ toti cei din cetatile noastre care s-au insurat cu femei straine sa vina la\
+      \ timpuri hotarite, cu batrinii si judecatorii din fiecare cetate, pina se va\
+      \ abate de la noi minia aprinsa a lui YaHWeH Eylohim al nostru din pricina intimplarii\
+      \ acesteia.”"
+    textWithDiacritics: "Să rămînă, dar, toate căpeteniile noastre în locul întregii\
+      \ adunări. Şi toţi cei din cetăţile noastre care s-au însurat cu femei stră\
+      ine să vină la timpuri hotărîte, cu bătrînii şi judecătorii din fiecare cetate,\
+      \ pînă se va abate de la noi mînia aprinsă a lui YaHWeH Eylohim al nostru din\
+      \ pricina întîmplării acesteia.”"
+    chapter: null
+  - verseNumber: 15
+    text: "Ionatan, fiul lui Asael, si Iahzia, fiul lui Ticva, ajutati de Mesulam\
+      \ si de levitul Sabtai, au fost singurii impotriva acestei pareri"
+    textWithDiacritics: "Ionatan, fiul lui Asael, şi Iahzia, fiul lui Ticva, ajutaţ\
+      i de Meşulam şi de levitul Şabtai, au fost singurii împotriva acestei păreri"
+    chapter: null
+  - verseNumber: 16
+    text: "pe care au primit-o fiii robiei. Au ales pe preotul Ezra, si capi de familii\
+      \ dupa casele lor parintesti, toti numiti pe nume, si au stat in ziua intii\
+      \ a lunii a zecea sa cerceteze lucrul acesta."
+    textWithDiacritics: "pe care au primit-o fiii robiei. Au ales pe preotul Ezra,\
+      \ şi capi de familii după casele lor părinteşti, toţi numiţi pe nume, şi au\
+      \ stat în ziua întîi a lunii a zecea să cerceteze lucrul acesta."
+    chapter: null
+  - verseNumber: 17
+    text: "In ziua intii a lunii intii au ispravit cu toti barbatii care se insurasera\
+      \ cu femei straine."
+    textWithDiacritics: "În ziua întîi a lunii întîi au isprăvit cu toţi bărbaţii\
+      \ care se însuraseră cu femei străine."
+    chapter: null
+  - verseNumber: 18
+    text: "Intre fiii preotilor s-au gasit unii care se insurasera cu femei straine:\
+      \ dintre fiii lui Iosua, fiul lui Iotadac, si dintre fratii sai: Maaseia, Eliezer,\
+      \ Iarib si Ghedalia, care s-au indatorat"
+    textWithDiacritics: "Între fiii preoţilor s-au găsit unii care se însuraseră cu\
+      \ femei străine: dintre fiii lui Iosua, fiul lui Ioţadac, şi dintre fraţii să\
+      i: Maaseia, Eliezer, Iarib şi Ghedalia, care s-au îndatorat"
+    chapter: null
+  - verseNumber: 19
+    text: "dind mina sa-si izgoneasca nevestele si sa aduca un berbec ca jertfa pentru\
+      \ vina;"
+    textWithDiacritics: "dînd mîna să-şi izgonească nevestele şi să aducă un berbec\
+      \ ca jertfă pentru vină;"
+    chapter: null
+  - verseNumber: 20
+    text: "din fiii lui Imer: Hanani si Zebadia;"
+    textWithDiacritics: "din fiii lui Imer: Hanani şi Zebadia;"
+    chapter: null
+  - verseNumber: 21
+    text: "din fiii lui Harim: Maaseia, Ilie, Semaia, Iehiel si Ozia;"
+    textWithDiacritics: "din fiii lui Harim: Maaseia, Ilie, Şemaia, Iehiel şi Ozia;"
+    chapter: null
+  - verseNumber: 22
+    text: "din fiii lui Pashur: Elioenai, Maaseia, Ismael, Netaneel, Iozabad si Eleasa."
+    textWithDiacritics: "din fiii lui Paşhur: Elioenai, Maaseia, Ismael, Netaneel,\
+      \ Iozabad şi Eleasa."
+    chapter: null
+  - verseNumber: 23
+    text: "Dintre leviti: Iozabad, Simei, Chelaia sau Chelita, Petahia, Iuda si Eliezer."
+    textWithDiacritics: "Dintre leviţi: Iozabad, Şimei, Chelaia sau Chelita, Petahia,\
+      \ Iuda şi Eliezer."
+    chapter: null
+  - verseNumber: 24
+    text: "Dintre cintareti: Eliasib. Dintre usieri: Salum, Telem si Uri."
+    textWithDiacritics: "Dintre cîntăreţi: Eliaşib. Dintre uşieri: Şalum, Telem ş\
+      i Uri."
+    chapter: null
+  - verseNumber: 25
+    text: "Dintre cei din Israel: din fiii lui Pareos: Ramia, Izia, Malchia, Miamin,\
+      \ Eleazar, Malchia si Benaia;"
+    textWithDiacritics: "Dintre cei din Israel: din fiii lui Pareoş: Ramia, Izia,\
+      \ Malchia, Miamin, Eleazar, Malchia şi Benaia;"
+    chapter: null
+  - verseNumber: 26
+    text: "din fiii lui Elam: Matania, Zaharia, Iehiel, Abdi, Ieremot si Ilie;"
+    textWithDiacritics: "din fiii lui Elam: Matania, Zaharia, Iehiel, Abdi, Ieremot\
+      \ şi Ilie;"
+    chapter: null
+  - verseNumber: 27
+    text: "dintre fiii lui Zatu: Elioenai, Eliasib, Matania, Ieremot, Zabad si Aziza;"
+    textWithDiacritics: "dintre fiii lui Zatu: Elioenai, Eliaşib, Matania, Ieremot,\
+      \ Zabad şi Aziza;"
+    chapter: null
+  - verseNumber: 28
+    text: "dintre fiii lui Bebai: Iohanan, Hanania, Zabai si Atlai;"
+    textWithDiacritics: "dintre fiii lui Bebai: Iohanan, Hanania, Zabai şi Atlai;"
+    chapter: null
+  - verseNumber: 29
+    text: "dintre fiii lui Bani: Mesulam, Maluc, Adaia, Iasub, Seal si Ramot;"
+    textWithDiacritics: "dintre fiii lui Bani: Meşulam, Maluc, Adaia, Iaşub, Şeal\
+      \ şi Ramot;"
+    chapter: null
+  - verseNumber: 30
+    text: "dintre fiii lui Pahat-Moab: Adna, Chelal, Benaia, Maaseia, Matania, Betaleel,\
+      \ Binui si Manase;"
+    textWithDiacritics: "dintre fiii lui Pahat-Moab: Adna, Chelal, Benaia, Maaseia,\
+      \ Matania, Beţaleel, Binui şi Manase;"
+    chapter: null
+  - verseNumber: 31
+    text: "dintre fiii lui Harim: Eliezer, Isia, Malchia, Semaia, Simeon,"
+    textWithDiacritics: "dintre fiii lui Harim: Eliezer, Işia, Malchia, Şemaia, Simeon,"
+    chapter: null
+  - verseNumber: 32
+    text: "Beniamin, Maluc si Semaria;"
+    textWithDiacritics: "Beniamin, Maluc şi Şemaria;"
+    chapter: null
+  - verseNumber: 33
+    text: "dintre fiii lui Hasum: Matnai, Matata, Zabad, Elifelet, Ieremai, Manase\
+      \ si Simei;"
+    textWithDiacritics: "dintre fiii lui Haşum: Matnai, Matata, Zabad, Elifelet, Ieremai,\
+      \ Manase şi Şimei;"
+    chapter: null
+  - verseNumber: 34
+    text: "dintre fiii lui Bani: Maadai, Amram, Uel,"
+    textWithDiacritics: "dintre fiii lui Bani: Maadai, Amram, Uel,"
+    chapter: null
+  - verseNumber: 35
+    text: "Benaia, Bedia, Cheluhu,"
+    textWithDiacritics: "Benaia, Bedia, Cheluhu,"
+    chapter: null
+  - verseNumber: 36
+    text: "Vania, Meremot, Eliasib,"
+    textWithDiacritics: "Vania, Meremot, Eliaşib,"
+    chapter: null
+  - verseNumber: 37
+    text: "Matania, Matnai, Iaasai,"
+    textWithDiacritics: "Matania, Matnai, Iaasai,"
+    chapter: null
+  - verseNumber: 38
+    text: "Bani, Binui, Simei,"
+    textWithDiacritics: "Bani, Binui, Şimei,"
+    chapter: null
+  - verseNumber: 39
+    text: "Selemia, Natan, Adaia,"
+    textWithDiacritics: "Şelemia, Natan, Adaia,"
+    chapter: null
+  - verseNumber: 40
+    text: "Macnadbai, Sasai, Sarai,"
+    textWithDiacritics: "Macnadbai, Şaşai, Şarai,"
+    chapter: null
+  - verseNumber: 41
+    text: "Azareel, Selemia, Semaria,"
+    textWithDiacritics: "Azareel, Şelemia, Şemaria,"
+    chapter: null
+  - verseNumber: 42
+    text: "Salum, Amaria si Iosif;"
+    textWithDiacritics: "Şalum, Amaria şi Iosif;"
+    chapter: null
+  - verseNumber: 43
+    text: "dintre fiii lui Nebo: Ieiel, Matitia, Zabad, Zebina, Iadai, Ioel si Benaia."
+    textWithDiacritics: "dintre fiii lui Nebo: Ieiel, Matitia, Zabad, Zebina, Iadai,\
+      \ Ioel şi Benaia."
+    chapter: null
+  - verseNumber: 44
+    text: "Toti acestia luasera femei straine, si multi avusesera copii cu ele. HalleluYah"
+    textWithDiacritics: "Toţi aceştia luaseră femei străine, şi mulţi avuseseră copii\
+      \ cu ele. HalleluYah"
+    chapter: null

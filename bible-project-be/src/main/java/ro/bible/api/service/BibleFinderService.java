@@ -24,19 +24,19 @@ public class BibleFinderService {
         ChapterEntity chapter = chapterRepository.getChapterByBookAndChapterNumber(bookId, chapterNumer).orElseThrow(() -> new RuntimeException("Chapter not found"));
 
         return chapter.getVerses().stream()
-                .map(VerseEntity::getVersePojo)
+                .map(VerseEntity::getVerseExclChapterPojo)
                 .collect(toList());
     }
 
     public List<VersePojo> findPlacesInTheBibleByVerseText(String verseText) {
 
         List<VersePojo> versePojoList = verseRepository.findPlacesInTheBibleByVerseTextFullTextSearch(verseText).stream()
-                .map(VerseEntity::getVerseInclChapterPojo)
+                .map(VerseEntity::getFullVersePojo)
                 .collect(toList());
 
         if(versePojoList.isEmpty()) {
             return verseRepository.findPlacesInTheBibleByVerseText(verseText).stream()
-                    .map(VerseEntity::getVerseInclChapterPojo)
+                    .map(VerseEntity::getFullVersePojo)
                     .collect(toList());
         }
         return versePojoList;

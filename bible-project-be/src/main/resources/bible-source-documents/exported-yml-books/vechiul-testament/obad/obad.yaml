@@ -1,0 +1,168 @@
+---
+bookId: 31
+name: "Obadia – Obadyah"
+abbreviation: "Obad."
+testament: "Vechiul Testament"
+expChaptersCount: 1
+expTotalVerses: 21
+downloadedLink: "https://yahwehtora.ro/obadia-obadyah"
+requiresUpdate: false
+inProgress: false
+bookOrder: 31
+chapterPojo:
+- number: 1
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Prorocia lui Obadia. Asa vorbeste YaHWeH, Eylohim despre Edom: – Noi am\
+      \ auzit o veste din partea lui YaHWeH, si un sol a fost trimis cu ea printre\
+      \ neamuri, zicind: „Sculati-va, sa mergem impotriva Edomului ca sa ne razboim\
+      \ cu el!”"
+    textWithDiacritics: "Prorocia lui Obadia. Aşa vorbeşte YaHWeH, Eylohim despre\
+      \ Edom: – Noi am auzit o veste din partea lui YaHWeH, şi un sol a fost trimis\
+      \ cu ea printre neamuri, zicînd: „Sculaţi-vă, să mergem împotriva Edomului ca\
+      \ să ne războim cu el!”"
+    chapter: null
+  - verseNumber: 2
+    text: "„Iata, te voi face mic printre neamuri, vei fi cel mai dispretuit."
+    textWithDiacritics: "„Iată, te voi face mic printre neamuri, vei fi cel mai dispreţ\
+      uit."
+    chapter: null
+  - verseNumber: 3
+    text: "Caci mindria inimii tale te-a dus in ratacire, pe tine care locuiesti in\
+      \ crapaturile stncilor si stapinesti in inaltime; de aceea, tu zici in tine\
+      \ insuti: „Cine ma va arunca la pamint?”"
+    textWithDiacritics: "Căci mîndria inimii tale te-a dus în rătăcire, pe tine care\
+      \ locuieşti în crăpăturile stncilor şi stăpîneşti în înălţime; de aceea, tu\
+      \ zici în tine însuţi: „Cine mă va arunca la pămînt?”"
+    chapter: null
+  - verseNumber: 4
+    text: "Dar, chiar daca ai locui tot atit de sus ca vulturul, chiar daca ti-ai\
+      \ aseza cuibul intre stele, tot te voi arunca jos si de acolo, zice YaHWeH."
+    textWithDiacritics: "Dar, chiar dacă ai locui tot atît de sus ca vulturul, chiar\
+      \ dacă ţi-ai aşeza cuibul între stele, tot te voi arunca jos şi de acolo, zice\
+      \ YaHWeH."
+    chapter: null
+  - verseNumber: 5
+    text: "Daca ar fi intrat la tine niste hoti sau niste tilhari de noapte – cum\
+      \ esti de pustiit! – ar fi luat ei oare mai mult decit ar fi putut? Daca ar\
+      \ fi venit niste culegatori de vie la tine, n-ar fi lasat ei niciun strugure\
+      \ pe urma?"
+    textWithDiacritics: "Dacă ar fi intrat la tine nişte hoţi sau nişte tîlhari de\
+      \ noapte – cum eşti de pustiit! – ar fi luat ei oare mai mult decît ar fi putut?\
+      \ Dacă ar fi venit nişte culegători de vie la tine, n-ar fi lăsat ei niciun\
+      \ strugure pe urmă?"
+    chapter: null
+  - verseNumber: 6
+    text: "Vai! Ce scormonit este Esau! Cum i s-au descoperit comorile!"
+    textWithDiacritics: "Vai! Ce scormonit este Esau! Cum i s-au descoperit comorile!"
+    chapter: null
+  - verseNumber: 7
+    text: "Toti cei uniti cu tine te-au izgonit inapoi pina la hotar, prietenii tai\
+      \ te-au inselat si te-au stapinit. Cei ce mincau din piinea ta ti-au intins\
+      \ curse pe care nu le-ai bagat de seama!"
+    textWithDiacritics: "Toţi cei uniţi cu tine te-au izgonit înapoi pînă la hotar,\
+      \ prietenii tăi te-au înşelat şi te-au stăpînit. Cei ce mîncau din pîinea ta\
+      \ ţi-au întins curse pe care nu le-ai băgat de seamă!"
+    chapter: null
+  - verseNumber: 8
+    text: "Oare, zice YaHWeH, nu voi pierde Eu in ziua aceea pe cei intelepti din\
+      \ Edom si priceperea din muntele lui Esau?"
+    textWithDiacritics: "Oare, zice YaHWeH, nu voi pierde Eu în ziua aceea pe cei\
+      \ înţelepţi din Edom şi priceperea din muntele lui Esau?"
+    chapter: null
+  - verseNumber: 9
+    text: "Vitejii tai, Temane se vor inspaiminta, pentru ca toti cei din muntele\
+      \ lui Esau sa piara in macel."
+    textWithDiacritics: "Vitejii tăi, Temane se vor înspăimînta, pentru ca toţi cei\
+      \ din muntele lui Esau să piară în măcel."
+    chapter: null
+  - verseNumber: 10
+    text: "Din pricina silniciei facute impotriva fratelui tau Iacov, vei fi acoperit\
+      \ de rusine si vei fi nimicit cu desavirsire pentru totdeauna."
+    textWithDiacritics: "Din pricina silniciei făcute împotriva fratelui tău Iacov,\
+      \ vei fi acoperit de ruşine şi vei fi nimicit cu desăvîrşire pentru totdeauna."
+    chapter: null
+  - verseNumber: 11
+    text: "Caci in ziua cind stateai in fata lui, in ziua cind strainii ii luau averea,\
+      \ cind strainii intrau pe portile lui si aruncau sortul asupra Ierusalimului,\
+      \ si tu erai atunci ca unul din ei!"
+    textWithDiacritics: "Căci în ziua cînd stăteai în faţa lui, în ziua cînd stră\
+      inii îi luau averea, cînd străinii intrau pe porţile lui şi aruncau sorţul asupra\
+      \ Ierusalimului, şi tu erai atunci ca unul din ei!"
+    chapter: null
+  - verseNumber: 12
+    text: "Nu trebuia sa te uiti multumit la ziua fratelui tau, in ziua nenorocirii\
+      \ lui, nu trebuia sa te bucuri de copiii lui Iuda, in ziua pieirii lor, si nu\
+      \ trebuia sa vorbesti cu semetie, in ziua strimtorarii!"
+    textWithDiacritics: "Nu trebuia să te uiţi mulţumit la ziua fratelui tău, în ziua\
+      \ nenorocirii lui, nu trebuia să te bucuri de copiii lui Iuda, în ziua pieirii\
+      \ lor, şi nu trebuia să vorbeşti cu semeţie, în ziua strîmtorării!"
+    chapter: null
+  - verseNumber: 13
+    text: "Nici nu trebuia sa intri pe portile poporului Meu, in ziua nenorocirii\
+      \ lui, nici nu trebuia sa te bucuri de nenorocirea lui, in ziua prapadului lui,\
+      \ si nu trebuia sa pui mina pe bogatiile lui, in ziua prapadului lui!"
+    textWithDiacritics: "Nici nu trebuia să intri pe porţile poporului Meu, în ziua\
+      \ nenorocirii lui, nici nu trebuia să te bucuri de nenorocirea lui, în ziua\
+      \ prăpădului lui, şi nu trebuia să pui mîna pe bogăţiile lui, în ziua prăpă\
+      dului lui!"
+    chapter: null
+  - verseNumber: 14
+    text: "Nu trebuia sa stai la raspintii, ca sa nimicesti pe fugarii lui, si nici\
+      \ nu trebuia sa dai in mina vrajmasului pe cei ce scapasera din el in ziua necazului!"
+    textWithDiacritics: "Nu trebuia să stai la răspîntii, ca să nimiceşti pe fugarii\
+      \ lui, şi nici nu trebuia să dai în mîna vrăjmaşului pe cei ce scăpaseră din\
+      \ el în ziua necazului!"
+    chapter: null
+  - verseNumber: 15
+    text: "Caci ziua lui YaHWeH este aproape pentru toate popoarele. Cum ai facut,\
+      \ asa ti se va face; faptele tale se vor intoarce asupra capului tau."
+    textWithDiacritics: "Căci ziua lui YaHWeH este aproape pentru toate popoarele.\
+      \ Cum ai făcut, aşa ţi se va face; faptele tale se vor întoarce asupra capului\
+      \ tău."
+    chapter: null
+  - verseNumber: 16
+    text: "Caci, dupa cum ati baut paharul miniei, voi cei de pe muntele Meu cel sfint,\
+      \ tot asa toate popoarele il vor bea necurmat; vor bea, vor sorbi din el si\
+      \ vor fi ca si cind n-ar fi fost niciodata."
+    textWithDiacritics: "Căci, după cum aţi băut paharul mîniei, voi cei de pe muntele\
+      \ Meu cel sfînt, tot aşa toate popoarele îl vor bea necurmat; vor bea, vor sorbi\
+      \ din el şi vor fi ca şi cînd n-ar fi fost niciodată."
+    chapter: null
+  - verseNumber: 17
+    text: "Dar mintuirea va fi pe muntele Sionului, el va fi sfint, si casa lui Iacov\
+      \ isi va lua inapoi mosiile."
+    textWithDiacritics: "Dar mîntuirea va fi pe muntele Sionului, el va fi sfînt,\
+      \ şi casa lui Iacov îşi va lua înapoi moşiile."
+    chapter: null
+  - verseNumber: 18
+    text: "Casa lui Iacov va fi un foc, si casa lui Iosif, o flacara; dar casa lui\
+      \ Esau va fi miristea pe care o vor aprinde si o vor mistui; si nu va mai ramine\
+      \ niciunul din casa lui Esau, caci YaHWeH a vorbit!"
+    textWithDiacritics: "Casa lui Iacov va fi un foc, şi casa lui Iosif, o flacără\
+      ; dar casa lui Esau va fi miriştea pe care o vor aprinde şi o vor mistui; ş\
+      i nu va mai rămîne niciunul din casa lui Esau, căci YaHWeH a vorbit!"
+    chapter: null
+  - verseNumber: 19
+    text: "Cei de la miazazi vor stapini muntele lui Esau, si cei din cimpie, tara\
+      \ filistenilor; vor stapini si tinutul lui Efraim si al Samariei; si Beniamin\
+      \ va stapini Galaadul."
+    textWithDiacritics: "Cei de la miazăzi vor stăpîni muntele lui Esau, şi cei din\
+      \ cîmpie, ţara filistenilor; vor stăpîni şi ţinutul lui Efraim şi al Samariei;\
+      \ şi Beniamin va stăpîni Galaadul."
+    chapter: null
+  - verseNumber: 20
+    text: "Dar prinsii de razboi ai acestei ostiri a copiilor lui Israel vor stapini\
+      \ tara canaanitilor pina la Sarepta, si prinsii de razboi ai Ierusalimului care\
+      \ sunt la Sefarad vor stapini cetatile de miazazi."
+    textWithDiacritics: "Dar prinşii de război ai acestei oştiri a copiilor lui Israel\
+      \ vor stăpîni ţara canaaniţilor pînă la Sarepta, şi prinşii de război ai Ierusalimului\
+      \ care sunt la Sefarad vor stăpîni cetăţile de miazăzi."
+    chapter: null
+  - verseNumber: 21
+    text: "Izbavitorii se vor sui pe muntele Sionului ca sa judece muntele lui Esau.\
+      \ Dar imparatia va fi a lui YaHWeH.” HalleluYah"
+    textWithDiacritics: "Izbăvitorii se vor sui pe muntele Sionului ca să judece muntele\
+      \ lui Esau. Dar împărăţia va fi a lui YaHWeH.” HalleluYah"
+    chapter: null

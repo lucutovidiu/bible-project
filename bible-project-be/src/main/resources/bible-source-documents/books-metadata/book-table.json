@@ -7,7 +7,7 @@
     "abbreviation": "Fac.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/genesa-bereshith",
-    "baseFolderPath": "bible-source-documents/genesa",
+    "baseFolderPath": "bible-source-documents/html/genesa",
     "storedFileName": "genesa.html"
   },
   {
@@ -18,7 +18,7 @@
     "abbreviation": "Exod.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/exod-shemoth",
-    "baseFolderPath": "bible-source-documents/exod",
+    "baseFolderPath": "bible-source-documents/html/exod",
     "storedFileName": "exod.html"
   },
   {
@@ -29,7 +29,7 @@
     "abbreviation": "Lev.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/levitic-wayiqra",
-    "baseFolderPath": "bible-source-documents/levitic",
+    "baseFolderPath": "bible-source-documents/html/levitic",
     "storedFileName": "levitic.html"
   },
   {
@@ -40,7 +40,7 @@
     "abbreviation": "Num.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/numeri-bamidbar",
-    "baseFolderPath": "bible-source-documents/numeri",
+    "baseFolderPath": "bible-source-documents/html/numeri",
     "storedFileName": "numeri.html"
   },
   {
@@ -51,7 +51,7 @@
     "abbreviation": "Deut.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/deuteronom-devarim",
-    "baseFolderPath": "bible-source-documents/deuteronom",
+    "baseFolderPath": "bible-source-documents/html/deuteronom",
     "storedFileName": "deuteronom.html"
   },
   {
@@ -62,7 +62,7 @@
     "abbreviation": "Iosua.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/iosua-yahoshua",
-    "baseFolderPath": "bible-source-documents/iosua",
+    "baseFolderPath": "bible-source-documents/html/iosua",
     "storedFileName": "iosua.html"
   },
   {
@@ -73,7 +73,7 @@
     "abbreviation": "Judec.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/judecatori-shoftim",
-    "baseFolderPath": "bible-source-documents/judecatori",
+    "baseFolderPath": "bible-source-documents/html/judecatori",
     "storedFileName": "judecatori.html"
   },
   {
@@ -84,7 +84,7 @@
     "abbreviation": "Rut.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/rut-rute",
-    "baseFolderPath": "bible-source-documents/rut",
+    "baseFolderPath": "bible-source-documents/html/rut",
     "storedFileName": "rut.html"
   },
   {
@@ -95,7 +95,7 @@
     "abbreviation": "1Sam.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/1-samuel-shmuel-alef",
-    "baseFolderPath": "bible-source-documents/1samuel",
+    "baseFolderPath": "bible-source-documents/html/1samuel",
     "storedFileName": "1samuel.html"
   },
   {
@@ -106,7 +106,7 @@
     "abbreviation": "2Sam.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/2-samuel-shmuel-bet",
-    "baseFolderPath": "bible-source-documents/2samuel",
+    "baseFolderPath": "bible-source-documents/html/2samuel",
     "storedFileName": "2samuel.html"
   },
   {
@@ -117,7 +117,7 @@
     "abbreviation": "1Reg.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/1-imparati-melechim-alef",
-    "baseFolderPath": "bible-source-documents/1imparati",
+    "baseFolderPath": "bible-source-documents/html/1imparati",
     "storedFileName": "1imparati.html"
   },
   {
@@ -128,7 +128,7 @@
     "abbreviation": "2Reg.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/2-imparati-melechim-bet",
-    "baseFolderPath": "bible-source-documents/2imparati",
+    "baseFolderPath": "bible-source-documents/html/2imparati",
     "storedFileName": "2imparati.html"
   },
   {
@@ -139,7 +139,7 @@
     "abbreviation": "1Cron.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/1-cronici-divre-hayamim-alef",
-    "baseFolderPath": "bible-source-documents/1cron",
+    "baseFolderPath": "bible-source-documents/html/1cron",
     "storedFileName": "1cron.html"
   },
   {
@@ -150,7 +150,7 @@
     "abbreviation": "2Cron.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/2-cronici-divre-hayamim-bet",
-    "baseFolderPath": "bible-source-documents/2cron",
+    "baseFolderPath": "bible-source-documents/html/2cron",
     "storedFileName": "2cron.html"
   },
   {
@@ -161,7 +161,7 @@
     "abbreviation": "Ezra.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/ezra-ezrah",
-    "baseFolderPath": "bible-source-documents/ezra",
+    "baseFolderPath": "bible-source-documents/html/ezra",
     "storedFileName": "ezra.html"
   },
   {
@@ -172,7 +172,7 @@
     "abbreviation": "Neem.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/neemia-nechemyah",
-    "baseFolderPath": "bible-source-documents/neemia",
+    "baseFolderPath": "bible-source-documents/html/neemia",
     "storedFileName": "neemia.html"
   },
   {
@@ -183,7 +183,7 @@
     "abbreviation": "Est.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/estera-hadasa",
-    "baseFolderPath": "bible-source-documents/estera",
+    "baseFolderPath": "bible-source-documents/html/estera",
     "storedFileName": "estera.html"
   },
   {
@@ -194,7 +194,7 @@
     "abbreviation": "Iov.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/iov-yowb",
-    "baseFolderPath": "bible-source-documents/iov",
+    "baseFolderPath": "bible-source-documents/html/iov",
     "storedFileName": "iov.html"
   },
   {
@@ -205,7 +205,7 @@
     "abbreviation": "Ps.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/psalmii-tehillim",
-    "baseFolderPath": "bible-source-documents/psalmii",
+    "baseFolderPath": "bible-source-documents/html/psalmii",
     "storedFileName": "psalmii.html"
   },
   {
@@ -216,7 +216,7 @@
     "abbreviation": "Prov.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/proverbele-lui-solomon-mashal",
-    "baseFolderPath": "bible-source-documents/prov",
+    "baseFolderPath": "bible-source-documents/html/prov",
     "storedFileName": "prov.html"
   },
   {
@@ -227,7 +227,7 @@
     "abbreviation": "Ecl.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/eclesiastul-koheleth",
-    "baseFolderPath": "bible-source-documents/eclesiastul",
+    "baseFolderPath": "bible-source-documents/html/eclesiastul",
     "storedFileName": "eclesiastul.html"
   },
   {
@@ -238,7 +238,7 @@
     "abbreviation": "Cint.Cintari.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/cintarea-cintarilor-shir-hashirim",
-    "baseFolderPath": "bible-source-documents/cint_cantarilor",
+    "baseFolderPath": "bible-source-documents/html/cint_cantarilor",
     "storedFileName": "cint_cantarilor.html"
   },
   {
@@ -249,7 +249,7 @@
     "abbreviation": "Isa.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/isaia-yeshayahu",
-    "baseFolderPath": "bible-source-documents/isaia",
+    "baseFolderPath": "bible-source-documents/html/isaia",
     "storedFileName": "isaia.html"
   },
   {
@@ -260,7 +260,7 @@
     "abbreviation": "Ier.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/ieremia-yermeyahu",
-    "baseFolderPath": "bible-source-documents/ieremia",
+    "baseFolderPath": "bible-source-documents/html/ieremia",
     "storedFileName": "ieremia.html"
   },
   {
@@ -271,7 +271,7 @@
     "abbreviation": "PlangIer.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/plingerile-lui-ieremia-ekah",
-    "baseFolderPath": "bible-source-documents/plingerile_lui_ieremia",
+    "baseFolderPath": "bible-source-documents/html/plingerile_lui_ieremia",
     "storedFileName": "plingerile.html"
   },
   {
@@ -282,7 +282,7 @@
     "abbreviation": "Ezec.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/ezechiel-yechezkel",
-    "baseFolderPath": "bible-source-documents/ezechiel",
+    "baseFolderPath": "bible-source-documents/html/ezechiel",
     "storedFileName": "ezechiel.html"
   },
   {
@@ -293,7 +293,7 @@
     "abbreviation": "Dan.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/daniel-danieyl",
-    "baseFolderPath": "bible-source-documents/daniel",
+    "baseFolderPath": "bible-source-documents/html/daniel",
     "storedFileName": "daniel.html"
   },
   {
@@ -304,7 +304,7 @@
     "abbreviation": "Osea.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/osea-hoshea",
-    "baseFolderPath": "bible-source-documents/osea",
+    "baseFolderPath": "bible-source-documents/html/osea",
     "storedFileName": "osea.html"
   },
   {
@@ -315,7 +315,7 @@
     "abbreviation": "Ioel.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/ioel-yahel",
-    "baseFolderPath": "bible-source-documents/ioel",
+    "baseFolderPath": "bible-source-documents/html/ioel",
     "storedFileName": "ioel.html"
   },
   {
@@ -326,7 +326,7 @@
     "abbreviation": "Amos.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/amos-ahmos",
-    "baseFolderPath": "bible-source-documents/amos",
+    "baseFolderPath": "bible-source-documents/html/amos",
     "storedFileName": "amos.html"
   },
   {
@@ -337,7 +337,7 @@
     "abbreviation": "Obad.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/obadia-obadyah",
-    "baseFolderPath": "bible-source-documents/obadia",
+    "baseFolderPath": "bible-source-documents/html/obadia",
     "storedFileName": "obadia.html"
   },
   {
@@ -348,7 +348,7 @@
     "abbreviation": "Iona.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/iona-yownah",
-    "baseFolderPath": "bible-source-documents/iona",
+    "baseFolderPath": "bible-source-documents/html/iona",
     "storedFileName": "iona.html"
   },
   {
@@ -359,7 +359,7 @@
     "abbreviation": "Mica.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/mica-micha",
-    "baseFolderPath": "bible-source-documents/mica",
+    "baseFolderPath": "bible-source-documents/html/mica",
     "storedFileName": "mica.html"
   },
   {
@@ -370,7 +370,7 @@
     "abbreviation": "Naum.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/naum-nachum",
-    "baseFolderPath": "bible-source-documents/naum",
+    "baseFolderPath": "bible-source-documents/html/naum",
     "storedFileName": "naum.html"
   },
   {
@@ -381,7 +381,7 @@
     "abbreviation": "Habac.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/habacuc-chabakkuwk",
-    "baseFolderPath": "bible-source-documents/habacuc",
+    "baseFolderPath": "bible-source-documents/html/habacuc",
     "storedFileName": "habacuc.html"
   },
   {
@@ -392,7 +392,7 @@
     "abbreviation": "Tef.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/tefania-tsephanyah",
-    "baseFolderPath": "bible-source-documents/tefania",
+    "baseFolderPath": "bible-source-documents/html/tefania",
     "storedFileName": "tefania.html"
   },
   {
@@ -403,7 +403,7 @@
     "abbreviation": "Hagai.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/hagai-chaggay",
-    "baseFolderPath": "bible-source-documents/hagai",
+    "baseFolderPath": "bible-source-documents/html/hagai",
     "storedFileName": "hagai.html"
   },
   {
@@ -414,7 +414,7 @@
     "abbreviation": "Zaha.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/zaharia-zecharyah",
-    "baseFolderPath": "bible-source-documents/zaharia",
+    "baseFolderPath": "bible-source-documents/html/zaharia",
     "storedFileName": "zaharia.html"
   },
   {
@@ -425,7 +425,7 @@
     "abbreviation": "Maleahi.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/maleahi-malachi",
-    "baseFolderPath": "bible-source-documents/maleahi",
+    "baseFolderPath": "bible-source-documents/html/maleahi",
     "storedFileName": "maleahi.html"
   },
   {
@@ -436,7 +436,7 @@
     "abbreviation": "Tobit.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/cartea-lui-tobit-tobiyah",
-    "baseFolderPath": "bible-source-documents/cartea_tobit",
+    "baseFolderPath": "bible-source-documents/html/cartea_tobit",
     "storedFileName": "cartea_lui_tobit.html"
   },
   {
@@ -447,7 +447,7 @@
     "abbreviation": "Iudita.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/cartea-iuditei",
-    "baseFolderPath": "bible-source-documents/cartea_iuditei",
+    "baseFolderPath": "bible-source-documents/html/cartea_iuditei",
     "storedFileName": "cartea_iuditei.html"
   },
   {
@@ -458,7 +458,7 @@
     "abbreviation": "Baruh.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/cartea-lui-baruh",
-    "baseFolderPath": "bible-source-documents/cartea_baruh",
+    "baseFolderPath": "bible-source-documents/html/cartea_baruh",
     "storedFileName": "cartea_lui_baruh.html"
   },
   {
@@ -469,7 +469,7 @@
     "abbreviation": "EpisIerem.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/epistola-lui-ieremia",
-    "baseFolderPath": "bible-source-documents/epistola_lui_ieremia",
+    "baseFolderPath": "bible-source-documents/html/epistola_lui_ieremia",
     "storedFileName": "epistola_lui_ieremia.html"
   },
   {
@@ -480,7 +480,7 @@
     "abbreviation": "CantCelor3.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/cantarea-celor-trei-tineri",
-    "baseFolderPath": "bible-source-documents/cantarea_celor_trei_tineri",
+    "baseFolderPath": "bible-source-documents/html/cantarea_celor_trei_tineri",
     "storedFileName": "cantarea_celor_trei_tineri.html"
   },
   {
@@ -491,7 +491,7 @@
     "abbreviation": "3Ezra.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/cartea-a-treia-a-lui-ezra",
-    "baseFolderPath": "bible-source-documents/cartea_ezra",
+    "baseFolderPath": "bible-source-documents/html/cartea_ezra",
     "storedFileName": "cartea_lui_ezra.html"
   },
   {
@@ -502,7 +502,7 @@
     "abbreviation": "IntelpSolomon.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/cartea-intelepciunii-lui-solomon",
-    "baseFolderPath": "bible-source-documents/cartea_intelepciunii_lui_solomon",
+    "baseFolderPath": "bible-source-documents/html/cartea_intelepciunii_lui_solomon",
     "storedFileName": "cartea_intelepciunii_lui_solomon.html"
   },
   {
@@ -513,7 +513,7 @@
     "abbreviation": "IstSusanei.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/istoria-susanei",
-    "baseFolderPath": "bible-source-documents/istoria_susanei",
+    "baseFolderPath": "bible-source-documents/html/istoria_susanei",
     "storedFileName": "istoria_susanei.html"
   },
   {
@@ -524,7 +524,7 @@
     "abbreviation": "IstOmorBal.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/istoria-omorarii-balaurului-si-a-sfaramarii-lui-bel",
-    "baseFolderPath": "bible-source-documents/istoria_omorarii_balaurului",
+    "baseFolderPath": "bible-source-documents/html/istoria_omorarii_balaurului",
     "storedFileName": "istoria_omorarii_balaurului.html"
   },
   {
@@ -535,7 +535,7 @@
     "abbreviation": "1Macab.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/1-macabei",
-    "baseFolderPath": "bible-source-documents/1macabei",
+    "baseFolderPath": "bible-source-documents/html/1macabei",
     "storedFileName": "1macabei.html"
   },
   {
@@ -546,7 +546,7 @@
     "abbreviation": "2Macab.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/2-macabei",
-    "baseFolderPath": "bible-source-documents/2macabei",
+    "baseFolderPath": "bible-source-documents/html/2macabei",
     "storedFileName": "2macabei.html"
   },
   {
@@ -557,7 +557,7 @@
     "abbreviation": "3Macab.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/3-macabei",
-    "baseFolderPath": "bible-source-documents/3macabei",
+    "baseFolderPath": "bible-source-documents/html/3macabei",
     "storedFileName": "3macabei.html"
   },
   {
@@ -568,7 +568,7 @@
     "abbreviation": "Manase.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/rugaciunea-regelui-manase",
-    "baseFolderPath": "bible-source-documents/rugaciunea_regelui_manase",
+    "baseFolderPath": "bible-source-documents/html/rugaciunea_regelui_manase",
     "storedFileName": "rugaciunea_regelui_manase.html"
   },
   {
@@ -579,7 +579,7 @@
     "abbreviation": "Enoh.",
     "testament": "Vechiul Testament",
     "downloadUrl": "https://yahwehtora.ro/cartea-lui-enoh",
-    "baseFolderPath": "bible-source-documents/cartea_lui_enoh",
+    "baseFolderPath": "bible-source-documents/html/cartea_lui_enoh",
     "storedFileName": "cartea_lui_enoh.html"
   },
   {
@@ -590,7 +590,7 @@
     "abbreviation": "Mat.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/matei-mattityahu",
-    "baseFolderPath": "bible-source-documents/matei",
+    "baseFolderPath": "bible-source-documents/html/matei",
     "storedFileName": "matei.html"
   },
   {
@@ -601,7 +601,7 @@
     "abbreviation": "Marcu.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/marcu-moshe",
-    "baseFolderPath": "bible-source-documents/marcu",
+    "baseFolderPath": "bible-source-documents/html/marcu",
     "storedFileName": "marcu.html"
   },
   {
@@ -612,7 +612,7 @@
     "abbreviation": "Luca.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/luca-luka",
-    "baseFolderPath": "bible-source-documents/luca",
+    "baseFolderPath": "bible-source-documents/html/luca",
     "storedFileName": "luca.html"
   },
   {
@@ -623,7 +623,7 @@
     "abbreviation": "Ioan.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/ioan-yochanan",
-    "baseFolderPath": "bible-source-documents/ioan",
+    "baseFolderPath": "bible-source-documents/html/ioan",
     "storedFileName": "ioan.html"
   },
   {
@@ -634,7 +634,7 @@
     "abbreviation": "Fapt.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/faptele-apostolilor-maaseh-shlichim",
-    "baseFolderPath": "bible-source-documents/fapte",
+    "baseFolderPath": "bible-source-documents/html/fapte",
     "storedFileName": "fapte.html"
   },
   {
@@ -645,7 +645,7 @@
     "abbreviation": "Rom.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/romani-romiyah",
-    "baseFolderPath": "bible-source-documents/romani",
+    "baseFolderPath": "bible-source-documents/html/romani",
     "storedFileName": "romani.html"
   },
   {
@@ -656,7 +656,7 @@
     "abbreviation": "1Cor.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/1-corinteni-corintiyah-alef",
-    "baseFolderPath": "bible-source-documents/1corinteni",
+    "baseFolderPath": "bible-source-documents/html/1corinteni",
     "storedFileName": "1corinteni.html"
   },
   {
@@ -667,7 +667,7 @@
     "abbreviation": "2Cor.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/2-corinteni-qorintiyah-bet",
-    "baseFolderPath": "bible-source-documents/2corinteni",
+    "baseFolderPath": "bible-source-documents/html/2corinteni",
     "storedFileName": "2corinteni.html"
   },
   {
@@ -678,7 +678,7 @@
     "abbreviation": "Gal.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/galateni-galutyah",
-    "baseFolderPath": "bible-source-documents/galateni",
+    "baseFolderPath": "bible-source-documents/html/galateni",
     "storedFileName": "galateni.html"
   },
   {
@@ -689,7 +689,7 @@
     "abbreviation": "Efes.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/efeseni-ephsiyah",
-    "baseFolderPath": "bible-source-documents/efeseni",
+    "baseFolderPath": "bible-source-documents/html/efeseni",
     "storedFileName": "efeseni.html"
   },
   {
@@ -700,7 +700,7 @@
     "abbreviation": "Filip.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/filipeni-fylypsiyah",
-    "baseFolderPath": "bible-source-documents/filipeni",
+    "baseFolderPath": "bible-source-documents/html/filipeni",
     "storedFileName": "filipeni.html"
   },
   {
@@ -711,7 +711,7 @@
     "abbreviation": "Colos.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/coloseni-qolesayah",
-    "baseFolderPath": "bible-source-documents/coloseni",
+    "baseFolderPath": "bible-source-documents/html/coloseni",
     "storedFileName": "coloseni.html"
   },
   {
@@ -722,7 +722,7 @@
     "abbreviation": "1Tesa.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/1-tesaloniceni-tesalonikyah-alef",
-    "baseFolderPath": "bible-source-documents/1tesalon",
+    "baseFolderPath": "bible-source-documents/html/1tesalon",
     "storedFileName": "1tesalon.html"
   },
   {
@@ -733,7 +733,7 @@
     "abbreviation": "2Tesa.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/2-tesaloniceni-tesalonikyah-bet",
-    "baseFolderPath": "bible-source-documents/2tesalon",
+    "baseFolderPath": "bible-source-documents/html/2tesalon",
     "storedFileName": "2tesalon.html"
   },
   {
@@ -744,7 +744,7 @@
     "abbreviation": "1Timo.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/1-timotei-timtheous-alef",
-    "baseFolderPath": "bible-source-documents/1timotei",
+    "baseFolderPath": "bible-source-documents/html/1timotei",
     "storedFileName": "1timotei.html"
   },
   {
@@ -755,7 +755,7 @@
     "abbreviation": "2Timo.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/2-timotei-timtheous-bet",
-    "baseFolderPath": "bible-source-documents/2timotei",
+    "baseFolderPath": "bible-source-documents/html/2timotei",
     "storedFileName": "2timotei.html"
   },
   {
@@ -766,7 +766,7 @@
     "abbreviation": "Tit.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/tit-teitus",
-    "baseFolderPath": "bible-source-documents/tit",
+    "baseFolderPath": "bible-source-documents/html/tit",
     "storedFileName": "tit.html"
   },
   {
@@ -777,7 +777,7 @@
     "abbreviation": "Filimon.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/filimon-fileymon",
-    "baseFolderPath": "bible-source-documents/filimon",
+    "baseFolderPath": "bible-source-documents/html/filimon",
     "storedFileName": "filimon.html"
   },
   {
@@ -788,7 +788,7 @@
     "abbreviation": "Evr.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/evrei-ivrim",
-    "baseFolderPath": "bible-source-documents/evrei",
+    "baseFolderPath": "bible-source-documents/html/evrei",
     "storedFileName": "evrei.html"
   },
   {
@@ -799,7 +799,7 @@
     "abbreviation": "Iacov.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/iacov-yaacov",
-    "baseFolderPath": "bible-source-documents/iacov",
+    "baseFolderPath": "bible-source-documents/html/iacov",
     "storedFileName": "iacov.html"
   },
   {
@@ -810,7 +810,7 @@
     "abbreviation": "1Petr.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/1-petru-kepfa-alef",
-    "baseFolderPath": "bible-source-documents/1petru",
+    "baseFolderPath": "bible-source-documents/html/1petru",
     "storedFileName": "1petru.html"
   },
   {
@@ -821,7 +821,7 @@
     "abbreviation": "2Petr.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/2-petru-kefa-bet",
-    "baseFolderPath": "bible-source-documents/2petru",
+    "baseFolderPath": "bible-source-documents/html/2petru",
     "storedFileName": "2petru.html"
   },
   {
@@ -832,7 +832,7 @@
     "abbreviation": "1Ioan.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/1-ioan-yochanan-alef",
-    "baseFolderPath": "bible-source-documents/1ioan",
+    "baseFolderPath": "bible-source-documents/html/1ioan",
     "storedFileName": "1ioan.html"
   },
   {
@@ -843,7 +843,7 @@
     "abbreviation": "2Ioan.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/2-ioan-yochanan-bet",
-    "baseFolderPath": "bible-source-documents/2ioan",
+    "baseFolderPath": "bible-source-documents/html/2ioan",
     "storedFileName": "2ioan.html"
   },
   {
@@ -854,7 +854,7 @@
     "abbreviation": "3Ioan.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/3-ioan-yochanan-gimel",
-    "baseFolderPath": "bible-source-documents/3ioan",
+    "baseFolderPath": "bible-source-documents/html/3ioan",
     "storedFileName": "3ioan.html"
   },
   {
@@ -865,7 +865,7 @@
     "abbreviation": "Iuda.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/iuda-yahudah",
-    "baseFolderPath": "bible-source-documents/iuda",
+    "baseFolderPath": "bible-source-documents/html/iuda",
     "storedFileName": "iuda.html"
   },
   {
@@ -876,7 +876,7 @@
     "abbreviation": "Apoc.",
     "testament": "Noul Testament",
     "downloadUrl": "https://yahwehtora.ro/apocalipsa-gilyahna",
-    "baseFolderPath": "bible-source-documents/apocalipsa",
+    "baseFolderPath": "bible-source-documents/html/apocalipsa",
     "storedFileName": "apocalipsa.html"
   }
 ]

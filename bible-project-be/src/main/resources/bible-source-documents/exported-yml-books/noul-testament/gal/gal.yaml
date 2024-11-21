@@ -1,0 +1,970 @@
+---
+bookId: 62
+name: "Galateni – Galutyah"
+abbreviation: "Gal."
+testament: "Noul Testament"
+expChaptersCount: 6
+expTotalVerses: 149
+downloadedLink: "https://yahwehtora.ro/galateni-galutyah"
+requiresUpdate: false
+inProgress: false
+bookOrder: 62
+chapterPojo:
+- number: 1
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Pavel, apostol nu de la oameni, nici printr-un om ci prin Yasua haMasiya\
+      \ si prin YaHWeH Tatal care L-a inviat din morti,"
+    textWithDiacritics: "Pavel, apostol nu de la oameni, nici printr-un om ci prin\
+      \ Yașua haMaşiya şi prin YaHWeH Tatăl care L-a înviat din morţi,"
+    chapter: null
+  - verseNumber: 2
+    text: "si toti fratii Israeliti care sunt impreuna cu mine, catre Adunarile Israelite\
+      \ a Galatiei:"
+    textWithDiacritics: "şi toţi fraţii Israeliţi care sunt împreună cu mine, către\
+      \ Adunările Israelite a Galatiei:"
+    chapter: null
+  - verseNumber: 3
+    text: "Har si pace voua de la YaHWeH Tatal si de la Stapinul nostru Yasua haMasiya!"
+    textWithDiacritics: "Har şi pace vouă de la YaHWeH Tatăl şi de la Stăpînul nostru\
+      \ Yașua haMaşiya!"
+    chapter: null
+  - verseNumber: 4
+    text: "El S-a dat pe Sine insusi pentru pacatele noastre, ca sa ne smulga din\
+      \ acest veac rau, dupa voia lui YaHWeH Tatal."
+    textWithDiacritics: "El S-a dat pe Sine însuşi pentru păcatele noastre, ca să\
+      \ ne smulgă din acest veac rău, după voia lui YaHWeH Tatăl."
+    chapter: null
+  - verseNumber: 5
+    text: "A Lui sa fie slava in vecii vecilor! HalleluYa. Nestatornicia Galatenilor"
+    textWithDiacritics: "A Lui să fie slava în vecii vecilor! HalleluYa. Nestatornicia\
+      \ Galatenilor"
+    chapter: null
+  - verseNumber: 6
+    text: "Ma mir ca treceti asa de repede de la Cel ce v-a chemat prin harul lui\
+      \ haMasiya la o alta Evanghelie."
+    textWithDiacritics: "Mă mir că treceţi aşa de repede de la Cel ce v-a chemat prin\
+      \ harul lui haMaşiya la o altă Evanghelie."
+    chapter: null
+  - verseNumber: 7
+    text: "Nu doar ca este o alta Evanghelie; dar sunt unii oameni care va tulbura\
+      \ si voiesc sa rastoarne Evanghelia lui haMasiya."
+    textWithDiacritics: "Nu doar că este o altă Evanghelie; dar sunt unii oameni care\
+      \ vă tulbură şi voiesc să răstoarne Evanghelia lui haMaşiya."
+    chapter: null
+  - verseNumber: 8
+    text: "Dar, chiar daca noi insine sau un inger din cer ar veni sa va propovaduiasca\
+      \ o Evanghelie deosebita de aceea pe care v-am propovaduit-o noi, sa fie anatema!"
+    textWithDiacritics: "Dar, chiar dacă noi înşine sau un înger din cer ar veni să\
+      \ vă propovăduiască o Evanghelie deosebită de aceea pe care v-am propovăduit-o\
+      \ noi, să fie anatema!"
+    chapter: null
+  - verseNumber: 9
+    text: "Cum am mai spus, o spun si acum: daca va propovaduieste cineva o Evanghelie\
+      \ deosebita de aceea pe care ati primit-o dela noi, sa fie anatema!"
+    textWithDiacritics: "Cum am mai spus, o spun şi acum: dacă vă propovăduieşte cineva\
+      \ o Evanghelie deosebită de aceea pe care aţi primit-o dela noi, să fie anatema!"
+    chapter: null
+  - verseNumber: 10
+    text: "Caut eu oare in clipa aceasta, sa capat bunavointa oamenilor sau bunavointa\
+      \ lui YaHWeH? Sau caut sa plac oamenilor? Daca as mai cauta sa plac oamenilor,\
+      \ n-as fi robul lui haMasiya. Evanghelia lui Pavel"
+    textWithDiacritics: "Caut eu oare în clipa aceasta, să capăt bunăvoinţa oamenilor\
+      \ sau bunăvoinţa lui YaHWeH? Sau caut să plac oamenilor? Dacă aş mai căuta să\
+      \ plac oamenilor, n-aş fi robul lui haMaşiya. Evanghelia lui Pavel"
+    chapter: null
+  - verseNumber: 11
+    text: "Frati Israeliti va marturisesc ca Evanghelia propovaduita de mine nu este\
+      \ de obirsie omeneasca;"
+    textWithDiacritics: "Fraţi Israeliţi vă mărturisesc că Evanghelia propovăduită\
+      \ de mine nu este de obîrşie omenească;"
+    chapter: null
+  - verseNumber: 12
+    text: "pentru ca n-am primit-o, nici n-am invatat-o de la vreun om, ci prin descoperirea\
+      \ lui Yasua haMasiya."
+    textWithDiacritics: "pentru că n-am primit-o, nici n-am învăţat-o de la vreun\
+      \ om, ci prin descoperirea lui Yașua haMaşiya."
+    chapter: null
+  - verseNumber: 13
+    text: "Ati auzit, in adevar, care era purtarea mea de altadata, in credinta iudeilor.\
+      \ Cum, adica, prigoneam peste masura de mult Adunarea Israelita a lui YaHWeH\
+      \ si faceam prapad in ea;"
+    textWithDiacritics: "Aţi auzit, în adevăr, care era purtarea mea de altădată,\
+      \ în credinţa iudeilor. Cum, adică, prigoneam peste măsură de mult Adunarea\
+      \ Israelită a lui YaHWeH şi făceam prăpăd în ea;"
+    chapter: null
+  - verseNumber: 14
+    text: "si cum eram mai inaintat in religia iudeilor decit multi din neamul meu,\
+      \ de o virsta cu mine. Eram insufletit de o rivna nespus de mare pentru datinile\
+      \ stramosesti."
+    textWithDiacritics: "şi cum eram mai înaintat în religia iudeilor decît mulţi\
+      \ din neamul meu, de o vîrstă cu mine. Eram însufleţit de o rîvnă nespus de\
+      \ mare pentru datinile strămoşeşti."
+    chapter: null
+  - verseNumber: 15
+    text: "Dar, cind YaHWeH, care m-a pus deoparte din pintecele mamei mele si m-a\
+      \ chemat prin harul Sau, a gasit cu cale"
+    textWithDiacritics: "Dar, cînd YaHWeH, care m-a pus deoparte din pîntecele mamei\
+      \ mele şi m-a chemat prin harul Său, a găsit cu cale"
+    chapter: null
+  - verseNumber: 16
+    text: "sa descopere in mine pe Fiul Sau, ca sa-L vestesc intre pagini, indata\
+      \ n-am intrebat pe niciun om,"
+    textWithDiacritics: "să descopere în mine pe Fiul Său, ca să-L vestesc între pă\
+      gîni, îndată n-am întrebat pe niciun om,"
+    chapter: null
+  - verseNumber: 17
+    text: "nici nu m-am suit la Ierusalim la cei ce au fost apostoli inainte de mine,\
+      \ ci m-am dus in Arabia. Apoi m-am intors din nou la Damasc."
+    textWithDiacritics: "nici nu m-am suit la Ierusalim la cei ce au fost apostoli\
+      \ înainte de mine, ci m-am dus în Arabia. Apoi m-am întors din nou la Damasc."
+    chapter: null
+  - verseNumber: 18
+    text: "Dupa trei ani, m-am suit la Ierusalim sa fac cunostinta cu Chifa si am\
+      \ ramas la el cincisprezece zile."
+    textWithDiacritics: "După trei ani, m-am suit la Ierusalim să fac cunoştinţă cu\
+      \ Chifa şi am rămas la el cincisprezece zile."
+    chapter: null
+  - verseNumber: 19
+    text: "Dar n-am vazut pe niciun altul dintre apostoli decit pe Iacov, fratele\
+      \ Mituitorului."
+    textWithDiacritics: "Dar n-am văzut pe niciun altul dintre apostoli decît pe Iacov,\
+      \ fratele Mîtuitorului."
+    chapter: null
+  - verseNumber: 20
+    text: "In cele ce va scriu, iata, inaintea lui YaHWeH, nu mint."
+    textWithDiacritics: "În cele ce vă scriu, iată, înaintea lui YaHWeH, nu mint."
+    chapter: null
+  - verseNumber: 21
+    text: "Dupa aceea m-am dus in tinuturile Siriei si Ciliciei."
+    textWithDiacritics: "După aceea m-am dus în ţinuturile Siriei şi Ciliciei."
+    chapter: null
+  - verseNumber: 22
+    text: "Si eram inca necunoscut la fata Adunarilor Israelite a lui haMasiya care\
+      \ sunt in Iudeea."
+    textWithDiacritics: "Şi eram încă necunoscut la faţă Adunărilor Israelite a lui\
+      \ haMaşiya care sunt în Iudeea."
+    chapter: null
+  - verseNumber: 23
+    text: "Ele auzeau doar spunindu-se: „Cel ce ne prigonea odinioara acum propovaduieste\
+      \ credinta pe care cauta s-o nimiceasca odinioara.”"
+    textWithDiacritics: "Ele auzeau doar spunîndu-se: „Cel ce ne prigonea odinioară\
+      \ acum propovăduieşte credinţa pe care căuta s-o nimicească odinioară.”"
+    chapter: null
+  - verseNumber: 24
+    text: "Si slaveau pe YaHWeH din pricina mea."
+    textWithDiacritics: "Şi slăveau pe YaHWeH din pricina mea."
+    chapter: null
+- number: 2
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Dupa paisprezece ani, m-am suit din nou la Ierusalim impreuna cu Barnaba;\
+      \ si am luat cu mine si pe Tit."
+    textWithDiacritics: "După paisprezece ani, m-am suit din nou la Ierusalim împreună\
+      \ cu Barnaba; şi am luat cu mine şi pe Tit."
+    chapter: null
+  - verseNumber: 2
+    text: "M-am suit, in urma unei descoperiri, si le-am aratat Evanghelia pe care\
+      \ o propovaduiesc eu intre Pagini, indeosebi celor mai cu vaza, ca nu cumva\
+      \ sa alerg sau sa fi alergat in zadar."
+    textWithDiacritics: "M-am suit, în urma unei descoperiri, şi le-am arătat Evanghelia\
+      \ pe care o propovăduiesc eu între Păgîni, îndeosebi celor mai cu vază, ca nu\
+      \ cumva să alerg sau să fi alergat în zadar."
+    chapter: null
+  - verseNumber: 3
+    text: "Nici chiar Tit, care era cu mine, macar ca era grec, n-a fost silit sa\
+      \ se taie imprejur"
+    textWithDiacritics: "Nici chiar Tit, care era cu mine, măcar că era grec, n-a\
+      \ fost silit să se taie împrejur"
+    chapter: null
+  - verseNumber: 4
+    text: "din pricina fratilor mincinosi, furisati si strecurati printre noi ca sa\
+      \ pindeasca slobozenia pe care o avem in Yasua haMasiya, cu gind sa ne robeasca;"
+    textWithDiacritics: "din pricina fraţilor mincinoşi, furişaţi şi strecuraţi printre\
+      \ noi ca să pîndească slobozenia pe care o avem în Yașua haMaşiya, cu gînd să\
+      \ ne robească;"
+    chapter: null
+  - verseNumber: 5
+    text: "noi nu ne-am supus si nu ne-am potrivit lor nicio clipa macar, pentru ca\
+      \ Adevarul Evangheliei sa ramina cu voi."
+    textWithDiacritics: "noi nu ne-am supus şi nu ne-am potrivit lor nicio clipă mă\
+      car, pentru ca Adevărul Evangheliei să rămînă cu voi."
+    chapter: null
+  - verseNumber: 6
+    text: "Cei ce sunt socotiti ca fiind ceva – orice ar fi fost ei, nu-mi pasa: YaHWeH\
+      \ nu cauta la fata oamenilor – acestia zic, ei cei cu vaza nu mi-au adaugat\
+      \ nimic."
+    textWithDiacritics: "Cei ce sunt socotiţi ca fiind ceva – orice ar fi fost ei,\
+      \ nu-mi pasă: YaHWeH nu caută la faţa oamenilor – aceştia zic, ei cei cu vază\
+      \ nu mi-au adăugat nimic."
+    chapter: null
+  - verseNumber: 7
+    text: "Ba dimpotriva, cind au vazut ca mie imi fusese incredintata Evanghelia\
+      \ pentru cei netaiati imprejur, dupa cum lui Chifa ii fusese incredintata Evanghelia\
+      \ pentru cei taiati imprejur"
+    textWithDiacritics: "Ba dimpotrivă, cînd au văzut că mie îmi fusese încredinţ\
+      ată Evanghelia pentru cei netăiaţi împrejur, după cum lui Chifa îi fusese î\
+      ncredinţată Evanghelia pentru cei tăiaţi împrejur"
+    chapter: null
+  - verseNumber: 8
+    text: "caci Cel ce facuse din Chifa apostolul celor taiati imprejur, facuse si\
+      \ din mine apostolal celor dintre Pagini"
+    textWithDiacritics: "căci Cel ce făcuse din Chifa apostolul celor tăiaţi împrejur,\
+      \ făcuse şi din mine apostolal celor dintre Păgîni"
+    chapter: null
+  - verseNumber: 9
+    text: "si cind au cunoscut harul care-mi fusese dat, Iacov, Chifa si Ioan, care\
+      \ sunt priviti ca stilpi mi-au dat mie si lui Barnaba mina dreapta de insotire,\
+      \ ca sa mergem sa propovaduim: noi la Pagini, iar ei la cei taiati imprejur."
+    textWithDiacritics: "şi cînd au cunoscut harul care-mi fusese dat, Iacov, Chifa\
+      \ şi Ioan, care sunt priviţi ca stîlpi mi-au dat mie şi lui Barnaba mîna dreaptă\
+      \ de însoţire, ca să mergem să propovăduim: noi la Păgîni, iar ei la cei tă\
+      iaţi împrejur."
+    chapter: null
+  - verseNumber: 10
+    text: "Ne-au spus numai sa ne aducem aminte de cei saraci, si chiar asa am si\
+      \ cautat sa fac. Pavel infrunta pe Petru"
+    textWithDiacritics: "Ne-au spus numai să ne aducem aminte de cei săraci, şi chiar\
+      \ aşa am şi căutat să fac. Pavel înfruntă pe Petru"
+    chapter: null
+  - verseNumber: 11
+    text: "Dar cind a venit Chifa in Antiohia, i-am stat impotriva, in fata, caci\
+      \ era de osindit."
+    textWithDiacritics: "Dar cînd a venit Chifa în Antiohia, i-am stat împotrivă,\
+      \ în faţă, căci era de osîndit."
+    chapter: null
+  - verseNumber: 12
+    text: "In adevar, inainte de venirea unora de la Iacov, el minca impreuna cu cei\
+      \ dintre pagini; dar cind au venit ei, s-a ferit si a stat deoparte, de teama\
+      \ celor taiati imprejur."
+    textWithDiacritics: "În adevăr, înainte de venirea unora de la Iacov, el mînca\
+      \ împreună cu cei dintre păgîni; dar cînd au venit ei, s-a ferit şi a stat deoparte,\
+      \ de teama celor tăiaţi împrejur."
+    chapter: null
+  - verseNumber: 13
+    text: "Impreuna cu el au inceput sa se prefaca si ceilalti iudei, asa ca pina\
+      \ si Barnaba a fost prins in latul fatarniciei lor."
+    textWithDiacritics: "Împreună cu el au început să se prefacă şi ceilalţi iudei,\
+      \ aşa că pînă şi Barnaba a fost prins în laţul făţărniciei lor."
+    chapter: null
+  - verseNumber: 14
+    text: "Cind i-am vazut eu ca nu umbla drept dupa adevarul Evangheliei, am spus\
+      \ lui Chifa in fata tuturor: „Daca tu, care esti iudeu, fiind in lumina, traiesti\
+      \ ca paginii in intuneric, si nu ca iudeii, cum silesti pe pagini care traiesc\
+      \ in intuneric, sa traiasca ca iudeii, fiind in lumina?”"
+    textWithDiacritics: "Cînd i-am văzut eu că nu umblă drept după adevărul Evangheliei,\
+      \ am spus lui Chifa în faţa tuturor: „Dacă tu, care eşti iudeu, fiind în lumină\
+      , trăiești ca păgînii în întuneric, şi nu ca iudeii, cum sileşti pe păgîni care\
+      \ trăiesc în întuneric, să trăiască ca iudeii, fiind în lumină?”"
+    chapter: null
+  - verseNumber: 15
+    text: "Noi suntem iudei din fire care nu apartin paginilor, printre pacatosi."
+    textWithDiacritics: "Noi suntem iudei din fire care nu aparțin păgînilor, printre\
+      \ păcătoşi."
+    chapter: null
+  - verseNumber: 16
+    text: "Totusi, fiindca stim ca omul nu este socotit neprihanit prin lucrul Legii,\
+      \ ci prin credinta in Yasua haMasiya, am crezut si noi in haMasiya, ca sa fim\
+      \ socotiti neprihaniti prin credinta in haMasiya, iar nu prin lucrul Legii;\
+      \ pentru ca nimeni nu va fi socotit neprihanit prin lucru Legii."
+    textWithDiacritics: "Totuşi, fiindcă ştim că omul nu este socotit neprihănit prin\
+      \ lucrul Legii, ci prin credinţa în Yașua haMaşiya, am crezut şi noi în haMaş\
+      iya, ca să fim socotiţi neprihăniţi prin credinţa în haMaşiya, iar nu prin lucrul\
+      \ Legii; pentru că nimeni nu va fi socotit neprihănit prin lucru Legii."
+    chapter: null
+  - verseNumber: 17
+    text: "Dar, daca, in timp ce cautam sa fim socotiti neprihaniti in haMasiya, si\
+      \ noi insine am fi gasiti ca pacatosi, este oare haMasiya un slujitor al pacatului?\
+      \ Nicidecum!"
+    textWithDiacritics: "Dar, dacă, în timp ce căutăm să fim socotiţi neprihăniţi\
+      \ în haMaşiya, şi noi înşine am fi găsiţi ca păcătoşi, este oare haMaşiya un\
+      \ slujitor al păcatului? Nicidecum!"
+    chapter: null
+  - verseNumber: 18
+    text: "Caci, daca zidesc iarasi lucrurile pe care le-am stricat, ma arat ca un\
+      \ calcator de Lege."
+    textWithDiacritics: "Căci, dacă zidesc iarăşi lucrurile pe care le-am stricat,\
+      \ mă arăt ca un călcător de Lege."
+    chapter: null
+  - verseNumber: 19
+    text: "Caci eu, prin Lege, am murit fata de Lege, ca sa traiesc pentru YaHWeH."
+    textWithDiacritics: "Căci eu, prin Lege, am murit faţă de Lege, ca să trăiesc\
+      \ pentru YaHWeH."
+    chapter: null
+  - verseNumber: 20
+    text: "Am fost rastignit impreuna cu haMasiya, si traiesc… dar nu mai traiesc\
+      \ eu, ci haMasiya traieste in mine. Si viata, pe care o traiesc acum in trup,\
+      \ o traiesc in credinta in Fiul lui YaHWeH care m-a iubit si S-a dat pe Sine\
+      \ insusi pentru mine."
+    textWithDiacritics: "Am fost răstignit împreună cu haMaşiya, şi trăiesc… dar nu\
+      \ mai trăiesc eu, ci haMaşiya trăieşte în mine. Şi viaţa, pe care o trăiesc\
+      \ acum în trup, o trăiesc în credinţa în Fiul lui YaHWeH care m-a iubit şi S-a\
+      \ dat pe Sine însuşi pentru mine."
+    chapter: null
+  - verseNumber: 21
+    text: "Nu vreau sa fac zadarnic harul lui YaHWeH; caci, daca neprihanirea se capata\
+      \ prin lucru Legii, degeaba a murit haMasiya."
+    textWithDiacritics: "Nu vreau să fac zadarnic harul lui YaHWeH; căci, dacă neprihă\
+      nirea se capătă prin lucru Legii, degeaba a murit haMaşiya."
+    chapter: null
+- number: 3
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "O, galateni nechibzuiti! Cine v-a pus sub vrajitorie pe voi, ca sa nu va\
+      \ supuneti adevarului, cind acesta a fost stabilit in mod clar de Yasua haMasiya\
+      \ inaintea ochilor vostri si rastignit printre voi?"
+    textWithDiacritics: "O, galateni nechibzuiţi! Cine v-a pus sub vrăjitorie pe voi,\
+      \ ca să nu vă supuneţi adevărului, cînd acesta a fost stabilit în mod clar de\
+      \ Yașua haMaşiya înaintea ochilor voştri şi răstignit printre voi?"
+    chapter: null
+  - verseNumber: 2
+    text: "Iata numai ce voiesc sa stiu de la voi: prin lucrul Legii ati primit voi\
+      \ Duhul Sfant sau prin ascultarea voastra cu privire la credinta?"
+    textWithDiacritics: "Iată numai ce voiesc să ştiu de la voi: prin lucrul Legii\
+      \ aţi primit voi Duhul Sfănt sau prin ascultarea voastră cu privire la credinț\
+      ă?"
+    chapter: null
+  - verseNumber: 3
+    text: "Sunteti asa de nechibzuiti? Dupa ce ati inceput prin Duhul Sfant, vreti\
+      \ acum sa sfirsiti prin firea paminteasca?"
+    textWithDiacritics: "Sunteţi aşa de nechibzuiţi? După ce aţi început prin Duhul\
+      \ Sfănt, vreţi acum să sfîrşiţi prin firea pămîntească?"
+    chapter: null
+  - verseNumber: 4
+    text: "In zadar ati suferit voi atit de mult? Daca in adevar, e in zadar!"
+    textWithDiacritics: "În zadar aţi suferit voi atît de mult? Dacă în adevăr, e\
+      \ în zadar!"
+    chapter: null
+  - verseNumber: 5
+    text: "Cel ce va dat Duhul Sfant si face mari minuni printre voi, le face oare\
+      \ prin lucrul Legii sau pentru ascultare si credinta?"
+    textWithDiacritics: "Cel ce va dat Duhul Sfănt şi face mari minuni printre voi,\
+      \ le face oare prin lucrul Legii sau pentru ascultare și credința?"
+    chapter: null
+  - verseNumber: 6
+    text: "Tot asa si „Avraam a crezut pe YaHWeH, si credinta aceasta i-a fost socotita\
+      \ neprihanire.”"
+    textWithDiacritics: "Tot aşa şi „Avraam a crezut pe YaHWeH, şi credinţa aceasta\
+      \ i-a fost socotită neprihănire.”"
+    chapter: null
+  - verseNumber: 7
+    text: "Intelegeti si voi, dar, ca cei ce sunt credinciosi, acestia sunt copiii\
+      \ ai lui Avraam."
+    textWithDiacritics: "Înţelegeţi şi voi, dar, că cei ce sunt credincioși, aceș\
+      tia sunt copiii ai lui Avraam."
+    chapter: null
+  - verseNumber: 8
+    text: "Scriptura, de asemenea, fiindca prevedea ca YaHWeH va socoti neprihaniti\
+      \ pe pagini, prin credinta, a vestit mai dinainte lui Avraam aceasta veste buna:\
+      \ „Toate popoarele vor fi binecuvintate in tine.”"
+    textWithDiacritics: "Scriptura, de asemenea, fiindcă prevedea că YaHWeH va socoti\
+      \ neprihăniți pe păgîni, prin credinţă, a vestit mai dinainte lui Avraam această\
+      \ veste bună: „Toate popoarele vor fi binecuvîntate în tine.”"
+    chapter: null
+  - verseNumber: 9
+    text: "Asa ca cei ce se bizuie pe credinta sunt binecuvintati impreuna cu Avraam\
+      \ cel credincios."
+    textWithDiacritics: "Aşa că cei ce se bizuie pe credinţă sunt binecuvîntaţi î\
+      mpreună cu Avraam cel credincios."
+    chapter: null
+  - verseNumber: 10
+    text: "Caci toti cei ce se bizuie pe lucru Legii sunt sub blestem; pentru ca este\
+      \ scris: „Blestemat este oricine nu staruie in toate lucrurile scrise in cartea\
+      \ Legii, ca sa le faca.”"
+    textWithDiacritics: "Căci toţi cei ce se bizuie pe lucru Legii sunt sub blestem;\
+      \ pentru că este scris: „Blestemat este oricine nu stăruie în toate lucrurile\
+      \ scrise în cartea Legii, ca să le facă.”"
+    chapter: null
+  - verseNumber: 11
+    text: "Si ca nimeni nu este socotit neprihanit inaintea lui YaHWeH, prin lucrul\
+      \ Legii, este invederat, caci „cel neprihanit prin credinta va trai.”"
+    textWithDiacritics: "Şi că nimeni nu este socotit neprihănit înaintea lui YaHWeH,\
+      \ prin lucrul Legii, este învederat, căci „cel neprihănit prin credinţă va tră\
+      i.”"
+    chapter: null
+  - verseNumber: 12
+    text: "Insa Legea nu se intemeiaza pe credinta; ci ea zice: „Cine va face aceste\
+      \ lucruri va trai prin ele.”"
+    textWithDiacritics: "Însă Legea nu se întemeiază pe credinţă; ci ea zice: „Cine\
+      \ va face aceste lucruri va trăi prin ele.”"
+    chapter: null
+  - verseNumber: 13
+    text: "haMasiya ne-a rascumparat din blestemul Legii, facindu-Se blestem pentru\
+      \ noi – fiindca este scris: „Blestemat e oricine este atirnat pe lemn”"
+    textWithDiacritics: "haMaşiya ne-a răscumpărat din blestemul Legii, făcîndu-Se\
+      \ blestem pentru noi – fiindcă este scris: „Blestemat e oricine este atîrnat\
+      \ pe lemn”"
+    chapter: null
+  - verseNumber: 14
+    text: "pentru ca binecuvintarea vestita lui Avraam sa vina si peste pagini, in\
+      \ haMasiya, asa ca prin credinta, noi sa primim Duhul fagaduit. Fagaduinta prin\
+      \ Lege?"
+    textWithDiacritics: "pentru ca binecuvîntarea vestită lui Avraam să vină și peste\
+      \ păgîni, în haMaşiya, aşa că prin credinţă, noi să primim Duhul făgăduit. Fă\
+      găduinţa prin Lege?"
+    chapter: null
+  - verseNumber: 15
+    text: "Fratil Israeliti, [vorbesc in felul oamenilor] un testament, chiar al unui\
+      \ om, odata intarit totusi nimeni nu-l desfiinteaza, nici nu-i mai adauga ceva."
+    textWithDiacritics: "Fraţil Israeliţi, [vorbesc în felul oamenilor] un testament,\
+      \ chiar al unui om, odată întărit totuşi nimeni nu-l desfiinţează, nici nu-i\
+      \ mai adaugă ceva."
+    chapter: null
+  - verseNumber: 16
+    text: "Acum, fagaduintele au fost facute „lui Avraam si semintei lui.” Nu zice:\
+      \ „si semintelor” [ca si cum ar fi vorba de mai multe], ci ca si cum ar fi vorba\
+      \ numai de una: „si semintei tale” adica haMasiya."
+    textWithDiacritics: "Acum, făgăduinţele au fost făcute „lui Avraam şi seminţei\
+      \ lui.” Nu zice: „şi seminţelor” [ca şi cum ar fi vorba de mai multe], ci ca\
+      \ şi cum ar fi vorba numai de una: „şi seminţei tale” adică haMaşiya."
+    chapter: null
+  - verseNumber: 17
+    text: "Iata ce vreau sa zic: un testament pe care l-a intarit YaHWeH mai inainte,\
+      \ nu poate fi desfiintat asa ca fagaduinta sa fie nimicita de Legea venita dupa\
+      \ patru sute treizeci de ani. [ Testament ,aici – Legamint ]"
+    textWithDiacritics: "Iată ce vreau să zic: un testament pe care l-a întărit YaHWeH\
+      \ mai înainte, nu poate fi desfiinţat aşa ca făgăduinţa să fie nimicită de Legea\
+      \ venită după patru sute treizeci de ani. [ Testament ,aici – Legămînt ]"
+    chapter: null
+  - verseNumber: 18
+    text: "Caci, daca mostenirea ar veni din Lege, nu mai vine din cuvantul fagaduintei;\
+      \ dar YaHWeH a acordat-o lui Avraam prin fagaduinta."
+    textWithDiacritics: "Căci, dacă moştenirea ar veni din Lege, nu mai vine din cuvâ\
+      ntul făgăduinţei; dar YaHWeH a acordat-o lui Avraam prin făgăduinţă."
+    chapter: null
+  - verseNumber: 19
+    text: "Atunci pentru ce scop este nevoie de Lege? Aceasta le-a fost adaugata din\
+      \ pricina calcarilor de Lege, pina cind avea sa vina „Saminta” pentru care fusese\
+      \ facuta fagaduinta; si a fost data de ingeri ceresti prin mainile unui mijlocitor."
+    textWithDiacritics: "Atunci pentru ce scop este nevoie de Lege? Aceasta le-a fost\
+      \ adăugată din pricina călcărilor de Lege, pînă cînd avea să vină „Sămînţa”\
+      \ pentru care fusese făcută făgăduinţa; şi a fost dată de îngeri cerești prin\
+      \ mâinile unui mijlocitor."
+    chapter: null
+  - verseNumber: 20
+    text: "Dar mijlocitorul nu este mijlocitorul unei singure parti. Pe cind YaHWeH\
+      \ este unul singur."
+    textWithDiacritics: "Dar mijlocitorul nu este mijlocitorul unei singure părţi.\
+      \ Pe cînd YaHWeH este unul singur."
+    chapter: null
+  - verseNumber: 21
+    text: "Atunci oare Legea este impotriva fagaduintelor lui YaHWeH? Nicidecum! Daca\
+      \ s-ar fi dat Legea care sa dea viata, intr-adevar, neprihanirea ar veni din\
+      \ Lege."
+    textWithDiacritics: "Atunci oare Legea este împotriva făgăduinţelor lui YaHWeH?\
+      \ Nicidecum! Dacă s-ar fi dat Legea care să dea viaţa, într-adevăr, neprihă\
+      nirea ar veni din Lege."
+    chapter: null
+  - verseNumber: 22
+    text: "Dar Scriptura a inchis totul sub pacat, pentru ca fagaduinta sa fie data\
+      \ celor ce cred; prin credinta in Yasua haMasiya."
+    textWithDiacritics: "Dar Scriptura a închis totul sub păcat, pentru ca făgăduinţ\
+      a să fie dată celor ce cred; prin credinţa în Yașua haMaşiya."
+    chapter: null
+  - verseNumber: 23
+    text: "Inainte de a veni la credinta, noi eram sub paza Legii, eram inchisi pentru\
+      \ credinta care inca nu ne-a fost descoperita."
+    textWithDiacritics: "Înainte de a veni la credinţă, noi eram sub paza Legii, eram\
+      \ închişi pentru credinţă care încă nu ne-a fost descoperită."
+    chapter: null
+  - verseNumber: 24
+    text: "Astfel, Legea ne calauzea spre haMasiya, ca sa fim socotiti neprihaniti\
+      \ prin credinta."
+    textWithDiacritics: "Astfel, Legea ne călăuzea spre haMaşiya, ca să fim socotiţ\
+      i neprihăniţi prin credinţă."
+    chapter: null
+  - verseNumber: 25
+    text: "Dupa ce am venit la credinta, nu suntem sub Orinduiala invatatorilor! [Orinduiala\
+      \ fariseilor]"
+    textWithDiacritics: "După ce am venit la credinţa, nu suntem sub Orînduiala î\
+      nvăţătorilor! [Orînduiala fariseilor]"
+    chapter: null
+  - verseNumber: 26
+    text: "Caci toti sunteti fii ai lui YaHWeH, tinind credinta in haMasiya."
+    textWithDiacritics: "Căci toţi sunteţi fii ai lui YaHWeH, ținînd credinţa în haMaş\
+      iya."
+    chapter: null
+  - verseNumber: 27
+    text: "Toti care va-ti botezat pentru haMasiya v-ati imbracat cu haMasiya."
+    textWithDiacritics: "Toţi care va-ţi botezat pentru haMaşiya v-aţi îmbrăcat cu\
+      \ haMaşiya."
+    chapter: null
+  - verseNumber: 28
+    text: "Nu mai este nici iudeu, nici grec; nu mai este nici rob, nici slobod; nu\
+      \ mai este nici parte barbateasca, nici parte femeiasca, fiindca toti sunteti\
+      \ uniti in haMasiya."
+    textWithDiacritics: "Nu mai este nici iudeu, nici grec; nu mai este nici rob,\
+      \ nici slobod; nu mai este nici parte bărbătească, nici parte femeiască, fiindcă\
+      \ toţi sunteţi uniți în haMaşiya."
+    chapter: null
+  - verseNumber: 29
+    text: "Si daca sunteti ai lui haMasiya, sunteti „saminta” lui Avraam, mostenitori\
+      \ prin fagaduinta."
+    textWithDiacritics: "Şi dacă sunteţi ai lui haMaşiya, sunteţi „sămînţa” lui Avraam,\
+      \ moştenitori prin făgăduinţă."
+    chapter: null
+- number: 4
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Dar cita vreme mostenitorul este nevirstnic, eu spun ca nu se deosebeste\
+      \ cu nimic de un rob, macar ca este stapin pe tot."
+    textWithDiacritics: "Dar cîtă vreme moştenitorul este nevîrstnic, eu spun că nu\
+      \ se deosebeşte cu nimic de un rob, măcar că este stăpîn pe tot."
+    chapter: null
+  - verseNumber: 2
+    text: "Ci este sub epitropi ingrijitori, pina la vremea rinduita de tatal sau."
+    textWithDiacritics: "Ci este sub epitropi îngrijitori, pînă la vremea rînduită\
+      \ de tatăl său."
+    chapter: null
+  - verseNumber: 3
+    text: "Tot asa si noi, cind eram nevirstnici, eram sub robia invataturilor incepatoare\
+      \ ale lumii."
+    textWithDiacritics: "Tot aşa şi noi, cînd eram nevîrstnici, eram sub robia învă\
+      ţăturilor începătoare ale lumii."
+    chapter: null
+  - verseNumber: 4
+    text: "Dar, cind a venit implinirea vremii, YaHWeH a trimis pe Fiul Sau, nascut\
+      \ din femeie, nascut sub Lege,"
+    textWithDiacritics: "Dar, cînd a venit împlinirea vremii, YaHWeH a trimis pe Fiul\
+      \ Său, născut din femeie, născut sub Lege,"
+    chapter: null
+  - verseNumber: 5
+    text: "ca sa-i rascumpere pe cei ce erau sub conditiile legii, astfel incat sa\
+      \ putem primi infierea, devenind copii sai."
+    textWithDiacritics: "ca să-i răscumpere pe cei ce erau sub condițiile legii, astfel\
+      \ încât să putem primi înfierea, devenind copii săi."
+    chapter: null
+  - verseNumber: 6
+    text: "Si pentru ca sunteti copii lui, YaHWeH ne-a trimis in inima Duhul Fiului\
+      \ Sau care striga: „Aba Aba []” adica: „ Tata Tata!”"
+    textWithDiacritics: "Şi pentru că sunteţi copii lui, YaHWeH ne-a trimis în inimă\
+      \ Duhul Fiului Său care strigă: „Aba Aba []” adică: „ Tată Tată!”"
+    chapter: null
+  - verseNumber: 7
+    text: "Asa ca nu mai sint robi, ci fii; si daca sint fii, sint si mostenitori\
+      \ prin haMasiya. Galatenii si invatatorii mincinosi"
+    textWithDiacritics: "Aşa că nu mai sînt robi, ci fii; şi dacă sînt fii, sînt ş\
+      i moştenitori prin haMaşiya. Galatenii şi învăţătorii mincinoşi"
+    chapter: null
+  - verseNumber: 8
+    text: "Odinioara cind nu cunosteati pe YaHWeH Eylohim al nostru, erati robiti\
+      \ de dumnezei."
+    textWithDiacritics: "Odinioară cînd nu cunoşteaţi pe YaHWeH Eylohim al nostru,\
+      \ eraţi robiţi de dumnezei."
+    chapter: null
+  - verseNumber: 9
+    text: "Dar acum, dupa ce ati cunoscut pe YaHWeH sau, mai bine zis, dupa ce ati\
+      \ fost cunoscuti de YaHWeH, cum va mai intoarceti iarasi la acele invataturi\
+      \ incepatoare, slabe si saracacioase, carora vreti sa va supuneti din nou?"
+    textWithDiacritics: "Dar acum, după ce aţi cunoscut pe YaHWeH sau, mai bine zis,\
+      \ după ce aţi fost cunoscuţi de YaHWeH, cum vă mai întoarceţi iarăşi la acele\
+      \ învăţături începătoare, slabe şi sărăcăcioase, cărora vreţi să vă supuneţ\
+      i din nou?"
+    chapter: null
+  - verseNumber: 10
+    text: "Voi va paziti zilele, lunile soroacelor si anii. [zile,luni,ani paginesti-kirkosh]"
+    textWithDiacritics: "Voi vă păziţi zilele, lunile soroacelor şi anii. [zile,luni,ani\
+      \ păgînești-kirkosh]"
+    chapter: null
+  - verseNumber: 11
+    text: "Ma tem sa nu ma fi ostenit degeaba pentru voi."
+    textWithDiacritics: "Mă tem să nu mă fi ostenit degeaba pentru voi."
+    chapter: null
+  - verseNumber: 12
+    text: "Fratilor, va rog sa fiti ca mine, caci si eu sunt ca voi. Nu mi-ati facut\
+      \ nici-o nedreptate."
+    textWithDiacritics: "Fraţilor, vă rog să fiţi ca mine, căci şi eu sunt ca voi.\
+      \ Nu mi-aţi făcut nici-o nedreptate."
+    chapter: null
+  - verseNumber: 13
+    text: "Dimpotriva, stiti ca in neputinta trupului v-am propovaduit Evanghelia\
+      \ pentru intiia data."
+    textWithDiacritics: "Dimpotrivă, ştiţi că în neputinţa trupului v-am propovăduit\
+      \ Evanghelia pentru întîia dată."
+    chapter: null
+  - verseNumber: 14
+    text: "Si n-ati aratat nici dispret, nici dezgust fata de ceea ce era o ispita\
+      \ pentru voi in trupul meu; dimpotriva, m-ati primit ca pe un inger al lui Eylohim,\
+      \ ca pe insusi haMasiya."
+    textWithDiacritics: "Şi n-aţi arătat nici dispreţ, nici dezgust faţă de ceea ce\
+      \ era o ispită pentru voi în trupul meu; dimpotrivă, m-aţi primit ca pe un î\
+      nger al lui Eylohim, ca pe însuşi haMaşiya."
+    chapter: null
+  - verseNumber: 15
+    text: "Unde este dar fericirea voastra? Caci va marturisesc ca, daca ar fi fost\
+      \ cu putinta, v-ati fi scos pina si ochii si mi i-ati fi dat."
+    textWithDiacritics: "Unde este dar fericirea voastră? Căci vă mărturisesc că,\
+      \ dacă ar fi fost cu putinţă, v-aţi fi scos pînă şi ochii şi mi i-aţi fi dat."
+    chapter: null
+  - verseNumber: 16
+    text: "M-am facut oare vrajmasul vostru pentru ca v-am spus Adevarul?"
+    textWithDiacritics: "M-am făcut oare vrăjmaşul vostru pentru că v-am spus Adevă\
+      rul?"
+    chapter: null
+  - verseNumber: 17
+    text: "Nu cu gind bun sunt plini de rivna ei pentru voi, ci vor sa va dezlipeasca\
+      \ de noi, ca sa fiti plini de rivna fata de ei."
+    textWithDiacritics: "Nu cu gînd bun sunt plini de rîvnă ei pentru voi, ci vor\
+      \ să vă dezlipească de noi, ca să fiţi plini de rîvnă faţă de ei."
+    chapter: null
+  - verseNumber: 18
+    text: "Este bine sa fii plin de rivna totdeauna pentru bine, nu numai cind sunt\
+      \ de fata la voi."
+    textWithDiacritics: "Este bine să fii plin de rîvnă totdeauna pentru bine, nu\
+      \ numai cînd sunt de faţă la voi."
+    chapter: null
+  - verseNumber: 19
+    text: "Copilasii mei, pentru care iarasi simt durerile nasterii, pina ce va lua\
+      \ haMasiya chip in voi!"
+    textWithDiacritics: "Copilaşii mei, pentru care iarăşi simt durerile naşterii,\
+      \ pînă ce va lua haMaşiya chip în voi!"
+    chapter: null
+  - verseNumber: 20
+    text: "O, cum as vrea sa fiu acum de fata la voi si sa-mi schimb glasul; caci\
+      \ nu stiu cum sa va mai cred! Pilda Agarei si a Sarei"
+    textWithDiacritics: "O, cum aş vrea să fiu acum de faţă la voi şi să-mi schimb\
+      \ glasul; căci nu ştiu cum să vă mai cred! Pilda Agarei şi a Sarei"
+    chapter: null
+  - verseNumber: 21
+    text: "Spuneti-mi voi, care voiti sa lucrati prin Lege, n-ascultati voi Legea?"
+    textWithDiacritics: "Spuneţi-mi voi, care voiţi să lucraţi prin Lege, n-ascultaţ\
+      i voi Legea?"
+    chapter: null
+  - verseNumber: 22
+    text: "Caci este scris ca Avraam a avut doi fii: unul din roaba, si unul din femeia\
+      \ sloboda."
+    textWithDiacritics: "Căci este scris că Avraam a avut doi fii: unul din roabă\
+      , şi unul din femeia slobodă."
+    chapter: null
+  - verseNumber: 23
+    text: "Dar cel din roaba s-a nascut in chip firesc, iar cel din femeia sloboda\
+      \ s-a nascut prin fagaduinta."
+    textWithDiacritics: "Dar cel din roabă s-a născut în chip firesc, iar cel din\
+      \ femeia slobodă s-a născut prin făgăduinţă."
+    chapter: null
+  - verseNumber: 24
+    text: "Lucrurile acestea trebuie luate in alt inteles: acestea sunt doar legaminte:\
+      \ Legamintul de pe muntele Sinai naste pentru robie si este Agar"
+    textWithDiacritics: "Lucrurile acestea trebuie luate în alt înţeles: acestea sunt\
+      \ doar legăminte: Legămîntul de pe muntele Sinai naşte pentru robie şi este\
+      \ Agar"
+    chapter: null
+  - verseNumber: 25
+    text: "caci Agar este muntele Sinai din Arabia – si raspunde Ierusalimului de\
+      \ acum care este in robie impreuna cu copiii sai."
+    textWithDiacritics: "căci Agar este muntele Sinai din Arabia – şi răspunde Ierusalimului\
+      \ de acum care este în robie împreună cu copiii săi."
+    chapter: null
+  - verseNumber: 26
+    text: "Dar Ierusalimul cel de sus este slobod, si el este mama noastra."
+    textWithDiacritics: "Dar Ierusalimul cel de sus este slobod, şi el este mama noastră\
+      ."
+    chapter: null
+  - verseNumber: 27
+    text: "Fiindca este scris: „Bucura-te stearpo, care nu mai nasti deloc! Izbucneste\
+      \ de bucurie si striga, tu, care nu mai esti in durerile nasterii! Caci copiii\
+      \ celei parasite vor fi in numar mai mare decit copiii celei cu barbat.”"
+    textWithDiacritics: "Fiindcă este scris: „Bucură-te stearpo, care nu mai naşti\
+      \ deloc! Izbucneşte de bucurie şi strigă, tu, care nu mai eşti în durerile naş\
+      terii! Căci copiii celei părăsite vor fi în număr mai mare decît copiii celei\
+      \ cu bărbat.”"
+    chapter: null
+  - verseNumber: 28
+    text: "Si noi frati Israeliti, suntem ca si Isaac, noi suntem copii ai fagaduintei."
+    textWithDiacritics: "Şi noi fraţi Israeliţi, suntem ca şi Isaac, noi suntem copii\
+      \ ai făgăduinţei."
+    chapter: null
+  - verseNumber: 29
+    text: "Si cum s-a intimplat atunci, ca cel ce se nascuse in chip firesc prigonea\
+      \ pe cel ce se nascuse prin Duhul, tot asa se intimpla si acum. [ prin Fagaduinta\
+      \ ]"
+    textWithDiacritics: "Şi cum s-a întîmplat atunci, că cel ce se născuse în chip\
+      \ firesc prigonea pe cel ce se născuse prin Duhul, tot aşa se întîmplă şi acum.\
+      \ [ prin Făgăduință ]"
+    chapter: null
+  - verseNumber: 30
+    text: "Dar ce zice Scriptura? „Izgoneste pe roaba si pe fiul ei; caci fiul roabei\
+      \ nu va mosteni impreuna cu fiul femeii slobode.”"
+    textWithDiacritics: "Dar ce zice Scriptura? „Izgoneşte pe roabă şi pe fiul ei;\
+      \ căci fiul roabei nu va moşteni împreună cu fiul femeii slobode.”"
+    chapter: null
+  - verseNumber: 31
+    text: "De aceea, frati Israeliti , noi nu suntem copiii celei roabe, ci ai femeii\
+      \ slobode. haMasiya ne-a izbavit ca sa fim slobozi."
+    textWithDiacritics: "De aceea, fraţi Israeliţi , noi nu suntem copiii celei roabe,\
+      \ ci ai femeii slobode. haMaşiya ne-a izbăvit ca să fim slobozi."
+    chapter: null
+- number: 5
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Ramineti dar tari in libertatea cu care . haMasiya ne-a facut sa fim slobozi,\
+      \ si nu va plecati din nou sub jugul robiei. Slobozenia credinciosilor"
+    textWithDiacritics: "Rămîneţi dar tari în libertatea cu care . haMaşiya ne-a fă\
+      cut să fim slobozi, şi nu vă plecaţi din nou sub jugul robiei. Slobozenia credincioş\
+      ilor"
+    chapter: null
+  - verseNumber: 2
+    text: "Iata eu Pavel, va spun ca, prin taierea imprejur, haMasiya nu va va da\
+      \ folos la nimic."
+    textWithDiacritics: "Iată eu Pavel, vă spun că, prin tăierea împrejur, haMaşiya\
+      \ nu vă va da folos la nimic."
+    chapter: null
+  - verseNumber: 3
+    text: "Si marturisesc iarasi, inca o data, oricarui om care este taiat imprejur,\
+      \ ca este dator sa implineasca toata legea. [ legea sacrificilor ]"
+    textWithDiacritics: "Şi mărturisesc iarăşi, încă o dată, oricărui om care este\
+      \ tăiat împrejur, că este dator să împlinească toată legea. [ legea sacrificilor\
+      \ ]"
+    chapter: null
+  - verseNumber: 4
+    text: "Voi, care voiti sa fiti socotiti neprihaniti prin taierea imprejur, v-ati\
+      \ despartit de haMasiya; ati cazut de la har. [ script traditionala-prin lege\
+      \ ]"
+    textWithDiacritics: "Voi, care voiţi să fiţi socotiţi neprihăniţi prin tăierea\
+      \ împrejur, v-aţi despărţit de haMaşiya; aţi căzut de la har. [ script tradiț\
+      ională-prin lege ]"
+    chapter: null
+  - verseNumber: 5
+    text: "Caci noi, prin Duhul, asteptam prin credinta nadejdea neprihanirii."
+    textWithDiacritics: "Căci noi, prin Duhul, aşteptăm prin credinţă nădejdea neprihă\
+      nirii."
+    chapter: null
+  - verseNumber: 6
+    text: "Caci, in Yasua haMasiya, nici taierea imprejur, nici netaierea imprejur\
+      \ n-au vreun pret, ci credinta care lucreaza prin dragoste."
+    textWithDiacritics: "Căci, în Yașua haMaşiya, nici tăierea împrejur, nici netă\
+      ierea împrejur n-au vreun preţ, ci credinţa care lucrează prin dragoste."
+    chapter: null
+  - verseNumber: 7
+    text: "Voi alergati bine: cine v-a taiat calea, ca sa n-ascultati de Adevar?"
+    textWithDiacritics: "Voi alergaţi bine: cine v-a tăiat calea, ca să n-ascultaţ\
+      i de Adevăr?"
+    chapter: null
+  - verseNumber: 8
+    text: "Induplecarea aceasta nu vine de la Cel ce v-a chemat."
+    textWithDiacritics: "Înduplecarea aceasta nu vine de la Cel ce v-a chemat."
+    chapter: null
+  - verseNumber: 9
+    text: "Putin aluat face sa se dospeasca toata plamadeala."
+    textWithDiacritics: "Puţin aluat face să se dospească toată plămădeala."
+    chapter: null
+  - verseNumber: 10
+    text: "Eu cu privire la voi, am in YaHWeH increderea ca nu ginditi altfel. Dar\
+      \ cel ce va tulbura va purta osinda, oricine ar fi el."
+    textWithDiacritics: "Eu cu privire la voi, am în YaHWeH încrederea că nu gîndiţ\
+      i altfel. Dar cel ce vă tulbură va purta osînda, oricine ar fi el."
+    chapter: null
+  - verseNumber: 11
+    text: "Cit despre mine fratilor, daca mai propovaduiesc taierea imprejur, de ce\
+      \ mai sunt prigonit? Atunci pricina de poticnire a rastigniri s-a dus."
+    textWithDiacritics: "Cît despre mine fraţilor, dacă mai propovăduiesc tăierea\
+      \ împrejur, de ce mai sunt prigonit? Atunci pricina de poticnire a răstigniri\
+      \ s-a dus."
+    chapter: null
+  - verseNumber: 12
+    text: "Eu doresc ca cei ce va tulbura sa fie chiar eliminati. [ aramaica = sa\
+      \ fie dati afaran] Indemn sa traiasca in dragoste"
+    textWithDiacritics: "Eu doresc ca cei ce vă tulbură să fie chiar eliminați. [\
+      \ aramaică = să fie dați afarăn] Îndemn să trăiască în dragoste"
+    chapter: null
+  - verseNumber: 13
+    text: "Frati Israeliti, voi ati fost chemati la slobozenie. Numai nu faceti din\
+      \ slobozenie o pricina ca sa traiti pentru firea paminteasca, ci slujiti-va\
+      \ unii altora in dragoste."
+    textWithDiacritics: "Fraţi Israeliţi, voi aţi fost chemaţi la slobozenie. Numai\
+      \ nu faceţi din slobozenie o pricină ca să trăiţi pentru firea pămîntească,\
+      \ ci slujiţi-vă unii altora în dragoste."
+    chapter: null
+  - verseNumber: 14
+    text: "Caci in Lege este cuprinsa si aceasta porunca: „Sa-l iubesti si pe aproapele\
+      \ tau ca pe tine insuti.”"
+    textWithDiacritics: "Căci în Lege este cuprinsă și această poruncă: „Să-l iubeş\
+      ti și pe aproapele tău ca pe tine însuţi.”"
+    chapter: null
+  - verseNumber: 15
+    text: "Dar, voi va muscati si va mincati unii pe altii, luati seama sa nu fiti\
+      \ nimiciti unii de altii. Faptele firii pamintesti si Duhul"
+    textWithDiacritics: "Dar, voi vă muşcaţi şi vă mîncaţi unii pe alţii, luaţi seama\
+      \ să nu fiţi nimiciţi unii de alţii. Faptele firii pămînteşti şi Duhul"
+    chapter: null
+  - verseNumber: 16
+    text: "Zic voua dar: umblati cirmuiti de Duhul si nu impliniti poftele firii pamintesti."
+    textWithDiacritics: "Zic vouă dar: umblaţi cîrmuiţi de Duhul şi nu împliniţi poftele\
+      \ firii pămînteşti."
+    chapter: null
+  - verseNumber: 17
+    text: "Caci firea paminteasca pofteste impotriva Duhului, si Duhul impotriva firii\
+      \ pamintesti: sunt lucruri potrivnice unele altora, asa ca nu puteti face tot\
+      \ ce voiti."
+    textWithDiacritics: "Căci firea pămîntească pofteşte împotriva Duhului, şi Duhul\
+      \ împotriva firii pămînteşti: sunt lucruri potrivnice unele altora, aşa că nu\
+      \ puteţi face tot ce voiţi."
+    chapter: null
+  - verseNumber: 18
+    text: "Daca sunteti calauziti de Duhul Sfant, nu sunteti sub randuiala care perverteste\
+      \ Legea."
+    textWithDiacritics: "Dacă sunteţi călăuziţi de Duhul Sfănt, nu sunteți sub ră\
+      nduiala care pervertește Legea."
+    chapter: null
+  - verseNumber: 19
+    text: "Caci faptele firii pamintesti sunt cunoscute si sunt acestea: preacurvia,\
+      \ curvia, necuratia, desfrinarea,"
+    textWithDiacritics: "Căci faptele firii pămînteşti sunt cunoscute şi sunt acestea:\
+      \ preacurvia, curvia, necurăţia, desfrînarea,"
+    chapter: null
+  - verseNumber: 20
+    text: "inchinarea la idoli, vrajitoria, vrajbile, certurile, zavistiile, miniile,\
+      \ neintelegerile, dezbinarile, certurile de partide,"
+    textWithDiacritics: "închinarea la idoli, vrăjitoria, vrăjbile, certurile, zavistiile,\
+      \ mîniile, neînţelegerile, dezbinările, certurile de partide,"
+    chapter: null
+  - verseNumber: 21
+    text: "pizmele, uciderile, betiile, imbuibarile si alte lucruri asemanatoare cu\
+      \ acestea. Va spun mai dinainte, cum am mai spus, ca cei ce fac astfel de lucruri\
+      \ nu vor mosteni Imparatia lui YaHWeH."
+    textWithDiacritics: "pizmele, uciderile, beţiile, îmbuibările şi alte lucruri\
+      \ asemănătoare cu acestea. Vă spun mai dinainte, cum am mai spus, că cei ce\
+      \ fac astfel de lucruri nu vor moşteni Împărăţia lui YaHWeH."
+    chapter: null
+  - verseNumber: 22
+    text: "Roada Duhului, este: dragostea, bucuria, pacea, indelunga rabdare, bunatatea\
+      \ facerea de bine credinciosia"
+    textWithDiacritics: "Roada Duhului, este: dragostea, bucuria, pacea, îndelunga\
+      \ răbdare, bunătatea facerea de bine credincioşia"
+    chapter: null
+  - verseNumber: 23
+    text: "blindetea, infrinarea poftelor. Pentru acestea Legea nu este impotriva."
+    textWithDiacritics: "blîndeţea, înfrînarea poftelor. Pentru acestea Legea nu este\
+      \ împotrivă."
+    chapter: null
+  - verseNumber: 24
+    text: "Cei ce sunt ai lui haMasiya si-au rastignit firea paminteasca impreuna\
+      \ cu patimile si poftele ei."
+    textWithDiacritics: "Cei ce sunt ai lui haMaşiya şi-au răstignit firea pămîntească\
+      \ împreună cu patimile şi poftele ei."
+    chapter: null
+  - verseNumber: 25
+    text: "Daca traim prin Duhul, sa si umblam prin Duhul."
+    textWithDiacritics: "Dacă trăim prin Duhul, să şi umblăm prin Duhul."
+    chapter: null
+  - verseNumber: 26
+    text: "Sa nu umblam dupa o slava desarta, intaritindu-ne unii pe altii si pizmuindu-ne\
+      \ unii pe altii."
+    textWithDiacritics: "Să nu umblăm după o slavă deşartă, întărîtîndu-ne unii pe\
+      \ alţii şi pizmuindu-ne unii pe alţii."
+    chapter: null
+- number: 6
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Fratilor, chiar daca un om ar cadea vreodata in vreo greseala, voi, care\
+      \ sunteti duhovnicesti sa-l ridicati cu Duhul blindetii. Si ia seama la tine\
+      \ insuti, ca sa nu fii ispitit si tu."
+    textWithDiacritics: "Fraţilor, chiar dacă un om ar cădea vreodată în vreo greş\
+      eală, voi, care sunteţi duhovniceşti să-l ridicaţi cu Duhul blîndeţii. Şi ia\
+      \ seama la tine însuţi, ca să nu fii ispitit şi tu."
+    chapter: null
+  - verseNumber: 2
+    text: "Purtati-va sarcinile unii altora si veti implini astfel porunca lui haMasiya."
+    textWithDiacritics: "Purtaţi-vă sarcinile unii altora şi veţi împlini astfel porunca\
+      \ lui haMaşiya."
+    chapter: null
+  - verseNumber: 3
+    text: "Daca vreunul crede ca este ceva, macar ca nu este nimic se insala singur."
+    textWithDiacritics: "Dacă vreunul crede că este ceva, măcar că nu este nimic se\
+      \ înşală singur."
+    chapter: null
+  - verseNumber: 4
+    text: "Fiecare sa-si cerceteze lucru lui, si atunci va avea cu ce sa se laude\
+      \ numai in ce-l priveste pe el, si nu cu privire la altii;"
+    textWithDiacritics: "Fiecare să-şi cerceteze lucru lui, şi atunci va avea cu ce\
+      \ să se laude numai în ce-l priveşte pe el, şi nu cu privire la alţii;"
+    chapter: null
+  - verseNumber: 5
+    text: "caci fiecare isi va purta sarcina lui insusi."
+    textWithDiacritics: "căci fiecare îşi va purta sarcina lui însuşi."
+    chapter: null
+  - verseNumber: 6
+    text: "Cine primeste invatatura in Cuvint sa faca parte din toate bunurile lui\
+      \ si celui ce-l invata."
+    textWithDiacritics: "Cine primeşte învăţătura în Cuvînt să facă parte din toate\
+      \ bunurile lui şi celui ce-l învaţă."
+    chapter: null
+  - verseNumber: 7
+    text: "Nu va inselati: „ YaHWeH nu Se lasa sa fie batjocorit.” Ce seamana omul,\
+      \ aceea va si secera."
+    textWithDiacritics: "Nu vă înşelaţi: „ YaHWeH nu Se lasă să fie batjocorit.” Ce\
+      \ seamănă omul, aceea va şi secera."
+    chapter: null
+  - verseNumber: 8
+    text: "Cine seamana in firea lui paminteasca va secera din firea paminteasca putrezirea;\
+      \ dar cine seamana in Duhul va secera prin Duhul viata vesnica."
+    textWithDiacritics: "Cine seamănă în firea lui pămîntească va secera din firea\
+      \ pămîntească putrezirea; dar cine seamănă în Duhul va secera prin Duhul viaţ\
+      a veşnică."
+    chapter: null
+  - verseNumber: 9
+    text: "Sa nu obosim in facerea binelui; caci, la vremea potrivita, vom secera,\
+      \ daca nu vom cadea de oboseala."
+    textWithDiacritics: "Să nu obosim în facerea binelui; căci, la vremea potrivită\
+      , vom secera, dacă nu vom cădea de oboseală."
+    chapter: null
+  - verseNumber: 10
+    text: "Asadar cit avem prilej sa facem bine la toti, si mai ales fratilor in credinta."
+    textWithDiacritics: "Aşadar cît avem prilej să facem bine la toţi, şi mai ales\
+      \ fraţilor în credinţă."
+    chapter: null
+  - verseNumber: 11
+    text: "Uitati-va cu ce slove mari v-am scris, cu insasi mina mea!"
+    textWithDiacritics: "Uitaţi-vă cu ce slove mari v-am scris, cu însăşi mîna mea!"
+    chapter: null
+  - verseNumber: 12
+    text: "Toti cei ce umbla dupa placerea oamenilor va silesc sa va taieati imprejur,\
+      \ numai ca sa nu sufere ei prigoana rastigniri lui haMasiya."
+    textWithDiacritics: "Toţi cei ce umblă după plăcerea oamenilor vă silesc să vă\
+      \ tăieați împrejur, numai ca să nu sufere ei prigoana răstigniri lui haMaşiya."
+    chapter: null
+  - verseNumber: 13
+    text: "Caci nici ei, care au taierea imprejur, nu pazesc Legea; ci voiesc doar\
+      \ ca voi sa va taiati imprejur, pentru ca sa se laude ei cu trupul vostru."
+    textWithDiacritics: "Căci nici ei, care au tăierea împrejur, nu păzesc Legea;\
+      \ ci voiesc doar ca voi să vă tăiați împrejur, pentru ca să se laude ei cu trupul\
+      \ vostru."
+    chapter: null
+  - verseNumber: 14
+    text: "In ce ma priveste departe de mine gindul sa ma laud cu altceva decit cu\
+      \ rastignirea Stapinul nostru Yasua haMasiya, prin care lumea este rastignita\
+      \ fata de mine si eu fata de lume!"
+    textWithDiacritics: "În ce mă priveşte departe de mine gîndul să mă laud cu altceva\
+      \ decît cu răstignirea Stăpînul nostru Yașua haMaşiya, prin care lumea este\
+      \ răstignită faţă de mine şi eu faţă de lume!"
+    chapter: null
+  - verseNumber: 15
+    text: "Caci in haMasiya, nici taierea imprejur, nici netaierea imprejur nu sunt\
+      \ nimic, ci a fi o faptura noua."
+    textWithDiacritics: "Căci în haMaşiya, nici tăierea împrejur, nici netăierea î\
+      mprejur nu sunt nimic, ci a fi o făptură nouă."
+    chapter: null
+  - verseNumber: 16
+    text: "Si peste toti cei ce vor umbla dupa dreptarul acesta si peste Israelul\
+      \ lui YaHWeH sa fie pace si indurare!"
+    textWithDiacritics: "Şi peste toţi cei ce vor umbla după dreptarul acesta şi peste\
+      \ Israelul lui YaHWeH să fie pace şi îndurare!"
+    chapter: null
+  - verseNumber: 17
+    text: "De acum incolo nimeni sa nu ma mai necajeasca pentru ca port semnele Stapinul\
+      \ Yasua pe trupul meu."
+    textWithDiacritics: "De acum încolo nimeni să nu mă mai necăjească pentru că port\
+      \ semnele Stăpînul Yașua pe trupul meu."
+    chapter: null
+  - verseNumber: 18
+    text: "Frati Israeliti, harul Stapinului nostru Yasua haMasiya sa fie cu duhul\
+      \ vostru! HalleluYa. HalleluYah"
+    textWithDiacritics: "Fraţi Israeliţi, harul Stăpînului nostru Yașua haMaşiya să\
+      \ fie cu duhul vostru! HalleluYa. HalleluYah"
+    chapter: null

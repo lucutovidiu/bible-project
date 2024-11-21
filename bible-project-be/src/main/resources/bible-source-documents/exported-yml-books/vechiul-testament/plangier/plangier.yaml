@@ -1,0 +1,941 @@
+---
+bookId: 25
+name: "Plîngerile lui Ieremia – Ekah"
+abbreviation: "PlangIer."
+testament: "Vechiul Testament"
+expChaptersCount: 5
+expTotalVerses: 154
+downloadedLink: "https://yahwehtora.ro/plingerile-lui-ieremia-ekah"
+requiresUpdate: false
+inProgress: false
+bookOrder: 25
+chapterPojo:
+- number: 1
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Vai! Cum sta parasita acum, cetatea aceasta atit de plina de popor altadata!\
+      \ A ramas ca o vaduva! Ea, care altadata era mare intre neamuri, fruntasa printre\
+      \ tari, a ajuns roaba astazi!"
+    textWithDiacritics: "Vai! Cum stă părăsită acum, cetatea aceasta atît de plină\
+      \ de popor altădată! A rămas ca o văduvă! Ea, care altădată era mare între neamuri,\
+      \ fruntaşă printre ţări, a ajuns roabă astăzi!"
+    chapter: null
+  - verseNumber: 2
+    text: "Plinge amarnic noaptea si-i curg lacrimi pe obraji. Niciunul din toti cei\
+      \ ce o iubeau n-o mingiie; toti prietenii ei au parasit-o si i s-au facut vrajmasi."
+    textWithDiacritics: "Plînge amarnic noaptea şi-i curg lacrimi pe obraji. Niciunul\
+      \ din toţi cei ce o iubeau n-o mîngîie; toţi prietenii ei au părăsit-o şi i\
+      \ s-au făcut vrăjmaşi."
+    chapter: null
+  - verseNumber: 3
+    text: "Iuda a plecat in pribegie din pricina apasarii si muncilor grele. Locuieste\
+      \ in mijlocul neamurilor si nu gaseste odihna! Toti prigonitorii lui l-au ajuns\
+      \ tocmai cind ii era mai mare strimtorarea."
+    textWithDiacritics: "Iuda a plecat în pribegie din pricina apăsării şi muncilor\
+      \ grele. Locuieşte în mijlocul neamurilor şi nu găseşte odihnă! Toţi prigonitorii\
+      \ lui l-au ajuns tocmai cînd îi era mai mare strîmtorarea."
+    chapter: null
+  - verseNumber: 4
+    text: "Drumurile Sionului sunt triste caci nimeni nu se mai duce la Sarbatori,\
+      \ toate portile lui sunt pustii, preotii lui ofteaza; fecioarele lui sunt mihnite,\
+      \ si el insusi este plin de amaraciune."
+    textWithDiacritics: "Drumurile Sionului sunt triste căci nimeni nu se mai duce\
+      \ la Sărbători, toate porţile lui sunt pustii, preoţii lui oftează; fecioarele\
+      \ lui sunt mîhnite, şi el însuşi este plin de amărăciune."
+    chapter: null
+  - verseNumber: 5
+    text: "Asupritorii lui sar biruitori, vrajmasii lui sunt multumiti. Caci YaHWeH,\
+      \ l-a smerit din pricina multimii pacatelor lui; copiii lui au mers in robie\
+      \ inaintea asupritorului."
+    textWithDiacritics: "Asupritorii lui sar biruitori, vrăjmaşii lui sunt mulţumiţ\
+      i. Căci YaHWeH, l-a smerit din pricina mulţimii păcatelor lui; copiii lui au\
+      \ mers în robie înaintea asupritorului."
+    chapter: null
+  - verseNumber: 6
+    text: "S-a dus de la fiica Sionului toata podoaba ei. Capeteniile ei au ajuns\
+      \ ca niste cerbi care nu gasesc pasune si merg fara putere inaintea celui ce-i\
+      \ goneste."
+    textWithDiacritics: "S-a dus de la fiica Sionului toată podoaba ei. Căpeteniile\
+      \ ei au ajuns ca nişte cerbi care nu găsesc păşune şi merg fără putere înaintea\
+      \ celui ce-i goneşte."
+    chapter: null
+  - verseNumber: 7
+    text: "In zilele necazului si ticalosiei lui, Ierusalimul isi aduce aminte de\
+      \ toate bunatatile de care a avut parte din zilele strabune; cind a cazut poporul\
+      \ lui in mina asupritorului, nimeni nu i-a venit in ajutor, iar vrajmasii se\
+      \ uitau la el si rideau de prabusirea lui."
+    textWithDiacritics: "În zilele necazului şi ticăloşiei lui, Ierusalimul îşi aduce\
+      \ aminte de toate bunătăţile de care a avut parte din zilele străbune; cînd\
+      \ a căzut poporul lui în mîna asupritorului, nimeni nu i-a venit în ajutor,\
+      \ iar vrăjmaşii se uitau la el şi rîdeau de prăbuşirea lui."
+    chapter: null
+  - verseNumber: 8
+    text: "Greu a pacatuit Ierusalimul! De aceea a ajuns de scirba. Toti cei ce-l\
+      \ pretuiau il dispretuiesc acum vazindu-i goliciunea, si el insusi se intoarce\
+      \ in alta parte si ofteaza."
+    textWithDiacritics: "Greu a păcătuit Ierusalimul! De aceea a ajuns de scîrbă.\
+      \ Toţi cei ce-l preţuiau îl dispreţuiesc acum văzîndu-i goliciunea, şi el î\
+      nsuşi se întoarce în altă parte şi oftează."
+    chapter: null
+  - verseNumber: 9
+    text: "Necuratia sta lipita pe poala hainei lui, si nu se gindea la sfirsitul\
+      \ sau. A cazut greu de tot. Nimeni nu-l mingiie. „Vezi-mi ticalosia, YaHWeH,\
+      \ caci iata ce semet este vrajmasul!”"
+    textWithDiacritics: "Necurăţia sta lipită pe poala hainei lui, şi nu se gîndea\
+      \ la sfîrşitul său. A căzut greu de tot. Nimeni nu-l mîngîie. „Vezi-mi tică\
+      loşia, YaHWeH, căci iată ce semeţ este vrăjmaşul!”"
+    chapter: null
+  - verseNumber: 10
+    text: "Asupritorul a intins mina la tot ce avea el mai scump; ba inca a vazut\
+      \ cum in Locasul lui cel Sfint au intrat neamurile carora Tu le poruncisesi\
+      \ sa nu intre in adunarea ta!"
+    textWithDiacritics: "Asupritorul a întins mîna la tot ce avea el mai scump; ba\
+      \ încă a văzut cum în Locaşul lui cel Sfînt au intrat neamurile cărora Tu le\
+      \ porunciseşi să nu intre în adunarea ta!"
+    chapter: null
+  - verseNumber: 11
+    text: "Tot poporul lui cauta piine suspinind; si-au dat lucrurile scumpe pe hrana,\
+      \ numai ca sa-si tina viata. „Uita-Te, YaHWeH, si priveste cit de injosit sunt!”"
+    textWithDiacritics: "Tot poporul lui caută pîine suspinînd; şi-au dat lucrurile\
+      \ scumpe pe hrană, numai ca să-şi ţină viaţa. „Uită-Te, YaHWeH, şi priveşte\
+      \ cît de înjosit sunt!”"
+    chapter: null
+  - verseNumber: 12
+    text: "O! voi, care treceti pe linga mine, priviti si vedeti daca este vreo durere\
+      \ ca durerea mea, ca durerea cu care m-a lovit YaHWeH, in ziua miniei Lui aprinse!"
+    textWithDiacritics: "O! voi, care treceţi pe lîngă mine, priviţi şi vedeţi dacă\
+      \ este vreo durere ca durerea mea, ca durerea cu care m-a lovit YaHWeH, în ziua\
+      \ mîniei Lui aprinse!"
+    chapter: null
+  - verseNumber: 13
+    text: "Mi-a azvirlit de sus in oase un foc care le arde; mi-a intins un lat sub\
+      \ picioare si m-a dat inapoi. M-a lovit cu pustiire si o lincezeala de toate\
+      \ zilele!"
+    textWithDiacritics: "Mi-a azvîrlit de sus în oase un foc care le arde; mi-a î\
+      ntins un laţ sub picioare şi m-a dat înapoi. M-a lovit cu pustiire şi o lîncezeală\
+      \ de toate zilele!"
+    chapter: null
+  - verseNumber: 14
+    text: "Mina Lui a legat jugul nelegiuirilor mele, care stau impletite si legate\
+      \ de gitul meu. Mi-a frint puterea. YaHWeH, m-a dat in miinile acelora carora\
+      \ nu pot sa le stau impotriva."
+    textWithDiacritics: "Mîna Lui a legat jugul nelegiuirilor mele, care stau împletite\
+      \ şi legate de gîtul meu. Mi-a frînt puterea. YaHWeH, m-a dat în mîinile acelora\
+      \ cărora nu pot să le stau împotrivă."
+    chapter: null
+  - verseNumber: 15
+    text: "YaHWeH, a trintit la pamint pe toti vitejii din mijlocul meu; a strins\
+      \ o ostire impotriva mea, ca sa-mi prapadeasca tineretul; ca in teasc a calcat\
+      \ YaHWeH, pe fecioara, fiica lui Iuda."
+    textWithDiacritics: "YaHWeH, a trîntit la pămînt pe toţi vitejii din mijlocul\
+      \ meu; a strîns o oştire împotriva mea, ca să-mi prăpădească tineretul; ca î\
+      n teasc a călcat YaHWeH, pe fecioara, fiica lui Iuda."
+    chapter: null
+  - verseNumber: 16
+    text: "De aceea pling, imi varsa lacrimi ochii, caci S-a departat de la mine Cel\
+      \ ce trebuia sa ma mingiie, Cel ce trebuia sa-mi invioreze viata; fiii mei sunt\
+      \ zdrobiti, caci vrajmasul a biruit."
+    textWithDiacritics: "De aceea plîng, îmi varsă lacrimi ochii, căci S-a depărtat\
+      \ de la mine Cel ce trebuia să mă mîngîie, Cel ce trebuia să-mi învioreze viaţ\
+      a; fiii mei sunt zdrobiţi, căci vrăjmaşul a biruit."
+    chapter: null
+  - verseNumber: 17
+    text: "Sionul intinde miinile rugator, si nimeni nu-l mingiie. YaHWeH, a trimis\
+      \ impotriva lui Iacov de jur imprejur vrajmasi; Ierusalimul a ajuns de batjocura\
+      \ in mijlocul lor."
+    textWithDiacritics: "Sionul întinde mîinile rugător, şi nimeni nu-l mîngîie. YaHWeH,\
+      \ a trimis împotriva lui Iacov de jur împrejur vrăjmaşi; Ierusalimul a ajuns\
+      \ de batjocură în mijlocul lor."
+    chapter: null
+  - verseNumber: 18
+    text: "YaHWeH, este drept, caci m-am razvratit impotriva Poruncilor Lui. Ascultati,\
+      \ toate popoarele, si vedeti-mi durerea! Fecioarele si tinerii mei s-au dus\
+      \ in robie."
+    textWithDiacritics: "YaHWeH, este drept, căci m-am răzvrătit împotriva Poruncilor\
+      \ Lui. Ascultaţi, toate popoarele, şi vedeţi-mi durerea! Fecioarele şi tinerii\
+      \ mei s-au dus în robie."
+    chapter: null
+  - verseNumber: 19
+    text: "Mi-am chemat prietenii, dar m-au inselat, preotii si batrinii mei au murit\
+      \ in cetate cautind hrana ca sa-si tina viata."
+    textWithDiacritics: "Mi-am chemat prietenii, dar m-au înşelat, preoţii şi bătrî\
+      nii mei au murit în cetate căutînd hrană ca să-şi ţină viaţa."
+    chapter: null
+  - verseNumber: 20
+    text: "YaHWeH, uita-Te la necazul meu. Launtrul meu fierbe, mi s-a intors inima\
+      \ in mine, caci am fost neascultator. Afara sabia m-a lasat fara copii, in casa,\
+      \ moartea."
+    textWithDiacritics: "YaHWeH, uită-Te la necazul meu. Lăuntrul meu fierbe, mi s-a\
+      \ întors inima în mine, căci am fost neascultător. Afară sabia m-a lăsat fă\
+      ră copii, în casă, moartea."
+    chapter: null
+  - verseNumber: 21
+    text: "M-au auzit suspinind, dar nimeni nu m-a mingiiat. Toti vrajmasii mei, cind\
+      \ au aflat de nenorocirea mea, s-au bucurat ca Tu ai adus-o; dar vei aduce,\
+      \ vei vesti ziua cind si ei vor fi ca mine."
+    textWithDiacritics: "M-au auzit suspinînd, dar nimeni nu m-a mîngîiat. Toţi vră\
+      jmaşii mei, cînd au aflat de nenorocirea mea, s-au bucurat că Tu ai adus-o;\
+      \ dar vei aduce, vei vesti ziua cînd şi ei vor fi ca mine."
+    chapter: null
+  - verseNumber: 22
+    text: "Adu toata rautatea lor inaintea Ta si fa-le cum mi-ai facut mie, pentru\
+      \ toate faradelegile mele! Caci suspinele mele sunt multe, si inima imi este\
+      \ bolnava."
+    textWithDiacritics: "Adu toată răutatea lor înaintea Ta şi fă-le cum mi-ai fă\
+      cut mie, pentru toate fărădelegile mele! Căci suspinele mele sunt multe, şi\
+      \ inima îmi este bolnavă."
+    chapter: null
+- number: 2
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Vai! In ce intunecime a aruncat YaHWeH, in minia Lui pe fiica Sionului!\
+      \ A azvirlit din cer pe pamint podoaba lui Israel si nu Si-a mai adus aminte\
+      \ de scaunul picioarelor Lui, in ziua miniei Lui!"
+    textWithDiacritics: "Vai! În ce întunecime a aruncat YaHWeH, în mînia Lui pe fiica\
+      \ Sionului! A azvîrlit din cer pe pămînt podoaba lui Israel şi nu Şi-a mai adus\
+      \ aminte de scaunul picioarelor Lui, în ziua mîniei Lui!"
+    chapter: null
+  - verseNumber: 2
+    text: "YaHWeH, a nimicit fara mila toate locuintele lui Iacov. In urgia Lui a\
+      \ darimat intariturile fiicei lui Iuda si le-a pravalit la pamint; a facut de\
+      \ ocara imparatia si capeteniile ei."
+    textWithDiacritics: "YaHWeH, a nimicit fără milă toate locuinţele lui Iacov. Î\
+      n urgia Lui a dărîmat întăriturile fiicei lui Iuda şi le-a prăvălit la pămî\
+      nt; a făcut de ocară împărăţia şi căpeteniile ei."
+    chapter: null
+  - verseNumber: 3
+    text: "In minia Lui aprinsa a doborit toata puterea lui Israel; Si-a tras inapoi\
+      \ de la el dreapta inaintea vrajmasului si a aprins in Iacov o vapaie de foc\
+      \ care mistuie toate de jur imprejur."
+    textWithDiacritics: "În mînia Lui aprinsă a doborît toată puterea lui Israel;\
+      \ Şi-a tras înapoi de la el dreapta înaintea vrăjmaşului şi a aprins în Iacov\
+      \ o văpaie de foc care mistuie toate de jur împrejur."
+    chapter: null
+  - verseNumber: 4
+    text: "Si-a incordat arcul ca un vrajmas, Si-a ridicat dreapta ca un asupritor\
+      \ si a prapadit tot ce era placut privirilor, Si-a varsat ca un foc urgia peste\
+      \ cortul fiicei Sionului."
+    textWithDiacritics: "Şi-a încordat arcul ca un vrăjmaş, Şi-a ridicat dreapta ca\
+      \ un asupritor şi a prăpădit tot ce era plăcut privirilor, Şi-a vărsat ca un\
+      \ foc urgia peste cortul fiicei Sionului."
+    chapter: null
+  - verseNumber: 5
+    text: "Ca un vrajmas a ajuns YaHWeH, a nimicit pe Israel, i-a darimat toate palatele,\
+      \ i-a prabusit intariturile si a umplut pe fiica lui Iuda de jale si suspin."
+    textWithDiacritics: "Ca un vrăjmaş a ajuns YaHWeH, a nimicit pe Israel, i-a dă\
+      rîmat toate palatele, i-a prăbuşit întăriturile şi a umplut pe fiica lui Iuda\
+      \ de jale şi suspin."
+    chapter: null
+  - verseNumber: 6
+    text: "I-a pustiit Cortul sfint ca pe o gradina, a nimicit locul Adunarii sale;\
+      \ YaHWeH a facut sa se uite in Sion Sarbatorile si Sabat-ul? si in minia Lui\
+      \ naprasnica a lepadat pe imparat si pe preot?"
+    textWithDiacritics: "I-a pustiit Cortul sfînt ca pe o grădină, a nimicit locul\
+      \ Adunării sale; YaHWeH a făcut să se uite în Sion Sărbătorile şi Șabat-ul?\
+      \ şi în mînia Lui năprasnică a lepădat pe împărat şi pe preot?"
+    chapter: null
+  - verseNumber: 7
+    text: "YaHWeH, Si-a dispretuit altarul, Si-a lepadat Locasul Sau cel Sfint? A\
+      \ dat in miinile vrajmasului zidurile palatelor Sionului; au rasunat strigatele\
+      \ in Casa lui YaHWeH, ca intr-o zi de Sarbatoare."
+    textWithDiacritics: "YaHWeH, Şi-a dispreţuit altarul, Şi-a lepădat Locaşul Să\
+      u cel Sfînt? A dat în mîinile vrăjmaşului zidurile palatelor Sionului; au ră\
+      sunat strigătele în Casa lui YaHWeH, ca într-o zi de Sărbătoare."
+    chapter: null
+  - verseNumber: 8
+    text: "Si-a pus de gind YaHWeH, sa darime zidurile fiicei Sionului; a intins sfoara\
+      \ de masurat, si nu Si-a tras mina pina nu le-a nimicit. A cufundat in jale\
+      \ intaritura si zidurile, care nu mai sunt, toate, decit niste darimaturi triste."
+    textWithDiacritics: "Şi-a pus de gînd YaHWeH, să dărîme zidurile fiicei Sionului;\
+      \ a întins sfoara de măsurat, şi nu Şi-a tras mîna pînă nu le-a nimicit. A cufundat\
+      \ în jale întăritura şi zidurile, care nu mai sunt, toate, decît nişte dărî\
+      mături triste."
+    chapter: null
+  - verseNumber: 9
+    text: "Portile ii sunt cufundate in pamint; i-a nimicit si rupt zavoarele. Imparatul\
+      \ si capeteniile sale sunt intre neamuri. Lege nu mai au, si chiar prorocii\
+      \ nu mai primesc nicio vedenie de la YaHWeH, ."
+    textWithDiacritics: "Porţile îi sunt cufundate în pămînt; i-a nimicit şi rupt\
+      \ zăvoarele. Împăratul şi căpeteniile sale sunt între neamuri. Lege nu mai au,\
+      \ şi chiar prorocii nu mai primesc nicio vedenie de la YaHWeH, ."
+    chapter: null
+  - verseNumber: 10
+    text: "Batrinii fiicei Sionului sed pe pamint si tac; si-au presarat tarina pe\
+      \ cap, s-au incins cu saci; fecioarele Ierusalimului isi pleaca la pamint capul."
+    textWithDiacritics: "Bătrînii fiicei Sionului şed pe pămînt şi tac; şi-au presă\
+      rat ţărînă pe cap, s-au încins cu saci; fecioarele Ierusalimului îşi pleacă\
+      \ la pămînt capul."
+    chapter: null
+  - verseNumber: 11
+    text: "Mi s-au stors ochii de lacrimi, imi fierb maruntaiele, mi se varsa ficatul\
+      \ pe pamint, din pricina prapadului fiicei poporului meu, din pricina copiilor\
+      \ si pruncilor de tita lesinati pe ulitele cetatii."
+    textWithDiacritics: "Mi s-au stors ochii de lacrimi, îmi fierb măruntaiele, mi\
+      \ se varsă ficatul pe pămînt, din pricina prăpădului fiicei poporului meu, din\
+      \ pricina copiilor şi pruncilor de ţîţă leşinaţi pe uliţele cetăţii."
+    chapter: null
+  - verseNumber: 12
+    text: "Ei ziceau catre mamele lor: „Unde este piine si vin?” Si cadeau lesinati\
+      \ ca niste raniti pe ulitele cetatii, isi dadeau sufletul la pieptul mamelor\
+      \ lor."
+    textWithDiacritics: "Ei ziceau către mamele lor: „Unde este pîine şi vin?” Şi\
+      \ cădeau leşinaţi ca nişte răniţi pe uliţele cetăţii, îşi dădeau sufletul la\
+      \ pieptul mamelor lor."
+    chapter: null
+  - verseNumber: 13
+    text: "„Cu ce sa te imbarbatez si cu ce sa te aseman, fiica Ierusalimului? Cu\
+      \ cine sa te pun alaturi si cu ce sa te mingii, fecioara, fiica Sionului? Caci\
+      \ rana ta este mare ca marea: cine va putea sa te vindece?"
+    textWithDiacritics: "„Cu ce să te îmbărbătez şi cu ce să te asemăn, fiica Ierusalimului?\
+      \ Cu cine să te pun alături şi cu ce să te mîngîi, fecioară, fiica Sionului?\
+      \ Căci rana ta este mare ca marea: cine va putea să te vindece?"
+    chapter: null
+  - verseNumber: 14
+    text: "Prorocii tai ti-au prorocit vedenii desarte si amagitoare, nu ti-au dat\
+      \ pe fata nelegiuirea, ca sa abata astfel robia de la tine, ci ti-au facut prorocii\
+      \ mincinoase si inselatoare."
+    textWithDiacritics: "Prorocii tăi ţi-au prorocit vedenii deşarte şi amăgitoare,\
+      \ nu ţi-au dat pe faţă nelegiuirea, ca să abată astfel robia de la tine, ci\
+      \ ţi-au făcut prorocii mincinoase şi înşelătoare."
+    chapter: null
+  - verseNumber: 15
+    text: "Toti trecatorii bat din palme asupra ta, suiera si dau din cap impotriva\
+      \ fiicei Ierusalimului si zic: „Aceasta este cetatea despre care se zicea ca\
+      \ este cea mai frumoasa si bucuria intregului pamint?”"
+    textWithDiacritics: "Toţi trecătorii bat din palme asupra ta, şuieră şi dau din\
+      \ cap împotriva fiicei Ierusalimului şi zic: „Aceasta este cetatea despre care\
+      \ se zicea că este cea mai frumoasă şi bucuria întregului pămînt?”"
+    chapter: null
+  - verseNumber: 16
+    text: "Toti vrajmasii tai deschid gura impotriva ta, fluiera, scrisnesc din dinti\
+      \ si zic: „Am inghitit-o! Da, aceasta este ziua pe care o asteptam, am ajuns-o\
+      \ si o vedem!”"
+    textWithDiacritics: "Toţi vrăjmaşii tăi deschid gura împotriva ta, fluieră, scrî\
+      şnesc din dinţi şi zic: „Am înghiţit-o! Da, aceasta este ziua pe care o aşteptam,\
+      \ am ajuns-o şi o vedem!”"
+    chapter: null
+  - verseNumber: 17
+    text: "YaHWeH, a infaptuit ce hotarise, a implinit Cuvintul pe care-l sorocise\
+      \ de multa vreme, a nimicit fara mila; a facut din tine bucuria vrajmasului,\
+      \ a inaltat taria asupritorilor tai!"
+    textWithDiacritics: "YaHWeH, a înfăptuit ce hotărîse, a împlinit Cuvîntul pe care-l\
+      \ sorocise de multă vreme, a nimicit fără milă; a făcut din tine bucuria vră\
+      jmaşului, a înălţat tăria asupritorilor tăi!"
+    chapter: null
+  - verseNumber: 18
+    text: "Inima lor striga catre YaHWeH, … Zid al fiicei Sionului, varsa zi si noapte\
+      \ siroaie de lacrimi! Nu-ti da niciun ragaz, si ochiul tau sa n-aiba odihna!"
+    textWithDiacritics: "Inima lor strigă către YaHWeH, … Zid al fiicei Sionului,\
+      \ varsă zi şi noapte şiroaie de lacrimi! Nu-ţi da niciun răgaz, şi ochiul tă\
+      u să n-aibă odihnă!"
+    chapter: null
+  - verseNumber: 19
+    text: "Scoala-te si gemi noaptea cind incep strajile! Varsa-ti inima ca niste\
+      \ apa inaintea lui YaHWeH! Ridica-ti miinile spre El pentru viata copiilor tai\
+      \ care mor de foame la toate colturile ulitelor!"
+    textWithDiacritics: "Scoală-te şi gemi noaptea cînd încep străjile! Varsă-ţi inima\
+      \ ca nişte apă înaintea lui YaHWeH! Ridică-ţi mîinile spre El pentru viaţa copiilor\
+      \ tăi care mor de foame la toate colţurile uliţelor!"
+    chapter: null
+  - verseNumber: 20
+    text: "Uita-Te, YaHWeH, si priveste: cui i-ai facut Tu asa? Sa manince femeile\
+      \ rodul pintecelui lor, pruncii dezmierdati de miinile lor? Sa fie macelariti\
+      \ preotii si prorocii in Locasul cel Sfint al lui YaHWeH,?"
+    textWithDiacritics: "Uită-Te, YaHWeH, şi priveşte: cui i-ai făcut Tu aşa? Să mă\
+      nînce femeile rodul pîntecelui lor, pruncii dezmierdaţi de mîinile lor? Să fie\
+      \ măcelăriţi preoţii şi prorocii în Locaşul cel Sfînt al lui YaHWeH,?"
+    chapter: null
+  - verseNumber: 21
+    text: "Copiii si batrinii stau culcati pe pamint in ulite; fecioarele si tinerii\
+      \ mei au cazut ucisi de sabie; i-ai ucis in ziua miniei Tale si i-ai injunghiat\
+      \ fara mila."
+    textWithDiacritics: "Copiii şi bătrînii stau culcaţi pe pămînt în uliţe; fecioarele\
+      \ şi tinerii mei au căzut ucişi de sabie; i-ai ucis în ziua mîniei Tale şi i-ai\
+      \ înjunghiat fără milă."
+    chapter: null
+  - verseNumber: 22
+    text: "Ai chemat groaza din toate partile peste mine, ca la o zi de Sarbatoare.\
+      \ In ziua miniei lui YaHWeH, n-a scapat unul si n-a ramas cu viata. Pe cei ingrijiti\
+      \ si crescuti de mine, mi i-a nimicit vrajmasul!"
+    textWithDiacritics: "Ai chemat groaza din toate părţile peste mine, ca la o zi\
+      \ de Sărbătoare. În ziua mîniei lui YaHWeH, n-a scăpat unul şi n-a rămas cu\
+      \ viaţă. Pe cei îngrijiţi şi crescuţi de mine, mi i-a nimicit vrăjmaşul!"
+    chapter: null
+- number: 3
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Eu sunt omul care a vazut suferinta sub nuiaua urgiei Lui."
+    textWithDiacritics: "Eu sunt omul care a văzut suferinţa sub nuiaua urgiei Lui."
+    chapter: null
+  - verseNumber: 2
+    text: "El m-a dus, m-a minat in intuneric, si nu in lumina."
+    textWithDiacritics: "El m-a dus, m-a mînat în întuneric, şi nu în lumină."
+    chapter: null
+  - verseNumber: 3
+    text: "Numai impotriva mea Isi intinde si Isi intoarce mina, toata ziua."
+    textWithDiacritics: "Numai împotriva mea Îşi întinde şi Îşi întoarce mîna, toată\
+      \ ziua."
+    chapter: null
+  - verseNumber: 4
+    text: "Mi-a prapadit carnea si pielea si mi-a zdrobit oasele."
+    textWithDiacritics: "Mi-a prăpădit carnea şi pielea şi mi-a zdrobit oasele."
+    chapter: null
+  - verseNumber: 5
+    text: "A facut zid imprejurul meu si m-a inconjurat cu otrava si durere."
+    textWithDiacritics: "A făcut zid împrejurul meu şi m-a înconjurat cu otravă ş\
+      i durere."
+    chapter: null
+  - verseNumber: 6
+    text: "Ma asaza in intuneric ca pe cei morti pentru totdeauna."
+    textWithDiacritics: "Mă aşază în întuneric ca pe cei morţi pentru totdeauna."
+    chapter: null
+  - verseNumber: 7
+    text: "M-a inconjurat cu un zid, ca sa nu ies; m-a pus in lanturi grele."
+    textWithDiacritics: "M-a înconjurat cu un zid, ca să nu ies; m-a pus în lanţuri\
+      \ grele."
+    chapter: null
+  - verseNumber: 8
+    text: "Sa tot strig si sa tot cer ajutor, caci El tot nu-mi primeste rugaciunea."
+    textWithDiacritics: "Să tot strig şi să tot cer ajutor, căci El tot nu-mi primeş\
+      te rugăciunea."
+    chapter: null
+  - verseNumber: 9
+    text: "Mi-a astupat calea cu pietre cioplite si mi-a strimbat cararile."
+    textWithDiacritics: "Mi-a astupat calea cu pietre cioplite şi mi-a strîmbat că\
+      rările."
+    chapter: null
+  - verseNumber: 10
+    text: "Ma pindeste ca un urs si ca un leu intr-un loc ascuns."
+    textWithDiacritics: "Mă pîndeşte ca un urs şi ca un leu într-un loc ascuns."
+    chapter: null
+  - verseNumber: 11
+    text: "Mi-a abatut caile, si apoi S-a aruncat pe mine si m-a pustiit."
+    textWithDiacritics: "Mi-a abătut căile, şi apoi S-a aruncat pe mine şi m-a pustiit."
+    chapter: null
+  - verseNumber: 12
+    text: "Si-a incordat arcul si m-a pus tinta sagetii Lui."
+    textWithDiacritics: "Şi-a încordat arcul şi m-a pus ţintă săgeţii Lui."
+    chapter: null
+  - verseNumber: 13
+    text: "In rarunchi mi-a infipt sagetile din tolba Lui."
+    textWithDiacritics: "În rărunchi mi-a înfipt săgeţile din tolba Lui."
+    chapter: null
+  - verseNumber: 14
+    text: "Am ajuns de risul poporului meu si toata ziua sunt pus in cintece de batjocura\
+      \ de ei."
+    textWithDiacritics: "Am ajuns de rîsul poporului meu şi toată ziua sunt pus î\
+      n cîntece de batjocură de ei."
+    chapter: null
+  - verseNumber: 15
+    text: "M-a saturat de amaraciune, m-a imbatat cu pelin."
+    textWithDiacritics: "M-a săturat de amărăciune, m-a îmbătat cu pelin."
+    chapter: null
+  - verseNumber: 16
+    text: "Mi-a sfarimat dintii cu pietre, m-a acoperit cu cenusa."
+    textWithDiacritics: "Mi-a sfărîmat dinţii cu pietre, m-a acoperit cu cenuşă."
+    chapter: null
+  - verseNumber: 17
+    text: "Mi-ai luat pacea, si nu mai cunosc fericirea."
+    textWithDiacritics: "Mi-ai luat pacea, şi nu mai cunosc fericirea."
+    chapter: null
+  - verseNumber: 18
+    text: "Si am zis: „S-a dus puterea mea de viata si nu mai am nicio nadejde in\
+      \ YaHWeH.”"
+    textWithDiacritics: "Şi am zis: „S-a dus puterea mea de viaţă şi nu mai am nicio\
+      \ nădejde în YaHWeH.”"
+    chapter: null
+  - verseNumber: 19
+    text: "Gindeste-Te la necazul si suferinta mea, la pelin si la otrava!"
+    textWithDiacritics: "Gîndeşte-Te la necazul şi suferinţa mea, la pelin şi la otravă\
+      !"
+    chapter: null
+  - verseNumber: 20
+    text: "Cind isi aduce aminte sufletul meu de ele, este mihnit in mine."
+    textWithDiacritics: "Cînd îşi aduce aminte sufletul meu de ele, este mîhnit î\
+      n mine."
+    chapter: null
+  - verseNumber: 21
+    text: "Iata ce mai gindesc in inima mea si iata ce ma face sa mai trag nadejde:"
+    textWithDiacritics: "Iată ce mai gîndesc în inima mea şi iată ce mă face să mai\
+      \ trag nădejde:"
+    chapter: null
+  - verseNumber: 22
+    text: "bunatatile lui YaHWeH, nu s-au sfirsit, indurarile Lui nu sunt la capat,"
+    textWithDiacritics: "bunătăţile lui YaHWeH, nu s-au sfîrşit, îndurările Lui nu\
+      \ sunt la capăt,"
+    chapter: null
+  - verseNumber: 23
+    text: "ci se innoiesc in fiecare dimineata. Si credinciosia Ta este atit de mare!"
+    textWithDiacritics: "ci se înnoiesc în fiecare dimineaţă. Şi credincioşia Ta este\
+      \ atît de mare!"
+    chapter: null
+  - verseNumber: 24
+    text: "„ YaHWeH, este partea mea de mostenire,” zice sufletul meu; de aceea nadajduiesc\
+      \ in El."
+    textWithDiacritics: "„ YaHWeH, este partea mea de moştenire,” zice sufletul meu;\
+      \ de aceea nădăjduiesc în El."
+    chapter: null
+  - verseNumber: 25
+    text: "YaHWeH, este bun cu cine nadajduieste in El, cu sufletul care-L cauta."
+    textWithDiacritics: "YaHWeH, este bun cu cine nădăjduieşte în El, cu sufletul\
+      \ care-L caută."
+    chapter: null
+  - verseNumber: 26
+    text: "Bine este sa astepti in tacere ajutorul lui YaHWeH."
+    textWithDiacritics: "Bine este să aştepţi în tăcere ajutorul lui YaHWeH."
+    chapter: null
+  - verseNumber: 27
+    text: "Este bine pentru om sa poarte un jug in tineretea lui."
+    textWithDiacritics: "Este bine pentru om să poarte un jug în tinereţea lui."
+    chapter: null
+  - verseNumber: 28
+    text: "Sa -l duca singur si sa taca, pentru ca YaHWeH, i l-a pus pe grumaz;"
+    textWithDiacritics: "Să -l ducă singur şi să tacă, pentru că YaHWeH, i l-a pus\
+      \ pe grumaz;"
+    chapter: null
+  - verseNumber: 29
+    text: "sa-si umple gura cu tarina si sa nu-si piarda nadejdea;"
+    textWithDiacritics: "să-şi umple gura cu ţărînă şi să nu-şi piardă nădejdea;"
+    chapter: null
+  - verseNumber: 30
+    text: "sa dea obrazul celui ce-l loveste si sa se sature de ocari."
+    textWithDiacritics: "să dea obrazul celui ce-l loveşte şi să se sature de ocă\
+      ri."
+    chapter: null
+  - verseNumber: 31
+    text: "Caci YaHWeH, nu leapada pentru totdeauna."
+    textWithDiacritics: "Căci YaHWeH, nu leapădă pentru totdeauna."
+    chapter: null
+  - verseNumber: 32
+    text: "Ci, cind mihneste pe cineva, Se indura iarasi de el, dupa indurarea Lui\
+      \ cea mare:"
+    textWithDiacritics: "Ci, cînd mîhneşte pe cineva, Se îndură iarăşi de el, după\
+      \ îndurarea Lui cea mare:"
+    chapter: null
+  - verseNumber: 33
+    text: "caci El nu necajeste cu placere, nici nu mihneste bucuros pe copiii oamenilor."
+    textWithDiacritics: "căci El nu necăjeşte cu plăcere, nici nu mîhneşte bucuros\
+      \ pe copiii oamenilor."
+    chapter: null
+  - verseNumber: 34
+    text: "Cind se calca in picioare toti prinsii de razboi ai unei tari,"
+    textWithDiacritics: "Cînd se calcă în picioare toţi prinşii de război ai unei\
+      \ ţări,"
+    chapter: null
+  - verseNumber: 35
+    text: "cind se calca dreptatea omeneasca in fata Celui Preainalt,"
+    textWithDiacritics: "cînd se calcă dreptatea omenească în faţa Celui Preaînalt,"
+    chapter: null
+  - verseNumber: 36
+    text: "cind este nedreptatit un om in pricina lui, nu vede YaHWeH, ?"
+    textWithDiacritics: "cînd este nedreptăţit un om în pricina lui, nu vede YaHWeH,\
+      \ ?"
+    chapter: null
+  - verseNumber: 37
+    text: "Cine a spus, si s-a intimplat ceva fara Porunca lui YaHWeH?"
+    textWithDiacritics: "Cine a spus, şi s-a întîmplat ceva fără Porunca lui YaHWeH?"
+    chapter: null
+  - verseNumber: 38
+    text: "Nu iese din gura Celui Preainalt raul si binele?"
+    textWithDiacritics: "Nu iese din gura Celui Preaînalt răul şi binele?"
+    chapter: null
+  - verseNumber: 39
+    text: "De ce sa se plinga omul cit traieste? Fiecare sa se plinga mai bine de\
+      \ pacatele lui!"
+    textWithDiacritics: "De ce să se plîngă omul cît trăieşte? Fiecare să se plîngă\
+      \ mai bine de păcatele lui!"
+    chapter: null
+  - verseNumber: 40
+    text: "Sa luam seama la umbletele noastre, sa le cercetam si sa ne intoarcem la\
+      \ YaHWeH,."
+    textWithDiacritics: "Să luăm seama la umbletele noastre, să le cercetăm şi să\
+      \ ne întoarcem la YaHWeH,."
+    chapter: null
+  - verseNumber: 41
+    text: "Sa ne inaltam inimile cu miinile spre YaHWeH, din cer, zicind:"
+    textWithDiacritics: "Să ne înălţăm inimile cu mîinile spre YaHWeH, din cer, zicî\
+      nd:"
+    chapter: null
+  - verseNumber: 42
+    text: "„Am pacatuit, am fost indaratnici, si nu ne-ai iertat!"
+    textWithDiacritics: "„Am păcătuit, am fost îndărătnici, şi nu ne-ai iertat!"
+    chapter: null
+  - verseNumber: 43
+    text: "In minia Ta, Te-ai ascuns si ne-ai urmarit, ai ucis fara mila."
+    textWithDiacritics: "În mînia Ta, Te-ai ascuns şi ne-ai urmărit, ai ucis fără\
+      \ milă."
+    chapter: null
+  - verseNumber: 44
+    text: "Te-ai invaluit intr-un nor, ca sa nu strabata la Tine rugaciunea noastra."
+    textWithDiacritics: "Te-ai învăluit într-un nor, ca să nu străbată la Tine rugă\
+      ciunea noastră."
+    chapter: null
+  - verseNumber: 45
+    text: "Ne-ai facut de batjocura si de ocara printre popoare."
+    textWithDiacritics: "Ne-ai făcut de batjocură şi de ocară printre popoare."
+    chapter: null
+  - verseNumber: 46
+    text: "Toti vrajmasii nostri deschid gura impotriva noastra."
+    textWithDiacritics: "Toţi vrăjmaşii noştri deschid gura împotriva noastră."
+    chapter: null
+  - verseNumber: 47
+    text: "De groaza si de groapa am avut parte, de prapad si pustiire.”"
+    textWithDiacritics: "De groază şi de groapă am avut parte, de prăpăd şi pustiire.”"
+    chapter: null
+  - verseNumber: 48
+    text: "Suvoaie de apa imi curg din ochi din pricina prapadului fiicei poporului\
+      \ meu."
+    textWithDiacritics: "Şuvoaie de apă îmi curg din ochi din pricina prăpădului fiicei\
+      \ poporului meu."
+    chapter: null
+  - verseNumber: 49
+    text: "Mi se topeste ochiul in lacrimi, necurmat si fara ragaz,"
+    textWithDiacritics: "Mi se topeşte ochiul în lacrimi, necurmat şi fără răgaz,"
+    chapter: null
+  - verseNumber: 50
+    text: "pina ce YaHWeH, va privi din cer si va vedea."
+    textWithDiacritics: "pînă ce YaHWeH, va privi din cer şi va vedea."
+    chapter: null
+  - verseNumber: 51
+    text: "Ma doare ochiul de plins pentru toate fiicele cetatii mele."
+    textWithDiacritics: "Mă doare ochiul de plîns pentru toate fiicele cetăţii mele."
+    chapter: null
+  - verseNumber: 52
+    text: "Cei ce ma urasc fara temei m-au gonit ca pe o pasare."
+    textWithDiacritics: "Cei ce mă urăsc fără temei m-au gonit ca pe o pasăre."
+    chapter: null
+  - verseNumber: 53
+    text: "Voiau sa-mi nimiceasca viata intr-o groapa si au aruncat cu pietre in mine."
+    textWithDiacritics: "Voiau să-mi nimicească viaţa într-o groapă şi au aruncat\
+      \ cu pietre în mine."
+    chapter: null
+  - verseNumber: 54
+    text: "Mi-au navalit apele peste cap, si ziceam: „Sunt pierdut!”"
+    textWithDiacritics: "Mi-au năvălit apele peste cap, şi ziceam: „Sunt pierdut!”"
+    chapter: null
+  - verseNumber: 55
+    text: "Dar am chemat Numele Tau, YaHWeH, din fundul gropii."
+    textWithDiacritics: "Dar am chemat Numele Tău, YaHWeH, din fundul gropii."
+    chapter: null
+  - verseNumber: 56
+    text: "Tu mi-ai auzit glasul: „Nu-Ti astupa urechea la suspinele si strigatele\
+      \ mele.”"
+    textWithDiacritics: "Tu mi-ai auzit glasul: „Nu-Ţi astupa urechea la suspinele\
+      \ şi strigătele mele.”"
+    chapter: null
+  - verseNumber: 57
+    text: "In ziua cind Te-am chemat Te-ai apropiat si ai zis: „Nu te teme!”"
+    textWithDiacritics: "În ziua cînd Te-am chemat Te-ai apropiat şi ai zis: „Nu te\
+      \ teme!”"
+    chapter: null
+  - verseNumber: 58
+    text: "YaHWeH, Tu ai aparat pricina sufletului meu, mi-ai rascumparat viata!"
+    textWithDiacritics: "YaHWeH, Tu ai apărat pricina sufletului meu, mi-ai răscumpă\
+      rat viaţa!"
+    chapter: null
+  - verseNumber: 59
+    text: "YaHWeH, ai vazut apasarea mea: fa-mi dreptate."
+    textWithDiacritics: "YaHWeH, ai văzut apăsarea mea: fă-mi dreptate."
+    chapter: null
+  - verseNumber: 60
+    text: "Ai vazut toate razbunarile lor, toate uneltirile lor impotriva mea."
+    textWithDiacritics: "Ai văzut toate răzbunările lor, toate uneltirile lor împotriva\
+      \ mea."
+    chapter: null
+  - verseNumber: 61
+    text: "YaHWeH, , le-ai auzit ocarile, toate uneltirile impotriva mea,"
+    textWithDiacritics: "YaHWeH, , le-ai auzit ocările, toate uneltirile împotriva\
+      \ mea,"
+    chapter: null
+  - verseNumber: 62
+    text: "cuvintarile potrivnicilor mei si planurile pe care le urzeau in fiecare\
+      \ zi impotriva mea."
+    textWithDiacritics: "cuvîntările potrivnicilor mei şi planurile pe care le urzeau\
+      \ în fiecare zi împotriva mea."
+    chapter: null
+  - verseNumber: 63
+    text: "Uita-Te cind stau ei jos sau cind se scoala. Eu sunt cintecul lor de batjocura."
+    textWithDiacritics: "Uită-Te cînd stau ei jos sau cînd se scoală. Eu sunt cîntecul\
+      \ lor de batjocură."
+    chapter: null
+  - verseNumber: 64
+    text: "Rasplateste-le, YaHWeH, , dupa faptele miinilor lor!"
+    textWithDiacritics: "Răsplăteşte-le, YaHWeH, , după faptele mîinilor lor!"
+    chapter: null
+  - verseNumber: 65
+    text: "Impietreste-le inima si arunca blestemul Tau impotriva lor!"
+    textWithDiacritics: "Împietreşte-le inima şi aruncă blestemul Tău împotriva lor!"
+    chapter: null
+  - verseNumber: 66
+    text: "Urmareste-i in minia Ta si sterge-i de sub ceruri YaHWeH!”"
+    textWithDiacritics: "Urmăreşte-i în mînia Ta şi şterge-i de sub ceruri YaHWeH!”"
+    chapter: null
+- number: 4
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Vai! cum s-a innegrit aurul si cum s-a schimbat aurul cel curat! Cum s-au\
+      \ risipit pietrele Sfintului Locas pe la toate colturile ulitelor!"
+    textWithDiacritics: "Vai! cum s-a înnegrit aurul şi cum s-a schimbat aurul cel\
+      \ curat! Cum s-au risipit pietrele Sfîntului Locaş pe la toate colţurile uliţ\
+      elor!"
+    chapter: null
+  - verseNumber: 2
+    text: "Cum sunt priviti acum fiii Sionului, cei alesi si pretuiti ca aurul curat\
+      \ altadata, cum sunt priviti acum, vai! Ca niste vase de pamint si ca o lucrare\
+      \ facuta de miinile olarului!"
+    textWithDiacritics: "Cum sunt priviţi acum fiii Sionului, cei aleşi şi preţuiţ\
+      i ca aurul curat altădată, cum sunt priviţi acum, vai! Ca nişte vase de pămî\
+      nt şi ca o lucrare făcută de mîinile olarului!"
+    chapter: null
+  - verseNumber: 3
+    text: "Chiar si sacalii isi apleaca tita si dau sa suga puilor lor; dar fiica\
+      \ poporului meu a ajuns fara mila ca strutii din pustiu."
+    textWithDiacritics: "Chiar şi şacalii îşi apleacă ţîţa şi dau să sugă puilor lor;\
+      \ dar fiica poporului meu a ajuns fără milă ca struţii din pustiu."
+    chapter: null
+  - verseNumber: 4
+    text: "Limba sugarului i se lipeste de cerul gurii, uscata de sete; copiii cer\
+      \ piine, dar nimeni nu le-o da."
+    textWithDiacritics: "Limba sugarului i se lipeşte de cerul gurii, uscată de sete;\
+      \ copiii cer pîine, dar nimeni nu le-o dă."
+    chapter: null
+  - verseNumber: 5
+    text: "Cei ce se hraneau cu bucate alese lesina pe ulite. Cei ce fusesera crescuti\
+      \ in purpura se bucura acum de o gramada de gunoi!"
+    textWithDiacritics: "Cei ce se hrăneau cu bucate alese leşină pe uliţe. Cei ce\
+      \ fuseseră crescuţi în purpură se bucură acum de o grămadă de gunoi!"
+    chapter: null
+  - verseNumber: 6
+    text: "Caci vina fiicei poporului meu este mai mare decit pacatul Sodomei, care\
+      \ a fost nimicita intr-o clipa fara sa fi pus cineva mina pe ea."
+    textWithDiacritics: "Căci vina fiicei poporului meu este mai mare decît păcatul\
+      \ Sodomei, care a fost nimicită într-o clipă fără să fi pus cineva mîna pe ea."
+    chapter: null
+  - verseNumber: 7
+    text: "Voievozii ei erau mai stralucitori decit zapada, mai albi decit laptele;\
+      \ trupul le era mai rosu decit margeanul; fata le era ca safirul."
+    textWithDiacritics: "Voievozii ei erau mai strălucitori decît zăpada, mai albi\
+      \ decît laptele; trupul le era mai roşu decît mărgeanul; faţa le era ca safirul."
+    chapter: null
+  - verseNumber: 8
+    text: "Dar acum, infatisarea le este mai negricioasa decit funinginea; asa ca\
+      \ nu mai sunt cunoscuti pe ulite, pielea le este lipita de oase, uscata ca lemnul."
+    textWithDiacritics: "Dar acum, înfăţişarea le este mai negricioasă decît funinginea;\
+      \ aşa că nu mai sunt cunoscuţi pe uliţe, pielea le este lipită de oase, uscată\
+      \ ca lemnul."
+    chapter: null
+  - verseNumber: 9
+    text: "Cei ce pier ucisi de sabie sunt mai fericiti decit cei ce pier de foame,\
+      \ care cad sleiti de puteri din lipsa roadelor cimpului!"
+    textWithDiacritics: "Cei ce pier ucişi de sabie sunt mai fericiţi decît cei ce\
+      \ pier de foame, care cad sleiţi de puteri din lipsa roadelor cîmpului!"
+    chapter: null
+  - verseNumber: 10
+    text: "Femeile, cu toata mila lor, isi fierb copiii, care le slujesc ca hrana,\
+      \ in mijlocul prapadului fiicei poporului meu."
+    textWithDiacritics: "Femeile, cu toată mila lor, îşi fierb copiii, care le slujesc\
+      \ ca hrană, în mijlocul prăpădului fiicei poporului meu."
+    chapter: null
+  - verseNumber: 11
+    text: "YaHWeH, Si-a sleit urgia, Si-a varsat minia aprinsa; a aprins in Sion un\
+      \ foc care-i mistuie temeliile."
+    textWithDiacritics: "YaHWeH, Şi-a sleit urgia, Şi-a vărsat mînia aprinsă; a aprins\
+      \ în Sion un foc care-i mistuie temeliile."
+    chapter: null
+  - verseNumber: 12
+    text: "Imparatii pamintului n-ar fi crezut si niciunul din locuitorii lumii n-ar\
+      \ fi crezut ca potrivnicul care-l impresura are sa intre pe portile Ierusalimului."
+    textWithDiacritics: "Împăraţii pămîntului n-ar fi crezut şi niciunul din locuitorii\
+      \ lumii n-ar fi crezut că potrivnicul care-l împresura are să intre pe porţ\
+      ile Ierusalimului."
+    chapter: null
+  - verseNumber: 13
+    text: "Iata roada pacatelor prorocilor sai, a nelegiuirilor preotilor sai care\
+      \ au varsat in mijlocul lui singele celor neprihaniti!"
+    textWithDiacritics: "Iată roada păcatelor prorocilor săi, a nelegiuirilor preoţ\
+      ilor săi care au vărsat în mijlocul lui sîngele celor neprihăniţi!"
+    chapter: null
+  - verseNumber: 14
+    text: "Rataceau ca orbii pe ulite, minjiti de singe, asa ca nimeni nu putea sa\
+      \ se atinga de hainele lor."
+    textWithDiacritics: "Rătăceau ca orbii pe uliţe, mînjiţi de sînge, aşa că nimeni\
+      \ nu putea să se atingă de hainele lor."
+    chapter: null
+  - verseNumber: 15
+    text: "„Departati-va, necuratilor!” li se striga, „La o parte, la o parte, nu\
+      \ va atingeti de noi!” Cind fugeau pribegind incoace si incolo printre neamuri,\
+      \ se spunea: „Sa nu mai locuiasca aici!”"
+    textWithDiacritics: "„Depărtaţi-vă, necuraţilor!” li se striga, „La o parte, la\
+      \ o parte, nu vă atingeţi de noi!” Cînd fugeau pribegind încoace şi încolo printre\
+      \ neamuri, se spunea: „Să nu mai locuiască aici!”"
+    chapter: null
+  - verseNumber: 16
+    text: "In minia Lui, YaHWeH, i-a imprastiat si nu-Si mai indreapta privirile spre\
+      \ ei! Vrajmasul n-a cautat la fata preotilor, nici n-a avut mila de cei batrini."
+    textWithDiacritics: "În mînia Lui, YaHWeH, i-a împrăştiat şi nu-Şi mai îndreaptă\
+      \ privirile spre ei! Vrăjmaşul n-a căutat la faţa preoţilor, nici n-a avut milă\
+      \ de cei bătrîni."
+    chapter: null
+  - verseNumber: 17
+    text: "Si acolo ni se sfirseau ochii si asteptam zadarnic ajutor! Privirile ni\
+      \ se indreptau cu nadejde spre un neam care totusi nu ne-a izbavit."
+    textWithDiacritics: "Şi acolo ni se sfîrşeau ochii şi aşteptam zadarnic ajutor!\
+      \ Privirile ni se îndreptau cu nădejde spre un neam care totuşi nu ne-a izbă\
+      vit."
+    chapter: null
+  - verseNumber: 18
+    text: "Ne pindeau pasii ca sa ne impiedice sa mergem pe ulitele noastre; ni se\
+      \ apropia sfirsitul ni se implinisera zilele… Da, ne venise sfirsitul!"
+    textWithDiacritics: "Ne pîndeau paşii ca să ne împiedice să mergem pe uliţele\
+      \ noastre; ni se apropia sfîrşitul ni se împliniseră zilele… Da, ne venise sfî\
+      rşitul!"
+    chapter: null
+  - verseNumber: 19
+    text: "Prigonitorii nostri erau mai iuti decit vulturii cerului. Ne-au fugarit\
+      \ pe munti si ne-au pindit in pustiu."
+    textWithDiacritics: "Prigonitorii noştri erau mai iuţi decît vulturii cerului.\
+      \ Ne-au fugărit pe munţi şi ne-au pîndit în pustiu."
+    chapter: null
+  - verseNumber: 20
+    text: "Suflarea vietii noastre, unsul lui YaHWeH, a fost prins in gropile lor,\
+      \ el, despre care ziceam: „Vom trai sub umbra lui printre neamuri.”"
+    textWithDiacritics: "Suflarea vieţii noastre, unsul lui YaHWeH, a fost prins î\
+      n gropile lor, el, despre care ziceam: „Vom trăi sub umbra lui printre neamuri.”"
+    chapter: null
+  - verseNumber: 21
+    text: "Bucura-te si salta de bucurie, fiica Edomului care locuiesti in tara Ut!\
+      \ Dar si la tine va trece potirul si tu te vei imbata si te vei dezgoli!"
+    textWithDiacritics: "Bucură-te şi saltă de bucurie, fiica Edomului care locuieş\
+      ti în ţara Uţ! Dar şi la tine va trece potirul şi tu te vei îmbăta şi te vei\
+      \ dezgoli!"
+    chapter: null
+  - verseNumber: 22
+    text: "Fiica Sionului, nelegiuirea iti este ispasita: El nu te va mai trimite\
+      \ in robie. Dar tie, fiica Edomului, iti va pedepsi nelegiuirea si iti va da\
+      \ pe fata pacatele."
+    textWithDiacritics: "Fiica Sionului, nelegiuirea îţi este ispăşită: El nu te va\
+      \ mai trimite în robie. Dar ţie, fiica Edomului, îţi va pedepsi nelegiuirea\
+      \ şi îţi va da pe faţă păcatele."
+    chapter: null
+- number: 5
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Adu-ti aminte, YaHWeH, de ce ni s-a intimplat! Uita-Te si vezi-ne ocara!"
+    textWithDiacritics: "Adu-ţi aminte, YaHWeH, de ce ni s-a întîmplat! Uită-Te ş\
+      i vezi-ne ocara!"
+    chapter: null
+  - verseNumber: 2
+    text: "Mostenirea noastra a trecut la niste straini, casele noastre, la cei din\
+      \ alte tari!"
+    textWithDiacritics: "Moştenirea noastră a trecut la nişte străini, casele noastre,\
+      \ la cei din alte ţări!"
+    chapter: null
+  - verseNumber: 3
+    text: "Am ramas orfani, fara tata; mamele noastre sunt ca niste vaduve."
+    textWithDiacritics: "Am rămas orfani, fără tată; mamele noastre sunt ca nişte\
+      \ văduve."
+    chapter: null
+  - verseNumber: 4
+    text: "Apa noastra o bem pe bani, si lemnele noastre trebuie sa le platim."
+    textWithDiacritics: "Apa noastră o bem pe bani, şi lemnele noastre trebuie să\
+      \ le plătim."
+    chapter: null
+  - verseNumber: 5
+    text: "Prigonitorii ne urmaresc cu indirjire si, cind obosim, nu ne dau odihna."
+    textWithDiacritics: "Prigonitorii ne urmăresc cu îndîrjire şi, cînd obosim, nu\
+      \ ne dau odihnă."
+    chapter: null
+  - verseNumber: 6
+    text: "Am intins mina spre Egipt, spre Asiria, ca sa ne saturam de piine."
+    textWithDiacritics: "Am întins mîna spre Egipt, spre Asiria, ca să ne săturăm\
+      \ de pîine."
+    chapter: null
+  - verseNumber: 7
+    text: "Parintii nostri care au pacatuit nu mai sunt, iar noi le purtam pacatele."
+    textWithDiacritics: "Părinţii noştri care au păcătuit nu mai sunt, iar noi le\
+      \ purtăm păcatele."
+    chapter: null
+  - verseNumber: 8
+    text: "Robii ne stapinesc, si nimeni nu ne izbaveste din miinile lor."
+    textWithDiacritics: "Robii ne stăpînesc, şi nimeni nu ne izbăveşte din mîinile\
+      \ lor."
+    chapter: null
+  - verseNumber: 9
+    text: "Ne cautam piinea cu primejdia vietii noastre, caci ne ameninta sabia in\
+      \ pustiu."
+    textWithDiacritics: "Ne căutăm pîinea cu primejdia vieţii noastre, căci ne ameninţ\
+      ă sabia în pustiu."
+    chapter: null
+  - verseNumber: 10
+    text: "Ne arde pielea ca un cuptor de frigurile foamei."
+    textWithDiacritics: "Ne arde pielea ca un cuptor de frigurile foamei."
+    chapter: null
+  - verseNumber: 11
+    text: "Au necinstit pe femei in Sion, pe fecioare, in cetatile lui Iuda."
+    textWithDiacritics: "Au necinstit pe femei în Sion, pe fecioare, în cetăţile lui\
+      \ Iuda."
+    chapter: null
+  - verseNumber: 12
+    text: "Mai marii nostri au fost spinzurati de miinile lor; batrinilor nu le-a\
+      \ dat nicio cinste."
+    textWithDiacritics: "Mai marii noştri au fost spînzuraţi de mîinile lor; bătrî\
+      nilor nu le-a dat nicio cinste."
+    chapter: null
+  - verseNumber: 13
+    text: "Tinerii au fost pusi sa risneasca, si copiii cadeau sub poverile de lemn."
+    textWithDiacritics: "Tinerii au fost puşi să rîşnească, şi copiii cădeau sub poverile\
+      \ de lemn."
+    chapter: null
+  - verseNumber: 14
+    text: "Batrinii nu se mai duc la poarta, si tinerii au incetat sa mai cinte."
+    textWithDiacritics: "Bătrînii nu se mai duc la poartă, şi tinerii au încetat să\
+      \ mai cînte."
+    chapter: null
+  - verseNumber: 15
+    text: "S-a dus bucuria din inimile noastre, si jalea a luat locul jocurilor noastre."
+    textWithDiacritics: "S-a dus bucuria din inimile noastre, şi jalea a luat locul\
+      \ jocurilor noastre."
+    chapter: null
+  - verseNumber: 16
+    text: "A cazut cununa de pe capul nostru! Vai de noi, caci am pacatuit!"
+    textWithDiacritics: "A căzut cununa de pe capul nostru! Vai de noi, căci am pă\
+      cătuit!"
+    chapter: null
+  - verseNumber: 17
+    text: "Daca ne doare inima, daca ni s-au intunecat ochii,"
+    textWithDiacritics: "Dacă ne doare inima, dacă ni s-au întunecat ochii,"
+    chapter: null
+  - verseNumber: 18
+    text: "este din pricina ca muntele Sionului este pustiit, din pricina ca se plimba\
+      \ sacalii prin el."
+    textWithDiacritics: "este din pricină că muntele Sionului este pustiit, din pricină\
+      \ că se plimbă şacalii prin el."
+    chapter: null
+  - verseNumber: 19
+    text: "Dar Tu, YaHWeH, imparatesti pe vecie; scaunul Tau de stapinire dainuie\
+      \ din neam in neam!"
+    textWithDiacritics: "Dar Tu, YaHWeH, împărăţeşti pe vecie; scaunul Tău de stă\
+      pînire dăinuie din neam în neam!"
+    chapter: null
+  - verseNumber: 20
+    text: "Pentru ce sa ne uiti pe vecie si sa ne parasesti pentru multa vreme?"
+    textWithDiacritics: "Pentru ce să ne uiţi pe vecie şi să ne părăseşti pentru multă\
+      \ vreme?"
+    chapter: null
+  - verseNumber: 21
+    text: "Intoarce-ne la Tine, YaHWeH, si ne vom intoarce! Da-ne iarasi zile ca cele\
+      \ de odinioara!"
+    textWithDiacritics: "Întoarce-ne la Tine, YaHWeH, şi ne vom întoarce! Dă-ne iară\
+      şi zile ca cele de odinioară!"
+    chapter: null
+  - verseNumber: 22
+    text: "Sa ne fi lepadat Tu de tot oare si sa Te fi miniat Tu pe noi peste masura\
+      \ de mult? HalleluYah"
+    textWithDiacritics: "Să ne fi lepădat Tu de tot oare şi să Te fi mîniat Tu pe\
+      \ noi peste măsură de mult? HalleluYah"
+    chapter: null

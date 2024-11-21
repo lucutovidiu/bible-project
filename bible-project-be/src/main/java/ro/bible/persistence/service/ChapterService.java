@@ -15,12 +15,12 @@ public class ChapterService {
 
     public Optional<ChapterPojo> getChapterByBookAndChapterNumber(long bookId, int chapterNumber) {
         return chapterRepository.getChapterByBookAndChapterNumber(bookId, chapterNumber)
-                .map(ChapterEntity::getChapterPojo);
+                .map(ChapterEntity::getChapterExclVersePojo);
     }
 
     public Optional<ChapterPojo> getChapterByBookAndChapterNumberInclVerses(long bookId, int chapterNumber) {
         return chapterRepository.getChapterByBookAndChapterNumber(bookId, chapterNumber)
-                .map(ChapterEntity::getChapterPojoInlVerses);
+                .map(ChapterEntity::getFullChapterPojo);
     }
 
     public long getChapterCountByBookId(long bookId) {

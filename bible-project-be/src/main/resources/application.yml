@@ -43,3 +43,6 @@ quarkus:
 
 migration:
   enabled: false
+import-export:
+  export-enabled: false
+  import-enabled: false

@@ -1,0 +1,316 @@
+---
+bookId: 70
+name: "Tit – Teitus"
+abbreviation: "Tit."
+testament: "Noul Testament"
+expChaptersCount: 3
+expTotalVerses: 46
+downloadedLink: "https://yahwehtora.ro/tit-teitus"
+requiresUpdate: false
+inProgress: false
+bookOrder: 70
+chapterPojo:
+- number: 1
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Pavel, rob al lui YaHWeH si apostol al lui Yasua haMasiya, potrivit cu\
+      \ credinta alesilor lui YaHWeH si cunostinta Adevarului care este potrivit cu\
+      \ evlavia,"
+    textWithDiacritics: "Pavel, rob al lui YaHWeH şi apostol al lui Yașua haMaşiya,\
+      \ potrivit cu credinţa aleşilor lui YaHWeH şi cunoştinţa Adevărului care este\
+      \ potrivit cu evlavia,"
+    chapter: null
+  - verseNumber: 2
+    text: "in nadejdea vietii vesnice, fagaduite mai inainte de vesnicii de YaHWeH,\
+      \ care nu poate sa minta."
+    textWithDiacritics: "în nădejdea vieţii veşnice, făgăduite mai înainte de veş\
+      nicii de YaHWeH, care nu poate să mintă."
+    chapter: null
+  - verseNumber: 3
+    text: "Ci Si-a descoperit Cuvintul la vremea Lui, prin propovaduirea care mi-a\
+      \ fost incredintata, dupa Porunca lui YaHWeH, Mintuitorul nostru;"
+    textWithDiacritics: "Ci Şi-a descoperit Cuvîntul la vremea Lui, prin propovăduirea\
+      \ care mi-a fost încredinţată, după Porunca lui YaHWeH, Mîntuitorul nostru;"
+    chapter: null
+  - verseNumber: 4
+    text: "catre Tit, adevaratul meu copil in credinta noastra a amindurora: Har si\
+      \ pace de la YaHWeH Tatal si de la Yasua haMasiya, Mintuitorul nostru!"
+    textWithDiacritics: "către Tit, adevăratul meu copil în credinţa noastră a amî\
+      ndurora: Har şi pace de la YaHWeH Tatăl şi de la Yașua haMaşiya, Mîntuitorul\
+      \ nostru!"
+    chapter: null
+  - verseNumber: 5
+    text: "Te-am lasat in Creta ca sa pui in rinduiala ce mai ramine de rinduit si\
+      \ sa asezi prezbiteri a) in fiecare cetate, dupa cum ti-am poruncit: [ a) Sau:\
+      \ batrini ]"
+    textWithDiacritics: "Te-am lăsat în Creta ca să pui în rînduială ce mai rămîne\
+      \ de rînduit şi să aşezi prezbiteri a) în fiecare cetate, după cum ţi-am poruncit:\
+      \ [ a) Sau: bătrîni ]"
+    chapter: null
+  - verseNumber: 6
+    text: "daca este cineva fara prihana, barbat al unei singure neveste, avind copii\
+      \ credinciosi, care sa nu fie invinuiti de destrabalare sau neascultare."
+    textWithDiacritics: "dacă este cineva fără prihană, bărbat al unei singure neveste,\
+      \ avînd copii credincioşi, care să nu fie învinuiţi de destrăbălare sau neascultare."
+    chapter: null
+  - verseNumber: 7
+    text: "Caci episcopal a), ca econom al lui YaHWeH, trebuie sa fie fara prihana;\
+      \ nu incapatinat, nici minios, nici dedat la vin, nici bataus, nici lacom de\
+      \ cistig mirsav; [ a) Sau: priveghetor ]"
+    textWithDiacritics: "Căci episcopal a), ca econom al lui YaHWeH, trebuie să fie\
+      \ fără prihană; nu încăpăţînat, nici mînios, nici dedat la vin, nici bătăuş\
+      , nici lacom de cîştig mîrşav; [ a) Sau: priveghetor ]"
+    chapter: null
+  - verseNumber: 8
+    text: "ci sa fie primitor de oaspeti, iubitor de bine, cumpatat, drept, sfint,\
+      \ infrinat;"
+    textWithDiacritics: "ci să fie primitor de oaspeţi, iubitor de bine, cumpătat,\
+      \ drept, sfînt, înfrînat;"
+    chapter: null
+  - verseNumber: 9
+    text: "sa se tina de Cuvintul Adevarului, care este potrivit cu invatatura, pentru\
+      \ ca sa fie in stare sa sfatuiasca in invatatura sanatoasa si sa infrunte pe\
+      \ potrivnici. [ invatatura : Evr: Torah = Legea ]"
+    textWithDiacritics: "să se ţină de Cuvîntul Adevărului, care este potrivit cu\
+      \ învăţătura, pentru ca să fie în stare să sfătuiască în învăţătura sănătoasă\
+      \ şi să înfrunte pe potrivnici. [ învăţătura : Evr: Torah = Legea ]"
+    chapter: null
+  - verseNumber: 10
+    text: "In adevar, mai ales printre cei taiati imprejur, sunt multi nesupusi, flecari\
+      \ si amagitori,"
+    textWithDiacritics: "În adevăr, mai ales printre cei tăiaţi împrejur, sunt mulţ\
+      i nesupuşi, flecari şi amăgitori,"
+    chapter: null
+  - verseNumber: 11
+    text: "carora trebuie sa li se astupe gura. Ei buimacesc familii intregi, invatind\
+      \ pe oameni, pentru un cistig mirsav, lucruri pe care nu trebuie sa le invete."
+    textWithDiacritics: "cărora trebuie să li se astupe gura. Ei buimăcesc familii\
+      \ întregi, învăţînd pe oameni, pentru un cîştig mîrșav, lucruri pe care nu trebuie\
+      \ să le înveţe."
+    chapter: null
+  - verseNumber: 12
+    text: "Unul dintre ei, chiar proroc al lor, a zis: „Cretanii sunt totdeauna niste\
+      \ mincinosi, niste fiare rele, niste pintece lenese.”"
+    textWithDiacritics: "Unul dintre ei, chiar proroc al lor, a zis: „Cretanii sunt\
+      \ totdeauna nişte mincinoşi, nişte fiare rele, nişte pîntece leneşe.”"
+    chapter: null
+  - verseNumber: 13
+    text: "Marturia aceasta este adevarata. De aceea mustra-i aspru, ca sa fie sanatosi\
+      \ in credinta"
+    textWithDiacritics: "Mărturia aceasta este adevărată. De aceea mustră-i aspru,\
+      \ ca să fie sănătoşi în credinţă"
+    chapter: null
+  - verseNumber: 14
+    text: "si sa nu se tina de basme evreiesti si de porunci date de oameni care se\
+      \ intorc de la Adevar. [ Adevar: aici Lege ]"
+    textWithDiacritics: "şi să nu se ţină de basme evreieşti şi de porunci date de\
+      \ oameni care se întorc de la Adevăr. [ Adevar: aici Lege ]"
+    chapter: null
+  - verseNumber: 15
+    text: "Totul este curat daca este curatit, dar pentru cei necurati si necredinciosi,\
+      \ nimic nu este curat: pina si mintea si cugetul le sunt spurcate."
+    textWithDiacritics: "Totul este curat dacă este curăţit, dar pentru cei necuraţ\
+      i şi necredincioşi, nimic nu este curat: pînă şi mintea şi cugetul le sunt spurcate."
+    chapter: null
+  - verseNumber: 16
+    text: "Ei se lauda ca cunosc pe YaHWeH, dar cu faptele Il tagaduiesc, caci sunt\
+      \ o scirba: nesupusi si netrebnici pentru orice fapta buna."
+    textWithDiacritics: "Ei se laudă că cunosc pe YaHWeH, dar cu faptele Îl tăgăduiesc,\
+      \ căci sunt o scîrbă: nesupuşi şi netrebnici pentru orice faptă bună."
+    chapter: null
+- number: 2
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Tu insa vorbeste lucruri care se potrivesc cu invatatura sanatoasa."
+    textWithDiacritics: "Tu însă vorbeşte lucruri care se potrivesc cu învăţătura\
+      \ sănătoasă."
+    chapter: null
+  - verseNumber: 2
+    text: "Spune ca cei batrini trebuie sa fie treji, vrednici de cinste, cumpatati,\
+      \ sanatosi in credinta, in dragoste, in rabdare."
+    textWithDiacritics: "Spune că cei bătrîni trebuie să fie treji, vrednici de cinste,\
+      \ cumpătaţi, sănătoşi în credinţă, în dragoste, în răbdare."
+    chapter: null
+  - verseNumber: 3
+    text: "Spune ca femeile in virsta trebuie sa aiba o purtare cuviincioasa, sa nu\
+      \ fie nici clevetitoare, nici dedate la vin; sa invete pe altii ce este bine,"
+    textWithDiacritics: "Spune că femeile în vîrstă trebuie să aibă o purtare cuviincioasă\
+      , să nu fie nici clevetitoare, nici dedate la vin; să înveţe pe alţii ce este\
+      \ bine,"
+    chapter: null
+  - verseNumber: 4
+    text: "ca sa invete pe femeile mai tinere sa-si iubeasca barbatii si copiii;"
+    textWithDiacritics: "ca să înveţe pe femeile mai tinere să-şi iubească bărbaţ\
+      ii şi copiii;"
+    chapter: null
+  - verseNumber: 5
+    text: "sa fie cumpatate, cu viata curata, sa-si vada de treburile casei, sa fie\
+      \ bune, supuse barbatilor lor, pentru ca sa nu se vorbeasca de rau Cuvintul\
+      \ lui YaHWeH."
+    textWithDiacritics: "să fie cumpătate, cu viaţa curată, să-şi vadă de treburile\
+      \ casei, să fie bune, supuse bărbaţilor lor, pentru ca să nu se vorbească de\
+      \ rău Cuvîntul lui YaHWeH."
+    chapter: null
+  - verseNumber: 6
+    text: "Sfatuieste, de asemenea, pe tineri sa fie cumpatati"
+    textWithDiacritics: "Sfătuieşte, de asemenea, pe tineri să fie cumpătaţi"
+    chapter: null
+  - verseNumber: 7
+    text: "si da-te pe tine insuti pilda de fapte bune, in toate privintele. Iar in\
+      \ invatatura, da dovada de curatie, de vrednicie,"
+    textWithDiacritics: "şi dă-te pe tine însuţi pildă de fapte bune, în toate privinţ\
+      ele. Iar în învăţătură, dă dovadă de curăţie, de vrednicie,"
+    chapter: null
+  - verseNumber: 8
+    text: "de vorbire sanatoasa si fara cusur, ca potrivnicul sa ramina de rusine\
+      \ si sa nu poata sa spuna nimic rau de noi."
+    textWithDiacritics: "de vorbire sănătoasă şi fără cusur, ca potrivnicul să ră\
+      mînă de ruşine şi să nu poată să spună nimic rău de noi."
+    chapter: null
+  - verseNumber: 9
+    text: "Sfatuieste pe robi sa fie supusi stapinilor lor, sa le fie pe plac in toate\
+      \ lucrurile, sa nu le intoarca vorba,"
+    textWithDiacritics: "Sfătuieşte pe robi să fie supuşi stăpînilor lor, să le fie\
+      \ pe plac în toate lucrurile, să nu le întoarcă vorba,"
+    chapter: null
+  - verseNumber: 10
+    text: "sa nu fure nimic, ci totdeauna sa dea dovada de o desavirsita credinciosie,\
+      \ ca sa faca in totul cinste invataturii lui YaHWeH, Mintuitorul nostru. [ invataturii\
+      \ : aici.Torah = Legii ]"
+    textWithDiacritics: "să nu fure nimic, ci totdeauna să dea dovadă de o desăvî\
+      rşită credincioşie, ca să facă în totul cinste învăţăturii lui YaHWeH, Mîntuitorul\
+      \ nostru. [ învăţăturii : aici.Torah = Legii ]"
+    chapter: null
+  - verseNumber: 11
+    text: "Caci harul lui YaHWeH, care aduce Mintuire pentru toti oamenii, a fost\
+      \ aratat"
+    textWithDiacritics: "Căci harul lui YaHWeH, care aduce Mîntuire pentru toţi oamenii,\
+      \ a fost arătat"
+    chapter: null
+  - verseNumber: 12
+    text: "si ne invata s-o rupem cu paginatatea si cu poftele lumesti si sa traim\
+      \ in veacul de acum cu cumpatare, dreptate si evlavie,"
+    textWithDiacritics: "şi ne învaţă s-o rupem cu păgînătatea şi cu poftele lumeş\
+      ti şi să trăim în veacul de acum cu cumpătare, dreptate şi evlavie,"
+    chapter: null
+  - verseNumber: 13
+    text: "asteptind fericita noastra nadejde si aratarea slavei marelui nostru Stapin,\
+      \ Mintuitorul Yasua."
+    textWithDiacritics: "aşteptînd fericita noastră nădejde şi arătarea slavei marelui\
+      \ nostru Stăpîn, Mîntuitorul Yașua."
+    chapter: null
+  - verseNumber: 14
+    text: "El S-a dat pe Sine insusi pentru noi, ca sa ne rascumpere din fara de Lege\
+      \ si sa-Si curete un norod care sa fie al Lui, plin de rivna pentru lucru bun."
+    textWithDiacritics: "El S-a dat pe Sine însuşi pentru noi, ca să ne răscumpere\
+      \ din fără de Lege şi să-Şi cureţe un norod care să fie al Lui, plin de rîvnă\
+      \ pentru lucru bun."
+    chapter: null
+  - verseNumber: 15
+    text: "Spune lucrurile acestea, sfatuieste si mustra cu deplina putere. Nimeni\
+      \ sa nu te dispretuiasca."
+    textWithDiacritics: "Spune lucrurile acestea, sfătuieşte şi mustră cu deplină\
+      \ putere. Nimeni să nu te dispreţuiască."
+    chapter: null
+- number: 3
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Adu-le aminte sa fie supusi stapinirilor si dregatorilor, sa-i asculte,\
+      \ sa fie gata sa faca orice lucru bun,"
+    textWithDiacritics: "Adu-le aminte să fie supuşi stăpînirilor şi dregătorilor,\
+      \ să-i asculte, să fie gata să facă orice lucru bun,"
+    chapter: null
+  - verseNumber: 2
+    text: "sa nu vorbeasca de rau pe nimeni, sa nu fie gata de cearta, ci cumpatati,\
+      \ plini de blindete fata de toti oamenii."
+    textWithDiacritics: "să nu vorbească de rău pe nimeni, să nu fie gata de ceartă\
+      , ci cumpătaţi, plini de blîndeţe faţă de toţi oamenii."
+    chapter: null
+  - verseNumber: 3
+    text: "Caci si noi eram altadata fara minte, neascultatori, rataciti, robiti de\
+      \ tot felul de pofte si de placeri, traind in rautate si in pizma, vrednici\
+      \ sa fim uriti si urindu-ne unii pe altii."
+    textWithDiacritics: "Căci şi noi eram altădată fără minte, neascultători, rătă\
+      ciţi, robiţi de tot felul de pofte şi de plăceri, trăind în răutate şi în pizmă\
+      , vrednici să fim urîţi şi urîndu-ne unii pe alţii."
+    chapter: null
+  - verseNumber: 4
+    text: "Dar, cind s-a aratat bunatatea lui YaHWeH Mintuitorul nostru, si dragostea\
+      \ Lui de oameni,"
+    textWithDiacritics: "Dar, cînd s-a arătat bunătatea lui YaHWeH Mîntuitorul nostru,\
+      \ şi dragostea Lui de oameni,"
+    chapter: null
+  - verseNumber: 5
+    text: "El ne-a Mintuit, nu pentru lucrul facut de noi in neprihanire, ci pentru\
+      \ indurarea Lui, prin spalarea nasterii din nou si prin innoirea facuta de Duhul\
+      \ Sfint,"
+    textWithDiacritics: "El ne-a Mîntuit, nu pentru lucrul făcut de noi în neprihă\
+      nire, ci pentru îndurarea Lui, prin spălarea naşterii din nou şi prin înnoirea\
+      \ făcută de Duhul Sfînt,"
+    chapter: null
+  - verseNumber: 6
+    text: "pe care L-a varsat din belsug peste noi, prin Yasua haMasiya, Mintuitorul\
+      \ nostru;"
+    textWithDiacritics: "pe care L-a vărsat din belşug peste noi, prin Yașua haMaş\
+      iya, Mîntuitorul nostru;"
+    chapter: null
+  - verseNumber: 7
+    text: "pentru ca odata socotiti neprihaniti, prin harul Lui, sa ne facem in nadejde,\
+      \ mostenitori ai vietii vesnice."
+    textWithDiacritics: "pentru ca odată socotiţi neprihăniţi, prin harul Lui, să\
+      \ ne facem în nădejde, moştenitori ai vieţii veşnice."
+    chapter: null
+  - verseNumber: 8
+    text: "Adevarat este cuvintul acesta si vreau sa spui apasat aceste lucruri, pentru\
+      \ ca cei ce au crezut in YaHWeH sa caute sa fie cei dintii in lucru bun. Iata\
+      \ ce este bine si de folos pentru oameni!"
+    textWithDiacritics: "Adevărat este cuvîntul acesta şi vreau să spui apăsat aceste\
+      \ lucruri, pentru ca cei ce au crezut în YaHWeH să caute să fie cei dintîi î\
+      n lucru bun. Iată ce este bine şi de folos pentru oameni!"
+    chapter: null
+  - verseNumber: 9
+    text: "Dar de intrebarile nebune, de insirarile de neamuri, de certuri si ciorovaieli\
+      \ privitoare la legi, fereste-te, caci sunt nefolositoare si zadarnice."
+    textWithDiacritics: "Dar de întrebările nebune, de înşirările de neamuri, de certuri\
+      \ şi ciorovăieli privitoare la legi, fereşte-te, căci sunt nefolositoare şi\
+      \ zadarnice."
+    chapter: null
+  - verseNumber: 10
+    text: "Dupa intiia si a doua mustrare, departeaza-te de cel ce aduce dezbinari,"
+    textWithDiacritics: "După întîia şi a doua mustrare, depărtează-te de cel ce aduce\
+      \ dezbinări,"
+    chapter: null
+  - verseNumber: 11
+    text: "caci stim ca un astfel de om este un stricat si pacatuieste, de la sine\
+      \ fiind osindit."
+    textWithDiacritics: "căci ştim că un astfel de om este un stricat şi păcătuieş\
+      te, de la sine fiind osîndit."
+    chapter: null
+  - verseNumber: 12
+    text: "Cind voi trimite la tine pe Artema sau pe Tihic, grabeste-te sa vii la\
+      \ mine in Nicopoli, caci acolo m-am hotarit sa iernez."
+    textWithDiacritics: "Cînd voi trimite la tine pe Artema sau pe Tihic, grăbeşte-te\
+      \ să vii la mine în Nicopoli, căci acolo m-am hotărît să iernez."
+    chapter: null
+  - verseNumber: 13
+    text: "Ai grija de legiuitorul Zena si Apolo sa nu duca lipsa de nimic din ce\
+      \ le trebuie pentru calatoria lor."
+    textWithDiacritics: "Ai grijă de legiuitorul Zena şi Apolo să nu ducă lipsă de\
+      \ nimic din ce le trebuie pentru călătoria lor."
+    chapter: null
+  - verseNumber: 14
+    text: "Trebuie ca si ai nostri sa se deprinda sa fie cei dintii in fapte bune,\
+      \ pentru nevoile grabnice, si sa nu stea neroditori."
+    textWithDiacritics: "Trebuie ca şi ai noştri să se deprindă să fie cei dintîi\
+      \ în fapte bune, pentru nevoile grabnice, şi să nu stea neroditori."
+    chapter: null
+  - verseNumber: 15
+    text: "Toti cei ce sunt cu mine iti trimit sanatate. Spune sanatate celor ce ne\
+      \ iubesc in credinta. Harul sa fie cu voi cu toti! HalleluYa. HalleluYah"
+    textWithDiacritics: "Toţi cei ce sunt cu mine îţi trimit sănătate. Spune sănă\
+      tate celor ce ne iubesc în credinţă. Harul să fie cu voi cu toţi! HalleluYa.\
+      \ HalleluYah"
+    chapter: null

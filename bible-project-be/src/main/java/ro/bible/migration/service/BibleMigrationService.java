@@ -77,7 +77,7 @@ public class BibleMigrationService {
         }
     }
 
-    @Scheduled(every =  "5m")
+    @Scheduled(every =  "15s")
     public void migrateRequiredBooks() {
         if(migrationConfig.enabled()) {
             Log.info("Running migrate required books");

@@ -22,25 +22,25 @@ public class ChapterEntity extends BaseEntity {
     @OneToMany(fetch = FetchType.LAZY, cascade = CascadeType.ALL, orphanRemoval = true, mappedBy = "chapter")
     private List<VerseEntity> verses = new ArrayList<>();
 
-    public ChapterPojo getChapterPojo() {
+    public ChapterPojo getChapterExclVersePojo() {
         return ChapterPojo.builder()
                 .number(number)
                 .book(book.getBookPojoNoChapters())
                 .build();
     }
 
-    public ChapterPojo getChapterPojoInlVerses() {
+    public ChapterPojo getFullChapterPojo() {
         return ChapterPojo.builder()
                 .number(number)
                 .book(book.getBookPojoNoChapters())
-                .versePojo(verses.stream().map(VerseEntity::getVersePojo).toList())
+                .versePojo(verses.stream().map(VerseEntity::getVerseExclChapterPojo).toList())
                 .build();
     }
 
-    public ChapterPojo getChapterPojoNoBook() {
+    public ChapterPojo getChapterExclBookPojo() {
         return ChapterPojo.builder()
                 .number(number)
-                .versePojo(verses.stream().map(VerseEntity::getVersePojo).toList())
+                .versePojo(verses.stream().map(VerseEntity::getVerseExclChapterPojo).toList())
                 .build();
     }
 }

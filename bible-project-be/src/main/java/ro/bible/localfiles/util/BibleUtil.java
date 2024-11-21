@@ -14,7 +14,7 @@ import java.util.Optional;
 @UtilityClass
 public class BibleUtil {
     //https://www.biblememorygoal.com/how-many-chapters-verses-in-the-bible/
-    private final String resourcePath = "bible-source-documents/menu/book-table.json";
+    private final String resourcePath = "bible-source-documents/books-metadata/book-table.json";
     private List<BookInfo> bookInfoList = new ArrayList<>();
 
     public static List<BookInfo> getBookInfoList() {

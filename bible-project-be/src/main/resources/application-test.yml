@@ -11,6 +11,3 @@ quarkus:
       generation: drop-and-create
   flyway:
     enabled: false
-
-migration:
-  enabled: false
