@@ -33,8 +33,8 @@ public class VerseRepository implements PanacheRepository<VerseEntity> {
         return count("SELECT count(v) FROM VerseEntity v WHERE v.chapter.book.id = ?1", bookId);
     }
 
-    public Optional<VerseEntity> findVerseByBookIdAndChapterNumber(long bookId, int chapterNumber) {
-        return find("SELECT v FROM VerseEntity v WHERE v.chapter.book.id = ?1 and v.chapter.number = ?2", bookId, chapterNumber)
+    public Optional<VerseEntity> findVerseByBookIdAndChapterNumber(long bookId, int chapterNumber, int verseNumber) {
+        return find("SELECT v FROM VerseEntity v WHERE v.chapter.book.id = ?1 and v.chapter.number = ?2 and v.verseNumber =?3", bookId, chapterNumber, verseNumber)
                 .firstResultOptional();
     }
 }

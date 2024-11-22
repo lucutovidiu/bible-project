@@ -1,5 +1,5 @@
 ---
-bookId: 76
+bookId: 62
 name: "1 Ioan"
 hebrewName: "Yochanan Alef"
 abbreviation: "1Ioan."
@@ -693,6 +693,6 @@ chapterPojo:
       ."
     chapter: null
   - verseNumber: 21
-    text: "Copilasilor, paziti-va de idoli. HalleluYa. HalleluYah"
-    textWithDiacritics: "Copilaşilor, păziţi-vă de idoli. HalleluYa. HalleluYah"
+    text: "Copilasilor, paziti-va de idoli. HalleluYah. HalleluYah"
+    textWithDiacritics: "Copilaşilor, păziţi-vă de idoli. HalleluYah. HalleluYah"
     chapter: null
