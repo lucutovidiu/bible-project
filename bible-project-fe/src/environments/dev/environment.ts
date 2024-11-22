@@ -1,4 +1,4 @@
-import {Environment} from "../../app/model/environment/environment";
+import { Environment } from '../../../libs/env-management/model/environment';
 
 const beBaseUrl: string = 'http://192.168.1.166:8989';
 

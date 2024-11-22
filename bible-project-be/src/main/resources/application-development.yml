@@ -13,5 +13,5 @@ migration:
   enabled: false
 import-export:
   export-enabled: false
-  import-enabled: false
+  import-enabled: true
   file-metadata-enabled: false

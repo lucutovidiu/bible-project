@@ -24,7 +24,7 @@ public class YamlBookImporterService implements BookImporterService {
     YamlMapperService yamlMapperService;
 
     @Override
-    public void importBooks() {
+    public void importAllBooks() {
         Log.info("Started importing Books");
         BibleUtil.getBookInfoList()
                 .forEach(this::importBook);

@@ -3,13 +3,13 @@ import { persistState } from '@datorama/akita';
 
 import { AppModule } from './app/app.module';
 
-persistState({
-  include: ['site-store'],
-  storage: sessionStorage,
-});
+// persistState({
+//   include: ['site-store'],
+//   storage: localStorage,
+// });
 
 persistState({
-  include: ['site-preferences-store'],
+  include: ['site-preferences-store', 'site-store'],
   storage: localStorage,
 });
 

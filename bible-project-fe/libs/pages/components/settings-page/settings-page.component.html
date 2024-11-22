@@ -1,0 +1,43 @@
+<div class="mt-3 container">
+  <div
+    class="py-2 main-text-background d-flex justify-content-center align-items-center">
+    <div>
+      <div class="h2 fw-bold pt-3 pb-2 text-title-colour">Setari</div>
+      <div [formGroup]="namesForm">
+        <ng-container>
+          <label class="h4 fw-bold pt-3 pb-2 text-title-colour" for="FathersName">Numele Tatalui:</label>
+          <div class="row">
+            <div class="col-9 col-sm-6 col-md-5 col-lg-4 col-xl-3">
+              <select class="form-select select-width" formControlName="FathersName" id="FathersName">
+                <option [value]="SettingsService.FATHERS_DEFAULT_NAME">{{ SettingsService.FATHERS_DEFAULT_NAME }}
+                </option>
+<!--                <option [value]="SettingsService.YAHUAH">{{ SettingsService.YAHUAH }}</option>-->
+                <option [value]="SettingsService.YAUE">{{ SettingsService.YAUE }}</option>
+              </select>
+            </div>
+          </div>
+        </ng-container>
+        <ng-container>
+          <label class="h4 fw-bold pt-3 pb-2 text-title-colour" for="SonsName">Numele Fiului:</label>
+          <div class="row">
+            <div class="col-9 col-sm-6 col-md-5 col-lg-4 col-xl-3">
+              <select class="form-select select-width" formControlName="SonsName" id="SonsName">
+                <option [value]="SettingsService.SONS_DEFAULT_NAME">{{ SettingsService.SONS_DEFAULT_NAME }}</option>
+<!--                <option [value]="SettingsService.SONS_NEW_NAME">{{ SettingsService.SONS_NEW_NAME }}</option>-->
+              </select>
+            </div>
+          </div>
+        </ng-container>
+        <ng-container>
+          <div class="row">
+            <div class="col">
+              <button class="btn btn-primary mt-3" (click)="resetWebsiteSettings()">Reseteaza Website</button>
+            </div>
+          </div>
+        </ng-container>
+        <br/>
+      </div>
+    </div>
+
+  </div>
+</div>

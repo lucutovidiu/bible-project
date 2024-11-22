@@ -1,23 +1,25 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
-import { HomeComponent } from './components/home/home.component';
-import { SearchComponent } from './components/search/search.component';
-import { BookChapterPageComponent } from './components/book-chapter-page/book-chapter-page.component';
-import { SettingsPageComponent } from './components/settings-page/settings-page.component';
+import {
+  ChapterDisplayPageComponent,
+  HomePageComponent,
+  SearchResultsDisplayPageComponent,
+  SettingsPageComponent,
+} from '@bible/pages';
 
 const routes: Routes = [
   {
     path: '',
-    component: HomeComponent,
+    component: HomePageComponent,
   },
   {
     path: 'search/:searchText',
-    component: SearchComponent,
+    component: SearchResultsDisplayPageComponent,
   },
   {
     path: 'display-chapter',
-    component: BookChapterPageComponent,
+    component: ChapterDisplayPageComponent,
   },
   {
     path: 'settings',

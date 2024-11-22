@@ -49,9 +49,9 @@ public class BibleExporterService {
     public void importBooks() {
         if (importExportConfig.importEnabled()) {
             Log.info("Importing Books");
-            bookImporterService.importByBookName("1 Ioan");
+//            bookImporterService.importByBookName("1 Ioan");
 //            bookImporterService.importByBookTestament(BookTestament.APOCRYPHA);
-//            bookImporterService.importBooks();
+            bookImporterService.importAllBooks();
 //            bookImporterService.importBooksMetadataOnly();
         } else {
             Log.info("Skipping Importing books");

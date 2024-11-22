@@ -6,16 +6,13 @@ import {
   provideHttpClient,
   withInterceptorsFromDi,
 } from '@angular/common/http';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { SharedEnvModule } from '@bible/env-management';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { HomeComponent } from './components/home/home.component';
-import { NavBarComponent } from './components/nav-bar/nav-bar.component';
-import { LoadingIndicatorBoxComponent } from './components/loading-indicator-box/loading-indicator-box.component';
-import { SharedEnvModule } from './services/environment-management/shared-env.module';
 import { environment } from '../environments/local/environment';
-import { ServiceWorkerModule } from '@angular/service-worker';
-import { BibleVerseComponent } from './components/bible-verse/bible-verse.component';
+import { NavBarComponent } from '@bible/shared';
 
 @NgModule({
   declarations: [AppComponent],
@@ -24,9 +21,6 @@ import { BibleVerseComponent } from './components/bible-verse/bible-verse.compon
     BrowserModule,
     AppRoutingModule,
     SharedEnvModule.forRoot(environment),
-    HomeComponent,
-    NavBarComponent,
-    LoadingIndicatorBoxComponent,
     BrowserAnimationsModule,
     ToastrModule.forRoot({
       positionClass: 'toast-bottom-center',
@@ -40,7 +34,7 @@ import { BibleVerseComponent } from './components/bible-verse/bible-verse.compon
       // or after 30 seconds (whichever comes first).
       registrationStrategy: 'registerWhenStable:30000',
     }),
-    BibleVerseComponent,
+    NavBarComponent,
   ],
   providers: [provideHttpClient(withInterceptorsFromDi())],
 })

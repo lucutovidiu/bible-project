@@ -4,7 +4,7 @@ import ro.bible.shared.model.BookTestament;
 
 public interface BookImporterService {
 
-    void importBooks();
+    void importAllBooks();
 
     void importByBookTestament(BookTestament bookTestament);
 

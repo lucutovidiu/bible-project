@@ -22,7 +22,22 @@
     "lib": [
       "ES2022",
       "dom"
-    ]
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "@bible/shared": [
+        "libs/shared/index.ts"
+      ],
+      "@bible/pages": [
+        "libs/pages/index.ts",
+      ],
+      "@bible/verse": [
+        "libs/verse/index.ts",
+      ],
+      "@bible/env-management": [
+        "libs/env-management/index.ts"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
