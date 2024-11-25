@@ -15,10 +15,10 @@ chapterPojo:
   book: null
   versePojo:
   - verseNumber: 1
-    text: "Dupa moartea lui Moise, robul lui YaHWeH, YaHWeH a zis lui Iosua, fiul\
-      \ lui Nun, slujitorul lui Moise:"
-    textWithDiacritics: "După moartea lui Moise, robul lui YaHWeH, YaHWeH a zis lui\
-      \ Iosua, fiul lui Nun, slujitorul lui Moise:"
+    text: "Dupa moartea lui Moise, robul lui Yaue, Yaue a zis lui Iosua, fiul lui\
+      \ Nun, slujitorul lui Moise:"
+    textWithDiacritics: "După moartea lui Moise, robul lui Yaue, Yaue a zis lui Iosua,\
+      \ fiul lui Nun, slujitorul lui Moise:"
     chapter: null
   - verseNumber: 2
     text: "„Robul Meu Moise a murit: acum, scoala-te, treci Iordanul acesta, tu si\
@@ -72,11 +72,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 9
     text: "Nu ti-am dat Eu oare Porunca aceasta: „Intareste-te si imbarbateaza-te”\
-      ? Nu te inspaiminta si nu te ingrozi, caci YaHWeH Eylohim al tau este cu tine\
-      \ in tot ce vei face.” Poporul fagaduieste ascultare"
+      ? Nu te inspaiminta si nu te ingrozi, caci Yaue Elohim al tau este cu tine in\
+      \ tot ce vei face.” Poporul fagaduieste ascultare"
     textWithDiacritics: "Nu ţi-am dat Eu oare Porunca aceasta: „Întăreşte-te şi î\
-      mbărbătează-te”? Nu te înspăimînta şi nu te îngrozi, căci YaHWeH Eylohim al\
-      \ tău este cu tine în tot ce vei face.” Poporul făgăduieşte ascultare"
+      mbărbătează-te”? Nu te înspăimînta şi nu te îngrozi, căci Yaue Elohim al tă\
+      u este cu tine în tot ce vei face.” Poporul făgăduieşte ascultare"
     chapter: null
   - verseNumber: 10
     text: "Iosua a dat capeteniilor ostirii poporului urmatoarea porunca:"
@@ -86,10 +86,10 @@ chapterPojo:
   - verseNumber: 11
     text: "„Treceti prin tabara si iata ce sa porunciti poporului: „Pregatiti-va merinde,\
       \ caci peste trei zile veti trece Iordanul acesta ca sa mergeti sa cuceriti\
-      \ tara pe care v-o da in stapinire YaHWeH Eylohim al vostru.”"
+      \ tara pe care v-o da in stapinire Yaue Elohim al vostru.”"
     textWithDiacritics: "„Treceţi prin tabără şi iată ce să porunciţi poporului: „\
       Pregătiţi-vă merinde, căci peste trei zile veţi trece Iordanul acesta ca să\
-      \ mergeţi să cuceriţi ţara pe care v-o dă în stăpînire YaHWeH Eylohim al vostru.”"
+      \ mergeţi să cuceriţi ţara pe care v-o dă în stăpînire Yaue Elohim al vostru.”"
     chapter: null
   - verseNumber: 12
     text: "Iosua a zis rubenitilor, gaditilor si jumatatii din semintia lui Manase:"
@@ -97,10 +97,10 @@ chapterPojo:
       ia lui Manase:"
     chapter: null
   - verseNumber: 13
-    text: "„Aduceti-va aminte ce v-a poruncit Moise, robul lui YaHWeH, cind a zis:\
-      \ „ YaHWeH Eylohim al vostru v-a dat odihna si v-a dat tara aceasta."
-    textWithDiacritics: "„Aduceţi-vă aminte ce v-a poruncit Moise, robul lui YaHWeH,\
-      \ cînd a zis: „ YaHWeH Eylohim al vostru v-a dat odihnă şi v-a dat ţara aceasta."
+    text: "„Aduceti-va aminte ce v-a poruncit Moise, robul lui Yaue, cind a zis: „\
+      \ Yaue Elohim al vostru v-a dat odihna si v-a dat tara aceasta."
+    textWithDiacritics: "„Aduceţi-vă aminte ce v-a poruncit Moise, robul lui Yaue,\
+      \ cînd a zis: „ Yaue Elohim al vostru v-a dat odihnă şi v-a dat ţara aceasta."
     chapter: null
   - verseNumber: 14
     text: "Nevestele voastre, pruncii vostri si vitele voastre sa ramina in tara pe\
@@ -111,15 +111,14 @@ chapterPojo:
       ii voinici să treceţi înarmaţi înaintea fraţilor voştri şi să-i ajutaţi,"
     chapter: null
   - verseNumber: 15
-    text: "pina ce YaHWeH va da odihna fratilor vostri, ca si voua, si pina ce vor\
-      \ fi si ei in stapinirea tarii pe care le-o da YaHWeH Eylohim al vostru. Apoi\
-      \ sa va intoarceti sa stapiniti tara care este mosia voastra si pe care v-a\
-      \ dat-o Moise, robul lui YaHWeH, dincoace de Iordan, spre rasaritul soarelui.”"
-    textWithDiacritics: "pînă ce YaHWeH va da odihnă fraţilor voştri, ca şi vouă,\
-      \ şi pînă ce vor fi şi ei în stăpînirea ţării pe care le-o dă YaHWeH Eylohim\
-      \ al vostru. Apoi să vă întoarceţi să stăpîniţi ţara care este moşia voastră\
-      \ şi pe care v-a dat-o Moise, robul lui YaHWeH, dincoace de Iordan, spre ră\
-      săritul soarelui.”"
+    text: "pina ce Yaue va da odihna fratilor vostri, ca si voua, si pina ce vor fi\
+      \ si ei in stapinirea tarii pe care le-o da Yaue Elohim al vostru. Apoi sa va\
+      \ intoarceti sa stapiniti tara care este mosia voastra si pe care v-a dat-o\
+      \ Moise, robul lui Yaue, dincoace de Iordan, spre rasaritul soarelui.”"
+    textWithDiacritics: "pînă ce Yaue va da odihnă fraţilor voştri, ca şi vouă, ş\
+      i pînă ce vor fi şi ei în stăpînirea ţării pe care le-o dă Yaue Elohim al vostru.\
+      \ Apoi să vă întoarceţi să stăpîniţi ţara care este moşia voastră şi pe care\
+      \ v-a dat-o Moise, robul lui Yaue, dincoace de Iordan, spre răsăritul soarelui.”"
     chapter: null
   - verseNumber: 16
     text: "Ei au raspuns lui Iosua si au zis: „Vom face tot ce ne-ai poruncit si ne\
@@ -128,10 +127,10 @@ chapterPojo:
       \ poruncit şi ne vom duce oriunde ne vei trimite."
     chapter: null
   - verseNumber: 17
-    text: "Te vom asculta in totul, cum am ascultat pe Moise. Numai YaHWeH Eylohim\
-      \ al tau sa fie cu tine, cum a fost cu Moise!"
+    text: "Te vom asculta in totul, cum am ascultat pe Moise. Numai Yaue Elohim al\
+      \ tau sa fie cu tine, cum a fost cu Moise!"
     textWithDiacritics: "Te vom asculta în totul, cum am ascultat pe Moise. Numai\
-      \ YaHWeH Eylohim al tău să fie cu tine, cum a fost cu Moise!"
+      \ Yaue Elohim al tău să fie cu tine, cum a fost cu Moise!"
     chapter: null
   - verseNumber: 18
     text: "Orice om care se va razvrati impotriva poruncii tale si care nu va asculta\
@@ -201,35 +200,34 @@ chapterPojo:
       \ acoperiş"
     chapter: null
   - verseNumber: 9
-    text: "si le-a zis: „Stiu ca YaHWeH v-a dat tara aceasta, caci ne-a apucat groaza\
+    text: "si le-a zis: „Stiu ca Yaue v-a dat tara aceasta, caci ne-a apucat groaza\
       \ de voi, si toti locuitorii tarii tremura inaintea voastra."
-    textWithDiacritics: "şi le-a zis: „Ştiu că YaHWeH v-a dat ţara aceasta, căci ne-a\
+    textWithDiacritics: "şi le-a zis: „Ştiu că Yaue v-a dat ţara aceasta, căci ne-a\
       \ apucat groaza de voi, şi toţi locuitorii ţării tremură înaintea voastră."
     chapter: null
   - verseNumber: 10
-    text: "Fiindca am auzit cum, la iesirea voastra din Egipt, YaHWeH a secat inaintea\
+    text: "Fiindca am auzit cum, la iesirea voastra din Egipt, Yaue a secat inaintea\
       \ voastra apele Marii Rosii si am auzit ce ati facut celor doi imparati ai amoritilor\
       \ dincolo de Iordan, lui Sihon si Og, pe care i-ati nimicit cu desavirsire."
-    textWithDiacritics: "Fiindcă am auzit cum, la ieşirea voastră din Egipt, YaHWeH\
+    textWithDiacritics: "Fiindcă am auzit cum, la ieşirea voastră din Egipt, Yaue\
       \ a secat înaintea voastră apele Mării Roşii şi am auzit ce aţi făcut celor\
       \ doi împăraţi ai amoriţilor dincolo de Iordan, lui Sihon şi Og, pe care i-aţ\
       i nimicit cu desăvîrşire."
     chapter: null
   - verseNumber: 11
     text: "De cind am auzit lucrul acesta, ni s-a taiat inima si toti ne-am pierdut\
-      \ nadejdea inaintea voastra; caci YaHWeH Eylohim al vostru este Eylohim sus\
-      \ in ceruri si jos pe pamint."
+      \ nadejdea inaintea voastra; caci Yaue Elohim al vostru este Elohim sus in ceruri\
+      \ si jos pe pamint."
     textWithDiacritics: "De cînd am auzit lucrul acesta, ni s-a tăiat inima şi toţ\
-      i ne-am pierdut nădejdea înaintea voastră; căci YaHWeH Eylohim al vostru este\
-      \ Eylohim sus în ceruri şi jos pe pămînt."
+      i ne-am pierdut nădejdea înaintea voastră; căci Yaue Elohim al vostru este Elohim\
+      \ sus în ceruri şi jos pe pămînt."
     chapter: null
   - verseNumber: 12
-    text: "Si acum, va rog, jurati-mi pe YaHWeH ca veti avea fata de casa tatalui\
-      \ meu aceeasi bunavointa pe care am avut-o eu fata de voi. Dati-mi un semn de\
-      \ incredintare"
-    textWithDiacritics: "Şi acum, vă rog, juraţi-mi pe YaHWeH că veţi avea faţă de\
-      \ casa tatălui meu aceeaşi bunăvoinţă pe care am avut-o eu faţă de voi. Daţ\
-      i-mi un semn de încredinţare"
+    text: "Si acum, va rog, jurati-mi pe Yaue ca veti avea fata de casa tatalui meu\
+      \ aceeasi bunavointa pe care am avut-o eu fata de voi. Dati-mi un semn de incredintare"
+    textWithDiacritics: "Şi acum, vă rog, juraţi-mi pe Yaue că veţi avea faţă de casa\
+      \ tatălui meu aceeaşi bunăvoinţă pe care am avut-o eu faţă de voi. Daţi-mi un\
+      \ semn de încredinţare"
     chapter: null
   - verseNumber: 13
     text: "ca veti lasa cu viata pe tatal meu, pe mama mea, pe fratii mei, pe surorile\
@@ -239,11 +237,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 14
     text: "Barbatii aceia i-au raspuns: „Suntem gata sa murim pentru voi, daca nu\
-      \ ne dati pe fata; si cind YaHWeH ne va da tara aceasta, ne vom purta cu tine\
+      \ ne dati pe fata; si cind Yaue ne va da tara aceasta, ne vom purta cu tine\
       \ cu bunavointa si credinciosie.”"
     textWithDiacritics: "Bărbaţii aceia i-au răspuns: „Suntem gata să murim pentru\
-      \ voi, dacă nu ne daţi pe faţă; şi cînd YaHWeH ne va da ţara aceasta, ne vom\
-      \ purta cu tine cu bunăvoinţă şi credincioşie.”"
+      \ voi, dacă nu ne daţi pe faţă; şi cînd Yaue ne va da ţara aceasta, ne vom purta\
+      \ cu tine cu bunăvoinţă şi credincioşie.”"
     chapter: null
   - verseNumber: 15
     text: "Ea i-a coborit cu o funie pe fereastra, caci casa in care locuia era linga\
@@ -311,9 +309,9 @@ chapterPojo:
       \ li se întîmplase."
     chapter: null
   - verseNumber: 24
-    text: "Ei au zis lui Iosua: „Cu adevarat, YaHWeH a dat toata tara in miinile noastre,\
+    text: "Ei au zis lui Iosua: „Cu adevarat, Yaue a dat toata tara in miinile noastre,\
       \ si toti locuitorii tarii tremura inaintea noastra.”"
-    textWithDiacritics: "Ei au zis lui Iosua: „Cu adevărat, YaHWeH a dat toată ţara\
+    textWithDiacritics: "Ei au zis lui Iosua: „Cu adevărat, Yaue a dat toată ţara\
       \ în mîinile noastre, şi toţi locuitorii ţării tremură înaintea noastră.”"
     chapter: null
 - number: 3
@@ -333,11 +331,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 3
     text: "si au dat poporului urmatoarea porunca: „Cind veti vedea Chivotul Legamintului\
-      \ lui YaHWeH Eylohim al vostru dus de preoti, care sunt din neamul Levitilor,\
-      \ sa plecati din locul in care sunteti si sa porniti dupa el."
+      \ lui Yaue Elohim al vostru dus de preoti, care sunt din neamul Levitilor, sa\
+      \ plecati din locul in care sunteti si sa porniti dupa el."
     textWithDiacritics: "şi au dat poporului următoarea poruncă: „Cînd veţi vedea\
-      \ Chivotul Legămîntului lui YaHWeH Eylohim al vostru dus de preoţi, care sunt\
-      \ din neamul Leviţilor, să plecaţi din locul în care sunteţi şi să porniţi după\
+      \ Chivotul Legămîntului lui Yaue Elohim al vostru dus de preoţi, care sunt din\
+      \ neamul Leviţilor, să plecaţi din locul în care sunteţi şi să porniţi după\
       \ el."
     chapter: null
   - verseNumber: 4
@@ -349,10 +347,10 @@ chapterPojo:
       -l urmaţi, căci n-aţi mai trecut pe drumul acesta.”"
     chapter: null
   - verseNumber: 5
-    text: "Iosua a zis poporului: „Sfintiti-va, caci miine YaHWeH va face lucruri\
-      \ minunate in mijlocul vostru.”"
-    textWithDiacritics: "Iosua a zis poporului: „Sfinţiţi-vă, căci mîine YaHWeH va\
-      \ face lucruri minunate în mijlocul vostru.”"
+    text: "Iosua a zis poporului: „Sfintiti-va, caci miine Yaue va face lucruri minunate\
+      \ in mijlocul vostru.”"
+    textWithDiacritics: "Iosua a zis poporului: „Sfinţiţi-vă, căci mîine Yaue va face\
+      \ lucruri minunate în mijlocul vostru.”"
     chapter: null
   - verseNumber: 6
     text: "Si Iosua a zis preotilor: „Luati Chivotul Legamintului si treceti inaintea\
@@ -362,10 +360,10 @@ chapterPojo:
       \ înaintea poporului."
     chapter: null
   - verseNumber: 7
-    text: "YaHWeH a zis lui Iosua: „Astazi voi incepe sa te inalt inaintea intregului\
+    text: "Yaue a zis lui Iosua: „Astazi voi incepe sa te inalt inaintea intregului\
       \ Israel, ca sa stie ca voi fi cu tine cum am fost cu Moise."
-    textWithDiacritics: "YaHWeH a zis lui Iosua: „Astăzi voi începe să te înalţ î\
-      naintea întregului Israel, ca să ştie că voi fi cu tine cum am fost cu Moise."
+    textWithDiacritics: "Yaue a zis lui Iosua: „Astăzi voi începe să te înalţ înaintea\
+      \ întregului Israel, ca să ştie că voi fi cu tine cum am fost cu Moise."
     chapter: null
   - verseNumber: 8
     text: "Sa dai urmatoarea porunca preotilor care duc Chivotul Legamintului: „Cind\
@@ -375,23 +373,23 @@ chapterPojo:
     chapter: null
   - verseNumber: 9
     text: "Iosua a zis copiilor lui Israel: „Apropiati-va si ascultati cuvintele lui\
-      \ YaHWeH, Eylohim al vostru.”"
+      \ Yaue, Elohim al vostru.”"
     textWithDiacritics: "Iosua a zis copiilor lui Israel: „Apropiaţi-vă şi ascultaţ\
-      i cuvintele lui YaHWeH, Eylohim al vostru.”"
+      i cuvintele lui Yaue, Elohim al vostru.”"
     chapter: null
   - verseNumber: 10
-    text: "Iosua a zis: „Prin aceasta veti cunoaste ca Eylohim cel Viu este in mijlocul\
+    text: "Iosua a zis: „Prin aceasta veti cunoaste ca Elohim cel Viu este in mijlocul\
       \ vostru si ca va izgoni dinaintea voastra pe canaaniti, pe hetiti, pe heviti,\
       \ pe fereziti, pe ghirgasiti, pe amoriti si pe iebusiti:"
-    textWithDiacritics: "Iosua a zis: „Prin aceasta veţi cunoaşte că Eylohim cel Viu\
+    textWithDiacritics: "Iosua a zis: „Prin aceasta veţi cunoaşte că Elohim cel Viu\
       \ este în mijlocul vostru şi că va izgoni dinaintea voastră pe canaaniţi, pe\
       \ hetiţi, pe heviţi, pe fereziţi, pe ghirgasiţi, pe amoriţi şi pe iebusiţi:"
     chapter: null
   - verseNumber: 11
-    text: "Iata, Chivotul Legamintului lui YaHWeH intregului pamint va trece inaintea\
+    text: "Iata, Chivotul Legamintului lui Yaue intregului pamint va trece inaintea\
       \ voastra in Iordan."
-    textWithDiacritics: "Iată, Chivotul Legămîntului lui YaHWeH întregului pămînt\
-      \ va trece înaintea voastră în Iordan."
+    textWithDiacritics: "Iată, Chivotul Legămîntului lui Yaue întregului pămînt va\
+      \ trece înaintea voastră în Iordan."
     chapter: null
   - verseNumber: 12
     text: "Acum, luati doisprezece barbati din semintiile lui Israel, cite un barbat\
@@ -400,10 +398,10 @@ chapterPojo:
       \ cîte un bărbat de fiecare seminţie."
     chapter: null
   - verseNumber: 13
-    text: "Si de indata ce preotii care duc Chivotul lui YaHWeH Eylohim al intregului\
+    text: "Si de indata ce preotii care duc Chivotul lui Yaue Elohim al intregului\
       \ pamint vor pune talpa piciorului in apele Iordanului, apele Iordanului se\
       \ vor despica in doua, si anume apele care se coboara din sus se vor opri gramada.”"
-    textWithDiacritics: "Şi de îndată ce preoţii care duc Chivotul lui YaHWeH Eylohim\
+    textWithDiacritics: "Şi de îndată ce preoţii care duc Chivotul lui Yaue Elohim\
       \ al întregului pămînt vor pune talpa piciorului în apele Iordanului, apele\
       \ Iordanului se vor despica în două, şi anume apele care se coboară din sus\
       \ se vor opri grămadă.”"
@@ -433,20 +431,20 @@ chapterPojo:
       , s-au scurs de tot. Poporul a trecut în faţa Ierihonului."
     chapter: null
   - verseNumber: 17
-    text: "Preotii care duceau Chivotul Legamintului lui YaHWeH s-au oprit pe uscat,\
+    text: "Preotii care duceau Chivotul Legamintului lui Yaue s-au oprit pe uscat,\
       \ in mijlocul Iordanului, in timp ce tot Israelul trecea pe uscat, pina a ispravit\
       \ tot poporul de trecut Iordanul."
-    textWithDiacritics: "Preoţii care duceau Chivotul Legămîntului lui YaHWeH s-au\
-      \ oprit pe uscat, în mijlocul Iordanului, în timp ce tot Israelul trecea pe\
-      \ uscat, pînă a isprăvit tot poporul de trecut Iordanul."
+    textWithDiacritics: "Preoţii care duceau Chivotul Legămîntului lui Yaue s-au oprit\
+      \ pe uscat, în mijlocul Iordanului, în timp ce tot Israelul trecea pe uscat,\
+      \ pînă a isprăvit tot poporul de trecut Iordanul."
     chapter: null
 - number: 4
   book: null
   versePojo:
   - verseNumber: 1
-    text: "Dupa ce a ispravit tot poporul de trecut Iordanul, YaHWeH a zis lui Iosua:"
-    textWithDiacritics: "După ce a isprăvit tot poporul de trecut Iordanul, YaHWeH\
-      \ a zis lui Iosua:"
+    text: "Dupa ce a ispravit tot poporul de trecut Iordanul, Yaue a zis lui Iosua:"
+    textWithDiacritics: "După ce a isprăvit tot poporul de trecut Iordanul, Yaue a\
+      \ zis lui Iosua:"
     chapter: null
   - verseNumber: 2
     text: "„Ia doisprezece barbati din popor, cite un barbat din fiecare semintie."
@@ -468,10 +466,10 @@ chapterPojo:
       \ dintre copiii lui Israel, cîte un bărbat de fiecare seminţie,"
     chapter: null
   - verseNumber: 5
-    text: "si le-a zis: „Treceti inaintea Chivotului lui YaHWeH Eylohim al vostru,\
-      \ in mijlocul Iordanului, si fiecare din voi sa ia o piatra pe umar, dupa numarul\
+    text: "si le-a zis: „Treceti inaintea Chivotului lui Yaue Elohim al vostru, in\
+      \ mijlocul Iordanului, si fiecare din voi sa ia o piatra pe umar, dupa numarul\
       \ semintiilor copiilor lui Israel,"
-    textWithDiacritics: "şi le-a zis: „Treceţi înaintea Chivotului lui YaHWeH Eylohim\
+    textWithDiacritics: "şi le-a zis: „Treceţi înaintea Chivotului lui Yaue Elohim\
       \ al vostru, în mijlocul Iordanului, şi fiecare din voi să ia o piatră pe umă\
       r, după numărul seminţiilor copiilor lui Israel,"
     chapter: null
@@ -485,21 +483,21 @@ chapterPojo:
     chapter: null
   - verseNumber: 7
     text: "Sa le spuneti: „Apele Iordanului s-au despicat in doua inaintea Chivotului\
-      \ Legamintului lui YaHWeH; cind a trecut Chivotul Iordanul apele Iordanului\
-      \ s-au despicat in doua, si pietrele acestea sa fie intotdeauna o aducere aminte\
+      \ Legamintului lui Yaue; cind a trecut Chivotul Iordanul apele Iordanului s-au\
+      \ despicat in doua, si pietrele acestea sa fie intotdeauna o aducere aminte\
       \ pentru copiii lui Israel.”"
     textWithDiacritics: "Să le spuneţi: „Apele Iordanului s-au despicat în două î\
-      naintea Chivotului Legămîntului lui YaHWeH; cînd a trecut Chivotul Iordanul\
-      \ apele Iordanului s-au despicat în două, şi pietrele acestea să fie întotdeauna\
-      \ o aducere aminte pentru copiii lui Israel.”"
+      naintea Chivotului Legămîntului lui Yaue; cînd a trecut Chivotul Iordanul apele\
+      \ Iordanului s-au despicat în două, şi pietrele acestea să fie întotdeauna o\
+      \ aducere aminte pentru copiii lui Israel.”"
     chapter: null
   - verseNumber: 8
     text: "Copiii lui Israel au facut asa cum le poruncise Iosua. Au luat douasprezece\
-      \ pietre din mijlocul Iordanului, cum spusese lui Iosua, YaHWeH, dupa numarul\
+      \ pietre din mijlocul Iordanului, cum spusese lui Iosua, Yaue, dupa numarul\
       \ semintiilor copiilor lui Israel, le-au luat cu ei si le-au pus in locul unde\
       \ aveau sa ramina peste noapte."
     textWithDiacritics: "Copiii lui Israel au făcut aşa cum le poruncise Iosua. Au\
-      \ luat douăsprezece pietre din mijlocul Iordanului, cum spusese lui Iosua, YaHWeH,\
+      \ luat douăsprezece pietre din mijlocul Iordanului, cum spusese lui Iosua, Yaue,\
       \ după numărul seminţiilor copiilor lui Israel, le-au luat cu ei şi le-au pus\
       \ în locul unde aveau să rămînă peste noapte."
     chapter: null
@@ -513,17 +511,17 @@ chapterPojo:
     chapter: null
   - verseNumber: 10
     text: "Preotii care duceau Chivotul au stat in mijlocul Iordanului pina la deplina\
-      \ implinire a celor ce poruncise lui Iosua, YaHWeH, sa spuna poporului, potrivit\
+      \ implinire a celor ce poruncise lui Iosua, Yaue, sa spuna poporului, potrivit\
       \ cu tot ce poruncise Moise lui Iosua. Si poporul s-a grabit sa treaca."
     textWithDiacritics: "Preoţii care duceau Chivotul au stat în mijlocul Iordanului\
-      \ pînă la deplina împlinire a celor ce poruncise lui Iosua, YaHWeH, să spună\
-      \ poporului, potrivit cu tot ce poruncise Moise lui Iosua. Şi poporul s-a gră\
-      bit să treacă."
+      \ pînă la deplina împlinire a celor ce poruncise lui Iosua, Yaue, să spună poporului,\
+      \ potrivit cu tot ce poruncise Moise lui Iosua. Şi poporul s-a grăbit să treacă\
+      ."
     chapter: null
   - verseNumber: 11
-    text: "Dupa ce a ispravit de trecut tot poporul, Chivotul lui YaHWeH si preotii\
+    text: "Dupa ce a ispravit de trecut tot poporul, Chivotul lui Yaue si preotii\
       \ au trecut inaintea poporului."
-    textWithDiacritics: "După ce a isprăvit de trecut tot poporul, Chivotul lui YaHWeH\
+    textWithDiacritics: "După ce a isprăvit de trecut tot poporul, Chivotul lui Yaue\
       \ şi preoţii au trecut înaintea poporului."
     chapter: null
   - verseNumber: 12
@@ -534,20 +532,20 @@ chapterPojo:
     chapter: null
   - verseNumber: 13
     text: "Aproape patruzeci de mii de barbati, pregatiti de razboi, au trecut gata\
-      \ de lupta inaintea lui YaHWeH in cimpia Ierihonului."
+      \ de lupta inaintea lui Yaue in cimpia Ierihonului."
     textWithDiacritics: "Aproape patruzeci de mii de bărbaţi, pregătiţi de război,\
-      \ au trecut gata de luptă înaintea lui YaHWeH în cîmpia Ierihonului."
+      \ au trecut gata de luptă înaintea lui Yaue în cîmpia Ierihonului."
     chapter: null
   - verseNumber: 14
-    text: "In ziua aceea, YaHWeH a inaltat pe Iosua inaintea intregului Israel; si\
-      \ s-au temut de el, cum se temusera de Moise, in toate zilele vietii lui."
-    textWithDiacritics: "În ziua aceea, YaHWeH a înălţat pe Iosua înaintea întregului\
+    text: "In ziua aceea, Yaue a inaltat pe Iosua inaintea intregului Israel; si s-au\
+      \ temut de el, cum se temusera de Moise, in toate zilele vietii lui."
+    textWithDiacritics: "În ziua aceea, Yaue a înălţat pe Iosua înaintea întregului\
       \ Israel; şi s-au temut de el, cum se temuseră de Moise, în toate zilele vieţ\
       ii lui."
     chapter: null
   - verseNumber: 15
-    text: "YaHWeH a zis lui Iosua:"
-    textWithDiacritics: "YaHWeH a zis lui Iosua:"
+    text: "Yaue a zis lui Iosua:"
+    textWithDiacritics: "Yaue a zis lui Iosua:"
     chapter: null
   - verseNumber: 16
     text: "„Porunceste preotilor care duc Chivotul Marturiei sa iasa din Iordan.”"
@@ -559,12 +557,12 @@ chapterPojo:
     textWithDiacritics: "Şi Iosua a poruncit preoţilor: „Ieşiţi din Iordan!”"
     chapter: null
   - verseNumber: 18
-    text: "Cind au iesit preotii care duceau Chivotul Legamintului lui YaHWeH din\
-      \ mijlocul Iordanului si cind au calcat cu talpa picioarelor pe uscat, apele\
-      \ Iordanului s-au intors la locul lor si s-au revarsat ca mai inainte peste\
-      \ toate malurile lui."
+    text: "Cind au iesit preotii care duceau Chivotul Legamintului lui Yaue din mijlocul\
+      \ Iordanului si cind au calcat cu talpa picioarelor pe uscat, apele Iordanului\
+      \ s-au intors la locul lor si s-au revarsat ca mai inainte peste toate malurile\
+      \ lui."
     textWithDiacritics: "Cînd au ieşit preoţii care duceau Chivotul Legămîntului lui\
-      \ YaHWeH din mijlocul Iordanului şi cînd au călcat cu talpa picioarelor pe uscat,\
+      \ Yaue din mijlocul Iordanului şi cînd au călcat cu talpa picioarelor pe uscat,\
       \ apele Iordanului s-au întors la locul lor şi s-au revărsat ca mai înainte\
       \ peste toate malurile lui."
     chapter: null
@@ -593,37 +591,37 @@ chapterPojo:
       \ trecut Iordanul acesta pe uscat."
     chapter: null
   - verseNumber: 23
-    text: "Caci YaHWeH Eylohim al vostru a secat inaintea voastra apele Iordanului\
-      \ pina ce ati trecut, dupa cum facuse YaHWeH Eylohim al vostru la Marea Rosie,\
-      \ pe care a secat-o inaintea noastra pina am trecut,"
-    textWithDiacritics: "Căci YaHWeH Eylohim al vostru a secat înaintea voastră apele\
-      \ Iordanului pînă ce aţi trecut, după cum făcuse YaHWeH Eylohim al vostru la\
-      \ Marea Roşie, pe care a secat-o înaintea noastră pînă am trecut,"
+    text: "Caci Yaue Elohim al vostru a secat inaintea voastra apele Iordanului pina\
+      \ ce ati trecut, dupa cum facuse Yaue Elohim al vostru la Marea Rosie, pe care\
+      \ a secat-o inaintea noastra pina am trecut,"
+    textWithDiacritics: "Căci Yaue Elohim al vostru a secat înaintea voastră apele\
+      \ Iordanului pînă ce aţi trecut, după cum făcuse Yaue Elohim al vostru la Marea\
+      \ Roşie, pe care a secat-o înaintea noastră pînă am trecut,"
     chapter: null
   - verseNumber: 24
-    text: "pentru ca toate popoarele pamintului sa stie ca mina lui YaHWeH este puternica,\
-      \ si sa va temeti intotdeauna de YaHWeH Eylohim al vostru.”"
+    text: "pentru ca toate popoarele pamintului sa stie ca mina lui Yaue este puternica,\
+      \ si sa va temeti intotdeauna de Yaue Elohim al vostru.”"
     textWithDiacritics: "pentru ca toate popoarele pămîntului să ştie că mîna lui\
-      \ YaHWeH este puternică, şi să vă temeţi întotdeauna de YaHWeH Eylohim al vostru.”"
+      \ Yaue este puternică, şi să vă temeţi întotdeauna de Yaue Elohim al vostru.”"
     chapter: null
 - number: 5
   book: null
   versePojo:
   - verseNumber: 1
     text: "Cind au auzit toti imparatii amoritilor de la apusul Iordanului, si toti\
-      \ imparatii canaanitilor de linga mare ca YaHWeH secase apele Iordanului inaintea\
+      \ imparatii canaanitilor de linga mare ca Yaue secase apele Iordanului inaintea\
       \ copiilor lui Israel pina am trecut, li s-a taiat inima si au ramas ingroziti\
       \ inaintea copiilor lui Israel."
     textWithDiacritics: "Cînd au auzit toţi împăraţii amoriţilor de la apusul Iordanului,\
-      \ şi toţi împăraţii canaaniţilor de lîngă mare că YaHWeH secase apele Iordanului\
+      \ şi toţi împăraţii canaaniţilor de lîngă mare că Yaue secase apele Iordanului\
       \ înaintea copiilor lui Israel pînă am trecut, li s-a tăiat inima şi au rămas\
       \ îngroziţi înaintea copiilor lui Israel."
     chapter: null
   - verseNumber: 2
-    text: "In vremea aceea, YaHWeH a zis lui Iosua: „Fa-ti niste cutite de piatra\
-      \ si taie imprejur pe copiii lui Israel.”"
-    textWithDiacritics: "În vremea aceea, YaHWeH a zis lui Iosua: „Fă-ţi nişte cuţ\
-      ite de piatră şi taie împrejur pe copiii lui Israel.”"
+    text: "In vremea aceea, Yaue a zis lui Iosua: „Fa-ti niste cutite de piatra si\
+      \ taie imprejur pe copiii lui Israel.”"
+    textWithDiacritics: "În vremea aceea, Yaue a zis lui Iosua: „Fă-ţi nişte cuţite\
+      \ de piatră şi taie împrejur pe copiii lui Israel.”"
     chapter: null
   - verseNumber: 3
     text: "Iosua si-a facut niste cutite de piatra si a taiat imprejur pe copiii lui\
@@ -649,13 +647,13 @@ chapterPojo:
   - verseNumber: 6
     text: "Caci copiii lui Israel umblasera patruzeci de ani prin pustiu pina la nimicirea\
       \ intregului neam de oameni de razboi care iesisera din Egipt si care nu ascultasera\
-      \ de glasul lui YaHWeH. YaHWeH le-a jurat ca nu-i va lasa sa vada tara pe care\
-      \ jurase parintilor lor ca ne-o va da, tara in care curge lapte si miere."
+      \ de glasul lui Yaue. Yaue le-a jurat ca nu-i va lasa sa vada tara pe care jurase\
+      \ parintilor lor ca ne-o va da, tara in care curge lapte si miere."
     textWithDiacritics: "Căci copiii lui Israel umblaseră patruzeci de ani prin pustiu\
       \ pînă la nimicirea întregului neam de oameni de război care ieşiseră din Egipt\
-      \ şi care nu ascultaseră de glasul lui YaHWeH. YaHWeH le-a jurat că nu-i va\
-      \ lăsa să vadă ţara pe care jurase părinţilor lor că ne-o va da, ţară în care\
-      \ curge lapte şi miere."
+      \ şi care nu ascultaseră de glasul lui Yaue. Yaue le-a jurat că nu-i va lăsa\
+      \ să vadă ţara pe care jurase părinţilor lor că ne-o va da, ţară în care curge\
+      \ lapte şi miere."
     chapter: null
   - verseNumber: 7
     text: "In locul lor a ridicat pe copiii lor; si Iosua i-a taiat imprejur, caci\
@@ -671,10 +669,10 @@ chapterPojo:
       mas pe loc în tabără pînă la vindecare. Prăznuirea Paştelor - Pesach"
     chapter: null
   - verseNumber: 9
-    text: "YaHWeH a zis lui Iosua: „Astazi, am ridicat ocara Egiptului de deasupra\
-      \ voastra.” Si locului aceluia i-au pus numele Ghilgal a) pina in ziua de azi.\
-      \ [ a) Sau: Pravalire ]"
-    textWithDiacritics: "YaHWeH a zis lui Iosua: „Astăzi, am ridicat ocara Egiptului\
+    text: "Yaue a zis lui Iosua: „Astazi, am ridicat ocara Egiptului de deasupra voastra.”\
+      \ Si locului aceluia i-au pus numele Ghilgal a) pina in ziua de azi. [ a) Sau:\
+      \ Pravalire ]"
+    textWithDiacritics: "Yaue a zis lui Iosua: „Astăzi, am ridicat ocara Egiptului\
       \ de deasupra voastră.” Şi locului aceluia i-au pus numele Ghilgal a) pînă î\
       n ziua de azi. [ a) Sau: Prăvălire ]"
     chapter: null
@@ -709,17 +707,17 @@ chapterPojo:
       \ vrăjmaşii noştri?”"
     chapter: null
   - verseNumber: 14
-    text: "El a raspuns: „Nu; Eu sunt Capetenia ostirii lui YaHWeH, si acum am venit.”\
+    text: "El a raspuns: „Nu; Eu sunt Capetenia ostirii lui Yaue, si acum am venit.”\
       \ Iosua s-a aruncat cu fata la pamint, s-a inchinat si I-a zis: „Ce spune Stapinul\
       \ meu robului Sau?”"
-    textWithDiacritics: "El a răspuns: „Nu; Eu sunt Căpetenia oştirii lui YaHWeH,\
-      \ şi acum am venit.” Iosua s-a aruncat cu faţa la pămînt, s-a închinat şi I-a\
-      \ zis: „Ce spune Stăpînul meu robului Său?”"
+    textWithDiacritics: "El a răspuns: „Nu; Eu sunt Căpetenia oştirii lui Yaue, ş\
+      i acum am venit.” Iosua s-a aruncat cu faţa la pămînt, s-a închinat şi I-a zis:\
+      \ „Ce spune Stăpînul meu robului Său?”"
     chapter: null
   - verseNumber: 15
-    text: "Si Capetenia ostirii lui YaHWeH a zis lui Iosua: „Scoate-ti incaltamintea\
+    text: "Si Capetenia ostirii lui Yaue a zis lui Iosua: „Scoate-ti incaltamintea\
       \ din picioare, caci locul pe care stai este sfint.” Si Iosua a facut asa."
-    textWithDiacritics: "Şi Căpetenia oştirii lui YaHWeH a zis lui Iosua: „Scoate-ţ\
+    textWithDiacritics: "Şi Căpetenia oştirii lui Yaue a zis lui Iosua: „Scoate-ţ\
       i încălţămintea din picioare, căci locul pe care stai este sfînt.” Şi Iosua\
       \ a făcut aşa."
     chapter: null
@@ -733,9 +731,9 @@ chapterPojo:
       \ Nimeni nu ieşea din el şi nimeni nu intra în el."
     chapter: null
   - verseNumber: 2
-    text: "YaHWeH a zis lui Iosua: „Iata, dau in miinile tale Ierihonul si pe imparatul\
+    text: "Yaue a zis lui Iosua: „Iata, dau in miinile tale Ierihonul si pe imparatul\
       \ lui, pe vitejii lui ostasi."
-    textWithDiacritics: "YaHWeH a zis lui Iosua: „Iată, dau în mîinile tale Ierihonul\
+    textWithDiacritics: "Yaue a zis lui Iosua: „Iată, dau în mîinile tale Ierihonul\
       \ şi pe împăratul lui, pe vitejii lui ostaşi."
     chapter: null
   - verseNumber: 3
@@ -763,24 +761,24 @@ chapterPojo:
   - verseNumber: 6
     text: "Iosua, fiul lui Nun, a chemat pe preoti si le-a zis: „Luati Chivotul Legamintului,\
       \ si sapte preoti sa poarte cele sapte trimbite de corn de berbec inaintea Chivotului\
-      \ lui YaHWeH.”"
+      \ lui Yaue.”"
     textWithDiacritics: "Iosua, fiul lui Nun, a chemat pe preoţi şi le-a zis: „Luaţ\
       i Chivotul Legămîntului, şi şapte preoţi să poarte cele şapte trîmbiţe de corn\
-      \ de berbec înaintea Chivotului lui YaHWeH.”"
+      \ de berbec înaintea Chivotului lui Yaue.”"
     chapter: null
   - verseNumber: 7
     text: "Si a zis poporului: „Porniti, inconjurati cetatea, si barbatii inarmati\
-      \ sa treaca inaintea Chivotului lui YaHWeH.”"
+      \ sa treaca inaintea Chivotului lui Yaue.”"
     textWithDiacritics: "Şi a zis poporului: „Porniţi, înconjuraţi cetatea, şi bă\
-      rbaţii înarmaţi să treacă înaintea Chivotului lui YaHWeH.”"
+      rbaţii înarmaţi să treacă înaintea Chivotului lui Yaue.”"
     chapter: null
   - verseNumber: 8
     text: "Dupa ce a vorbit Iosua poporului, cei sapte preoti care purtau inaintea\
-      \ lui YaHWeH cele sapte trimbite de corn de berbec au pornit si au sunat din\
-      \ trimbite. Chivotul Legamintului lui YaHWeH mergea in urma lor."
+      \ lui Yaue cele sapte trimbite de corn de berbec au pornit si au sunat din trimbite.\
+      \ Chivotul Legamintului lui Yaue mergea in urma lor."
     textWithDiacritics: "După ce a vorbit Iosua poporului, cei şapte preoţi care purtau\
-      \ înaintea lui YaHWeH cele şapte trîmbiţe de corn de berbec au pornit şi au\
-      \ sunat din trîmbiţe. Chivotul Legămîntului lui YaHWeH mergea în urma lor."
+      \ înaintea lui Yaue cele şapte trîmbiţe de corn de berbec au pornit şi au sunat\
+      \ din trîmbiţe. Chivotul Legămîntului lui Yaue mergea în urma lor."
     chapter: null
   - verseNumber: 9
     text: "Barbatii inarmati mergeau inaintea preotilor care sunau din trimbite, si\
@@ -798,25 +796,25 @@ chapterPojo:
       nd vă voi spune: „Strigaţi!” Atunci să strigaţi.”"
     chapter: null
   - verseNumber: 11
-    text: "Chivotul lui YaHWeH a inconjurat cetatea si i-a dat ocol o data; apoi au\
+    text: "Chivotul lui Yaue a inconjurat cetatea si i-a dat ocol o data; apoi au\
       \ intrat in tabara si au ramas in tabara peste noapte."
-    textWithDiacritics: "Chivotul lui YaHWeH a înconjurat cetatea şi i-a dat ocol\
-      \ o dată; apoi au intrat în tabără şi au rămas în tabără peste noapte."
+    textWithDiacritics: "Chivotul lui Yaue a înconjurat cetatea şi i-a dat ocol o\
+      \ dată; apoi au intrat în tabără şi au rămas în tabără peste noapte."
     chapter: null
   - verseNumber: 12
-    text: "Iosua s-a sculat disdedimineata, si preotii au luat Chivotul lui YaHWeH."
+    text: "Iosua s-a sculat disdedimineata, si preotii au luat Chivotul lui Yaue."
     textWithDiacritics: "Iosua s-a sculat disdedimineață, şi preoţii au luat Chivotul\
-      \ lui YaHWeH."
+      \ lui Yaue."
     chapter: null
   - verseNumber: 13
     text: "Cei sapte preoti, care purtau cele sapte trimbite de corn de berbec inaintea\
-      \ Chivotului lui YaHWeH, au pornit si au sunat din trimbite. Barbatii inarmati\
-      \ mergeau inaintea lor, si coada ostirii venea dupa Chivotul lui YaHWeH; in\
-      \ timpul mersului, preotii sunau din trimbite."
+      \ Chivotului lui Yaue, au pornit si au sunat din trimbite. Barbatii inarmati\
+      \ mergeau inaintea lor, si coada ostirii venea dupa Chivotul lui Yaue; in timpul\
+      \ mersului, preotii sunau din trimbite."
     textWithDiacritics: "Cei şapte preoţi, care purtau cele şapte trîmbiţe de corn\
-      \ de berbec înaintea Chivotului lui YaHWeH, au pornit şi au sunat din trîmbiţ\
+      \ de berbec înaintea Chivotului lui Yaue, au pornit şi au sunat din trîmbiţ\
       e. Bărbaţii înarmaţi mergeau înaintea lor, şi coada oştirii venea după Chivotul\
-      \ lui YaHWeH; în timpul mersului, preoţii sunau din trîmbiţe."
+      \ lui Yaue; în timpul mersului, preoţii sunau din trîmbiţe."
     chapter: null
   - verseNumber: 14
     text: "Au inconjurat cetatea o data, a doua zi; apoi s-au intors in tabara. Au\
@@ -834,15 +832,15 @@ chapterPojo:
     chapter: null
   - verseNumber: 16
     text: "A saptea oara, pe cind preotii sunau din trimbite, Iosua a zis poporului:\
-      \ „Strigati, caci YaHWeH v-a dat cetatea in mina!"
+      \ „Strigati, caci Yaue v-a dat cetatea in mina!"
     textWithDiacritics: "A şaptea oară, pe cînd preoţii sunau din trîmbiţe, Iosua\
-      \ a zis poporului: „Strigaţi, căci YaHWeH v-a dat cetatea în mînă!"
+      \ a zis poporului: „Strigaţi, căci Yaue v-a dat cetatea în mînă!"
     chapter: null
   - verseNumber: 17
-    text: "Cetatea sa fie data lui YaHWeH spre nimicire, ea si tot ce se afla in ea;\
+    text: "Cetatea sa fie data lui Yaue spre nimicire, ea si tot ce se afla in ea;\
       \ dar sa lasati cu viata pe curva Rahav si pe toti cei ce vor fi cu ea in casa,\
       \ pentru ca a ascuns pe solii pe care-i trimiseseram noi."
-    textWithDiacritics: "Cetatea să fie dată lui YaHWeH spre nimicire, ea şi tot ce\
+    textWithDiacritics: "Cetatea să fie dată lui Yaue spre nimicire, ea şi tot ce\
       \ se află în ea; dar să lăsaţi cu viaţă pe curva Rahav şi pe toţi cei ce vor\
       \ fi cu ea în casă, pentru că a ascuns pe solii pe care-i trimiseserăm noi."
     chapter: null
@@ -856,9 +854,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 19
     text: "Tot argintul si tot aurul, toate lucrurile de arama si de fier sa fie inchinate\
-      \ lui YaHWeH si sa intre in vistieria lui YaHWeH.”"
+      \ lui Yaue si sa intre in vistieria lui Yaue.”"
     textWithDiacritics: "Tot argintul şi tot aurul, toate lucrurile de aramă şi de\
-      \ fier să fie închinate lui YaHWeH şi să intre în vistieria lui YaHWeH.”"
+      \ fier să fie închinate lui Yaue şi să intre în vistieria lui Yaue.”"
     chapter: null
   - verseNumber: 20
     text: "Poporul a scos strigate, si preotii au sunat din trimbite. Cind a auzit\
@@ -892,10 +890,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 24
     text: "Cetatea au ars-o impreuna cu tot ce se afla in ea; numai argintul, aurul\
-      \ si toate lucrurile de arama si de fier le-au pus in vistieria Casei lui YaHWeH."
+      \ si toate lucrurile de arama si de fier le-au pus in vistieria Casei lui Yaue."
     textWithDiacritics: "Cetatea au ars-o împreună cu tot ce se afla în ea; numai\
       \ argintul, aurul şi toate lucrurile de aramă şi de fier le-au pus în vistieria\
-      \ Casei lui YaHWeH."
+      \ Casei lui Yaue."
     chapter: null
   - verseNumber: 25
     text: "Iosua a lasat cu viata pe curva Rahav, casa tatalui ei si pe toti ai ei;\
@@ -908,18 +906,18 @@ chapterPojo:
       \ lui Iosua asupra Ierihonului"
     chapter: null
   - verseNumber: 26
-    text: "Atunci a jurat Iosua si a zis: „Blestemat sa fie inaintea lui YaHWeH omul\
+    text: "Atunci a jurat Iosua si a zis: „Blestemat sa fie inaintea lui Yaue omul\
       \ care se va scula sa zideasca din nou cetatea aceasta a Ierihonului! Cu pretul\
       \ intiiului sau nascut ii va pune temeliile si cu pretul celui mai tinar fiu\
       \ al lui ii va aseza portile!”"
     textWithDiacritics: "Atunci a jurat Iosua şi a zis: „Blestemat să fie înaintea\
-      \ lui YaHWeH omul care se va scula să zidească din nou cetatea aceasta a Ierihonului!\
+      \ lui Yaue omul care se va scula să zidească din nou cetatea aceasta a Ierihonului!\
       \ Cu preţul întîiului său născut îi va pune temeliile şi cu preţul celui mai\
       \ tînăr fiu al lui îi va aşeza porţile!”"
     chapter: null
   - verseNumber: 27
-    text: "YaHWeH a fost cu Iosua si i s-a dus vestea in toata tara."
-    textWithDiacritics: "YaHWeH a fost cu Iosua şi i s-a dus vestea în toată ţara."
+    text: "Yaue a fost cu Iosua si i s-a dus vestea in toata tara."
+    textWithDiacritics: "Yaue a fost cu Iosua şi i s-a dus vestea în toată ţara."
     chapter: null
 - number: 7
   book: null
@@ -927,11 +925,11 @@ chapterPojo:
   - verseNumber: 1
     text: "Copiii lui Israel au pacatuit cu privire la lucrurile date spre nimicire.\
       \ Acan, fiul lui Carmi, fiul lui Zabdi, fiul lui Zerah, din semintia lui Iuda,\
-      \ a luat din lucrurile date spre nimicire. Si YaHWeH S-a aprins de minie impotriva\
+      \ a luat din lucrurile date spre nimicire. Si Yaue S-a aprins de minie impotriva\
       \ copiilor lui Israel."
     textWithDiacritics: "Copiii lui Israel au păcătuit cu privire la lucrurile date\
       \ spre nimicire. Acan, fiul lui Carmi, fiul lui Zabdi, fiul lui Zerah, din seminţ\
-      ia lui Iuda, a luat din lucrurile date spre nimicire. Şi YaHWeH S-a aprins de\
+      ia lui Iuda, a luat din lucrurile date spre nimicire. Şi Yaue S-a aprins de\
       \ mînie împotriva copiilor lui Israel."
     chapter: null
   - verseNumber: 2
@@ -966,19 +964,19 @@ chapterPojo:
     chapter: null
   - verseNumber: 6
     text: "Iosua si-a sfisiat hainele si s-a aruncat cu fata la pamint pina seara\
-      \ inaintea Chivotului lui YaHWeH, el si batrinii lui Israel, si si-au presarat\
+      \ inaintea Chivotului lui Yaue, el si batrinii lui Israel, si si-au presarat\
       \ capul cu tarina."
     textWithDiacritics: "Iosua şi-a sfîşiat hainele şi s-a aruncat cu faţa la pămî\
-      nt pînă seara înaintea Chivotului lui YaHWeH, el şi bătrînii lui Israel, şi\
-      \ şi-au presărat capul cu ţărînă."
+      nt pînă seara înaintea Chivotului lui Yaue, el şi bătrînii lui Israel, şi ş\
+      i-au presărat capul cu ţărînă."
     chapter: null
   - verseNumber: 7
-    text: "Iosua a zis: „Ah! YaHWeH Eylohim, pentru ce ai trecut pe poporul acesta\
-      \ Iordanul, ca sa ne dai in miinile amoritilor si sa ne prapadesti? De am fi\
-      \ stiut sa raminem de cealalta parte a Iordanului!"
-    textWithDiacritics: "Iosua a zis: „Ah! YaHWeH Eylohim, pentru ce ai trecut pe\
-      \ poporul acesta Iordanul, ca să ne dai în mîinile amoriţilor şi să ne prăpă\
-      deşti? De am fi ştiut să rămînem de cealaltă parte a Iordanului!"
+    text: "Iosua a zis: „Ah! Yaue Elohim, pentru ce ai trecut pe poporul acesta Iordanul,\
+      \ ca sa ne dai in miinile amoritilor si sa ne prapadesti? De am fi stiut sa\
+      \ raminem de cealalta parte a Iordanului!"
+    textWithDiacritics: "Iosua a zis: „Ah! Yaue Elohim, pentru ce ai trecut pe poporul\
+      \ acesta Iordanul, ca să ne dai în mîinile amoriţilor şi să ne prăpădeşti? De\
+      \ am fi ştiut să rămînem de cealaltă parte a Iordanului!"
     chapter: null
   - verseNumber: 8
     text: "Da Stapine, ce voi zice, dupa ce Israel a dat dosul inaintea vrajmasilor\
@@ -995,10 +993,10 @@ chapterPojo:
       \ mare?” Descoperirea şi pedepsirea lui Acan"
     chapter: null
   - verseNumber: 10
-    text: "YaHWeH a zis lui Iosua: „Scoala-te! Pentru ce stai culcat astfel pe fata\
+    text: "Yaue a zis lui Iosua: „Scoala-te! Pentru ce stai culcat astfel pe fata\
       \ ta?"
-    textWithDiacritics: "YaHWeH a zis lui Iosua: „Scoală-te! Pentru ce stai culcat\
-      \ astfel pe faţa ta?"
+    textWithDiacritics: "Yaue a zis lui Iosua: „Scoală-te! Pentru ce stai culcat astfel\
+      \ pe faţa ta?"
     chapter: null
   - verseNumber: 11
     text: "Israel a pacatuit; au calcat Legamintul Meu pe care li l-am dat, au luat\
@@ -1019,31 +1017,31 @@ chapterPojo:
     chapter: null
   - verseNumber: 13
     text: "Scoala-te, sfinteste poporul. Spune-le: „Sfintiti-va pentru miine. Caci\
-      \ asa zice YaHWeH Eylohim al lui Israel: „In mijlocul tau este un lucru dat\
-      \ spre nimicire, Israele; nu vei putea sa tii piept vrajmasilor tai, pina nu\
-      \ veti scoate lucrul dat spre nimicire din mijlocul vostru."
+      \ asa zice Yaue Elohim al lui Israel: „In mijlocul tau este un lucru dat spre\
+      \ nimicire, Israele; nu vei putea sa tii piept vrajmasilor tai, pina nu veti\
+      \ scoate lucrul dat spre nimicire din mijlocul vostru."
     textWithDiacritics: "Scoală-te, sfinţeşte poporul. Spune-le: „Sfinţiţi-vă pentru\
-      \ mîine. Căci aşa zice YaHWeH Eylohim al lui Israel: „În mijlocul tău este un\
-      \ lucru dat spre nimicire, Israele; nu vei putea să ţii piept vrăjmaşilor tă\
-      i, pînă nu veţi scoate lucrul dat spre nimicire din mijlocul vostru."
+      \ mîine. Căci aşa zice Yaue Elohim al lui Israel: „În mijlocul tău este un lucru\
+      \ dat spre nimicire, Israele; nu vei putea să ţii piept vrăjmaşilor tăi, pî\
+      nă nu veţi scoate lucrul dat spre nimicire din mijlocul vostru."
     chapter: null
   - verseNumber: 14
     text: "Sa va apropiati miine dimineata dupa semintiile voastre; si semintia pe\
-      \ care o va arata YaHWeH prin sorti se va apropia pe familii, si familia pe\
-      \ care o va arata YaHWeH prin sorti se va apropia pe case, si casa pe care o\
-      \ va arata YaHWeH prin sorti se va apropia pe barbati."
+      \ care o va arata Yaue prin sorti se va apropia pe familii, si familia pe care\
+      \ o va arata Yaue prin sorti se va apropia pe case, si casa pe care o va arata\
+      \ Yaue prin sorti se va apropia pe barbati."
     textWithDiacritics: "Să vă apropiaţi mîine dimineaţă după seminţiile voastre;\
-      \ şi seminţia pe care o va arăta YaHWeH prin sorţi se va apropia pe familii,\
-      \ şi familia pe care o va arăta YaHWeH prin sorţi se va apropia pe case, şi\
-      \ casa pe care o va arăta YaHWeH prin sorţi se va apropia pe bărbaţi."
+      \ şi seminţia pe care o va arăta Yaue prin sorţi se va apropia pe familii, ş\
+      i familia pe care o va arăta Yaue prin sorţi se va apropia pe case, şi casa\
+      \ pe care o va arăta Yaue prin sorţi se va apropia pe bărbaţi."
     chapter: null
   - verseNumber: 15
     text: "Cine va fi aratat prin sorti ca a luat din ce era dat spre nimicire va\
       \ fi ars in foc, el si tot ce este al lui, pentru ca a calcat Legamintul lui\
-      \ YaHWeH si a facut o miselie in Israel.”"
+      \ Yaue si a facut o miselie in Israel.”"
     textWithDiacritics: "Cine va fi arătat prin sorţi că a luat din ce era dat spre\
       \ nimicire va fi ars în foc, el şi tot ce este al lui, pentru că a călcat Legă\
-      mîntul lui YaHWeH şi a făcut o mişelie în Israel.”"
+      mîntul lui Yaue şi a făcut o mişelie în Israel.”"
     chapter: null
   - verseNumber: 16
     text: "Iosua s-a sculat dis-de-dimineata si a apropiat pe Israel, dupa semintiile\
@@ -1067,16 +1065,16 @@ chapterPojo:
       \ Iuda."
     chapter: null
   - verseNumber: 19
-    text: "Iosua a zis lui Acan: „Fiule, da slava lui YaHWeH Eylohim al lui Israel,\
-      \ marturiseste si spune-mi ce ai facut, nu-mi ascunde nimic.”"
-    textWithDiacritics: "Iosua a zis lui Acan: „Fiule, dă slavă lui YaHWeH Eylohim\
-      \ al lui Israel, mărturiseşte şi spune-mi ce ai făcut, nu-mi ascunde nimic.”"
+    text: "Iosua a zis lui Acan: „Fiule, da slava lui Yaue Elohim al lui Israel, marturiseste\
+      \ si spune-mi ce ai facut, nu-mi ascunde nimic.”"
+    textWithDiacritics: "Iosua a zis lui Acan: „Fiule, dă slavă lui Yaue Elohim al\
+      \ lui Israel, mărturiseşte şi spune-mi ce ai făcut, nu-mi ascunde nimic.”"
     chapter: null
   - verseNumber: 20
     text: "Acan a raspuns lui Iosua si a zis: „Este adevarat ca am pacatuit impotriva\
-      \ lui YaHWeH Eylohim al lui Israel si iata ce am facut:"
+      \ lui Yaue Elohim al lui Israel si iata ce am facut:"
     textWithDiacritics: "Acan a răspuns lui Iosua şi a zis: „Este adevărat că am pă\
-      cătuit împotriva lui YaHWeH Eylohim al lui Israel şi iată ce am făcut:"
+      cătuit împotriva lui Yaue Elohim al lui Israel şi iată ce am făcut:"
     chapter: null
   - verseNumber: 21
     text: "am vazut in prada o manta frumoasa de Sinear, doua sute de sicli de argint\
@@ -1096,9 +1094,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 23
     text: "Le-au luat din mijlocul cortului, le-au adus lui Iosua si tuturor copiilor\
-      \ lui Israel si le-au pus inaintea lui YaHWeH."
+      \ lui Israel si le-au pus inaintea lui Yaue."
     textWithDiacritics: "Le-au luat din mijlocul cortului, le-au adus lui Iosua ş\
-      i tuturor copiilor lui Israel şi le-au pus înaintea lui YaHWeH."
+      i tuturor copiilor lui Israel şi le-au pus înaintea lui Yaue."
     chapter: null
   - verseNumber: 24
     text: "Iosua si tot Israelul impreuna cu el au luat pe Acan, fiul lui Zerah, argintul,\
@@ -1110,35 +1108,35 @@ chapterPojo:
       \ Acor."
     chapter: null
   - verseNumber: 25
-    text: "Iosua a zis: „Pentru ce ne-ai nenorocit? Si pe tine te va nenoroci YaHWeH\
+    text: "Iosua a zis: „Pentru ce ne-ai nenorocit? Si pe tine te va nenoroci Yaue\
       \ azi.” Si tot Israelul i-a ucis cu pietre. L-au ars in foc, dupa ce l-au ucis\
       \ cu pietre"
     textWithDiacritics: "Iosua a zis: „Pentru ce ne-ai nenorocit? Şi pe tine te va\
-      \ nenoroci YaHWeH azi.” Şi tot Israelul i-a ucis cu pietre. L-au ars în foc,\
-      \ după ce l-au ucis cu pietre"
+      \ nenoroci Yaue azi.” Şi tot Israelul i-a ucis cu pietre. L-au ars în foc, după\
+      \ ce l-au ucis cu pietre"
     chapter: null
   - verseNumber: 26
     text: "si au ridicat peste Acan un morman mare de pietre, care se vede pina in\
-      \ ziua de azi. Si YaHWeH S-a intors din iutimea miniei Lui. Din pricina acestei\
+      \ ziua de azi. Si Yaue S-a intors din iutimea miniei Lui. Din pricina acestei\
       \ intimplari s-a dat pina in ziua de azi locului aceluia numele de valea Acor\
       \ a). [ a) Sau: Tulburare ]"
     textWithDiacritics: "şi au ridicat peste Acan un morman mare de pietre, care se\
-      \ vede pînă în ziua de azi. Şi YaHWeH S-a întors din iuţimea mîniei Lui. Din\
-      \ pricina acestei întîmplări s-a dat pînă în ziua de azi locului aceluia numele\
-      \ de valea Acor a). [ a) Sau: Tulburare ]"
+      \ vede pînă în ziua de azi. Şi Yaue S-a întors din iuţimea mîniei Lui. Din pricina\
+      \ acestei întîmplări s-a dat pînă în ziua de azi locului aceluia numele de valea\
+      \ Acor a). [ a) Sau: Tulburare ]"
     chapter: null
 - number: 8
   book: null
   versePojo:
   - verseNumber: 1
-    text: "YaHWeH a zis lui Iosua: „Nu te teme si nu te inspaiminta! Ia cu tine pe\
-      \ toti oamenii de razboi, scoala-te, suie-te impotriva cetatii Ai. Iata ca iti\
-      \ dau in miinile tale pe imparatul din Ai si pe poporul lui, cetatea lui si\
-      \ tara lui."
-    textWithDiacritics: "YaHWeH a zis lui Iosua: „Nu te teme şi nu te înspăimînta!\
-      \ Ia cu tine pe toţi oamenii de război, scoală-te, suie-te împotriva cetăţii\
-      \ Ai. Iată că îţi dau în mîinile tale pe împăratul din Ai şi pe poporul lui,\
-      \ cetatea lui şi ţara lui."
+    text: "Yaue a zis lui Iosua: „Nu te teme si nu te inspaiminta! Ia cu tine pe toti\
+      \ oamenii de razboi, scoala-te, suie-te impotriva cetatii Ai. Iata ca iti dau\
+      \ in miinile tale pe imparatul din Ai si pe poporul lui, cetatea lui si tara\
+      \ lui."
+    textWithDiacritics: "Yaue a zis lui Iosua: „Nu te teme şi nu te înspăimînta! Ia\
+      \ cu tine pe toţi oamenii de război, scoală-te, suie-te împotriva cetăţii Ai.\
+      \ Iată că îţi dau în mîinile tale pe împăratul din Ai şi pe poporul lui, cetatea\
+      \ lui şi ţara lui."
     chapter: null
   - verseNumber: 2
     text: "Sa faci cetatii Ai cum ai facut Ierihonului si imparatului lui: sa pastrati\
@@ -1178,16 +1176,16 @@ chapterPojo:
       \ lor."
     chapter: null
   - verseNumber: 7
-    text: "Voi sa iesiti atunci de la pinda si sa puneti mina pe cetate, si YaHWeH\
-      \ Eylohim al vostru o va da in miinile voastre."
+    text: "Voi sa iesiti atunci de la pinda si sa puneti mina pe cetate, si Yaue Elohim\
+      \ al vostru o va da in miinile voastre."
     textWithDiacritics: "Voi să ieşiţi atunci de la pîndă şi să puneţi mîna pe cetate,\
-      \ şi YaHWeH Eylohim al vostru o va da în mîinile voastre."
+      \ şi Yaue Elohim al vostru o va da în mîinile voastre."
     chapter: null
   - verseNumber: 8
-    text: "Dupa ce veti lua cetatea, sa-i puneti foc, sa faceti cum a zis YaHWeH:\
-      \ aceasta este porunca pe care v-o dau.”"
+    text: "Dupa ce veti lua cetatea, sa-i puneti foc, sa faceti cum a zis Yaue: aceasta\
+      \ este porunca pe care v-o dau.”"
     textWithDiacritics: "După ce veţi lua cetatea, să-i puneţi foc, să faceţi cum\
-      \ a zis YaHWeH: aceasta este porunca pe care v-o dau.”"
+      \ a zis Yaue: aceasta este porunca pe care v-o dau.”"
     chapter: null
   - verseNumber: 9
     text: "Iosua i-a pornit, si s-au dus de s-au asezat la pinda intre Betel si Ai,\
@@ -1253,11 +1251,11 @@ chapterPojo:
       \ împotriva lui Israel. Au lăsat cetatea deschisă şi au urmărit pe Israel."
     chapter: null
   - verseNumber: 18
-    text: "YaHWeH a zis lui Iosua: „Intinde spre Ai sulita pe care o ai in mina, caci\
+    text: "Yaue a zis lui Iosua: „Intinde spre Ai sulita pe care o ai in mina, caci\
       \ am s-o dau in mina ta!” Si Iosua a intins spre cetate sulita pe care o avea\
       \ in mina."
-    textWithDiacritics: "YaHWeH a zis lui Iosua: „Întinde spre Ai suliţa pe care o\
-      \ ai în mînă, căci am s-o dau în mîna ta!” Şi Iosua a întins spre cetate suliţ\
+    textWithDiacritics: "Yaue a zis lui Iosua: „Întinde spre Ai suliţa pe care o ai\
+      \ în mînă, căci am s-o dau în mîna ta!” Şi Iosua a întins spre cetate suliţ\
       a pe care o avea în mînă."
     chapter: null
   - verseNumber: 19
@@ -1320,9 +1318,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 27
     text: "Israel a pastrat pentru sine doar vitele si prada din cetatea aceasta,\
-      \ dupa porunca pe care o daduse lui Iosua, YaHWeH."
+      \ dupa porunca pe care o daduse lui Iosua, Yaue."
     textWithDiacritics: "Israel a păstrat pentru sine doar vitele şi prada din cetatea\
-      \ aceasta, după porunca pe care o dăduse lui Iosua, YaHWeH."
+      \ aceasta, după porunca pe care o dăduse lui Iosua, Yaue."
     chapter: null
   - verseNumber: 28
     text: "Iosua a ars cetatea Ai si a facut din ea pentru totdeauna un morman de\
@@ -1342,19 +1340,19 @@ chapterPojo:
       \ Ebal"
     chapter: null
   - verseNumber: 30
-    text: "Atunci Iosua a zidit un altar lui YaHWeH Eylohim al lui Israel pe muntele\
+    text: "Atunci Iosua a zidit un altar lui Yaue Elohim al lui Israel pe muntele\
       \ Ebal,"
-    textWithDiacritics: "Atunci Iosua a zidit un altar lui YaHWeH Eylohim al lui Israel\
+    textWithDiacritics: "Atunci Iosua a zidit un altar lui Yaue Elohim al lui Israel\
       \ pe muntele Ebal,"
     chapter: null
   - verseNumber: 31
-    text: "cum poruncise copiilor lui Israel Moise, robul lui YaHWeH, si cum este\
-      \ scris in cartea Legii data prin Moise: era un altar de pietre necioplite,\
-      \ peste care nu trecuse fierul. Pe altarul acesta au adus lui YaHWeH arderi\
-      \ de tot si jertfe de multumiri."
-    textWithDiacritics: "cum poruncise copiilor lui Israel Moise, robul lui YaHWeH,\
+    text: "cum poruncise copiilor lui Israel Moise, robul lui Yaue, si cum este scris\
+      \ in cartea Legii data prin Moise: era un altar de pietre necioplite, peste\
+      \ care nu trecuse fierul. Pe altarul acesta au adus lui Yaue arderi de tot si\
+      \ jertfe de multumiri."
+    textWithDiacritics: "cum poruncise copiilor lui Israel Moise, robul lui Yaue,\
       \ şi cum este scris în cartea Legii dată prin Moise: era un altar de pietre\
-      \ necioplite, peste care nu trecuse fierul. Pe altarul acesta au adus lui YaHWeH\
+      \ necioplite, peste care nu trecuse fierul. Pe altarul acesta au adus lui Yaue\
       \ arderi de tot şi jertfe de mulţumiri."
     chapter: null
   - verseNumber: 32
@@ -1366,16 +1364,16 @@ chapterPojo:
   - verseNumber: 33
     text: "Tot Israelul, batrinii, mai marii ostii si judecatorii lui, stateau de\
       \ amindoua partile Chivotului, inaintea preotilor din neamul levitilor care\
-      \ duceau Chivotul Legamintului lui YaHWeH; erau de fata atit strainii, cit si\
+      \ duceau Chivotul Legamintului lui Yaue; erau de fata atit strainii, cit si\
       \ copiii lui Israel, jumatate in dreptul muntelui Garizim si jumatate in dreptul\
       \ muntelui Ebal, dupa porunca pe care o daduse mai inainte Moise, robul lui\
-      \ YaHWeH, ca sa binecuvinteze pe poporul lui Israel."
+      \ Yaue, ca sa binecuvinteze pe poporul lui Israel."
     textWithDiacritics: "Tot Israelul, bătrînii, mai marii oştii şi judecătorii lui,\
       \ stăteau de amîndouă părţile Chivotului, înaintea preoţilor din neamul leviţ\
-      ilor care duceau Chivotul Legămîntului lui YaHWeH; erau de faţă atît străinii,\
+      ilor care duceau Chivotul Legămîntului lui Yaue; erau de faţă atît străinii,\
       \ cît şi copiii lui Israel, jumătate în dreptul muntelui Garizim şi jumătate\
       \ în dreptul muntelui Ebal, după porunca pe care o dăduse mai înainte Moise,\
-      \ robul lui YaHWeH, ca să binecuvînteze pe poporul lui Israel."
+      \ robul lui Yaue, ca să binecuvînteze pe poporul lui Israel."
     chapter: null
   - verseNumber: 34
     text: "Iosua a citit apoi toate cuvintele Legii, binecuvintarile si blestemele,\
@@ -1384,12 +1382,12 @@ chapterPojo:
       \ şi blestemele, după cum este scris în cartea Legii."
     chapter: null
   - verseNumber: 35
-    text: "N-a ramas nimic din tot ce poruncise YaHWeH lui Moise, pe care sa nu-l\
-      \ fi citit Iosua in fata intregii Adunari a lui Israel, in fata femeilor, copiilor\
+    text: "N-a ramas nimic din tot ce poruncise Yaue lui Moise, pe care sa nu-l fi\
+      \ citit Iosua in fata intregii Adunari a lui Israel, in fata femeilor, copiilor\
       \ si strainilor care mergeau in mijlocul lor."
-    textWithDiacritics: "N-a rămas nimic din tot ce poruncise YaHWeH lui Moise, pe\
-      \ care să nu-l fi citit Iosua în faţa întregii Adunări a lui Israel, în faţ\
-      a femeilor, copiilor şi străinilor care mergeau în mijlocul lor."
+    textWithDiacritics: "N-a rămas nimic din tot ce poruncise Yaue lui Moise, pe care\
+      \ să nu-l fi citit Iosua în faţa întregii Adunări a lui Israel, în faţa femeilor,\
+      \ copiilor şi străinilor care mergeau în mijlocul lor."
     chapter: null
 - number: 9
   book: null
@@ -1453,11 +1451,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 9
     text: "Ei i-au raspuns: „Robii tai vin dintr-o tara foarte departata, pentru faima\
-      \ lui YaHWeH Eylohim al tau; caci am auzit vorbindu-se de El, de tot ce a facut\
+      \ lui Yaue Elohim al tau; caci am auzit vorbindu-se de El, de tot ce a facut\
       \ in Egipt"
     textWithDiacritics: "Ei i-au răspuns: „Robii tăi vin dintr-o ţară foarte depă\
-      rtată, pentru faima lui YaHWeH Eylohim al tău; căci am auzit vorbindu-se de\
-      \ El, de tot ce a făcut în Egipt"
+      rtată, pentru faima lui Yaue Elohim al tău; căci am auzit vorbindu-se de El,\
+      \ de tot ce a făcut în Egipt"
     chapter: null
   - verseNumber: 10
     text: "si de ce a facut celor doi imparati ai amoritilor dincolo de Iordan, lui\
@@ -1490,9 +1488,9 @@ chapterPojo:
       \ lungimea prea mare a drumului.”"
     chapter: null
   - verseNumber: 14
-    text: "Barbatii lui Israel au luat din merindea lor si n-au intrebat pe YaHWeH."
+    text: "Barbatii lui Israel au luat din merindea lor si n-au intrebat pe Yaue."
     textWithDiacritics: "Bărbaţii lui Israel au luat din merindea lor şi n-au întrebat\
-      \ pe YaHWeH."
+      \ pe Yaue."
     chapter: null
   - verseNumber: 15
     text: "Iosua a facut pace cu ei si a incheiat un legamint prin care trebuia sa-i\
@@ -1513,24 +1511,24 @@ chapterPojo:
       \ cetăţile lor; cetăţile lor erau Gabaon, Chefira, Beerot şi Chiriat-Iearim."
     chapter: null
   - verseNumber: 18
-    text: "Dar nu i-au batut, pentru ca fruntasii Adunarii le jurasera pe YaHWeH Eylohim\
+    text: "Dar nu i-au batut, pentru ca fruntasii Adunarii le jurasera pe Yaue Elohim\
       \ al lui Israel ca-i vor lasa cu viata. Si toata Adunarea a cirtit impotriva\
       \ capeteniilor."
     textWithDiacritics: "Dar nu i-au bătut, pentru că fruntaşii Adunării le juraseră\
-      \ pe YaHWeH Eylohim al lui Israel că-i vor lăsa cu viaţă. Şi toată Adunarea\
-      \ a cîrtit împotriva căpeteniilor."
+      \ pe Yaue Elohim al lui Israel că-i vor lăsa cu viaţă. Şi toată Adunarea a cî\
+      rtit împotriva căpeteniilor."
     chapter: null
   - verseNumber: 19
-    text: "Toate capeteniile au zis intregii Adunari: „Le-am jurat pe YaHWeH Eylohim\
+    text: "Toate capeteniile au zis intregii Adunari: „Le-am jurat pe Yaue Elohim\
       \ al lui Israel, si acum nu putem sa ne atingem de ei."
     textWithDiacritics: "Toate căpeteniile au zis întregii Adunări: „Le-am jurat pe\
-      \ YaHWeH Eylohim al lui Israel, şi acum nu putem să ne atingem de ei."
+      \ Yaue Elohim al lui Israel, şi acum nu putem să ne atingem de ei."
     chapter: null
   - verseNumber: 20
     text: "Iata ce le vom face: ii vom lasa cu viata, ca sa n-aducem peste noi minia\
-      \ lui YaHWeH, din pricina juramintului pe care li l-am facut.”"
+      \ lui Yaue, din pricina juramintului pe care li l-am facut.”"
     textWithDiacritics: "Iată ce le vom face: îi vom lăsa cu viaţă, ca să n-aducem\
-      \ peste noi mînia lui YaHWeH, din pricina jurămîntului pe care li l-am făcut.”"
+      \ peste noi mînia lui Yaue, din pricina jurămîntului pe care li l-am făcut.”"
     chapter: null
   - verseNumber: 21
     text: "„Sa traiasca”, le-au zis capeteniile. Dar au fost intrebuintati la taiat\
@@ -1548,21 +1546,21 @@ chapterPojo:
     chapter: null
   - verseNumber: 23
     text: "Acum sunteti blestemati si nu veti inceta sa fiti in robie, sa taiati lemne\
-      \ si sa scoateti apa pentru Casa lui YaHWeH Eylohim al meu.”"
+      \ si sa scoateti apa pentru Casa lui Yaue Elohim al meu.”"
     textWithDiacritics: "Acum sunteţi blestemaţi şi nu veţi înceta să fiţi în robie,\
-      \ să tăiaţi lemne şi să scoateţi apă pentru Casa lui YaHWeH Eylohim al meu.”"
+      \ să tăiaţi lemne şi să scoateţi apă pentru Casa lui Yaue Elohim al meu.”"
     chapter: null
   - verseNumber: 24
     text: "Ei au raspuns lui Iosua si au zis: „Robii tai au auzit de Poruncile date\
-      \ de YaHWeH Eylohim al tau robului Sau Moise, ca sa va dea in mina toata tara\
-      \ si sa nimiceasca dinaintea voastra pe toti locuitorii ei; si venirea voastra\
+      \ de Yaue Elohim al tau robului Sau Moise, ca sa va dea in mina toata tara si\
+      \ sa nimiceasca dinaintea voastra pe toti locuitorii ei; si venirea voastra\
       \ a bagat mare frica in noi cu privire la viata noastra: iata de ce am lucrat\
       \ asa."
     textWithDiacritics: "Ei au răspuns lui Iosua şi au zis: „Robii tăi au auzit de\
-      \ Poruncile date de YaHWeH Eylohim al tău robului Său Moise, ca să vă dea î\
-      n mînă toată ţara şi să nimicească dinaintea voastră pe toţi locuitorii ei;\
-      \ şi venirea voastră a băgat mare frică în noi cu privire la viaţa noastră:\
-      \ iată de ce am lucrat aşa."
+      \ Poruncile date de Yaue Elohim al tău robului Său Moise, ca să vă dea în mî\
+      nă toată ţara şi să nimicească dinaintea voastră pe toţi locuitorii ei; şi venirea\
+      \ voastră a băgat mare frică în noi cu privire la viaţa noastră: iată de ce\
+      \ am lucrat aşa."
     chapter: null
   - verseNumber: 25
     text: "Si acum iata-ne in miinile tale; fa cu noi ce vei crede ca este bine si\
@@ -1578,10 +1576,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 27
     text: "dar din ziua aceea i-a pus sa taie lemn si sa scoata apa pentru Adunare\
-      \ si pentru altarul lui YaHWeH in locul pe care l-ar alege YaHWeH: ceea ce fac\
-      \ pina in ziua de azi."
+      \ si pentru altarul lui Yaue in locul pe care l-ar alege Yaue: ceea ce fac pina\
+      \ in ziua de azi."
     textWithDiacritics: "dar din ziua aceea i-a pus să taie lemn şi să scoată apă\
-      \ pentru Adunare şi pentru altarul lui YaHWeH în locul pe care l-ar alege YaHWeH:\
+      \ pentru Adunare şi pentru altarul lui Yaue în locul pe care l-ar alege Yaue:\
       \ ceea ce fac pînă în ziua de azi."
     chapter: null
 - number: 10
@@ -1646,10 +1644,10 @@ chapterPojo:
       \ cu el, şi toţi cei viteji."
     chapter: null
   - verseNumber: 8
-    text: "YaHWeH a zis lui Iosua: „Nu te teme de ei, caci ii dau in miinile tale,\
-      \ si niciunul din ei nu va putea sa stea impotriva ta.”"
-    textWithDiacritics: "YaHWeH a zis lui Iosua: „Nu te teme de ei, căci îi dau î\
-      n mîinile tale, şi niciunul din ei nu va putea să stea împotriva ta.”"
+    text: "Yaue a zis lui Iosua: „Nu te teme de ei, caci ii dau in miinile tale, si\
+      \ niciunul din ei nu va putea sa stea impotriva ta.”"
+    textWithDiacritics: "Yaue a zis lui Iosua: „Nu te teme de ei, căci îi dau în mî\
+      inile tale, şi niciunul din ei nu va putea să stea împotriva ta.”"
     chapter: null
   - verseNumber: 9
     text: "Iosua a venit fara veste peste ei, dupa ce a mers toata noaptea de la Ghilgal."
@@ -1657,30 +1655,30 @@ chapterPojo:
       \ de la Ghilgal."
     chapter: null
   - verseNumber: 10
-    text: "YaHWeH i-a pus in invalmaseala dinaintea lui Israel; si Israel le-a pricinuit\
+    text: "Yaue i-a pus in invalmaseala dinaintea lui Israel; si Israel le-a pricinuit\
       \ o mare infringere la Gabaon, i-a urmarit pe drumul care suie la Bet-Horon\
       \ si i-a batut pina la Azeca si pina la Macheda."
-    textWithDiacritics: "YaHWeH i-a pus în învălmăşeală dinaintea lui Israel; şi Israel\
+    textWithDiacritics: "Yaue i-a pus în învălmăşeală dinaintea lui Israel; şi Israel\
       \ le-a pricinuit o mare înfrîngere la Gabaon, i-a urmărit pe drumul care suie\
       \ la Bet-Horon şi i-a bătut pînă la Azeca şi pînă la Macheda."
     chapter: null
   - verseNumber: 11
-    text: "Pe cind fugeau ei dinaintea lui Israel si se coborau din Bet-Horon, YaHWeH\
+    text: "Pe cind fugeau ei dinaintea lui Israel si se coborau din Bet-Horon, Yaue\
       \ a facut sa cada din cer peste ei niste pietre mari pina la Azeca, si au pierit;\
       \ cei ce au murit de pietrele grindinei au fost mai multi decit cei ucisi cu\
       \ sabia de copiii lui Israel. Soarele si luna se opresc"
     textWithDiacritics: "Pe cînd fugeau ei dinaintea lui Israel şi se coborau din\
-      \ Bet-Horon, YaHWeH a făcut să cadă din cer peste ei nişte pietre mari pînă\
-      \ la Azeca, şi au pierit; cei ce au murit de pietrele grindinei au fost mai\
-      \ mulţi decît cei ucişi cu sabia de copiii lui Israel. Soarele şi luna se opresc"
+      \ Bet-Horon, Yaue a făcut să cadă din cer peste ei nişte pietre mari pînă la\
+      \ Azeca, şi au pierit; cei ce au murit de pietrele grindinei au fost mai mulţ\
+      i decît cei ucişi cu sabia de copiii lui Israel. Soarele şi luna se opresc"
     chapter: null
   - verseNumber: 12
-    text: "Atunci Iosua a vorbit lui YaHWeH, in ziua cind a dat YaHWeH pe amoriti\
-      \ in miinile copiilor lui Israel, si a zis in fata lui Israel: „Opreste-te,\
-      \ soare, asupra Gabaonului, si tu, luna, asupra vaii Aialonului!”"
-    textWithDiacritics: "Atunci Iosua a vorbit lui YaHWeH, în ziua cînd a dat YaHWeH\
-      \ pe amoriţi în mîinile copiilor lui Israel, şi a zis în faţa lui Israel: „\
-      Opreşte-te, soare, asupra Gabaonului, şi tu, lună, asupra văii Aialonului!”"
+    text: "Atunci Iosua a vorbit lui Yaue, in ziua cind a dat Yaue pe amoriti in miinile\
+      \ copiilor lui Israel, si a zis in fata lui Israel: „Opreste-te, soare, asupra\
+      \ Gabaonului, si tu, luna, asupra vaii Aialonului!”"
+    textWithDiacritics: "Atunci Iosua a vorbit lui Yaue, în ziua cînd a dat Yaue pe\
+      \ amoriţi în mîinile copiilor lui Israel, şi a zis în faţa lui Israel: „Opreş\
+      te-te, soare, asupra Gabaonului, şi tu, lună, asupra văii Aialonului!”"
     chapter: null
   - verseNumber: 13
     text: "Si soarele s-a oprit, si luna si-a intrerupt mersul, pina ce poporul si-a\
@@ -1693,10 +1691,10 @@ chapterPojo:
       \ să apună, aproape o zi întreagă."
     chapter: null
   - verseNumber: 14
-    text: "N-a mai fost nicio zi ca aceea, nici inainte, nici dupa aceea, cind YaHWeH\
-      \ sa fi ascultat glasul unui om; caci YaHWeH lupta pentru Israel."
+    text: "N-a mai fost nicio zi ca aceea, nici inainte, nici dupa aceea, cind Yaue\
+      \ sa fi ascultat glasul unui om; caci Yaue lupta pentru Israel."
     textWithDiacritics: "N-a mai fost nicio zi ca aceea, nici înainte, nici după aceea,\
-      \ cînd YaHWeH să fi ascultat glasul unui om; căci YaHWeH lupta pentru Israel."
+      \ cînd Yaue să fi ascultat glasul unui om; căci Yaue lupta pentru Israel."
     chapter: null
   - verseNumber: 15
     text: "Si Iosua si tot Israelul impreuna cu el s-a intors in tabara la Ghilgal.\
@@ -1723,11 +1721,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 19
     text: "Si voi nu va opriti, ci urmariti pe vrajmasii vostri si bateti-i pe dinapoi;\
-      \ nu-i lasati sa intre in cetatile lor, caci YaHWeH Eylohim al vostru i-a dat\
-      \ in miinile voastre.”"
+      \ nu-i lasati sa intre in cetatile lor, caci Yaue Elohim al vostru i-a dat in\
+      \ miinile voastre.”"
     textWithDiacritics: "Şi voi nu vă opriţi, ci urmăriţi pe vrăjmaşii voştri şi bateţ\
-      i-i pe dinapoi; nu-i lăsaţi să intre în cetăţile lor, căci YaHWeH Eylohim al\
-      \ vostru i-a dat în mîinile voastre.”"
+      i-i pe dinapoi; nu-i lăsaţi să intre în cetăţile lor, căci Yaue Elohim al vostru\
+      \ i-a dat în mîinile voastre.”"
     chapter: null
   - verseNumber: 20
     text: "Dupa ce Iosua si copiii lui Israel le-au pricinuit o foarte mare infringere\
@@ -1770,11 +1768,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 25
     text: "Iosua le-a zis: „Nu va temeti si nu va inspaimintati, ci intariti-va si\
-      \ imbarbatati-va, caci asa va face YaHWeH tuturor vrajmasilor vostri impotriva\
+      \ imbarbatati-va, caci asa va face Yaue tuturor vrajmasilor vostri impotriva\
       \ carora va veti lupta.”"
     textWithDiacritics: "Iosua le-a zis: „Nu vă temeţi şi nu vă înspăimîntaţi, ci\
-      \ întăriţi-vă şi îmbărbătaţi-vă, căci aşa va face YaHWeH tuturor vrăjmaşilor\
-      \ voştri împotriva cărora vă veţi lupta.”"
+      \ întăriţi-vă şi îmbărbătaţi-vă, căci aşa va face Yaue tuturor vrăjmaşilor voş\
+      tri împotriva cărora vă veţi lupta.”"
     chapter: null
   - verseNumber: 26
     text: "Dupa aceea, Iosua i-a lovit si i-a omorit; i-a atirnat de cinci copaci\
@@ -1808,11 +1806,11 @@ chapterPojo:
       \ la Libna şi a dat luptă împotriva Libnei."
     chapter: null
   - verseNumber: 30
-    text: "YaHWeH a dat-o si pe ea impreuna cu imparatul ei in miinile lui Israel\
-      \ si a trecut-o prin ascutisul sabiei, pe ea si pe toti cei ce se gaseau in\
-      \ ea; n-a lasat sa scape niciunul si a facut imparatului ei cum facuse imparatului\
+    text: "Yaue a dat-o si pe ea impreuna cu imparatul ei in miinile lui Israel si\
+      \ a trecut-o prin ascutisul sabiei, pe ea si pe toti cei ce se gaseau in ea;\
+      \ n-a lasat sa scape niciunul si a facut imparatului ei cum facuse imparatului\
       \ Ierihonului."
-    textWithDiacritics: "YaHWeH a dat-o şi pe ea împreună cu împăratul ei în mîinile\
+    textWithDiacritics: "Yaue a dat-o şi pe ea împreună cu împăratul ei în mîinile\
       \ lui Israel şi a trecut-o prin ascuţişul sabiei, pe ea şi pe toţi cei ce se\
       \ găseau în ea; n-a lăsat să scape niciunul şi a făcut împăratului ei cum fă\
       cuse împăratului Ierihonului."
@@ -1824,12 +1822,12 @@ chapterPojo:
       n Lachis, a tăbărît înaintea ei şi a început lupta împotriva ei."
     chapter: null
   - verseNumber: 32
-    text: "YaHWeH a dat cetatea Lachis in miinile lui Israel, care a luat-o a doua\
-      \ zi si a trecut-o prin ascutisul sabiei, pe ea si pe toti cei ce se aflau in\
-      \ ea, cum facuse cu Libna."
-    textWithDiacritics: "YaHWeH a dat cetatea Lachis în mîinile lui Israel, care a\
-      \ luat-o a doua zi şi a trecut-o prin ascuţişul sabiei, pe ea şi pe toţi cei\
-      \ ce se aflau în ea, cum făcuse cu Libna."
+    text: "Yaue a dat cetatea Lachis in miinile lui Israel, care a luat-o a doua zi\
+      \ si a trecut-o prin ascutisul sabiei, pe ea si pe toti cei ce se aflau in ea,\
+      \ cum facuse cu Libna."
+    textWithDiacritics: "Yaue a dat cetatea Lachis în mîinile lui Israel, care a luat-o\
+      \ a doua zi şi a trecut-o prin ascuţişul sabiei, pe ea şi pe toţi cei ce se\
+      \ aflau în ea, cum făcuse cu Libna."
     chapter: null
   - verseNumber: 33
     text: "Atunci Horam, imparatul Ghezerului, s-a suit ca sa dea ajutor Lachisului.\
@@ -1889,10 +1887,10 @@ chapterPojo:
   - verseNumber: 40
     text: "Iosua a batut astfel toata tara, muntele, partea de miazazi, cimpia si\
       \ costisele, si a batut pe toti imparatii; n-a lasat sa scape nimeni si a nimicit\
-      \ cu desavirsire tot ce avea suflare, cum poruncise YaHWeH Eylohim al lui Israel."
+      \ cu desavirsire tot ce avea suflare, cum poruncise Yaue Elohim al lui Israel."
     textWithDiacritics: "Iosua a bătut astfel toată ţara, muntele, partea de miază\
       zi, cîmpia şi costişele, şi a bătut pe toţi împăraţii; n-a lăsat să scape nimeni\
-      \ şi a nimicit cu desăvîrşire tot ce avea suflare, cum poruncise YaHWeH Eylohim\
+      \ şi a nimicit cu desăvîrşire tot ce avea suflare, cum poruncise Yaue Elohim\
       \ al lui Israel."
     chapter: null
   - verseNumber: 41
@@ -1903,9 +1901,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 42
     text: "Iosua a luat in acelasi timp pe toti imparatii aceia si tara lor, caci\
-      \ YaHWeH Eylohim al lui Israel lupta pentru Israel."
+      \ Yaue Elohim al lui Israel lupta pentru Israel."
     textWithDiacritics: "Iosua a luat în acelaşi timp pe toţi împăraţii aceia şi ţ\
-      ara lor, căci YaHWeH Eylohim al lui Israel lupta pentru Israel."
+      ara lor, căci Yaue Elohim al lui Israel lupta pentru Israel."
     chapter: null
   - verseNumber: 43
     text: "Si Iosua si tot Israelul impreuna cu el s-a intors in tabara la Ghilgal."
@@ -1951,12 +1949,12 @@ chapterPojo:
       \ Israel."
     chapter: null
   - verseNumber: 6
-    text: "YaHWeH a zis lui Iosua: „Nu te teme de ei, caci miine, pe vremea aceasta,\
+    text: "Yaue a zis lui Iosua: „Nu te teme de ei, caci miine, pe vremea aceasta,\
       \ ii voi da batuti pe toti inaintea lui Israel. Cailor sa le tai vinele picioarelor,\
       \ iar carele lor sa le arzi in foc.”"
-    textWithDiacritics: "YaHWeH a zis lui Iosua: „Nu te teme de ei, căci mîine, pe\
-      \ vremea aceasta, îi voi da bătuţi pe toţi înaintea lui Israel. Cailor să le\
-      \ tai vinele picioarelor, iar carele lor să le arzi în foc.”"
+    textWithDiacritics: "Yaue a zis lui Iosua: „Nu te teme de ei, căci mîine, pe vremea\
+      \ aceasta, îi voi da bătuţi pe toţi înaintea lui Israel. Cailor să le tai vinele\
+      \ picioarelor, iar carele lor să le arzi în foc.”"
     chapter: null
   - verseNumber: 7
     text: "Iosua cu toti oamenii lui de razboi au venit pe neasteptate peste ei la\
@@ -1965,20 +1963,20 @@ chapterPojo:
       \ peste ei la apele Merom şi s-au năpustit în mijlocul lor."
     chapter: null
   - verseNumber: 8
-    text: "YaHWeH i-a dat in miinile lui Israel; ei i-au batut si i-au urmarit pina\
+    text: "Yaue i-a dat in miinile lui Israel; ei i-au batut si i-au urmarit pina\
       \ la Sidonul cel mare, pina la Misrefot-Maim si pina in valea Mitpa la rasarit;\
       \ i-au batut, fara sa lase sa scape vreunul."
-    textWithDiacritics: "YaHWeH i-a dat în mîinile lui Israel; ei i-au bătut şi i-au\
+    textWithDiacritics: "Yaue i-a dat în mîinile lui Israel; ei i-au bătut şi i-au\
       \ urmărit pînă la Sidonul cel mare, pînă la Misrefot-Maim şi pînă în valea Miţ\
       pa la răsărit; i-au bătut, fără să lase să scape vreunul."
     chapter: null
   - verseNumber: 9
-    text: "Iosua le-a facut cum ii spusese YaHWeH: cailor le-a taiat vinele picioarelor,\
+    text: "Iosua le-a facut cum ii spusese Yaue: cailor le-a taiat vinele picioarelor,\
       \ iar carele lor le-a ars in foc. Cuceriri facute la miazanoapte si in cealalta\
       \ parte a tarii"
-    textWithDiacritics: "Iosua le-a făcut cum îi spusese YaHWeH: cailor le-a tăiat\
-      \ vinele picioarelor, iar carele lor le-a ars în foc. Cuceriri făcute la miază\
-      noapte şi în cealaltă parte a ţării"
+    textWithDiacritics: "Iosua le-a făcut cum îi spusese Yaue: cailor le-a tăiat vinele\
+      \ picioarelor, iar carele lor le-a ars în foc. Cuceriri făcute la miazănoapte\
+      \ şi în cealaltă parte a ţării"
     chapter: null
   - verseNumber: 10
     text: "La intoarcere, si in acelasi timp, Iosua a luat Hatorul si a trecut prin\
@@ -1998,10 +1996,10 @@ chapterPojo:
   - verseNumber: 12
     text: "Iosua a luat, de asemenea, toate cetatile imparatilor acelora, si pe toti\
       \ imparatii lor i-a trecut prin ascutisul sabiei si i-a nimicit cu desavirsire,\
-      \ cum poruncise Moise, robul lui YaHWeH."
+      \ cum poruncise Moise, robul lui Yaue."
     textWithDiacritics: "Iosua a luat, de asemenea, toate cetăţile împăraţilor acelora,\
       \ şi pe toţi împăraţii lor i-a trecut prin ascuţişul sabiei şi i-a nimicit cu\
-      \ desăvîrşire, cum poruncise Moise, robul lui YaHWeH."
+      \ desăvîrşire, cum poruncise Moise, robul lui Yaue."
     chapter: null
   - verseNumber: 13
     text: "Dar Israel n-a ars niciuna din cetatile asezate pe dealuri, afara numai\
@@ -2018,11 +2016,11 @@ chapterPojo:
       \ pînă i-au nimicit, fără să lase ceva din ce are suflare de viaţă."
     chapter: null
   - verseNumber: 15
-    text: "Iosua a implinit Poruncile date de YaHWeH robului Sau Moise si de Moise\
-      \ lui Iosua; n-a lasat nimic neimplinit din tot ce poruncise lui Moise, YaHWeH."
-    textWithDiacritics: "Iosua a împlinit Poruncile date de YaHWeH robului Său Moise\
+    text: "Iosua a implinit Poruncile date de Yaue robului Sau Moise si de Moise lui\
+      \ Iosua; n-a lasat nimic neimplinit din tot ce poruncise lui Moise, Yaue."
+    textWithDiacritics: "Iosua a împlinit Poruncile date de Yaue robului Său Moise\
       \ şi de Moise lui Iosua; n-a lăsat nimic neîmplinit din tot ce poruncise lui\
-      \ Moise, YaHWeH."
+      \ Moise, Yaue."
     chapter: null
   - verseNumber: 16
     text: "Astfel Iosua a luat toata tara aceasta, muntele, toata partea de miazazi,\
@@ -2052,14 +2050,14 @@ chapterPojo:
       \ luptă."
     chapter: null
   - verseNumber: 20
-    text: "Caci YaHWeH a ingaduit ca popoarele acelea sa-si impietreasca inima si\
-      \ sa lupte impotriva lui Israel, pentru ca Israel sa le nimiceasca cu desavirsire,\
+    text: "Caci Yaue a ingaduit ca popoarele acelea sa-si impietreasca inima si sa\
+      \ lupte impotriva lui Israel, pentru ca Israel sa le nimiceasca cu desavirsire,\
       \ fara sa aiba mila de ele, si sa le nimiceasca, dupa cum poruncise lui Moise,\
-      \ YaHWeH."
-    textWithDiacritics: "Căci YaHWeH a îngăduit ca popoarele acelea să-şi împietrească\
+      \ Yaue."
+    textWithDiacritics: "Căci Yaue a îngăduit ca popoarele acelea să-şi împietrească\
       \ inima şi să lupte împotriva lui Israel, pentru ca Israel să le nimicească\
       \ cu desăvîrşire, fără să aibă milă de ele, şi să le nimicească, după cum poruncise\
-      \ lui Moise, YaHWeH."
+      \ lui Moise, Yaue."
     chapter: null
   - verseNumber: 21
     text: "In acelasi timp, Iosua a pornit si a nimicit pe anachiti din muntele Hebronului,\
@@ -2078,10 +2076,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 23
     text: "Iosua a pus stapinire deci pe toata tara, potrivit cu tot ce spusese lui\
-      \ Moise, YaHWeH. Si Iosua a dat-o de mostenire lui Israel, fiecaruia i-a dat\
-      \ partea lui, dupa semintiile lor. Apoi tara s-a odihnit de razboi."
+      \ Moise, Yaue. Si Iosua a dat-o de mostenire lui Israel, fiecaruia i-a dat partea\
+      \ lui, dupa semintiile lor. Apoi tara s-a odihnit de razboi."
     textWithDiacritics: "Iosua a pus stăpînire deci pe toată ţara, potrivit cu tot\
-      \ ce spusese lui Moise, YaHWeH. Şi Iosua a dat-o de moştenire lui Israel, fiecă\
+      \ ce spusese lui Moise, Yaue. Şi Iosua a dat-o de moştenire lui Israel, fiecă\
       ruia i-a dat partea lui, după seminţiile lor. Apoi ţara s-a odihnit de război."
     chapter: null
 - number: 12
@@ -2129,11 +2127,11 @@ chapterPojo:
       i peste jumătate din Galaad, hotarul lui Sihon, împăratul Hesbonului."
     chapter: null
   - verseNumber: 6
-    text: "Moise, robul lui YaHWeH, si copiii lui Israel i-au batut; si Moise, robul\
-      \ lui YaHWeH, le-a dat tara lor in stapinirea rubenitilor, gaditilor si la jumatate\
+    text: "Moise, robul lui Yaue, si copiii lui Israel i-au batut; si Moise, robul\
+      \ lui Yaue, le-a dat tara lor in stapinirea rubenitilor, gaditilor si la jumatate\
       \ din semintia lui Manase. Imparatii biruiti dincoace de Iordan"
-    textWithDiacritics: "Moise, robul lui YaHWeH, şi copiii lui Israel i-au bătut;\
-      \ şi Moise, robul lui YaHWeH, le-a dat ţara lor în stăpînirea rubeniţilor, gadiţ\
+    textWithDiacritics: "Moise, robul lui Yaue, şi copiii lui Israel i-au bătut; ş\
+      i Moise, robul lui Yaue, le-a dat ţara lor în stăpînirea rubeniţilor, gadiţ\
       ilor şi la jumătate din seminţia lui Manase. Împăraţii biruiţi dincoace de Iordan"
     chapter: null
   - verseNumber: 7
@@ -2226,9 +2224,9 @@ chapterPojo:
   book: null
   versePojo:
   - verseNumber: 1
-    text: "Iosua era batrin, inaintat in virsta. YaHWeH i-a zis atunci: „Tu ai imbatrinit,\
+    text: "Iosua era batrin, inaintat in virsta. Yaue i-a zis atunci: „Tu ai imbatrinit,\
       \ ai inaintat in virsta, si tara care-ti mai ramine de supus este foarte mare."
-    textWithDiacritics: "Iosua era bătrîn, înaintat în vîrstă. YaHWeH i-a zis atunci:\
+    textWithDiacritics: "Iosua era bătrîn, înaintat în vîrstă. Yaue i-a zis atunci:\
       \ „Tu ai îmbătrînit, ai înaintat în vîrstă, şi ţara care-ţi mai rămîne de supus\
       \ este foarte mare."
     chapter: null
@@ -2278,10 +2276,10 @@ chapterPojo:
   - verseNumber: 8
     text: "Rubenitii si gaditii, cu cealalta jumatate din semintia lui Manase, si-au\
       \ primit mostenirea, pe care le-a dat-o Moise de cealalta parte a Iordanului,\
-      \ la rasarit, cum le-a dat-o Moise, robul lui YaHWeH:"
+      \ la rasarit, cum le-a dat-o Moise, robul lui Yaue:"
     textWithDiacritics: "Rubeniţii şi gadiţii, cu cealaltă jumătate din seminţia lui\
       \ Manase, şi-au primit moştenirea, pe care le-a dat-o Moise de cealaltă parte\
-      \ a Iordanului, la răsărit, cum le-a dat-o Moise, robul lui YaHWeH:"
+      \ a Iordanului, la răsărit, cum le-a dat-o Moise, robul lui Yaue:"
     chapter: null
   - verseNumber: 9
     text: "de la Aroer, care este pe malurile piriului Arnon, si de la cetatea care\
@@ -2317,11 +2315,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 14
     text: "Semintia lui Levi a fost singura careia Moise nu i-a dat parte de mostenire;\
-      \ jertfele mistuite de foc inaintea lui YaHWeH Eylohim al lui Israel, aceasta\
-      \ a fost mostenirea lui, cum ii spusese El."
+      \ jertfele mistuite de foc inaintea lui Yaue Elohim al lui Israel, aceasta a\
+      \ fost mostenirea lui, cum ii spusese El."
     textWithDiacritics: "Seminţia lui Levi a fost singura căreia Moise nu i-a dat\
-      \ parte de moştenire; jertfele mistuite de foc înaintea lui YaHWeH Eylohim al\
-      \ lui Israel, aceasta a fost moştenirea lui, cum îi spusese El."
+      \ parte de moştenire; jertfele mistuite de foc înaintea lui Yaue Elohim al lui\
+      \ Israel, aceasta a fost moştenirea lui, cum îi spusese El."
     chapter: null
   - verseNumber: 15
     text: "Moise daduse semintiei fiilor lui Ruben o parte de mostenire, dupa familiile\
@@ -2436,10 +2434,10 @@ chapterPojo:
       \ la răsărit."
     chapter: null
   - verseNumber: 33
-    text: "Moise n-a dat nicio mostenire semintiei lui Levi; YaHWeH Eylohim al lui\
-      \ Israel este mostenirea lui, cum ii spusese El."
-    textWithDiacritics: "Moise n-a dat nicio moştenire seminţiei lui Levi; YaHWeH\
-      \ Eylohim al lui Israel este moştenirea lui, cum îi spusese El."
+    text: "Moise n-a dat nicio mostenire semintiei lui Levi; Yaue Elohim al lui Israel\
+      \ este mostenirea lui, cum ii spusese El."
+    textWithDiacritics: "Moise n-a dat nicio moştenire seminţiei lui Levi; Yaue Elohim\
+      \ al lui Israel este moştenirea lui, cum îi spusese El."
     chapter: null
 - number: 14
   book: null
@@ -2454,9 +2452,9 @@ chapterPojo:
       \ Israel:"
     chapter: null
   - verseNumber: 2
-    text: "Impartirea s-a facut prin sorti, cum Poruncise YaHWeH prin Moise, pentru\
+    text: "Impartirea s-a facut prin sorti, cum Poruncise Yaue prin Moise, pentru\
       \ cele noua semintii si jumatate."
-    textWithDiacritics: "Împărţirea s-a făcut prin sorţi, cum Poruncise YaHWeH prin\
+    textWithDiacritics: "Împărţirea s-a făcut prin sorţi, cum Poruncise Yaue prin\
       \ Moise, pentru cele nouă seminţii şi jumătate."
     chapter: null
   - verseNumber: 3
@@ -2476,48 +2474,47 @@ chapterPojo:
     chapter: null
   - verseNumber: 5
     text: "Copiii lui Israel au facut intocmai dupa Poruncile pe care le daduse lui\
-      \ Moise, YaHWeH, si au impartit tara. Caleb cistiga Hebronul"
+      \ Moise, Yaue, si au impartit tara. Caleb cistiga Hebronul"
     textWithDiacritics: "Copiii lui Israel au făcut întocmai după Poruncile pe care\
-      \ le dăduse lui Moise, YaHWeH, şi au împărţit ţara. Caleb cîştigă Hebronul"
+      \ le dăduse lui Moise, Yaue, şi au împărţit ţara. Caleb cîştigă Hebronul"
     chapter: null
   - verseNumber: 6
     text: "Fiii lui Iuda s-au apropiat de Iosua la Ghilgal; si Caleb, fiul lui Iefune,\
-      \ chenizitul, i-a zis: „Stii ce a spus YaHWeH lui Moise, omul lui Eylohim, cu\
-      \ privire la mine si cu privire la tine, la Cades-Barnea."
+      \ chenizitul, i-a zis: „Stii ce a spus Yaue lui Moise, omul lui Elohim, cu privire\
+      \ la mine si cu privire la tine, la Cades-Barnea."
     textWithDiacritics: "Fiii lui Iuda s-au apropiat de Iosua la Ghilgal; şi Caleb,\
-      \ fiul lui Iefune, chenizitul, i-a zis: „Ştii ce a spus YaHWeH lui Moise, omul\
-      \ lui Eylohim, cu privire la mine şi cu privire la tine, la Cades-Barnea."
+      \ fiul lui Iefune, chenizitul, i-a zis: „Ştii ce a spus Yaue lui Moise, omul\
+      \ lui Elohim, cu privire la mine şi cu privire la tine, la Cades-Barnea."
     chapter: null
   - verseNumber: 7
-    text: "Eram in virsta de patruzeci de ani cind m-a trimis Moise, robul lui YaHWeH,\
+    text: "Eram in virsta de patruzeci de ani cind m-a trimis Moise, robul lui Yaue,\
       \ din Cades-Barnea, ca sa iscodesc tara, si i-am adus stiri asa cum imi spunea\
       \ inima mea curata."
     textWithDiacritics: "Eram în vîrstă de patruzeci de ani cînd m-a trimis Moise,\
-      \ robul lui YaHWeH, din Cades-Barnea, ca să iscodesc ţara, şi i-am adus ştiri\
+      \ robul lui Yaue, din Cades-Barnea, ca să iscodesc ţara, şi i-am adus ştiri\
       \ aşa cum îmi spunea inima mea curată."
     chapter: null
   - verseNumber: 8
     text: "Fratii mei care se suisera impreuna cu mine au taiat inima poporului, dar\
-      \ eu am urmat in totul calea lui YaHWeH Eylohim al meu."
+      \ eu am urmat in totul calea lui Yaue Elohim al meu."
     textWithDiacritics: "Fraţii mei care se suiseră împreună cu mine au tăiat inima\
-      \ poporului, dar eu am urmat în totul calea lui YaHWeH Eylohim al meu."
+      \ poporului, dar eu am urmat în totul calea lui Yaue Elohim al meu."
     chapter: null
   - verseNumber: 9
     text: "Si in ziua aceea Moise a jurat si a zis: „Tara in care a calcat piciorul\
       \ tau va fi mostenirea ta pe vecie, pentru tine si pentru copiii tai, pentru\
-      \ ca ai urmat in totul voia lui YaHWeH Eylohim al meu.”"
+      \ ca ai urmat in totul voia lui Yaue Elohim al meu.”"
     textWithDiacritics: "Şi în ziua aceea Moise a jurat şi a zis: „Ţara în care a\
       \ călcat piciorul tău va fi moştenirea ta pe vecie, pentru tine şi pentru copiii\
-      \ tăi, pentru că ai urmat în totul voia lui YaHWeH Eylohim al meu.”"
+      \ tăi, pentru că ai urmat în totul voia lui Yaue Elohim al meu.”"
     chapter: null
   - verseNumber: 10
-    text: "Acum iata ca YaHWeH m-a tinut in viata, cum a spus. Sunt patruzeci si cinci\
-      \ de ani de cind vorbea YaHWeH astfel prin Moise, cind umbla Israel prin pustiu;\
+    text: "Acum iata ca Yaue m-a tinut in viata, cum a spus. Sunt patruzeci si cinci\
+      \ de ani de cind vorbea Yaue astfel prin Moise, cind umbla Israel prin pustiu;\
       \ si acum iata ca azi sunt in virsta de optzeci si cinci de ani."
-    textWithDiacritics: "Acum iată că YaHWeH m-a ţinut în viaţă, cum a spus. Sunt\
-      \ patruzeci şi cinci de ani de cînd vorbea YaHWeH astfel prin Moise, cînd umbla\
-      \ Israel prin pustiu; şi acum iată că azi sunt în vîrstă de optzeci şi cinci\
-      \ de ani."
+    textWithDiacritics: "Acum iată că Yaue m-a ţinut în viaţă, cum a spus. Sunt patruzeci\
+      \ şi cinci de ani de cînd vorbea Yaue astfel prin Moise, cînd umbla Israel prin\
+      \ pustiu; şi acum iată că azi sunt în vîrstă de optzeci şi cinci de ani."
     chapter: null
   - verseNumber: 11
     text: "Si astazi sunt tot asa de tare ca in ziua cind m-a trimis Moise; am tot\
@@ -2528,13 +2525,12 @@ chapterPojo:
       \ ca să merg în fruntea voastră."
     chapter: null
   - verseNumber: 12
-    text: "Da-mi, dar, muntele acesta despre care a vorbit YaHWeH pe vremea aceea;\
-      \ caci ai auzit atunci ca acolo sunt anachiti si ca sunt cetati mari si intarite.\
-      \ YaHWeH va fi, poate, cu mine si-i voi izgoni, cum a spus YaHWeH.”"
-    textWithDiacritics: "Dă-mi, dar, muntele acesta despre care a vorbit YaHWeH pe\
-      \ vremea aceea; căci ai auzit atunci că acolo sunt anachiţi şi că sunt cetăţ\
-      i mari şi întărite. YaHWeH va fi, poate, cu mine şi-i voi izgoni, cum a spus\
-      \ YaHWeH.”"
+    text: "Da-mi, dar, muntele acesta despre care a vorbit Yaue pe vremea aceea; caci\
+      \ ai auzit atunci ca acolo sunt anachiti si ca sunt cetati mari si intarite.\
+      \ Yaue va fi, poate, cu mine si-i voi izgoni, cum a spus Yaue.”"
+    textWithDiacritics: "Dă-mi, dar, muntele acesta despre care a vorbit Yaue pe vremea\
+      \ aceea; căci ai auzit atunci că acolo sunt anachiţi şi că sunt cetăţi mari\
+      \ şi întărite. Yaue va fi, poate, cu mine şi-i voi izgoni, cum a spus Yaue.”"
     chapter: null
   - verseNumber: 13
     text: "Iosua a binecuvintat pe Caleb, fiul lui Iefune, si i-a dat ca mostenire\
@@ -2544,11 +2540,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 14
     text: "Astfel Caleb, fiul lui Iefune, chenizitul, a avut de mostenire pina in\
-      \ ziua de azi Hebronul, pentru ca urmase in totul calea lui YaHWeH Eylohim al\
-      \ lui Israel."
+      \ ziua de azi Hebronul, pentru ca urmase in totul calea lui Yaue Elohim al lui\
+      \ Israel."
     textWithDiacritics: "Astfel Caleb, fiul lui Iefune, chenizitul, a avut de moş\
-      tenire pînă în ziua de azi Hebronul, pentru că urmase în totul calea lui YaHWeH\
-      \ Eylohim al lui Israel."
+      tenire pînă în ziua de azi Hebronul, pentru că urmase în totul calea lui Yaue\
+      \ Elohim al lui Israel."
     chapter: null
   - verseNumber: 15
     text: "Hebronul se chema mai inainte Chiriat-Arba: Arba fusese omul cel mai mare\
@@ -2648,10 +2644,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 13
     text: "Lui Caleb, fiul lui Iefune, i-au dat o parte in mijlocul fiilor lui Iuda,\
-      \ cum poruncise lui Iosua, YaHWeH; lui i-au dat Chriat-Arba, adica Hebronul:\
-      \ Arba era tatal lui Anac."
+      \ cum poruncise lui Iosua, Yaue; lui i-au dat Chriat-Arba, adica Hebronul: Arba\
+      \ era tatal lui Anac."
     textWithDiacritics: "Lui Caleb, fiul lui Iefune, i-au dat o parte în mijlocul\
-      \ fiilor lui Iuda, cum poruncise lui Iosua, YaHWeH; lui i-au dat Chriat-Arba,\
+      \ fiilor lui Iuda, cum poruncise lui Iosua, Yaue; lui i-au dat Chriat-Arba,\
       \ adică Hebronul: Arba era tatăl lui Anac."
     chapter: null
   - verseNumber: 14
@@ -2983,13 +2979,13 @@ chapterPojo:
     chapter: null
   - verseNumber: 4
     text: "Ele s-au infatisat inaintea preotului Eleazar, inaintea lui Iosua, fiul\
-      \ lui Nun, si inaintea mai marilor si au zis: „ YaHWeH a poruncit lui Moise\
-      \ sa ne dea o mostenire intre fratii nostri.” Si li s-a dat, dupa Porunca lui\
-      \ YaHWeH, o mostenire intre fratii tatalui lor."
+      \ lui Nun, si inaintea mai marilor si au zis: „ Yaue a poruncit lui Moise sa\
+      \ ne dea o mostenire intre fratii nostri.” Si li s-a dat, dupa Porunca lui Yaue,\
+      \ o mostenire intre fratii tatalui lor."
     textWithDiacritics: "Ele s-au înfăţişat înaintea preotului Eleazar, înaintea lui\
-      \ Iosua, fiul lui Nun, şi înaintea mai marilor şi au zis: „ YaHWeH a poruncit\
+      \ Iosua, fiul lui Nun, şi înaintea mai marilor şi au zis: „ Yaue a poruncit\
       \ lui Moise să ne dea o moştenire între fraţii noştri.” Şi li s-a dat, după\
-      \ Porunca lui YaHWeH, o moştenire între fraţii tatălui lor."
+      \ Porunca lui Yaue, o moştenire între fraţii tatălui lor."
     chapter: null
   - verseNumber: 5
     text: "Au cazut zece parti lui Manase, afara de tara Galaadului si a Basanului,\
@@ -3057,10 +3053,10 @@ chapterPojo:
   - verseNumber: 14
     text: "Fiii lui Iosif au vorbit lui Iosua si i-au zis: „Pentru ce ne-ai dat de\
       \ mostenire numai un sort si numai o parte, cind noi suntem un popor mare la\
-      \ numar si YaHWeH ne-a binecuvintat pina acum?”"
+      \ numar si Yaue ne-a binecuvintat pina acum?”"
     textWithDiacritics: "Fiii lui Iosif au vorbit lui Iosua şi i-au zis: „Pentru ce\
       \ ne-ai dat de moştenire numai un sorţ şi numai o parte, cînd noi suntem un\
-      \ popor mare la număr şi YaHWeH ne-a binecuvîntat pînă acum?”"
+      \ popor mare la număr şi Yaue ne-a binecuvîntat pînă acum?”"
     chapter: null
   - verseNumber: 15
     text: "Iosua le-a zis: „Daca sunteti un popor mare la numar, suiti-va in padure\
@@ -3111,10 +3107,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 3
     text: "Iosua a zis copiilor lui Israel: „Pina cind va veti lenevi sa mergeti sa\
-      \ luati in stapinire tara pe care v-a dat-o YaHWeH Eylohim al parintilor vostri?"
+      \ luati in stapinire tara pe care v-a dat-o Yaue Elohim al parintilor vostri?"
     textWithDiacritics: "Iosua a zis copiilor lui Israel: „Pînă cînd vă veţi lenevi\
-      \ să mergeţi să luaţi în stăpînire ţara pe care v-a dat-o YaHWeH Eylohim al\
-      \ părinţilor voştri?"
+      \ să mergeţi să luaţi în stăpînire ţara pe care v-a dat-o Yaue Elohim al pă\
+      rinţilor voştri?"
     chapter: null
   - verseNumber: 4
     text: "Alegeti trei barbati de fiecare semintie, si-i voi porni. Sa se scoale,\
@@ -3132,30 +3128,29 @@ chapterPojo:
     chapter: null
   - verseNumber: 6
     text: "Voi dar, sa faceti un plan al tarii impartite in sapte parti si sa mi-l\
-      \ aduceti aici. Voi arunca sortii pentru voi inaintea lui YaHWeH Eylohim al\
-      \ nostru."
+      \ aduceti aici. Voi arunca sortii pentru voi inaintea lui Yaue Elohim al nostru."
     textWithDiacritics: "Voi dar, să faceţi un plan al ţării împărţite în şapte pă\
-      rţi şi să mi-l aduceţi aici. Voi arunca sorţii pentru voi înaintea lui YaHWeH\
-      \ Eylohim al nostru."
+      rţi şi să mi-l aduceţi aici. Voi arunca sorţii pentru voi înaintea lui Yaue\
+      \ Elohim al nostru."
     chapter: null
   - verseNumber: 7
     text: "Dar levitii sa n-aiba parte in mijlocul vostru, caci mostenirea lor este\
-      \ preotia lui YaHWeH; si Gad, Ruben si jumatate din semintia lui Manase si-au\
-      \ primit mostenirea pe care le-a dat-o Moise, robul lui YaHWeH, de cealalta\
-      \ parte a Iordanului, la rasarit.”"
+      \ preotia lui Yaue; si Gad, Ruben si jumatate din semintia lui Manase si-au\
+      \ primit mostenirea pe care le-a dat-o Moise, robul lui Yaue, de cealalta parte\
+      \ a Iordanului, la rasarit.”"
     textWithDiacritics: "Dar leviţii să n-aibă parte în mijlocul vostru, căci moş\
-      tenirea lor este preoţia lui YaHWeH; şi Gad, Ruben şi jumătate din seminţia\
-      \ lui Manase şi-au primit moştenirea pe care le-a dat-o Moise, robul lui YaHWeH,\
-      \ de cealaltă parte a Iordanului, la răsărit.”"
+      tenirea lor este preoţia lui Yaue; şi Gad, Ruben şi jumătate din seminţia lui\
+      \ Manase şi-au primit moştenirea pe care le-a dat-o Moise, robul lui Yaue, de\
+      \ cealaltă parte a Iordanului, la răsărit.”"
     chapter: null
   - verseNumber: 8
     text: "Cind s-au sculat barbatii si au pornit sa faca planul tarii, Iosua le-a\
       \ dat porunca aceasta: „Duceti-va, strabateti tara, faceti-mi un plan si intoarceti-va\
-      \ la mine; apoi eu voi arunca pentru voi sortii inaintea lui YaHWeH la Silo.”"
+      \ la mine; apoi eu voi arunca pentru voi sortii inaintea lui Yaue la Silo.”"
     textWithDiacritics: "Cînd s-au sculat bărbaţii şi au pornit să facă planul ţă\
       rii, Iosua le-a dat porunca aceasta: „Duceţi-vă, străbateţi ţara, faceţi-mi\
       \ un plan şi întoarceţi-vă la mine; apoi eu voi arunca pentru voi sorţii înaintea\
-      \ lui YaHWeH la Silo.”"
+      \ lui Yaue la Silo.”"
     chapter: null
   - verseNumber: 9
     text: "Barbatii acestia au plecat, au strabatut tara si au facut planul dupa cetati,\
@@ -3166,9 +3161,9 @@ chapterPojo:
       \ la Iosua în tabără la Silo."
     chapter: null
   - verseNumber: 10
-    text: "Iosua a aruncat inaintea lui YaHWeH sorti pentru ei la Silo si a impartit\
+    text: "Iosua a aruncat inaintea lui Yaue sorti pentru ei la Silo si a impartit\
       \ tara intre copiii lui Israel, dind fiecaruia partea lui. Partea lui Beniamin"
-    textWithDiacritics: "Iosua a aruncat înaintea lui YaHWeH sorţi pentru ei la Silo\
+    textWithDiacritics: "Iosua a aruncat înaintea lui Yaue sorţi pentru ei la Silo\
       \ şi a împărţit ţara între copiii lui Israel, dînd fiecăruia partea lui. Partea\
       \ lui Beniamin"
     chapter: null
@@ -3551,29 +3546,29 @@ chapterPojo:
       \ lui Israel au dat lui Iosua, fiul lui Nun, o moştenire în mijlocul lor."
     chapter: null
   - verseNumber: 50
-    text: "Dupa Porunca lui YaHWeH, i-au dat cetatea pe care o cerea el: Timnat-Serah,\
+    text: "Dupa Porunca lui Yaue, i-au dat cetatea pe care o cerea el: Timnat-Serah,\
       \ pe muntele lui Efraim. El a zidit cetatea din nou si si-a asezat locuinta\
       \ acolo."
-    textWithDiacritics: "După Porunca lui YaHWeH, i-au dat cetatea pe care o cerea\
-      \ el: Timnat-Serah, pe muntele lui Efraim. El a zidit cetatea din nou şi şi-a\
-      \ aşezat locuinţa acolo."
+    textWithDiacritics: "După Porunca lui Yaue, i-au dat cetatea pe care o cerea el:\
+      \ Timnat-Serah, pe muntele lui Efraim. El a zidit cetatea din nou şi şi-a aş\
+      ezat locuinţa acolo."
     chapter: null
   - verseNumber: 51
     text: "Acestea sunt mostenirile pe care le-au impartit preotul Eleazar, Iosua,\
       \ fiul lui Nun, si capeteniile de familie ale semintiilor copiilor lui Israel,\
-      \ prin sorti inaintea lui YaHWeH, la Silo, la usa Cortului intilnirii. Astfel\
+      \ prin sorti inaintea lui Yaue, la Silo, la usa Cortului intilnirii. Astfel\
       \ au ispravit ei impartirea tarii."
     textWithDiacritics: "Acestea sunt moştenirile pe care le-au împărţit preotul Eleazar,\
       \ Iosua, fiul lui Nun, şi căpeteniile de familie ale seminţiilor copiilor lui\
-      \ Israel, prin sorţi înaintea lui YaHWeH, la Silo, la uşa Cortului întîlnirii.\
+      \ Israel, prin sorţi înaintea lui Yaue, la Silo, la uşa Cortului întîlnirii.\
       \ Astfel au isprăvit ei împărţirea ţării."
     chapter: null
 - number: 20
   book: null
   versePojo:
   - verseNumber: 1
-    text: "YaHWeH a vorbit lui Iosua si a zis:"
-    textWithDiacritics: "YaHWeH a vorbit lui Iosua şi a zis:"
+    text: "Yaue a vorbit lui Iosua si a zis:"
+    textWithDiacritics: "Yaue a vorbit lui Iosua şi a zis:"
     chapter: null
   - verseNumber: 2
     text: "„Vorbeste copiilor lui Israel si spune-le: „Hotariti-va, cum v-am Poruncit\
@@ -3654,18 +3649,18 @@ chapterPojo:
       \ copiilor lui Israel."
     chapter: null
   - verseNumber: 2
-    text: "Le-au vorbit la Silo, in tara Canaanului, si au zis: „ YaHWeH a poruncit\
+    text: "Le-au vorbit la Silo, in tara Canaanului, si au zis: „ Yaue a poruncit\
       \ prin Moise ca sa ni se dea cetati de locuit, cu imprejurimile lor pentru vitele\
       \ noastre.”"
-    textWithDiacritics: "Le-au vorbit la Silo, în ţara Canaanului, şi au zis: „ YaHWeH\
+    textWithDiacritics: "Le-au vorbit la Silo, în ţara Canaanului, şi au zis: „ Yaue\
       \ a poruncit prin Moise ca să ni se dea cetăţi de locuit, cu împrejurimile lor\
       \ pentru vitele noastre.”"
     chapter: null
   - verseNumber: 3
     text: "Copiii lui Israel au dat atunci levitilor, din mostenirea lor, cetatile\
-      \ urmatoare si imprejurimile lor, dupa Porunca lui YaHWeH."
+      \ urmatoare si imprejurimile lor, dupa Porunca lui Yaue."
     textWithDiacritics: "Copiii lui Israel au dat atunci leviţilor, din moştenirea\
-      \ lor, cetăţile următoare şi împrejurimile lor, după Porunca lui YaHWeH."
+      \ lor, cetăţile următoare şi împrejurimile lor, după Porunca lui Yaue."
     chapter: null
   - verseNumber: 4
     text: "Au tras la sorti pentru familiile chehatitilor; si levitii, fiii preotului\
@@ -3699,9 +3694,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 8
     text: "Copiii lui Israel au dat levitilor prin sorti aceste cetati si imprejurimile\
-      \ lor, cum poruncise lui Moise, YaHWeH."
+      \ lor, cum poruncise lui Moise, Yaue."
     textWithDiacritics: "Copiii lui Israel au dat leviţilor prin sorţi aceste cetă\
-      ţi şi împrejurimile lor, cum poruncise lui Moise, YaHWeH."
+      ţi şi împrejurimile lor, cum poruncise lui Moise, Yaue."
     chapter: null
   - verseNumber: 9
     text: "Au dat din semintia fiilor lui Iuda si din semintia fiilor lui Simeon urmatoarele\
@@ -3906,24 +3901,24 @@ chapterPojo:
       \ împrejur; aşa erau toate cetăţile acestea."
     chapter: null
   - verseNumber: 43
-    text: "Astfel, YaHWeH a dat lui Israel toata tara pe care jurase ca o va da parintilor\
+    text: "Astfel, Yaue a dat lui Israel toata tara pe care jurase ca o va da parintilor\
       \ lor; ei au luat-o in stapinire si s-au asezat in ea."
-    textWithDiacritics: "Astfel, YaHWeH a dat lui Israel toată ţara pe care jurase\
-      \ că o va da părinţilor lor; ei au luat-o în stăpînire şi s-au aşezat în ea."
+    textWithDiacritics: "Astfel, Yaue a dat lui Israel toată ţara pe care jurase că\
+      \ o va da părinţilor lor; ei au luat-o în stăpînire şi s-au aşezat în ea."
     chapter: null
   - verseNumber: 44
-    text: "YaHWeH le-a dat odihna de jur imprejur, cum jurase parintilor lor; niciunul\
-      \ din vrajmasii lor nu putuse sa le stea impotriva, si YaHWeH i-a dat pe toti\
+    text: "Yaue le-a dat odihna de jur imprejur, cum jurase parintilor lor; niciunul\
+      \ din vrajmasii lor nu putuse sa le stea impotriva, si Yaue i-a dat pe toti\
       \ in miinile lor."
-    textWithDiacritics: "YaHWeH le-a dat odihnă de jur împrejur, cum jurase părinţ\
-      ilor lor; niciunul din vrăjmaşii lor nu putuse să le stea împotrivă, şi YaHWeH\
-      \ i-a dat pe toţi în mîinile lor."
+    textWithDiacritics: "Yaue le-a dat odihnă de jur împrejur, cum jurase părinţilor\
+      \ lor; niciunul din vrăjmaşii lor nu putuse să le stea împotrivă, şi Yaue i-a\
+      \ dat pe toţi în mîinile lor."
     chapter: null
   - verseNumber: 45
-    text: "Din toate vorbele bune pe care le spusese casei lui Israel, YaHWeH, niciuna\
+    text: "Din toate vorbele bune pe care le spusese casei lui Israel, Yaue, niciuna\
       \ n-a ramas neimplinita: toate s-au implinit."
     textWithDiacritics: "Din toate vorbele bune pe care le spusese casei lui Israel,\
-      \ YaHWeH, niciuna n-a rămas neîmplinită: toate s-au împlinit."
+      \ Yaue, niciuna n-a rămas neîmplinită: toate s-au împlinit."
     chapter: null
 - number: 22
   book: null
@@ -3935,35 +3930,34 @@ chapterPojo:
       \ din seminţia lui Manase."
     chapter: null
   - verseNumber: 2
-    text: "Si le-a zis: „Voi ati pazit tot ce v-a poruncit Moise, robul lui YaHWeH,\
+    text: "Si le-a zis: „Voi ati pazit tot ce v-a poruncit Moise, robul lui Yaue,\
       \ si ati ascultat de glasul meu in tot ce v-am poruncit."
     textWithDiacritics: "Şi le-a zis: „Voi aţi păzit tot ce v-a poruncit Moise, robul\
-      \ lui YaHWeH, şi aţi ascultat de glasul meu în tot ce v-am poruncit."
+      \ lui Yaue, şi aţi ascultat de glasul meu în tot ce v-am poruncit."
     chapter: null
   - verseNumber: 3
     text: "N-ati parasit pe fratii vostri, de o buna bucata de vreme pina in ziua\
-      \ de azi; si ati pazit Rinduielile si Poruncile lui YaHWeH Eylohim al vostru."
+      \ de azi; si ati pazit Rinduielile si Poruncile lui Yaue Elohim al vostru."
     textWithDiacritics: "N-aţi părăsit pe fraţii voştri, de o bună bucată de vreme\
-      \ pînă în ziua de azi; şi aţi păzit Rînduielile şi Poruncile lui YaHWeH Eylohim\
+      \ pînă în ziua de azi; şi aţi păzit Rînduielile şi Poruncile lui Yaue Elohim\
       \ al vostru."
     chapter: null
   - verseNumber: 4
-    text: "Acum, cind YaHWeH Eylohim al vostru a dat odihna fratilor vostri, cum le\
-      \ spusese, intoarceti-va si duceti-va la corturile voastre, in tara data in\
-      \ stapinirea voastra, pe care v-a dat-o Moise, robul lui YaHWeH, dincolo de\
-      \ Iordan."
-    textWithDiacritics: "Acum, cînd YaHWeH Eylohim al vostru a dat odihnă fraţilor\
-      \ voştri, cum le spusese, întoarceţi-vă şi duceţi-vă la corturile voastre, î\
-      n ţara dată în stăpînirea voastră, pe care v-a dat-o Moise, robul lui YaHWeH,\
-      \ dincolo de Iordan."
+    text: "Acum, cind Yaue Elohim al vostru a dat odihna fratilor vostri, cum le spusese,\
+      \ intoarceti-va si duceti-va la corturile voastre, in tara data in stapinirea\
+      \ voastra, pe care v-a dat-o Moise, robul lui Yaue, dincolo de Iordan."
+    textWithDiacritics: "Acum, cînd Yaue Elohim al vostru a dat odihnă fraţilor voş\
+      tri, cum le spusese, întoarceţi-vă şi duceţi-vă la corturile voastre, în ţara\
+      \ dată în stăpînirea voastră, pe care v-a dat-o Moise, robul lui Yaue, dincolo\
+      \ de Iordan."
     chapter: null
   - verseNumber: 5
     text: "Aveti grija numai sa paziti si sa impliniti Poruncile si Legile pe care\
-      \ vi le-a dat Moise, robul lui YaHWeH: sa iubiti pe YaHWeH Eylohim al vostru,\
-      \ sa umblati in toate caile Lui, sa tineti Poruncile Lui, sa va alipiti de El\
-      \ si sa-I slujiti din toata inima voastra si din tot sufletul vostru.”"
+      \ vi le-a dat Moise, robul lui Yaue: sa iubiti pe Yaue Elohim al vostru, sa\
+      \ umblati in toate caile Lui, sa tineti Poruncile Lui, sa va alipiti de El si\
+      \ sa-I slujiti din toata inima voastra si din tot sufletul vostru.”"
     textWithDiacritics: "Aveţi grijă numai să păziţi şi să împliniţi Poruncile şi\
-      \ Legile pe care vi le-a dat Moise, robul lui YaHWeH: să iubiţi pe YaHWeH Eylohim\
+      \ Legile pe care vi le-a dat Moise, robul lui Yaue: să iubiţi pe Yaue Elohim\
       \ al vostru, să umblaţi în toate căile Lui, să ţineţi Poruncile Lui, să vă alipiţ\
       i de El şi să-I slujiţi din toată inima voastră şi din tot sufletul vostru.”"
     chapter: null
@@ -3995,11 +3989,11 @@ chapterPojo:
     text: "Fiii lui Ruben, fiii lui Gad si jumatate din semintia lui Manase s-au intors\
       \ acasa, lasind pe copiii lui Israel la Silo, in tara Canaanului, ca sa se duca\
       \ in tara Galaadului, care era mosia lor si unde se asezasera, cum poruncise\
-      \ lui Moise, YaHWeH. Ei zidesc un alt altar"
+      \ lui Moise, Yaue. Ei zidesc un alt altar"
     textWithDiacritics: "Fiii lui Ruben, fiii lui Gad şi jumătate din seminţia lui\
       \ Manase s-au întors acasă, lăsînd pe copiii lui Israel la Silo, în ţara Canaanului,\
       \ ca să se ducă în ţara Galaadului, care era moşia lor şi unde se aşezaseră\
-      , cum poruncise lui Moise, YaHWeH. Ei zidesc un alt altar"
+      , cum poruncise lui Moise, Yaue. Ei zidesc un alt altar"
     chapter: null
   - verseNumber: 10
     text: "Cind au ajuns pe malurile Iordanului, care fac parte din tara Canaanului,\
@@ -4049,50 +4043,49 @@ chapterPojo:
       tate din seminţia lui Manase, în ţara Galaadului, şi le-au vorbit astfel:"
     chapter: null
   - verseNumber: 16
-    text: "„Asa vorbeste toata Adunarea lui YaHWeH: „Ce inseamna pacatul acesta pe\
-      \ care l-ati savirsit fata de Eylohim al lui Israel, si pentru ce va abateti\
-      \ acum de la YaHWeH, zidindu-va un altar ca sa va razvratiti azi impotriva lui\
-      \ YaHWeH?"
-    textWithDiacritics: "„Aşa vorbeşte toată Adunarea lui YaHWeH: „Ce înseamnă pă\
-      catul acesta pe care l-aţi săvîrşit faţă de Eylohim al lui Israel, şi pentru\
-      \ ce vă abateţi acum de la YaHWeH, zidindu-vă un altar ca să vă răzvrătiţi azi\
-      \ împotriva lui YaHWeH?"
+    text: "„Asa vorbeste toata Adunarea lui Yaue: „Ce inseamna pacatul acesta pe care\
+      \ l-ati savirsit fata de Elohim al lui Israel, si pentru ce va abateti acum\
+      \ de la Yaue, zidindu-va un altar ca sa va razvratiti azi impotriva lui Yaue?"
+    textWithDiacritics: "„Aşa vorbeşte toată Adunarea lui Yaue: „Ce înseamnă păcatul\
+      \ acesta pe care l-aţi săvîrşit faţă de Elohim al lui Israel, şi pentru ce vă\
+      \ abateţi acum de la Yaue, zidindu-vă un altar ca să vă răzvrătiţi azi împotriva\
+      \ lui Yaue?"
     chapter: null
   - verseNumber: 17
     text: "Privim oare ca o nimica nelegiuirea lui Peor, a carui pata n-am ridicat-o\
       \ pina acum de peste noi, cu toata urgia pe care a adus-o ea asupra Adunarii\
-      \ lui YaHWeH?"
+      \ lui Yaue?"
     textWithDiacritics: "Privim oare ca o nimica nelegiuirea lui Peor, a cărui pată\
       \ n-am ridicat-o pînă acum de peste noi, cu toată urgia pe care a adus-o ea\
-      \ asupra Adunării lui YaHWeH?"
+      \ asupra Adunării lui Yaue?"
     chapter: null
   - verseNumber: 18
-    text: "Si voi va abateti astazi de la YaHWeH! Daca va razvratiti azi impotriva\
-      \ lui YaHWeH, miine El Se va minia impotriva intregii adunari a lui Israel."
-    textWithDiacritics: "Şi voi vă abateţi astăzi de la YaHWeH! Dacă vă răzvrătiţ\
-      i azi împotriva lui YaHWeH, mîine El Se va mînia împotriva întregii adunări\
-      \ a lui Israel."
+    text: "Si voi va abateti astazi de la Yaue! Daca va razvratiti azi impotriva lui\
+      \ Yaue, miine El Se va minia impotriva intregii adunari a lui Israel."
+    textWithDiacritics: "Şi voi vă abateţi astăzi de la Yaue! Dacă vă răzvrătiţi azi\
+      \ împotriva lui Yaue, mîine El Se va mînia împotriva întregii adunări a lui\
+      \ Israel."
     chapter: null
   - verseNumber: 19
     text: "Daca priviti ca necurata tara care este mosia voastra, treceti in tara\
-      \ care este mosia lui YaHWeH, unde este asezata locuinta lui YaHWeH, si asezati-va\
-      \ in mijlocul nostru; dar nu va razvratiti impotriva lui YaHWeH si nu va despartiti\
-      \ de noi, zidindu-va un altar, afara de altarul lui YaHWeH Eylohim al nostru!"
+      \ care este mosia lui Yaue, unde este asezata locuinta lui Yaue, si asezati-va\
+      \ in mijlocul nostru; dar nu va razvratiti impotriva lui Yaue si nu va despartiti\
+      \ de noi, zidindu-va un altar, afara de altarul lui Yaue Elohim al nostru!"
     textWithDiacritics: "Dacă priviţi ca necurată ţara care este moşia voastră, treceţ\
-      i în ţara care este moşia lui YaHWeH, unde este aşezată locuinţa lui YaHWeH,\
-      \ şi aşezaţi-vă în mijlocul nostru; dar nu vă răzvrătiţi împotriva lui YaHWeH\
-      \ şi nu vă despărţiţi de noi, zidindu-vă un altar, afară de altarul lui YaHWeH\
-      \ Eylohim al nostru!"
+      i în ţara care este moşia lui Yaue, unde este aşezată locuinţa lui Yaue, şi\
+      \ aşezaţi-vă în mijlocul nostru; dar nu vă răzvrătiţi împotriva lui Yaue şi\
+      \ nu vă despărţiţi de noi, zidindu-vă un altar, afară de altarul lui Yaue Elohim\
+      \ al nostru!"
     chapter: null
   - verseNumber: 20
     text: "Acan, fiul lui Zerah, n-a savirsit oare un pacat cu privire la lucrurile\
-      \ date spre nimicire si nu S-a aprins de minie YaHWeH impotriva intregii Adunarii\
+      \ date spre nimicire si nu S-a aprins de minie Yaue impotriva intregii Adunarii\
       \ a lui Israel? Si el n-a fost singurul care a pierit din pricina nelegiuirii\
       \ lui.” Apararea lor"
     textWithDiacritics: "Acan, fiul lui Zerah, n-a săvîrşit oare un păcat cu privire\
-      \ la lucrurile date spre nimicire şi nu S-a aprins de mînie YaHWeH împotriva\
-      \ întregii Adunării a lui Israel? Şi el n-a fost singurul care a pierit din\
-      \ pricina nelegiuirii lui.” Apărarea lor"
+      \ la lucrurile date spre nimicire şi nu S-a aprins de mînie Yaue împotriva î\
+      ntregii Adunării a lui Israel? Şi el n-a fost singurul care a pierit din pricina\
+      \ nelegiuirii lui.” Apărarea lor"
     chapter: null
   - verseNumber: 21
     text: "Fiii lui Ruben, fiii lui Gad si jumatate din semintia lui Manase au raspuns\
@@ -4101,38 +4094,37 @@ chapterPojo:
       \ Manase au răspuns astfel căpeteniilor peste miile lui Israel:"
     chapter: null
   - verseNumber: 22
-    text: "„ YaHWeH Eylohim cel Atotputernic, YaHWeH Eylohim cel Atotputernic stie,\
-      \ si Israel insusi sa stie lucrul acesta! Daca din razvratire si pacatuire impotriva\
-      \ lui YaHWeH am facut lucrul acesta, sa nu ne vina in ajutor YaHWeH in ziua\
-      \ aceasta!"
-    textWithDiacritics: "„ YaHWeH Eylohim cel Atotputernic, YaHWeH Eylohim cel Atotputernic\
+    text: "„ Yaue Elohim cel Atotputernic, Yaue Elohim cel Atotputernic stie, si Israel\
+      \ insusi sa stie lucrul acesta! Daca din razvratire si pacatuire impotriva lui\
+      \ Yaue am facut lucrul acesta, sa nu ne vina in ajutor Yaue in ziua aceasta!"
+    textWithDiacritics: "„ Yaue Elohim cel Atotputernic, Yaue Elohim cel Atotputernic\
       \ ştie, şi Israel însuşi să ştie lucrul acesta! Dacă din răzvrătire şi păcă\
-      tuire împotriva lui YaHWeH am făcut lucrul acesta, să nu ne vină în ajutor YaHWeH\
+      tuire împotriva lui Yaue am făcut lucrul acesta, să nu ne vină în ajutor Yaue\
       \ în ziua aceasta!"
     chapter: null
   - verseNumber: 23
-    text: "Daca ne-am zidit un altar ca sa ne abatem de la YaHWeH, ca sa aducem pe\
-      \ el arderi de tot si daruri de mincare si ca sa aducem pe el jertfe de multumiri,\
-      \ YaHWeH sa ne ceara socoteala de aceasta!"
-    textWithDiacritics: "Dacă ne-am zidit un altar ca să ne abatem de la YaHWeH, ca\
+    text: "Daca ne-am zidit un altar ca sa ne abatem de la Yaue, ca sa aducem pe el\
+      \ arderi de tot si daruri de mincare si ca sa aducem pe el jertfe de multumiri,\
+      \ Yaue sa ne ceara socoteala de aceasta!"
+    textWithDiacritics: "Dacă ne-am zidit un altar ca să ne abatem de la Yaue, ca\
       \ să aducem pe el arderi de tot şi daruri de mîncare şi ca să aducem pe el jertfe\
-      \ de mulţumiri, YaHWeH să ne ceară socoteală de aceasta!"
+      \ de mulţumiri, Yaue să ne ceară socoteală de aceasta!"
     chapter: null
   - verseNumber: 24
     text: "Am facut lucrul acesta mai degraba de frica, gindindu-ne ca intr-o zi s-ar\
       \ putea ca fiii vostri sa zica fiilor nostri: „Ce legatura este intre voi si\
-      \ YaHWeH Eylohim al lui Israel?"
+      \ Yaue Elohim al lui Israel?"
     textWithDiacritics: "Am făcut lucrul acesta mai degrabă de frică, gîndindu-ne\
       \ că într-o zi s-ar putea ca fiii voştri să zică fiilor noştri: „Ce legătură\
-      \ este între voi şi YaHWeH Eylohim al lui Israel?"
+      \ este între voi şi Yaue Elohim al lui Israel?"
     chapter: null
   - verseNumber: 25
-    text: "YaHWeH a pus Iordanul hotar intre noi si voi, fii ai lui Ruben si fii ai\
-      \ lui Gad: voi n-aveti parte de YaHWeH!” – Si fiii vostri ar face astfel ca\
-      \ fiii nostri sa nu se mai teama de YaHWeH."
-    textWithDiacritics: "YaHWeH a pus Iordanul hotar între noi şi voi, fii ai lui\
-      \ Ruben şi fii ai lui Gad: voi n-aveţi parte de YaHWeH!” – Şi fiii voştri ar\
-      \ face astfel ca fiii noştri să nu se mai teamă de YaHWeH."
+    text: "Yaue a pus Iordanul hotar intre noi si voi, fii ai lui Ruben si fii ai\
+      \ lui Gad: voi n-aveti parte de Yaue!” – Si fiii vostri ar face astfel ca fiii\
+      \ nostri sa nu se mai teama de Yaue."
+    textWithDiacritics: "Yaue a pus Iordanul hotar între noi şi voi, fii ai lui Ruben\
+      \ şi fii ai lui Gad: voi n-aveţi parte de Yaue!” – Şi fiii voştri ar face astfel\
+      \ ca fiii noştri să nu se mai teamă de Yaue."
     chapter: null
   - verseNumber: 26
     text: "De aceea am zis: „Sa ne zidim deci un altar nu pentru arderi de tot si\
@@ -4142,33 +4134,33 @@ chapterPojo:
     chapter: null
   - verseNumber: 27
     text: "ci ca o Marturie intre noi si voi, intre urmasii nostri si ai vostri, ca\
-      \ voim sa slujim lui YaHWeH, inaintea fetei Lui, prin arderile noastre de tot\
+      \ voim sa slujim lui Yaue, inaintea fetei Lui, prin arderile noastre de tot\
       \ si prin jertfele noastre de ispasire si de multumiri, ca sa nu zica fiii vostri\
-      \ intr-o zi fiilor nostri: „Voi n-aveti parte de YaHWeH!”"
+      \ intr-o zi fiilor nostri: „Voi n-aveti parte de Yaue!”"
     textWithDiacritics: "ci ca o Mărturie între noi şi voi, între urmaşii noştri ş\
-      i ai voştri, că voim să slujim lui YaHWeH, înaintea feţei Lui, prin arderile\
-      \ noastre de tot şi prin jertfele noastre de ispăşire şi de mulţumiri, ca să\
-      \ nu zică fiii voştri într-o zi fiilor noştri: „Voi n-aveţi parte de YaHWeH!”"
+      i ai voştri, că voim să slujim lui Yaue, înaintea feţei Lui, prin arderile noastre\
+      \ de tot şi prin jertfele noastre de ispăşire şi de mulţumiri, ca să nu zică\
+      \ fiii voştri într-o zi fiilor noştri: „Voi n-aveţi parte de Yaue!”"
     chapter: null
   - verseNumber: 28
     text: "Noi am zis: „Daca mai tirziu ne vor vorbi astfel noua sau urmasilor nostri,\
-      \ vom raspunde: „Priviti chipul altarului lui YaHWeH pe care l-au facut parintii\
+      \ vom raspunde: „Priviti chipul altarului lui Yaue pe care l-au facut parintii\
       \ nostri nu pentru arderi de tot si pentru jertfe, ci ca marturie intre noi\
       \ si voi."
     textWithDiacritics: "Noi am zis: „Dacă mai tîrziu ne vor vorbi astfel nouă sau\
-      \ urmaşilor noştri, vom răspunde: „Priviţi chipul altarului lui YaHWeH pe care\
+      \ urmaşilor noştri, vom răspunde: „Priviţi chipul altarului lui Yaue pe care\
       \ l-au făcut părinţii noştri nu pentru arderi de tot şi pentru jertfe, ci ca\
       \ mărturie între noi şi voi."
     chapter: null
   - verseNumber: 29
-    text: "Departe de noi gindul sa ne razvratim impotriva lui YaHWeH si sa ne abatem\
-      \ astazi de la YaHWeH, zidind un altar pentru arderi de tot, pentru daruri de\
-      \ mincare si pentru jertfe, afara de altarul lui YaHWeH Eylohim al nostru care\
+    text: "Departe de noi gindul sa ne razvratim impotriva lui Yaue si sa ne abatem\
+      \ astazi de la Yaue, zidind un altar pentru arderi de tot, pentru daruri de\
+      \ mincare si pentru jertfe, afara de altarul lui Yaue Elohim al nostru care\
       \ este inaintea Locasului Lui!”"
-    textWithDiacritics: "Departe de noi gîndul să ne răzvrătim împotriva lui YaHWeH\
-      \ şi să ne abatem astăzi de la YaHWeH, zidind un altar pentru arderi de tot,\
-      \ pentru daruri de mîncare şi pentru jertfe, afară de altarul lui YaHWeH Eylohim\
-      \ al nostru care este înaintea Locaşului Lui!”"
+    textWithDiacritics: "Departe de noi gîndul să ne răzvrătim împotriva lui Yaue\
+      \ şi să ne abatem astăzi de la Yaue, zidind un altar pentru arderi de tot, pentru\
+      \ daruri de mîncare şi pentru jertfe, afară de altarul lui Yaue Elohim al nostru\
+      \ care este înaintea Locaşului Lui!”"
     chapter: null
   - verseNumber: 30
     text: "Cind au auzit preotul Fineas si capeteniile adunarii, capeteniile peste\
@@ -4180,13 +4172,13 @@ chapterPojo:
     chapter: null
   - verseNumber: 31
     text: "Si Fineas, fiul preotului Eleazar, a zis fiilor lui Ruben, fiilor lui Gad\
-      \ si fiilor lui Manase: „Cunoastem acum ca YaHWeH este in mijlocul nostru, fiindca\
-      \ n-ati savirsit pacatul acesta impotriva lui YaHWeH; si ati izbavit astfel\
-      \ pe copiii lui Israel din mina lui YaHWeH.”"
+      \ si fiilor lui Manase: „Cunoastem acum ca Yaue este in mijlocul nostru, fiindca\
+      \ n-ati savirsit pacatul acesta impotriva lui Yaue; si ati izbavit astfel pe\
+      \ copiii lui Israel din mina lui Yaue.”"
     textWithDiacritics: "Şi Fineas, fiul preotului Eleazar, a zis fiilor lui Ruben,\
-      \ fiilor lui Gad şi fiilor lui Manase: „Cunoaştem acum că YaHWeH este în mijlocul\
-      \ nostru, fiindcă n-aţi săvîrşit păcatul acesta împotriva lui YaHWeH; şi aţ\
-      i izbăvit astfel pe copiii lui Israel din mîna lui YaHWeH.”"
+      \ fiilor lui Gad şi fiilor lui Manase: „Cunoaştem acum că Yaue este în mijlocul\
+      \ nostru, fiindcă n-aţi săvîrşit păcatul acesta împotriva lui Yaue; şi aţi izbă\
+      vit astfel pe copiii lui Israel din mîna lui Yaue.”"
     chapter: null
   - verseNumber: 32
     text: "Fineas, fiul preotului Eleazar, si capeteniile au parasit pe fiii lui Ruben\
@@ -4197,28 +4189,27 @@ chapterPojo:
       n ţara Canaanului, la copiii lui Israel, cărora le-au făcut o dare de seamă."
     chapter: null
   - verseNumber: 33
-    text: "Copiii lui Israel au ramas multumiti; au binecuvintat pe Eylohim si n-au\
+    text: "Copiii lui Israel au ramas multumiti; au binecuvintat pe Elohim si n-au\
       \ mai vorbit sa se suie inarmati ca sa pustiasca tara pe care o locuiau fiii\
       \ lui Ruben si fiii lui Gad."
     textWithDiacritics: "Copiii lui Israel au rămas mulţumiţi; au binecuvîntat pe\
-      \ Eylohim şi n-au mai vorbit să se suie înarmaţi ca să pustiască ţara pe care\
+      \ Elohim şi n-au mai vorbit să se suie înarmaţi ca să pustiască ţara pe care\
       \ o locuiau fiii lui Ruben şi fiii lui Gad."
     chapter: null
   - verseNumber: 34
     text: "Fiii lui Ruben si fiii lui Gad au numit altarul acela Ed a) „caci”, au\
-      \ zis ei, „el este martor intre noi ca YaHWeH este Eylohim.” [ a) Sau: Martor\
-      \ ]"
+      \ zis ei, „el este martor intre noi ca Yaue este Elohim.” [ a) Sau: Martor ]"
     textWithDiacritics: "Fiii lui Ruben şi fiii lui Gad au numit altarul acela Ed\
-      \ a) „căci”, au zis ei, „el este martor între noi că YaHWeH este Eylohim.” [\
-      \ a) Sau: Martor ]"
+      \ a) „căci”, au zis ei, „el este martor între noi că Yaue este Elohim.” [ a)\
+      \ Sau: Martor ]"
     chapter: null
 - number: 23
   book: null
   versePojo:
   - verseNumber: 1
-    text: "De multa vreme YaHWeH daduse odihna lui Israel, izbavindu-l de toti vrajmasii\
+    text: "De multa vreme Yaue daduse odihna lui Israel, izbavindu-l de toti vrajmasii\
       \ care-l inconjurau. Iosua era batrin, inaintat in virsta."
-    textWithDiacritics: "De multă vreme YaHWeH dăduse odihnă lui Israel, izbăvindu-l\
+    textWithDiacritics: "De multă vreme Yaue dăduse odihnă lui Israel, izbăvindu-l\
       \ de toţi vrăjmaşii care-l înconjurau. Iosua era bătrîn, înaintat în vîrstă."
     chapter: null
   - verseNumber: 2
@@ -4230,11 +4221,10 @@ chapterPojo:
       \ „Eu sunt bătrîn, înaintat în vîrstă."
     chapter: null
   - verseNumber: 3
-    text: "Ati vazut tot ce a facut YaHWeH Eylohim al vostru tuturor neamurilor acelora\
-      \ dinaintea voastra; caci YaHWeH Eylohim al vostru a luptat pentru voi."
-    textWithDiacritics: "Aţi văzut tot ce a făcut YaHWeH Eylohim al vostru tuturor\
-      \ neamurilor acelora dinaintea voastră; căci YaHWeH Eylohim al vostru a luptat\
-      \ pentru voi."
+    text: "Ati vazut tot ce a facut Yaue Elohim al vostru tuturor neamurilor acelora\
+      \ dinaintea voastra; caci Yaue Elohim al vostru a luptat pentru voi."
+    textWithDiacritics: "Aţi văzut tot ce a făcut Yaue Elohim al vostru tuturor neamurilor\
+      \ acelora dinaintea voastră; căci Yaue Elohim al vostru a luptat pentru voi."
     chapter: null
   - verseNumber: 4
     text: "Vedeti, v-am dat ca mostenire prin sorti, dupa semintiile voastre, neamurile\
@@ -4245,12 +4235,11 @@ chapterPojo:
       \ neamurile pe care le-am nimicit, pînă la Marea cea Mare spre apusul soarelui."
     chapter: null
   - verseNumber: 5
-    text: "YaHWeH Eylohim al vostru le va izgoni dinaintea voastra si le va alunga\
-      \ dinaintea voastra; si voi le veti stapini tara, cum a spus YaHWeH, Eylohim\
-      \ al vostru."
-    textWithDiacritics: "YaHWeH Eylohim al vostru le va izgoni dinaintea voastră ş\
-      i le va alunga dinaintea voastră; şi voi le veţi stăpîni ţara, cum a spus YaHWeH,\
-      \ Eylohim al vostru."
+    text: "Yaue Elohim al vostru le va izgoni dinaintea voastra si le va alunga dinaintea\
+      \ voastra; si voi le veti stapini tara, cum a spus Yaue, Elohim al vostru."
+    textWithDiacritics: "Yaue Elohim al vostru le va izgoni dinaintea voastră şi le\
+      \ va alunga dinaintea voastră; şi voi le veţi stăpîni ţara, cum a spus Yaue,\
+      \ Elohim al vostru."
     chapter: null
   - verseNumber: 6
     text: "Puneti-va toata puterea ca sa paziti si sa impliniti tot ce este scris\
@@ -4268,27 +4257,27 @@ chapterPojo:
       \ să nu le slujiţi şi să nu vă închinaţi înaintea lor."
     chapter: null
   - verseNumber: 8
-    text: "Ci alipiti-va de YaHWeH Eylohim al vostru, cum ati facut pina in ziua aceasta."
-    textWithDiacritics: "Ci alipiţi-vă de YaHWeH Eylohim al vostru, cum aţi făcut\
-      \ pînă în ziua aceasta."
+    text: "Ci alipiti-va de Yaue Elohim al vostru, cum ati facut pina in ziua aceasta."
+    textWithDiacritics: "Ci alipiţi-vă de Yaue Elohim al vostru, cum aţi făcut pî\
+      nă în ziua aceasta."
     chapter: null
   - verseNumber: 9
-    text: "YaHWeH a izgonit dinaintea voastra neamuri mari si puternice; si nimeni,\
+    text: "Yaue a izgonit dinaintea voastra neamuri mari si puternice; si nimeni,\
       \ pina in ziua aceasta, n-a putut sa va stea impotriva."
-    textWithDiacritics: "YaHWeH a izgonit dinaintea voastră neamuri mari şi puternice;\
+    textWithDiacritics: "Yaue a izgonit dinaintea voastră neamuri mari şi puternice;\
       \ şi nimeni, pînă în ziua aceasta, n-a putut să vă stea împotrivă."
     chapter: null
   - verseNumber: 10
-    text: "Unul singur dintre voi urmarea o mie din ei, caci YaHWeH Eylohim al vostru\
+    text: "Unul singur dintre voi urmarea o mie din ei, caci Yaue Elohim al vostru\
       \ lupta pentru voi, cum v-a spus."
-    textWithDiacritics: "Unul singur dintre voi urmărea o mie din ei, căci YaHWeH\
-      \ Eylohim al vostru lupta pentru voi, cum v-a spus."
+    textWithDiacritics: "Unul singur dintre voi urmărea o mie din ei, căci Yaue Elohim\
+      \ al vostru lupta pentru voi, cum v-a spus."
     chapter: null
   - verseNumber: 11
     text: "Vegheati, dar, cu luare aminte asupra sufletelor voastre, ca sa iubiti\
-      \ pe YaHWeH, Eylohim al vostru."
+      \ pe Yaue, Elohim al vostru."
     textWithDiacritics: "Vegheaţi, dar, cu luare aminte asupra sufletelor voastre,\
-      \ ca să iubiţi pe YaHWeH, Eylohim al vostru."
+      \ ca să iubiţi pe Yaue, Elohim al vostru."
     chapter: null
   - verseNumber: 12
     text: "Daca va veti abate si va veti alipi de neamurile acestea care au ramas\
@@ -4299,45 +4288,44 @@ chapterPojo:
       \ veţi intra în legături cu ele,"
     chapter: null
   - verseNumber: 13
-    text: "sa fiti incredintati ca YaHWeH Eylohim al vostru nu va mai izgoni aceste\
-      \ neamuri dinaintea voastra; ci ele va vor fi o cursa si un lat, un bici in\
-      \ coaste si niste spini in ochi, pina veti pieri de pe fata acestei tari bune,\
-      \ pe care v-a dat-o YaHWeH Eylohim al vostru."
-    textWithDiacritics: "să fiţi încredinţaţi că YaHWeH Eylohim al vostru nu va mai\
-      \ izgoni aceste neamuri dinaintea voastră; ci ele vă vor fi o cursă şi un laţ\
-      , un bici în coaste şi nişte spini în ochi, pînă veţi pieri de pe faţa acestei\
-      \ ţări bune, pe care v-a dat-o YaHWeH Eylohim al vostru."
+    text: "sa fiti incredintati ca Yaue Elohim al vostru nu va mai izgoni aceste neamuri\
+      \ dinaintea voastra; ci ele va vor fi o cursa si un lat, un bici in coaste si\
+      \ niste spini in ochi, pina veti pieri de pe fata acestei tari bune, pe care\
+      \ v-a dat-o Yaue Elohim al vostru."
+    textWithDiacritics: "să fiţi încredinţaţi că Yaue Elohim al vostru nu va mai izgoni\
+      \ aceste neamuri dinaintea voastră; ci ele vă vor fi o cursă şi un laţ, un bici\
+      \ în coaste şi nişte spini în ochi, pînă veţi pieri de pe faţa acestei ţări\
+      \ bune, pe care v-a dat-o Yaue Elohim al vostru."
     chapter: null
   - verseNumber: 14
     text: "Iata ca astazi eu ma duc pe calea pe care merge tot ce este pamintesc.\
       \ Recunoasteti, dar, din toata inima voastra si din tot sufletul vostru, ca\
-      \ niciunul din toate cuvintele bune rostite asupra voastra de YaHWeH Eylohim\
-      \ al vostru n-a ramas neimplinit; toate vi s-au implinit, niciunul n-a ramas\
-      \ neimplinit."
+      \ niciunul din toate cuvintele bune rostite asupra voastra de Yaue Elohim al\
+      \ vostru n-a ramas neimplinit; toate vi s-au implinit, niciunul n-a ramas neimplinit."
     textWithDiacritics: "Iată că astăzi eu mă duc pe calea pe care merge tot ce este\
       \ pămîntesc. Recunoaşteţi, dar, din toată inima voastră şi din tot sufletul\
-      \ vostru, că niciunul din toate cuvintele bune rostite asupra voastră de YaHWeH\
-      \ Eylohim al vostru n-a rămas neîmplinit; toate vi s-au împlinit, niciunul n-a\
+      \ vostru, că niciunul din toate cuvintele bune rostite asupra voastră de Yaue\
+      \ Elohim al vostru n-a rămas neîmplinit; toate vi s-au împlinit, niciunul n-a\
       \ rămas neîmplinit."
     chapter: null
   - verseNumber: 15
-    text: "Si dupa cum toate cuvintele bune pe care vi le spusese YaHWeH Eylohim al\
-      \ vostru s-au implinit pentru voi, tot asa YaHWeH va implini fata de voi toate\
-      \ cuvintele rele, pina va va nimici de pe fata acestei tari bune pe care v-a\
-      \ dat-o YaHWeH Eylohim al vostru."
-    textWithDiacritics: "Şi după cum toate cuvintele bune pe care vi le spusese YaHWeH\
-      \ Eylohim al vostru s-au împlinit pentru voi, tot aşa YaHWeH va împlini faţă\
-      \ de voi toate cuvintele rele, pînă vă va nimici de pe faţa acestei ţări bune\
-      \ pe care v-a dat-o YaHWeH Eylohim al vostru."
+    text: "Si dupa cum toate cuvintele bune pe care vi le spusese Yaue Elohim al vostru\
+      \ s-au implinit pentru voi, tot asa Yaue va implini fata de voi toate cuvintele\
+      \ rele, pina va va nimici de pe fata acestei tari bune pe care v-a dat-o Yaue\
+      \ Elohim al vostru."
+    textWithDiacritics: "Şi după cum toate cuvintele bune pe care vi le spusese Yaue\
+      \ Elohim al vostru s-au împlinit pentru voi, tot aşa Yaue va împlini faţă de\
+      \ voi toate cuvintele rele, pînă vă va nimici de pe faţa acestei ţări bune pe\
+      \ care v-a dat-o Yaue Elohim al vostru."
     chapter: null
   - verseNumber: 16
-    text: "Daca veti calca Legamintul pe care vi l-a dat YaHWeH, Eylohim al vostru\
-      \ si daca va veti duce sa slujiti dumnezeilor si sa va inchinati inaintea lor,\
-      \ YaHWeH Se va aprinde de minie impotriva voastra si veti pieri degraba din\
-      \ tara cea buna pe care v-a dat-o El.”"
-    textWithDiacritics: "Dacă veţi călca Legămîntul pe care vi l-a dat YaHWeH, Eylohim\
+    text: "Daca veti calca Legamintul pe care vi l-a dat Yaue, Elohim al vostru si\
+      \ daca va veti duce sa slujiti dumnezeilor si sa va inchinati inaintea lor,\
+      \ Yaue Se va aprinde de minie impotriva voastra si veti pieri degraba din tara\
+      \ cea buna pe care v-a dat-o El.”"
+    textWithDiacritics: "Dacă veţi călca Legămîntul pe care vi l-a dat Yaue, Elohim\
       \ al vostru şi dacă vă veţi duce să slujiţi dumnezeilor şi să vă închinaţi î\
-      naintea lor, YaHWeH Se va aprinde de mînie împotriva voastră şi veţi pieri degrabă\
+      naintea lor, Yaue Se va aprinde de mînie împotriva voastră şi veţi pieri degrabă\
       \ din ţara cea bună pe care v-a dat-o El.”"
     chapter: null
 - number: 24
@@ -4346,17 +4334,17 @@ chapterPojo:
   - verseNumber: 1
     text: "Iosua a adunat toate semintiile lui Israel la Sihem si a chemat pe batrinii\
       \ lui Israel, pe capeteniile lui, pe judecatorii lui si pe capeteniile ostii.\
-      \ Ei s-au infatisat inaintea lui Eylohim."
+      \ Ei s-au infatisat inaintea lui Elohim."
     textWithDiacritics: "Iosua a adunat toate seminţiile lui Israel la Sihem şi a\
       \ chemat pe bătrînii lui Israel, pe căpeteniile lui, pe judecătorii lui şi pe\
-      \ căpeteniile oştii. Ei s-au înfăţişat înaintea lui Eylohim."
+      \ căpeteniile oştii. Ei s-au înfăţişat înaintea lui Elohim."
     chapter: null
   - verseNumber: 2
-    text: "Iosua a zis intregului popor: „Asa vorbeste YaHWeH Eylohim al lui Israel:\
+    text: "Iosua a zis intregului popor: „Asa vorbeste Yaue Elohim al lui Israel:\
       \ „Parintele vostru, Terah, tatal lui Avraam si tatal lui Nahor, locuia in vechime\
       \ de cealalta parte a Riului a) si slujeadumnezeilor. [ a) Eufrat ]"
-    textWithDiacritics: "Iosua a zis întregului popor: „Aşa vorbeşte YaHWeH Eylohim\
-      \ al lui Israel: „Părintele vostru, Terah, tatăl lui Avraam şi tatăl lui Nahor,\
+    textWithDiacritics: "Iosua a zis întregului popor: „Aşa vorbeşte Yaue Elohim al\
+      \ lui Israel: „Părintele vostru, Terah, tatăl lui Avraam şi tatăl lui Nahor,\
       \ locuia în vechime de cealaltă parte a Rîului a) şi slujeadumnezeilor. [ a)\
       \ Eufrat ]"
     chapter: null
@@ -4387,13 +4375,12 @@ chapterPojo:
       lăreţi."
     chapter: null
   - verseNumber: 7
-    text: "Parintii vostri au strigat catre YaHWeH. Si YaHWeH a pus intuneric intre\
-      \ voi si egipteni, a adus marea inapoi peste ei si i-a acoperit. Ati vazut cu\
-      \ ochii vostri ce am facut egiptenilor. Si ati ramas multa vreme in pustiu."
-    textWithDiacritics: "Părinţii voştri au strigat către YaHWeH. Şi YaHWeH a pus\
-      \ întuneric între voi şi egipteni, a adus marea înapoi peste ei şi i-a acoperit.\
-      \ Aţi văzut cu ochii voştri ce am făcut egiptenilor. Şi aţi rămas multă vreme\
-      \ în pustiu."
+    text: "Parintii vostri au strigat catre Yaue. Si Yaue a pus intuneric intre voi\
+      \ si egipteni, a adus marea inapoi peste ei si i-a acoperit. Ati vazut cu ochii\
+      \ vostri ce am facut egiptenilor. Si ati ramas multa vreme in pustiu."
+    textWithDiacritics: "Părinţii voştri au strigat către Yaue. Şi Yaue a pus întuneric\
+      \ între voi şi egipteni, a adus marea înapoi peste ei şi i-a acoperit. Aţi vă\
+      zut cu ochii voştri ce am făcut egiptenilor. Şi aţi rămas multă vreme în pustiu."
     chapter: null
   - verseNumber: 8
     text: "V-am adus in tara amoritilor, care locuiau dincolo de Iordan, si ei au\
@@ -4441,79 +4428,79 @@ chapterPojo:
       ţi, dar care vă slujesc ca hrană. Făgăduinţele poporului"
     chapter: null
   - verseNumber: 14
-    text: "Acum, temeti-va de YaHWeH si slujiti-I cu scumpatate si credinciosie. Departati\
+    text: "Acum, temeti-va de Yaue si slujiti-I cu scumpatate si credinciosie. Departati\
       \ toti dumnezeii carora le-au slujit parintii vostri dincolo de Riu si in Egipt\
-      \ si slujiti lui YaHWeH."
-    textWithDiacritics: "Acum, temeţi-vă de YaHWeH şi slujiţi-I cu scumpătate şi credincioş\
+      \ si slujiti lui Yaue."
+    textWithDiacritics: "Acum, temeţi-vă de Yaue şi slujiţi-I cu scumpătate şi credincioş\
       ie. Depărtaţi toţi dumnezeii cărora le-au slujit părinţii voştri dincolo de\
-      \ Rîu şi în Egipt şi slujiţi lui YaHWeH."
+      \ Rîu şi în Egipt şi slujiţi lui Yaue."
     chapter: null
   - verseNumber: 15
-    text: "Si daca nu gasiti cu cale sa slujiti lui YaHWeH, alegeti astazi cui vreti\
+    text: "Si daca nu gasiti cu cale sa slujiti lui Yaue, alegeti astazi cui vreti\
       \ sa slujiti: sau dumnezeilor carora le slujeau parintii vostri dincolo de Riu,\
       \ sau dumnezeilor amoritilor in a caror tara locuiti. Cit despre mine, eu si\
-      \ casa mea vom sluji lui YaHWeH.”"
-    textWithDiacritics: "Şi dacă nu găsiţi cu cale să slujiţi lui YaHWeH, alegeţi\
-      \ astăzi cui vreţi să slujiţi: sau dumnezeilor cărora le slujeau părinţii voş\
-      tri dincolo de Rîu, sau dumnezeilor amoriţilor în a căror ţară locuiţi. Cît\
-      \ despre mine, eu şi casa mea vom sluji lui YaHWeH.”"
+      \ casa mea vom sluji lui Yaue.”"
+    textWithDiacritics: "Şi dacă nu găsiţi cu cale să slujiţi lui Yaue, alegeţi astă\
+      zi cui vreţi să slujiţi: sau dumnezeilor cărora le slujeau părinţii voştri dincolo\
+      \ de Rîu, sau dumnezeilor amoriţilor în a căror ţară locuiţi. Cît despre mine,\
+      \ eu şi casa mea vom sluji lui Yaue.”"
     chapter: null
   - verseNumber: 16
-    text: "Poporul a raspuns si a zis: „Departe de noi gindul sa parasim pe YaHWeH\
-      \ si sa slujim dumnezeilor."
+    text: "Poporul a raspuns si a zis: „Departe de noi gindul sa parasim pe Yaue si\
+      \ sa slujim dumnezeilor."
     textWithDiacritics: "Poporul a răspuns şi a zis: „Departe de noi gîndul să pă\
-      răsim pe YaHWeH şi să slujim dumnezeilor."
+      răsim pe Yaue şi să slujim dumnezeilor."
     chapter: null
   - verseNumber: 17
-    text: "Caci YaHWeH este Eylohim al nostru. El ne-a scos din tara Egiptului, din\
-      \ casa robiei, pe noi si pe parintii nostri; El a facut inaintea ochilor nostri\
-      \ acele minuni mari si ne-a pazit in tot timpul drumului pe care l-am urmat\
-      \ si in mijlocul tuturor popoarelor pe la care am trecut."
-    textWithDiacritics: "Căci YaHWeH este Eylohim al nostru. El ne-a scos din ţara\
-      \ Egiptului, din casa robiei, pe noi şi pe părinţii noştri; El a făcut înaintea\
-      \ ochilor noştri acele minuni mari şi ne-a păzit în tot timpul drumului pe care\
-      \ l-am urmat şi în mijlocul tuturor popoarelor pe la care am trecut."
+    text: "Caci Yaue este Elohim al nostru. El ne-a scos din tara Egiptului, din casa\
+      \ robiei, pe noi si pe parintii nostri; El a facut inaintea ochilor nostri acele\
+      \ minuni mari si ne-a pazit in tot timpul drumului pe care l-am urmat si in\
+      \ mijlocul tuturor popoarelor pe la care am trecut."
+    textWithDiacritics: "Căci Yaue este Elohim al nostru. El ne-a scos din ţara Egiptului,\
+      \ din casa robiei, pe noi şi pe părinţii noştri; El a făcut înaintea ochilor\
+      \ noştri acele minuni mari şi ne-a păzit în tot timpul drumului pe care l-am\
+      \ urmat şi în mijlocul tuturor popoarelor pe la care am trecut."
     chapter: null
   - verseNumber: 18
     text: "El a izgonit dinaintea noastra pe toate popoarele si pe amoritii care locuiau\
-      \ tara aceasta. Si noi vom sluji lui YaHWeH, caci El este Eylohim al nostru.”"
+      \ tara aceasta. Si noi vom sluji lui Yaue, caci El este Elohim al nostru.”"
     textWithDiacritics: "El a izgonit dinaintea noastră pe toate popoarele şi pe amoriţ\
-      ii care locuiau ţara aceasta. Şi noi vom sluji lui YaHWeH, căci El este Eylohim\
+      ii care locuiau ţara aceasta. Şi noi vom sluji lui Yaue, căci El este Elohim\
       \ al nostru.”"
     chapter: null
   - verseNumber: 19
-    text: "Iosua a zis poporului: „Voi nu veti putea sa slujiti lui YaHWeH, caci este\
-      \ Eylohim sfint, Eylohim gelos; El nu va va ierta faradelegile si pacatele."
+    text: "Iosua a zis poporului: „Voi nu veti putea sa slujiti lui Yaue, caci este\
+      \ Elohim sfint, Elohim gelos; El nu va va ierta faradelegile si pacatele."
     textWithDiacritics: "Iosua a zis poporului: „Voi nu veţi putea să slujiţi lui\
-      \ YaHWeH, căci este Eylohim sfînt, Eylohim gelos; El nu vă va ierta fărădelegile\
+      \ Yaue, căci este Elohim sfînt, Elohim gelos; El nu vă va ierta fărădelegile\
       \ şi păcatele."
     chapter: null
   - verseNumber: 20
-    text: "Cind veti parasi pe YaHWeH si veti sluji dumnezeilor, El Se va intoarce\
-      \ si va va face rau si va va nimici, dupa ce v-a facut bine.”"
-    textWithDiacritics: "Cînd veţi părăsi pe YaHWeH şi veţi sluji dumnezeilor, El\
-      \ Se va întoarce şi vă va face rău şi vă va nimici, după ce v-a făcut bine.”"
+    text: "Cind veti parasi pe Yaue si veti sluji dumnezeilor, El Se va intoarce si\
+      \ va va face rau si va va nimici, dupa ce v-a facut bine.”"
+    textWithDiacritics: "Cînd veţi părăsi pe Yaue şi veţi sluji dumnezeilor, El Se\
+      \ va întoarce şi vă va face rău şi vă va nimici, după ce v-a făcut bine.”"
     chapter: null
   - verseNumber: 21
-    text: "Poporul a zis lui Iosua: „Nu! Caci vom sluji lui YaHWeH.”"
-    textWithDiacritics: "Poporul a zis lui Iosua: „Nu! Căci vom sluji lui YaHWeH.”"
+    text: "Poporul a zis lui Iosua: „Nu! Caci vom sluji lui Yaue.”"
+    textWithDiacritics: "Poporul a zis lui Iosua: „Nu! Căci vom sluji lui Yaue.”"
     chapter: null
   - verseNumber: 22
     text: "Iosua a zis poporului: „Voi sunteti martori impotriva voastra insiva ca\
-      \ ati ales pe YaHWeH, ca sa-I slujiti.” Ei au raspuns: „Suntem Martori!”"
+      \ ati ales pe Yaue, ca sa-I slujiti.” Ei au raspuns: „Suntem Martori!”"
     textWithDiacritics: "Iosua a zis poporului: „Voi sunteţi martori împotriva voastră\
-      \ înşivă că aţi ales pe YaHWeH, ca să-I slujiţi.” Ei au răspuns: „Suntem Martori!”"
+      \ înşivă că aţi ales pe Yaue, ca să-I slujiţi.” Ei au răspuns: „Suntem Martori!”"
     chapter: null
   - verseNumber: 23
     text: "„Scoateti dar, dumnezeii care sunt in mijlocul vostru si intoarceti-va\
-      \ inima spre YaHWeH, Eylohim al lui Israel.”"
+      \ inima spre Yaue, Elohim al lui Israel.”"
     textWithDiacritics: "„Scoateţi dar, dumnezeii care sunt în mijlocul vostru şi\
-      \ întoarceţi-vă inima spre YaHWeH, Eylohim al lui Israel.”"
+      \ întoarceţi-vă inima spre Yaue, Elohim al lui Israel.”"
     chapter: null
   - verseNumber: 24
-    text: "Si poporul a zis lui Iosua: „Noi vom sluji lui YaHWeH Eylohim al nostru\
-      \ si vom asculta glasul Lui.”"
-    textWithDiacritics: "Şi poporul a zis lui Iosua: „Noi vom sluji lui YaHWeH Eylohim\
+    text: "Si poporul a zis lui Iosua: „Noi vom sluji lui Yaue Elohim al nostru si\
+      \ vom asculta glasul Lui.”"
+    textWithDiacritics: "Şi poporul a zis lui Iosua: „Noi vom sluji lui Yaue Elohim\
       \ al nostru şi vom asculta glasul Lui.”"
     chapter: null
   - verseNumber: 25
@@ -4523,21 +4510,21 @@ chapterPojo:
       \ dat legi şi porunci, la Sihem."
     chapter: null
   - verseNumber: 26
-    text: "Iosua a scris aceste lucruri in cartea Legii lui YaHWeH. A luat o piatra\
-      \ mare si a ridicat-o acolo sub stejarul care era in locul inchinat lui YaHWeH."
-    textWithDiacritics: "Iosua a scris aceste lucruri în cartea Legii lui YaHWeH.\
-      \ A luat o piatră mare şi a ridicat-o acolo sub stejarul care era în locul î\
-      nchinat lui YaHWeH."
+    text: "Iosua a scris aceste lucruri in cartea Legii lui Yaue. A luat o piatra\
+      \ mare si a ridicat-o acolo sub stejarul care era in locul inchinat lui Yaue."
+    textWithDiacritics: "Iosua a scris aceste lucruri în cartea Legii lui Yaue. A\
+      \ luat o piatră mare şi a ridicat-o acolo sub stejarul care era în locul închinat\
+      \ lui Yaue."
     chapter: null
   - verseNumber: 27
     text: "Si Iosua a zis intregului popor: „Iata piatra aceasta va fi martora impotriva\
-      \ noastra, caci a auzit toate cuvintele pe care ni le-a spus YaHWeH, ea va fi\
-      \ martora impotriva voastra, ca sa nu fiti necredinciosi lui YaHWeH Eylohim\
-      \ al vostru.”"
+      \ noastra, caci a auzit toate cuvintele pe care ni le-a spus Yaue, ea va fi\
+      \ martora impotriva voastra, ca sa nu fiti necredinciosi lui Yaue Elohim al\
+      \ vostru.”"
     textWithDiacritics: "Şi Iosua a zis întregului popor: „Iată piatra aceasta va\
       \ fi martoră împotriva noastră, căci a auzit toate cuvintele pe care ni le-a\
-      \ spus YaHWeH, ea va fi martoră împotriva voastră, ca să nu fiţi necredincioş\
-      i lui YaHWeH Eylohim al vostru.”"
+      \ spus Yaue, ea va fi martoră împotriva voastră, ca să nu fiţi necredincioş\
+      i lui Yaue Elohim al vostru.”"
     chapter: null
   - verseNumber: 28
     text: "Apoi Iosua a dat drumul poporului, si s-a dus fiecare in mostenirea lui.\
@@ -4546,9 +4533,9 @@ chapterPojo:
       \ moştenirea lui. Moartea lui Iosua"
     chapter: null
   - verseNumber: 29
-    text: "Dupa aceste lucruri, Iosua, fiul lui Nun, robul lui YaHWeH, a murit in\
-      \ virsta de o suta zece ani."
-    textWithDiacritics: "După aceste lucruri, Iosua, fiul lui Nun, robul lui YaHWeH,\
+    text: "Dupa aceste lucruri, Iosua, fiul lui Nun, robul lui Yaue, a murit in virsta\
+      \ de o suta zece ani."
+    textWithDiacritics: "După aceste lucruri, Iosua, fiul lui Nun, robul lui Yaue,\
       \ a murit în vîrstă de o sută zece ani."
     chapter: null
   - verseNumber: 30
@@ -4558,12 +4545,12 @@ chapterPojo:
       \ Timnat-Serah, pe muntele lui Efraim, la miazănoapte de muntele Gaaş."
     chapter: null
   - verseNumber: 31
-    text: "Israel a slujit lui YaHWeH in tot timpul vietii lui Iosua si in tot timpul\
+    text: "Israel a slujit lui Yaue in tot timpul vietii lui Iosua si in tot timpul\
       \ vietii batrinilor care au trait dupa Iosua si care cunosteau tot ce facuse\
-      \ YaHWeH pentru Israel."
-    textWithDiacritics: "Israel a slujit lui YaHWeH în tot timpul vieţii lui Iosua\
-      \ şi în tot timpul vieţii bătrînilor care au trăit după Iosua şi care cunoş\
-      teau tot ce făcuse YaHWeH pentru Israel."
+      \ Yaue pentru Israel."
+    textWithDiacritics: "Israel a slujit lui Yaue în tot timpul vieţii lui Iosua ş\
+      i în tot timpul vieţii bătrînilor care au trăit după Iosua şi care cunoşteau\
+      \ tot ce făcuse Yaue pentru Israel."
     chapter: null
   - verseNumber: 32
     text: "Oasele lui Iosif, pe care le adusesera copiii lui Israel din Egipt, au\

@@ -15,31 +15,29 @@ chapterPojo:
   book: null
   versePojo:
   - verseNumber: 1
-    text: "Pavel, rob al lui YaHWeH si apostol al lui Yasua haMasiya, potrivit cu\
-      \ credinta alesilor lui YaHWeH si cunostinta Adevarului care este potrivit cu\
-      \ evlavia,"
-    textWithDiacritics: "Pavel, rob al lui YaHWeH şi apostol al lui Yașua haMaşiya,\
-      \ potrivit cu credinţa aleşilor lui YaHWeH şi cunoştinţa Adevărului care este\
+    text: "Pavel, rob al lui Yaue si apostol al lui Yasua haMasiya, potrivit cu credinta\
+      \ alesilor lui Yaue si cunostinta Adevarului care este potrivit cu evlavia,"
+    textWithDiacritics: "Pavel, rob al lui Yaue şi apostol al lui Yașua haMaşiya,\
+      \ potrivit cu credinţa aleşilor lui Yaue şi cunoştinţa Adevărului care este\
       \ potrivit cu evlavia,"
     chapter: null
   - verseNumber: 2
-    text: "in nadejdea vietii vesnice, fagaduite mai inainte de vesnicii de YaHWeH,\
+    text: "in nadejdea vietii vesnice, fagaduite mai inainte de vesnicii de Yaue,\
       \ care nu poate sa minta."
     textWithDiacritics: "în nădejdea vieţii veşnice, făgăduite mai înainte de veş\
-      nicii de YaHWeH, care nu poate să mintă."
+      nicii de Yaue, care nu poate să mintă."
     chapter: null
   - verseNumber: 3
     text: "Ci Si-a descoperit Cuvintul la vremea Lui, prin propovaduirea care mi-a\
-      \ fost incredintata, dupa Porunca lui YaHWeH, Mintuitorul nostru;"
+      \ fost incredintata, dupa Porunca lui Yaue, Mintuitorul nostru;"
     textWithDiacritics: "Ci Şi-a descoperit Cuvîntul la vremea Lui, prin propovăduirea\
-      \ care mi-a fost încredinţată, după Porunca lui YaHWeH, Mîntuitorul nostru;"
+      \ care mi-a fost încredinţată, după Porunca lui Yaue, Mîntuitorul nostru;"
     chapter: null
   - verseNumber: 4
     text: "catre Tit, adevaratul meu copil in credinta noastra a amindurora: Har si\
-      \ pace de la YaHWeH Tatal si de la Yasua haMasiya, Mintuitorul nostru!"
+      \ pace de la Yaue Tatal si de la Yasua haMasiya, Mintuitorul nostru!"
     textWithDiacritics: "către Tit, adevăratul meu copil în credinţa noastră a amî\
-      ndurora: Har şi pace de la YaHWeH Tatăl şi de la Yașua haMaşiya, Mîntuitorul\
-      \ nostru!"
+      ndurora: Har şi pace de la Yaue Tatăl şi de la Yașua haMaşiya, Mîntuitorul nostru!"
     chapter: null
   - verseNumber: 5
     text: "Te-am lasat in Creta ca sa pui in rinduiala ce mai ramine de rinduit si\
@@ -115,9 +113,9 @@ chapterPojo:
       i şi necredincioşi, nimic nu este curat: pînă şi mintea şi cugetul le sunt spurcate."
     chapter: null
   - verseNumber: 16
-    text: "Ei se lauda ca cunosc pe YaHWeH, dar cu faptele Il tagaduiesc, caci sunt\
+    text: "Ei se lauda ca cunosc pe Yaue, dar cu faptele Il tagaduiesc, caci sunt\
       \ o scirba: nesupusi si netrebnici pentru orice fapta buna."
-    textWithDiacritics: "Ei se laudă că cunosc pe YaHWeH, dar cu faptele Îl tăgăduiesc,\
+    textWithDiacritics: "Ei se laudă că cunosc pe Yaue, dar cu faptele Îl tăgăduiesc,\
       \ căci sunt o scîrbă: nesupuşi şi netrebnici pentru orice faptă bună."
     chapter: null
 - number: 2
@@ -149,10 +147,10 @@ chapterPojo:
   - verseNumber: 5
     text: "sa fie cumpatate, cu viata curata, sa-si vada de treburile casei, sa fie\
       \ bune, supuse barbatilor lor, pentru ca sa nu se vorbeasca de rau Cuvintul\
-      \ lui YaHWeH."
+      \ lui Yaue."
     textWithDiacritics: "să fie cumpătate, cu viaţa curată, să-şi vadă de treburile\
       \ casei, să fie bune, supuse bărbaţilor lor, pentru ca să nu se vorbească de\
-      \ rău Cuvîntul lui YaHWeH."
+      \ rău Cuvîntul lui Yaue."
     chapter: null
   - verseNumber: 6
     text: "Sfatuieste, de asemenea, pe tineri sa fie cumpatati"
@@ -178,16 +176,15 @@ chapterPojo:
     chapter: null
   - verseNumber: 10
     text: "sa nu fure nimic, ci totdeauna sa dea dovada de o desavirsita credinciosie,\
-      \ ca sa faca in totul cinste invataturii lui YaHWeH, Mintuitorul nostru. [ invataturii\
+      \ ca sa faca in totul cinste invataturii lui Yaue, Mintuitorul nostru. [ invataturii\
       \ : aici.Torah = Legii ]"
     textWithDiacritics: "să nu fure nimic, ci totdeauna să dea dovadă de o desăvî\
-      rşită credincioşie, ca să facă în totul cinste învăţăturii lui YaHWeH, Mîntuitorul\
+      rşită credincioşie, ca să facă în totul cinste învăţăturii lui Yaue, Mîntuitorul\
       \ nostru. [ învăţăturii : aici.Torah = Legii ]"
     chapter: null
   - verseNumber: 11
-    text: "Caci harul lui YaHWeH, care aduce Mintuire pentru toti oamenii, a fost\
-      \ aratat"
-    textWithDiacritics: "Căci harul lui YaHWeH, care aduce Mîntuire pentru toţi oamenii,\
+    text: "Caci harul lui Yaue, care aduce Mintuire pentru toti oamenii, a fost aratat"
+    textWithDiacritics: "Căci harul lui Yaue, care aduce Mîntuire pentru toţi oamenii,\
       \ a fost arătat"
     chapter: null
   - verseNumber: 12
@@ -239,9 +236,9 @@ chapterPojo:
       , vrednici să fim urîţi şi urîndu-ne unii pe alţii."
     chapter: null
   - verseNumber: 4
-    text: "Dar, cind s-a aratat bunatatea lui YaHWeH Mintuitorul nostru, si dragostea\
+    text: "Dar, cind s-a aratat bunatatea lui Yaue Mintuitorul nostru, si dragostea\
       \ Lui de oameni,"
-    textWithDiacritics: "Dar, cînd s-a arătat bunătatea lui YaHWeH Mîntuitorul nostru,\
+    textWithDiacritics: "Dar, cînd s-a arătat bunătatea lui Yaue Mîntuitorul nostru,\
       \ şi dragostea Lui de oameni,"
     chapter: null
   - verseNumber: 5
@@ -266,11 +263,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 8
     text: "Adevarat este cuvintul acesta si vreau sa spui apasat aceste lucruri, pentru\
-      \ ca cei ce au crezut in YaHWeH sa caute sa fie cei dintii in lucru bun. Iata\
+      \ ca cei ce au crezut in Yaue sa caute sa fie cei dintii in lucru bun. Iata\
       \ ce este bine si de folos pentru oameni!"
     textWithDiacritics: "Adevărat este cuvîntul acesta şi vreau să spui apăsat aceste\
-      \ lucruri, pentru ca cei ce au crezut în YaHWeH să caute să fie cei dintîi î\
-      n lucru bun. Iată ce este bine şi de folos pentru oameni!"
+      \ lucruri, pentru ca cei ce au crezut în Yaue să caute să fie cei dintîi în\
+      \ lucru bun. Iată ce este bine şi de folos pentru oameni!"
     chapter: null
   - verseNumber: 9
     text: "Dar de intrebarile nebune, de insirarile de neamuri, de certuri si ciorovaieli\

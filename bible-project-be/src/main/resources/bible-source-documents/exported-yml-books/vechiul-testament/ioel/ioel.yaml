@@ -15,8 +15,8 @@ chapterPojo:
   book: null
   versePojo:
   - verseNumber: 1
-    text: "Cuvintul lui YaHWeH care a fost spus lui Ioel, fiul lui Petuel."
-    textWithDiacritics: "Cuvîntul lui YaHWeH care a fost spus lui Ioel, fiul lui Petuel."
+    text: "Cuvintul lui Yaue care a fost spus lui Ioel, fiul lui Petuel."
+    textWithDiacritics: "Cuvîntul lui Yaue care a fost spus lui Ioel, fiul lui Petuel."
     chapter: null
   - verseNumber: 2
     text: "Ascultati lucrul acesta, batrini! Si luati seama, toti locuitorii tarii!\
@@ -63,10 +63,10 @@ chapterPojo:
       ii ei!"
     chapter: null
   - verseNumber: 9
-    text: "Au incetat darurile de mincare si jertfele de bautura din Casa lui YaHWeH;\
-      \ preotii, Slujitorii lui YaHWeH, jelesc."
+    text: "Au incetat darurile de mincare si jertfele de bautura din Casa lui Yaue;\
+      \ preotii, Slujitorii lui Yaue, jelesc."
     textWithDiacritics: "Au încetat darurile de mîncare şi jertfele de băutură din\
-      \ Casa lui YaHWeH; preoţii, Slujitorii lui YaHWeH, jelesc."
+      \ Casa lui Yaue; preoţii, Slujitorii lui Yaue, jelesc."
     chapter: null
   - verseNumber: 10
     text: "Cimpia este pustiita, pamintul, intristat, caci griul este nimicit, mustul\
@@ -88,33 +88,33 @@ chapterPojo:
     chapter: null
   - verseNumber: 13
     text: "Incingeti-va, preoti, si plingeti! Bociti-va, slujitori ai altarului; veniti\
-      \ si petreceti noaptea imbracati cu saci, slujitorii ai lui YaHWeH Eylohim al\
-      \ meu! Caci au incetat darurile de mincare si jertfele de bautura din Casa lui\
-      \ YaHWeH Eylohim al vostru."
+      \ si petreceti noaptea imbracati cu saci, slujitorii ai lui Yaue Elohim al meu!\
+      \ Caci au incetat darurile de mincare si jertfele de bautura din Casa lui Yaue\
+      \ Elohim al vostru."
     textWithDiacritics: "Încingeţi-vă, preoţi, şi plîngeţi! Bociţi-vă, slujitori ai\
       \ altarului; veniţi şi petreceţi noaptea îmbrăcaţi cu saci, slujitorii ai lui\
-      \ YaHWeH Eylohim al meu! Căci au încetat darurile de mîncare şi jertfele de\
-      \ băutură din Casa lui YaHWeH Eylohim al vostru."
+      \ Yaue Elohim al meu! Căci au încetat darurile de mîncare şi jertfele de bă\
+      utură din Casa lui Yaue Elohim al vostru."
     chapter: null
   - verseNumber: 14
     text: "Vestiti un post, chemati o Adunare de sarbatoare; stringeti pe batrini,\
-      \ pe toti locuitorii tarii, in Casa lui YaHWeH, Eylohim al vostru si strigati\
-      \ catre YaHWeH."
+      \ pe toti locuitorii tarii, in Casa lui Yaue, Elohim al vostru si strigati catre\
+      \ Yaue."
     textWithDiacritics: "Vestiţi un post, chemaţi o Adunare de sărbătoare; strîngeţ\
-      i pe bătrîni, pe toţi locuitorii ţării, în Casa lui YaHWeH, Eylohim al vostru\
-      \ şi strigaţi către YaHWeH."
+      i pe bătrîni, pe toţi locuitorii ţării, în Casa lui Yaue, Elohim al vostru ş\
+      i strigaţi către Yaue."
     chapter: null
   - verseNumber: 15
-    text: "„Vai! ce zi!” Da, ziua lui YaHWeH este aproape, vine ca o pustiire de la\
+    text: "„Vai! ce zi!” Da, ziua lui Yaue este aproape, vine ca o pustiire de la\
       \ Cel Atotputernic."
-    textWithDiacritics: "„Vai! ce zi!” Da, ziua lui YaHWeH este aproape, vine ca o\
-      \ pustiire de la Cel Atotputernic."
+    textWithDiacritics: "„Vai! ce zi!” Da, ziua lui Yaue este aproape, vine ca o pustiire\
+      \ de la Cel Atotputernic."
     chapter: null
   - verseNumber: 16
     text: "Nu s-a prapadit hrana sub ochii nostri? Si n-a pierit bucuria si veselia\
-      \ din Casa lui Eylohim al nostru?"
+      \ din Casa lui Elohim al nostru?"
     textWithDiacritics: "Nu s-a prăpădit hrana sub ochii noştri? Şi n-a pierit bucuria\
-      \ şi veselia din Casa lui Eylohim al nostru?"
+      \ şi veselia din Casa lui Elohim al nostru?"
     chapter: null
   - verseNumber: 17
     text: "S-au uscat semintele sub bulgari; grinarele stau goale, hambarele sunt\
@@ -129,10 +129,10 @@ chapterPojo:
       \ au păşune; chiar şi turmele de oi suferă!"
     chapter: null
   - verseNumber: 19
-    text: "Catre Tine, YaHWeH, strig, caci a mincat focul izlazurile pustiului, si\
-      \ para focului a pirlit toti copacii de pe cimp!"
-    textWithDiacritics: "Către Tine, YaHWeH, strig, căci a mîncat focul izlazurile\
-      \ pustiului, şi para focului a pîrlit toţi copacii de pe cîmp!"
+    text: "Catre Tine, Yaue, strig, caci a mincat focul izlazurile pustiului, si para\
+      \ focului a pirlit toti copacii de pe cimp!"
+    textWithDiacritics: "Către Tine, Yaue, strig, căci a mîncat focul izlazurile pustiului,\
+      \ şi para focului a pîrlit toţi copacii de pe cîmp!"
     chapter: null
   - verseNumber: 20
     text: "Chiar si fiarele cimpului se indreapta doritoare catre Tine, caci au secat\
@@ -145,10 +145,9 @@ chapterPojo:
   versePojo:
   - verseNumber: 1
     text: "„Sunati din trimbita in Sion! Strigati in gura mare pe muntele Meu cel\
-      \ sfint, ca sa tremure toti locuitorii tarii. Caci vine ziua lui YaHWeH este\
-      \ aproape!”"
+      \ sfint, ca sa tremure toti locuitorii tarii. Caci vine ziua lui Yaue este aproape!”"
     textWithDiacritics: "„Sunaţi din trîmbiţă în Sion! Strigaţi în gura mare pe muntele\
-      \ Meu cel sfînt, ca să tremure toţi locuitorii ţării. Căci vine ziua lui YaHWeH\
+      \ Meu cel sfînt, ca să tremure toţi locuitorii ţării. Căci vine ziua lui Yaue\
       \ este aproape!”"
     chapter: null
   - verseNumber: 2
@@ -205,34 +204,34 @@ chapterPojo:
       \ se întunecă și luna nu-și arată vremea, chiar şi stelele îşi pierd lumina."
     chapter: null
   - verseNumber: 11
-    text: "YaHWeH face sa tune glasul Lui inaintea ostirii Sale, caci tabara Lui este\
+    text: "Yaue face sa tune glasul Lui inaintea ostirii Sale, caci tabara Lui este\
       \ foarte mare, si Cel ce-i implineste Cuvintul este Puternic. Dar mare este\
-      \ ziua lui YaHWeH si foarte infricosata: cine o poate suferi?"
-    textWithDiacritics: "YaHWeH face să tune glasul Lui înaintea oştirii Sale, că\
-      ci tabăra Lui este foarte mare, şi Cel ce-i împlineşte Cuvîntul este Puternic.\
-      \ Dar mare este ziua lui YaHWeH şi foarte înfricoşată: cine o poate suferi?"
+      \ ziua lui Yaue si foarte infricosata: cine o poate suferi?"
+    textWithDiacritics: "Yaue face să tune glasul Lui înaintea oştirii Sale, căci\
+      \ tabăra Lui este foarte mare, şi Cel ce-i împlineşte Cuvîntul este Puternic.\
+      \ Dar mare este ziua lui Yaue şi foarte înfricoşată: cine o poate suferi?"
     chapter: null
   - verseNumber: 12
-    text: "„Dar chiar acum, zice YaHWeH, intoarceti-va la Mine cu toata inima, cu\
-      \ post, cu plinset si bocet!”"
-    textWithDiacritics: "„Dar chiar acum, zice YaHWeH, întoarceţi-vă la Mine cu toată\
+    text: "„Dar chiar acum, zice Yaue, intoarceti-va la Mine cu toata inima, cu post,\
+      \ cu plinset si bocet!”"
+    textWithDiacritics: "„Dar chiar acum, zice Yaue, întoarceţi-vă la Mine cu toată\
       \ inima, cu post, cu plînset şi bocet!”"
     chapter: null
   - verseNumber: 13
-    text: "Sfisiati-va inimile nu hainele si intoarceti-va la YaHWeH, Eylohim al vostru.\
+    text: "Sfisiati-va inimile nu hainele si intoarceti-va la Yaue, Elohim al vostru.\
       \ Caci El este milostiv si plin de indurare, indelung rabdator si bogat in bunatate\
       \ si-I pare rau de relele pe care le trimite."
-    textWithDiacritics: "Sfîşiaţi-vă inimile nu hainele şi întoarceţi-vă la YaHWeH,\
-      \ Eylohim al vostru. Căci El este milostiv şi plin de îndurare, îndelung ră\
-      bdător şi bogat în bunătate şi-I pare rău de relele pe care le trimite."
+    textWithDiacritics: "Sfîşiaţi-vă inimile nu hainele şi întoarceţi-vă la Yaue,\
+      \ Elohim al vostru. Căci El este milostiv şi plin de îndurare, îndelung răbdă\
+      tor şi bogat în bunătate şi-I pare rău de relele pe care le trimite."
     chapter: null
   - verseNumber: 14
     text: "Cine stie daca nu Se va intoarce si nu Se va cai? Cine stie daca nu va\
       \ lasa dupa El o binecuvintare daruri de mincare si jertfe de bautura pentru\
-      \ YaHWeH, Eylohim al vostru?"
+      \ Yaue, Elohim al vostru?"
     textWithDiacritics: "Cine ştie dacă nu Se va întoarce şi nu Se va căi? Cine ş\
       tie dacă nu va lăsa după El o binecuvîntare daruri de mîncare şi jertfe de bă\
-      utură pentru YaHWeH, Eylohim al vostru?"
+      utură pentru Yaue, Elohim al vostru?"
     chapter: null
   - verseNumber: 15
     text: "Sunati cu trimbita in Sion! Vestiti un post, chemati o Adunare de Sarbatoare!"
@@ -248,27 +247,26 @@ chapterPojo:
       \ lui şi mireasa din odaia ei!"
     chapter: null
   - verseNumber: 17
-    text: "Preotii, Slujitorii lui YaHWeH, sa plinga intre tinda si altar si sa zica:\
-      \ „ YaHWeH, indura-Te de poporul Tau! Nu da de ocara mostenirea Ta, n-o face\
-      \ de batjocura paginilor! Pentru ce sa se zica printre pagini: „Unde este YaHWeH\
-      \ Eylohim al lor?” Fagaduinte"
-    textWithDiacritics: "Preoţii, Slujitorii lui YaHWeH, să plîngă între tindă şi\
-      \ altar şi să zică: „ YaHWeH, îndură-Te de poporul Tău! Nu da de ocară moştenirea\
-      \ Ta, n-o face de batjocura păgînilor! Pentru ce să se zică printre păgîni:\
-      \ „Unde este YaHWeH Eylohim al lor?” Făgăduinţe"
+    text: "Preotii, Slujitorii lui Yaue, sa plinga intre tinda si altar si sa zica:\
+      \ „ Yaue, indura-Te de poporul Tau! Nu da de ocara mostenirea Ta, n-o face de\
+      \ batjocura paginilor! Pentru ce sa se zica printre pagini: „Unde este Yaue\
+      \ Elohim al lor?” Fagaduinte"
+    textWithDiacritics: "Preoţii, Slujitorii lui Yaue, să plîngă între tindă şi altar\
+      \ şi să zică: „ Yaue, îndură-Te de poporul Tău! Nu da de ocară moştenirea Ta,\
+      \ n-o face de batjocura păgînilor! Pentru ce să se zică printre păgîni: „Unde\
+      \ este Yaue Elohim al lor?” Făgăduinţe"
     chapter: null
   - verseNumber: 18
-    text: "YaHWeH a fost plin de rivna pentru tara Lui si S-a indurat de poporul Sau."
-    textWithDiacritics: "YaHWeH a fost plin de rîvnă pentru ţara Lui şi S-a îndurat\
+    text: "Yaue a fost plin de rivna pentru tara Lui si S-a indurat de poporul Sau."
+    textWithDiacritics: "Yaue a fost plin de rîvnă pentru ţara Lui şi S-a îndurat\
       \ de poporul Său."
     chapter: null
   - verseNumber: 19
-    text: "YaHWeH a raspuns si a zis poporului Sau: „Iata, va trimit griu, must si\
-      \ untdelemn proaspat, ca sa va saturati de ele, si nu va voi mai face de ocara\
-      \ intre popoare."
-    textWithDiacritics: "YaHWeH a răspuns şi a zis poporului Său: „Iată, vă trimit\
-      \ grîu, must şi untdelemn proaspăt, ca să vă săturaţi de ele, şi nu vă voi mai\
-      \ face de ocară între popoare."
+    text: "Yaue a raspuns si a zis poporului Sau: „Iata, va trimit griu, must si untdelemn\
+      \ proaspat, ca sa va saturati de ele, si nu va voi mai face de ocara intre popoare."
+    textWithDiacritics: "Yaue a răspuns şi a zis poporului Său: „Iată, vă trimit grî\
+      u, must şi untdelemn proaspăt, ca să vă săturaţi de ele, şi nu vă voi mai face\
+      \ de ocară între popoare."
     chapter: null
   - verseNumber: 20
     text: "Voi departa de la voi pe vrajmasul de la miazanoapte il voi izgoni spre\
@@ -283,10 +281,10 @@ chapterPojo:
       \ căci s-a crezut grozav."
     chapter: null
   - verseNumber: 21
-    text: "Nu te teme, pamintule, ci bucura-te si inveseleste-te, caci YaHWeH face\
-      \ lucruri mari!"
+    text: "Nu te teme, pamintule, ci bucura-te si inveseleste-te, caci Yaue face lucruri\
+      \ mari!"
     textWithDiacritics: "Nu te teme, pămîntule, ci bucură-te şi înveseleşte-te, că\
-      ci YaHWeH face lucruri mari!"
+      ci Yaue face lucruri mari!"
     chapter: null
   - verseNumber: 22
     text: "Nu va temeti, fiare de pe cimp, caci izlazurile pustiului iarasi vor inverzi,\
@@ -296,12 +294,12 @@ chapterPojo:
       \ rodul lor."
     chapter: null
   - verseNumber: 23
-    text: "Si voi, copii ai Sionului, bucurati-va si inveseliti-va in YaHWeH, Eylohim\
+    text: "Si voi, copii ai Sionului, bucurati-va si inveseliti-va in Yaue, Elohim\
       \ al vostru, caci El va va da ploaie la vreme va va trimite ploaie timpurie\
       \ si tirzie, ca odinioara."
     textWithDiacritics: "Şi voi, copii ai Sionului, bucuraţi-vă şi înveseliţi-vă î\
-      n YaHWeH, Eylohim al vostru, căci El vă va da ploaie la vreme vă va trimite\
-      \ ploaie timpurie şi tîrzie, ca odinioară."
+      n Yaue, Elohim al vostru, căci El vă va da ploaie la vreme vă va trimite ploaie\
+      \ timpurie şi tîrzie, ca odinioară."
     chapter: null
   - verseNumber: 24
     text: "Ariile se vor umple de griu, vor geme tocitoarele si teascurile de must\
@@ -317,20 +315,19 @@ chapterPojo:
       \ voastră."
     chapter: null
   - verseNumber: 26
-    text: "Veti minca si va veti satura, si veti lauda Numele lui YaHWeH Eylohim al\
-      \ vostru care va face minuni cu voi, si poporul Meu niciodata nu va mai fi de\
-      \ ocara!"
-    textWithDiacritics: "Veţi mînca şi vă veţi sătura, şi veţi lăuda Numele lui YaHWeH\
-      \ Eylohim al vostru care va face minuni cu voi, şi poporul Meu niciodată nu\
-      \ va mai fi de ocară!"
+    text: "Veti minca si va veti satura, si veti lauda Numele lui Yaue Elohim al vostru\
+      \ care va face minuni cu voi, si poporul Meu niciodata nu va mai fi de ocara!"
+    textWithDiacritics: "Veţi mînca şi vă veţi sătura, şi veţi lăuda Numele lui Yaue\
+      \ Elohim al vostru care va face minuni cu voi, şi poporul Meu niciodată nu va\
+      \ mai fi de ocară!"
     chapter: null
   - verseNumber: 27
-    text: "Si veti sti ca Eu sunt in mijlocul lui Israel, ca Eu sunt YaHWeH, Eylohim\
+    text: "Si veti sti ca Eu sunt in mijlocul lui Israel, ca Eu sunt Yaue, Elohim\
       \ al vostru, si nu este altul afara de Mine. Si poporul Meu niciodata nu va\
       \ mai fi de ocara."
     textWithDiacritics: "Şi veţi şti că Eu sunt în mijlocul lui Israel, că Eu sunt\
-      \ YaHWeH, Eylohim al vostru, şi nu este altul afară de Mine. Şi poporul Meu\
-      \ niciodată nu va mai fi de ocară."
+      \ Yaue, Elohim al vostru, şi nu este altul afară de Mine. Şi poporul Meu niciodată\
+      \ nu va mai fi de ocară."
     chapter: null
   - verseNumber: 28
     text: "Dupa aceea voi turna Duhul Meu peste oricine-i Om; fiii si fiicele voastre\
@@ -353,17 +350,17 @@ chapterPojo:
     chapter: null
   - verseNumber: 31
     text: "soarele se va preface in intuneric, si luna, in singe, inainte de a veni\
-      \ ziua lui YaHWeH, ziua aceea mare si infricosata."
+      \ ziua lui Yaue, ziua aceea mare si infricosata."
     textWithDiacritics: "soarele se va preface în întuneric, şi luna, în sînge, î\
-      nainte de a veni ziua lui YaHWeH, ziua aceea mare şi înfricoşată."
+      nainte de a veni ziua lui Yaue, ziua aceea mare şi înfricoşată."
     chapter: null
   - verseNumber: 32
-    text: "Atunci oricine va chema Numele YaHWeH, va fi Mintuit. Caci Mintuirea va\
-      \ fi pe muntele Sionului si la Ierusalim, cum a fagaduit YaHWeH, si intre cei\
-      \ ramasi pe care-i va chema YaHWeH."
-    textWithDiacritics: "Atunci oricine va chema Numele YaHWeH, va fi Mîntuit. Că\
-      ci Mîntuirea va fi pe muntele Sionului şi la Ierusalim, cum a făgăduit YaHWeH,\
-      \ şi între cei rămaşi pe care-i va chema YaHWeH."
+    text: "Atunci oricine va chema Numele Yaue, va fi Mintuit. Caci Mintuirea va fi\
+      \ pe muntele Sionului si la Ierusalim, cum a fagaduit Yaue, si intre cei ramasi\
+      \ pe care-i va chema Yaue."
+    textWithDiacritics: "Atunci oricine va chema Numele Yaue, va fi Mîntuit. Căci\
+      \ Mîntuirea va fi pe muntele Sionului şi la Ierusalim, cum a făgăduit Yaue,\
+      \ şi între cei rămaşi pe care-i va chema Yaue."
     chapter: null
 - number: 3
   book: null
@@ -416,9 +413,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 8
     text: "Voi vinde copiilor lui Iuda pe fiii si fiicele voastre, si ei ii vor vinde\
-      \ sabeenilor, un neam departat caci YaHWeH a vorbit."
+      \ sabeenilor, un neam departat caci Yaue a vorbit."
     textWithDiacritics: "Voi vinde copiilor lui Iuda pe fiii şi fiicele voastre, ş\
-      i ei îi vor vinde sabeenilor, un neam depărtat căci YaHWeH a vorbit."
+      i ei îi vor vinde sabeenilor, un neam depărtat căci Yaue a vorbit."
     chapter: null
   - verseNumber: 9
     text: "Vestiti aceste lucruri printre neamuri: pregatiti razboiul! Treziti pe\
@@ -434,9 +431,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 11
     text: "Grabiti-va si veniti, toti paginii dimprejur, si stringeti-va! Acolo coboara,\
-      \ YaHWeH, pe vitejii Tai!"
+      \ Yaue, pe vitejii Tai!"
     textWithDiacritics: "Grăbiţi-vă şi veniţi, toți păgînii dimprejur, şi strîngeţ\
-      i-vă! Acolo coboară, YaHWeH, pe vitejii Tăi!"
+      i-vă! Acolo coboară, Yaue, pe vitejii Tăi!"
     chapter: null
   - verseNumber: 12
     text: "„Sa se scoale paginii si sa se suie in valea lui Iosafat! Caci acolo voi\
@@ -453,9 +450,9 @@ chapterPojo:
       \ Căci mare este răutatea lor!”"
     chapter: null
   - verseNumber: 14
-    text: "Vin gramezi-gramezi in valea judecatii, caci ziua lui YaHWeH este aproape,\
+    text: "Vin gramezi-gramezi in valea judecatii, caci ziua lui Yaue este aproape,\
       \ in valea judecatii."
-    textWithDiacritics: "Vin grămezi-grămezi în valea judecăţii, căci ziua lui YaHWeH\
+    textWithDiacritics: "Vin grămezi-grămezi în valea judecăţii, căci ziua lui Yaue\
       \ este aproape, în valea judecăţii."
     chapter: null
   - verseNumber: 15
@@ -463,28 +460,28 @@ chapterPojo:
     textWithDiacritics: "Soarele şi luna se întunecă, şi stelele îşi pierd strălucirea."
     chapter: null
   - verseNumber: 16
-    text: "YaHWeH racneste din Sion, glasul Lui rasuna din Ierusalim, de se zguduie\
-      \ cerurile si pamintul. Dar YaHWeH este scaparea poporului Sau si ocrotirea\
-      \ copiilor lui Israel."
-    textWithDiacritics: "YaHWeH răcneşte din Sion, glasul Lui răsună din Ierusalim,\
-      \ de se zguduie cerurile şi pămîntul. Dar YaHWeH este scăparea poporului Să\
-      u şi ocrotirea copiilor lui Israel."
+    text: "Yaue racneste din Sion, glasul Lui rasuna din Ierusalim, de se zguduie\
+      \ cerurile si pamintul. Dar Yaue este scaparea poporului Sau si ocrotirea copiilor\
+      \ lui Israel."
+    textWithDiacritics: "Yaue răcneşte din Sion, glasul Lui răsună din Ierusalim,\
+      \ de se zguduie cerurile şi pămîntul. Dar Yaue este scăparea poporului Său ş\
+      i ocrotirea copiilor lui Israel."
     chapter: null
   - verseNumber: 17
-    text: "„Si veti sti ca Eu sunt YaHWeH, Eylohim al vostru care locuieste in Sion,\
+    text: "„Si veti sti ca Eu sunt Yaue, Elohim al vostru care locuieste in Sion,\
       \ muntele Meu cel sfint. Ierusalimul insa va fi sfint, si nu vor mai trece strainii\
       \ prin el.”"
-    textWithDiacritics: "„Şi veţi şti că Eu sunt YaHWeH, Eylohim al vostru care locuieş\
+    textWithDiacritics: "„Şi veţi şti că Eu sunt Yaue, Elohim al vostru care locuieş\
       te în Sion, muntele Meu cel sfînt. Ierusalimul însă va fi sfînt, şi nu vor mai\
       \ trece străinii prin el.”"
     chapter: null
   - verseNumber: 18
     text: "In vremea aceea, va picura must din munti si va curge lapte din dealuri,\
       \ toate piraiele lui Iuda vor fi pline de apa. Un izvor va iesi, de asemenea,\
-      \ din Casa lui YaHWeH si va uda valea Sitim."
+      \ din Casa lui Yaue si va uda valea Sitim."
     textWithDiacritics: "În vremea aceea, va picura must din munţi şi va curge lapte\
       \ din dealuri, toate pîraiele lui Iuda vor fi pline de apă. Un izvor va ieş\
-      i, de asemenea, din Casa lui YaHWeH şi va uda valea Sitim."
+      i, de asemenea, din Casa lui Yaue şi va uda valea Sitim."
     chapter: null
   - verseNumber: 19
     text: "„Egiptul va ajunge pustiu, Edomul va ajunge un pustiu sterp, din pricina\
@@ -500,8 +497,8 @@ chapterPojo:
       n neam."
     chapter: null
   - verseNumber: 21
-    text: "Le voi razbuna singele pe care nu l-am razbunat inca, dar YaHWeH va locui\
+    text: "Le voi razbuna singele pe care nu l-am razbunat inca, dar Yaue va locui\
       \ in Sion.” HalleluYah"
     textWithDiacritics: "Le voi răzbuna sîngele pe care nu l-am răzbunat încă, dar\
-      \ YaHWeH va locui în Sion.” HalleluYah"
+      \ Yaue va locui în Sion.” HalleluYah"
     chapter: null

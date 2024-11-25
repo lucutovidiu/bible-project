@@ -31,6 +31,7 @@ public class YamlBookExporterService implements BookExporterService {
         Optional<BookPojo> entireBookByName = bookService.getEntireBookByName(bookName);
         if (entireBookByName.isPresent()) {
             BookPojo bookPojo = entireBookByName.get();
+//            replaceWords(bookPojo);
             convertToYaml(bookPojo)
                     .ifPresentOrElse(bookContent -> exportYamlBook(bookPojo, bookContent), () ->
                             Log.errorf("Book: '%s', could not be converted", bookName)
@@ -39,6 +40,29 @@ public class YamlBookExporterService implements BookExporterService {
             Log.errorf("Book: '%s', not found in the database", bookName);
         }
     }
+
+//    private void replaceWords(BookPojo bookPojo) {
+//        bookPojo.getChapterPojo().forEach(chapterPojo -> {
+//            List<VersePojo> list = chapterPojo.getVersePojo().stream()
+//                    .map(versePojo -> {
+//                        versePojo.setText(
+//                                rePlaceWords(versePojo.getText())
+//                        );
+//                        versePojo.setTextWithDiacritics(
+//                                rePlaceWords(versePojo.getTextWithDiacritics())
+//                        );
+//                        return versePojo;
+//                    }).toList();
+//            chapterPojo.setVersePojo(list);
+//        });
+//
+//
+//    }
+//
+//    private String rePlaceWords(String verse) {
+//        String s1 = replaceCaseInsensitive(verse, "YaHWeH", "Yaue");
+//        return replaceCaseInsensitive(s1, "Eylohim", "Elohim");
+//    }
 
     private Optional<String> convertToYaml(BookPojo bookPojo) {
         return yamlMapperService.objectToString(bookPojo);

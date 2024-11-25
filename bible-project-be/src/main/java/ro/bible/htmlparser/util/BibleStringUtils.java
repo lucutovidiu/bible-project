@@ -2,6 +2,7 @@ package ro.bible.htmlparser.util;
 import lombok.experimental.UtilityClass;
 
 import java.text.Bidi;
+import java.util.regex.Pattern;
 
 @UtilityClass
 public class BibleStringUtils {
@@ -56,5 +57,11 @@ public class BibleStringUtils {
                 .replaceAll("Ţ", "T")
                 .replaceAll("ț", "t")
                 .replaceAll("ţ", "t");
+    }
+
+    public static String replaceCaseInsensitive(String input, String target, String replacement) {
+        return Pattern.compile(target, Pattern.CASE_INSENSITIVE)
+                .matcher(input)
+                .replaceAll(replacement);
     }
 }

@@ -88,10 +88,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 12
     text: "Au jelit, au plins si au postit pina seara, de durere pentru Saul, pentru\
-      \ fiul sau Ionatan, pentru poporul lui YaHWeH, fiindca fusesera taiati cu sabia."
+      \ fiul sau Ionatan, pentru poporul lui Yaue, fiindca fusesera taiati cu sabia."
     textWithDiacritics: "Au jelit, au plîns şi au postit pînă seara, de durere pentru\
-      \ Saul, pentru fiul său Ionatan, pentru poporul lui YaHWeH, fiindcă fuseseră\
-      \ tăiaţi cu sabia."
+      \ Saul, pentru fiul său Ionatan, pentru poporul lui Yaue, fiindcă fuseseră tă\
+      iaţi cu sabia."
     chapter: null
   - verseNumber: 13
     text: "David a zis tinarului care-i adusese aceste vesti: „De unde esti?” Si el\
@@ -100,10 +100,10 @@ chapterPojo:
       \ eşti?” Şi el a răspuns: „Sunt fiul unui străin, unui amalecit.”"
     chapter: null
   - verseNumber: 14
-    text: "David i-a zis: „Cum nu ti-a fost frica sa pui mina pe unsul lui YaHWeH\
-      \ si sa-l omori?”"
+    text: "David i-a zis: „Cum nu ti-a fost frica sa pui mina pe unsul lui Yaue si\
+      \ sa-l omori?”"
     textWithDiacritics: "David i-a zis: „Cum nu ţi-a fost frică să pui mîna pe unsul\
-      \ lui YaHWeH şi să-l omori?”"
+      \ lui Yaue şi să-l omori?”"
     chapter: null
   - verseNumber: 15
     text: "Si David a chemat pe unul din oamenii lui si a zis: „Apropie-te si omoara-l!”\
@@ -113,11 +113,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 16
     text: "Si David i-a zis: „Singele tau sa cada asupra capului tau, caci gura ta\
-      \ a marturisit impotriva ta, fiindca ai zis: „Am omorit pe unsul lui YaHWeH!”\
+      \ a marturisit impotriva ta, fiindca ai zis: „Am omorit pe unsul lui Yaue!”\
       \ Cintarea de jale a lui David"
     textWithDiacritics: "Şi David i-a zis: „Sîngele tău să cadă asupra capului tă\
       u, căci gura ta a mărturisit împotriva ta, fiindcă ai zis: „Am omorît pe unsul\
-      \ lui YaHWeH!” Cîntarea de jale a lui David"
+      \ lui Yaue!” Cîntarea de jale a lui David"
     chapter: null
   - verseNumber: 17
     text: "Iata cintarea de jale pe care a alcatuit-o David pentru Saul si fiul sau\
@@ -196,12 +196,12 @@ chapterPojo:
   book: null
   versePojo:
   - verseNumber: 1
-    text: "Dupa aceea, David a intrebat pe YaHWeH: „Sa ma sui in vreuna din cetatile\
-      \ lui Iuda?” YaHWeH i-a raspuns: „Suie-te.” David a zis: „Unde sa ma sui?” Si\
-      \ YaHWeH a raspuns: „La Hebron.”"
-    textWithDiacritics: "După aceea, David a întrebat pe YaHWeH: „Să mă sui în vreuna\
-      \ din cetăţile lui Iuda?” YaHWeH i-a răspuns: „Suie-te.” David a zis: „Unde\
-      \ să mă sui?” Şi YaHWeH a răspuns: „La Hebron.”"
+    text: "Dupa aceea, David a intrebat pe Yaue: „Sa ma sui in vreuna din cetatile\
+      \ lui Iuda?” Yaue i-a raspuns: „Suie-te.” David a zis: „Unde sa ma sui?” Si\
+      \ Yaue a raspuns: „La Hebron.”"
+    textWithDiacritics: "După aceea, David a întrebat pe Yaue: „Să mă sui în vreuna\
+      \ din cetăţile lui Iuda?” Yaue i-a răspuns: „Suie-te.” David a zis: „Unde să\
+      \ mă sui?” Şi Yaue a răspuns: „La Hebron.”"
     chapter: null
   - verseNumber: 2
     text: "David s-a suit acolo, cu cele doua neveste ale sale: Ahinoam din Izreel\
@@ -225,17 +225,17 @@ chapterPojo:
     chapter: null
   - verseNumber: 5
     text: "David a trimis niste soli oamenilor din Iabesul Galaadului sa le spuna:\
-      \ „Binecuvintati sa fiti de YaHWeH, fiindca ati aratat astfel bunavointa fata\
+      \ „Binecuvintati sa fiti de Yaue, fiindca ati aratat astfel bunavointa fata\
       \ de Saul, stapinul vostru, si l-ati ingropat!"
     textWithDiacritics: "David a trimis nişte soli oamenilor din Iabesul Galaadului\
-      \ să le spună: „Binecuvîntaţi să fiţi de YaHWeH, fiindcă aţi arătat astfel bună\
+      \ să le spună: „Binecuvîntaţi să fiţi de Yaue, fiindcă aţi arătat astfel bună\
       voinţă faţă de Saul, stăpînul vostru, şi l-aţi îngropat!"
     chapter: null
   - verseNumber: 6
-    text: "Si acum, YaHWeH sa va arate bunatate si credinciosie! Va voi face si eu\
-      \ bine, pentru ca v-ati purtat astfel."
-    textWithDiacritics: "Şi acum, YaHWeH să vă arate bunătate şi credincioşie! Vă\
-      \ voi face şi eu bine, pentru că v-aţi purtat astfel."
+    text: "Si acum, Yaue sa va arate bunatate si credinciosie! Va voi face si eu bine,\
+      \ pentru ca v-ati purtat astfel."
+    textWithDiacritics: "Şi acum, Yaue să vă arate bunătate şi credincioşie! Vă voi\
+      \ face şi eu bine, pentru că v-aţi purtat astfel."
     chapter: null
   - verseNumber: 7
     text: "Sa vi se intareasca miinile si fiti viteji; caci stapinul vostru Saul a\
@@ -373,9 +373,9 @@ chapterPojo:
       \ să nu mai urmărească pe fraţii lui?”"
     chapter: null
   - verseNumber: 27
-    text: "Ioab a raspuns: „Viu este YaHWeH, ca, daca n-ai fi vorbit, poporul n-ar\
-      \ fi incetat pina miine dimineata sa urmareasca pe fratii lui.”"
-    textWithDiacritics: "Ioab a răspuns: „Viu este YaHWeH, că, dacă n-ai fi vorbit,\
+    text: "Ioab a raspuns: „Viu este Yaue, ca, daca n-ai fi vorbit, poporul n-ar fi\
+      \ incetat pina miine dimineata sa urmareasca pe fratii lui.”"
+    textWithDiacritics: "Ioab a răspuns: „Viu este Yaue, că, dacă n-ai fi vorbit,\
       \ poporul n-ar fi încetat pînă mîine dimineaţă să urmărească pe fraţii lui.”"
     chapter: null
   - verseNumber: 28
@@ -466,10 +466,10 @@ chapterPojo:
       \ păcat făcut cu femeia aceasta?"
     chapter: null
   - verseNumber: 9
-    text: "YaHWeH sa pedepseasca cu toata asprimea pe Abner, daca nu voi face cum\
-      \ a jurat YaHWeH lui David,"
-    textWithDiacritics: "YaHWeH să pedepsească cu toată asprimea pe Abner, dacă nu\
-      \ voi face cum a jurat YaHWeH lui David,"
+    text: "Yaue sa pedepseasca cu toata asprimea pe Abner, daca nu voi face cum a\
+      \ jurat Yaue lui David,"
+    textWithDiacritics: "Yaue să pedepsească cu toată asprimea pe Abner, dacă nu voi\
+      \ face cum a jurat Yaue lui David,"
     chapter: null
   - verseNumber: 10
     text: "cind i-a spus ca imparatia va fi luata de la casa lui Saul si ca scaunul\
@@ -526,10 +526,10 @@ chapterPojo:
       \ „Odinioară voi doreaţi să aveţi împărat pe David;"
     chapter: null
   - verseNumber: 18
-    text: "puneti-l acum, caci YaHWeH a zis despre el: „Prin robul Meu David voi izbavi\
+    text: "puneti-l acum, caci Yaue a zis despre el: „Prin robul Meu David voi izbavi\
       \ pe poporul Meu, Israel, din mina filistenilor si din mina tuturor vrajmasilor\
       \ lui.”"
-    textWithDiacritics: "puneţi-l acum, căci YaHWeH a zis despre el: „Prin robul Meu\
+    textWithDiacritics: "puneţi-l acum, căci Yaue a zis despre el: „Prin robul Meu\
       \ David voi izbăvi pe poporul Meu, Israel, din mîna filistenilor şi din mîna\
       \ tuturor vrăjmaşilor lui.”"
     chapter: null
@@ -599,9 +599,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 28
     text: "David a aflat apoi si a zis: „Nevinovat sunt eu si imparatia mea pe vecie,\
-      \ inaintea lui YaHWeH de singele lui Abner, fiul lui Ner."
+      \ inaintea lui Yaue de singele lui Abner, fiul lui Ner."
     textWithDiacritics: "David a aflat apoi şi a zis: „Nevinovat sunt eu şi împără\
-      ţia mea pe vecie, înaintea lui YaHWeH de sîngele lui Abner, fiul lui Ner."
+      ţia mea pe vecie, înaintea lui Yaue de sîngele lui Abner, fiul lui Ner."
     chapter: null
   - verseNumber: 29
     text: "Singele acesta sa cada asupra lui Ioab si asupra intregii case a tatalui\
@@ -649,10 +649,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 35
     text: "Tot poporul s-a apropiat de David ca sa-l faca sa manince ceva, cit era\
-      \ inca ziua; dar David a jurat, zicind: „Sa ma pedepseasca YaHWeH cu toata asprimea,\
+      \ inca ziua; dar David a jurat, zicind: „Sa ma pedepseasca Yaue cu toata asprimea,\
       \ daca voi gusta piine sau altceva inainte de apusul soarelui!”"
     textWithDiacritics: "Tot poporul s-a apropiat de David ca să-l facă să mănînce\
-      \ ceva, cît era încă ziuă; dar David a jurat, zicînd: „Să mă pedepsească YaHWeH\
+      \ ceva, cît era încă ziuă; dar David a jurat, zicînd: „Să mă pedepsească Yaue\
       \ cu toată asprimea, dacă voi gusta pîine sau altceva înainte de apusul soarelui!”"
     chapter: null
   - verseNumber: 36
@@ -675,11 +675,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 39
     text: "Eu sunt inca slab, macar ca am primit ungerea imparateasca; si oamenii\
-      \ acestia, fiii Teruiei, sunt prea puternici pentru mine. YaHWeH sa rasplateasca\
+      \ acestia, fiii Teruiei, sunt prea puternici pentru mine. Yaue sa rasplateasca\
       \ dupa rautatea lui celui ce a facut raul!”"
     textWithDiacritics: "Eu sunt încă slab, măcar că am primit ungerea împărătească\
-      ; şi oamenii aceştia, fiii Ţeruiei, sunt prea puternici pentru mine. YaHWeH\
-      \ să răsplătească după răutatea lui celui ce a făcut răul!”"
+      ; şi oamenii aceştia, fiii Ţeruiei, sunt prea puternici pentru mine. Yaue să\
+      \ răsplătească după răutatea lui celui ce a făcut răul!”"
     chapter: null
 - number: 4
   book: null
@@ -738,18 +738,18 @@ chapterPojo:
   - verseNumber: 8
     text: "Au adus capul lui Is-Boset la David, in Hebron, si au zis imparatului:\
       \ „Iata capul lui Is-Boset, fiul lui Saul, vrajmasul tau, care voia sa-ti ia\
-      \ viata; YaHWeH razbuna azi pe imparat, stapinul meu, impotriva lui Saul si\
-      \ impotriva neamului lui.”"
+      \ viata; Yaue razbuna azi pe imparat, stapinul meu, impotriva lui Saul si impotriva\
+      \ neamului lui.”"
     textWithDiacritics: "Au adus capul lui Iş-Boşet la David, în Hebron, şi au zis\
       \ împăratului: „Iată capul lui Iş-Boşet, fiul lui Saul, vrăjmaşul tău, care\
-      \ voia să-ţi ia viaţa; YaHWeH răzbună azi pe împărat, stăpînul meu, împotriva\
+      \ voia să-ţi ia viaţa; Yaue răzbună azi pe împărat, stăpînul meu, împotriva\
       \ lui Saul şi împotriva neamului lui.”"
     chapter: null
   - verseNumber: 9
     text: "David a raspuns lui Recab si lui Baana, fratele sau, fiii lui Rimon din\
-      \ Beerot: „Viu este YaHWeH care m-a izbavit din orice primejdie,"
+      \ Beerot: „Viu este Yaue care m-a izbavit din orice primejdie,"
     textWithDiacritics: "David a răspuns lui Recab şi lui Baana, fratele său, fiii\
-      \ lui Rimon din Beerot: „Viu este YaHWeH care m-a izbăvit din orice primejdie,"
+      \ lui Rimon din Beerot: „Viu este Yaue care m-a izbăvit din orice primejdie,"
     chapter: null
   - verseNumber: 10
     text: "ca pe cel ce a venit sa-mi spuna: „Iata, Saul a murit” si care credea ca-mi\
@@ -786,19 +786,19 @@ chapterPojo:
     chapter: null
   - verseNumber: 2
     text: "Chiar odinioara cind Saul era imparatul nostru, tu povatuiai si stringeai\
-      \ pe Israel. YaHWeH ti-a zis: „Tu vei paste pe poporul Meu, Israel, si vei fi\
+      \ pe Israel. Yaue ti-a zis: „Tu vei paste pe poporul Meu, Israel, si vei fi\
       \ capetenia lui Israel.”"
     textWithDiacritics: "Chiar odinioară cînd Saul era împăratul nostru, tu povăţ\
-      uiai şi strîngeai pe Israel. YaHWeH ţi-a zis: „Tu vei paşte pe poporul Meu,\
-      \ Israel, şi vei fi căpetenia lui Israel.”"
+      uiai şi strîngeai pe Israel. Yaue ţi-a zis: „Tu vei paşte pe poporul Meu, Israel,\
+      \ şi vei fi căpetenia lui Israel.”"
     chapter: null
   - verseNumber: 3
     text: "Astfel toti batrinii lui Israel au venit la imparat, in Hebron, si imparatul\
-      \ David a facut legamint cu ei la Hebron, inaintea lui YaHWeH. Si au uns pe\
-      \ David imparat peste Israel."
+      \ David a facut legamint cu ei la Hebron, inaintea lui Yaue. Si au uns pe David\
+      \ imparat peste Israel."
     textWithDiacritics: "Astfel toţi bătrînii lui Israel au venit la împărat, în Hebron,\
-      \ şi împăratul David a făcut legămînt cu ei la Hebron, înaintea lui YaHWeH.\
-      \ Şi au uns pe David împărat peste Israel."
+      \ şi împăratul David a făcut legămînt cu ei la Hebron, înaintea lui Yaue. Ş\
+      i au uns pe David împărat peste Israel."
     chapter: null
   - verseNumber: 4
     text: "David era in virsta de treizeci de ani cind s-a facut imparat si a domnit\
@@ -831,10 +831,10 @@ chapterPojo:
   - verseNumber: 8
     text: "David zisese in ziua aceea: „Oricine va bate pe iebusiti sa arunce in canal\
       \ pe schiopii si pe orbii aceia care sunt vrajmasii lui David.” – De aceea se\
-      \ zice: „Orbul si schiopul sa nu intre in Casa lui YaHWeH.”"
+      \ zice: „Orbul si schiopul sa nu intre in Casa lui Yaue.”"
     textWithDiacritics: "David zisese în ziua aceea: „Oricine va bate pe iebusiţi\
       \ să arunce în canal pe şchiopii şi pe orbii aceia care sunt vrăjmaşii lui David.”\
-      \ – De aceea se zice: „Orbul şi şchiopul să nu intre în Casa lui YaHWeH.”"
+      \ – De aceea se zice: „Orbul şi şchiopul să nu intre în Casa lui Yaue.”"
     chapter: null
   - verseNumber: 9
     text: "David s-a asezat in cetatuie, pe care a numit-o cetatea lui David. A facut\
@@ -845,10 +845,10 @@ chapterPojo:
       \ a). [ a) Sau: Cetăţuie ]"
     chapter: null
   - verseNumber: 10
-    text: "David ajungea tot mai mare, si YaHWeH Eylohim al ostirilor era cu el. Casa\
+    text: "David ajungea tot mai mare, si Yaue Elohim al ostirilor era cu el. Casa\
       \ lui David"
-    textWithDiacritics: "David ajungea tot mai mare, şi YaHWeH Eylohim al oştirilor\
-      \ era cu el. Casa lui David"
+    textWithDiacritics: "David ajungea tot mai mare, şi Yaue Elohim al oştirilor era\
+      \ cu el. Casa lui David"
     chapter: null
   - verseNumber: 11
     text: "Hiram, imparatul Tirului, a trimis soli lui David, si lemn de cedru, si\
@@ -857,9 +857,9 @@ chapterPojo:
       \ de cedru, şi tîmplari şi cioplitori de piatră, care au zidit o casă lui David."
     chapter: null
   - verseNumber: 12
-    text: "David a cunoscut ca YaHWeH il intarea ca imparat al lui Israel si ca-i\
-      \ ridica imparatia din pricina poporului Sau, Israel."
-    textWithDiacritics: "David a cunoscut că YaHWeH îl întărea ca împărat al lui Israel\
+    text: "David a cunoscut ca Yaue il intarea ca imparat al lui Israel si ca-i ridica\
+      \ imparatia din pricina poporului Sau, Israel."
+    textWithDiacritics: "David a cunoscut că Yaue îl întărea ca împărat al lui Israel\
       \ şi că-i ridica împărăţia din pricina poporului Său, Israel."
     chapter: null
   - verseNumber: 13
@@ -893,19 +893,19 @@ chapterPojo:
     textWithDiacritics: "Filistenii au venit şi s-au răspîndit în Valea Refaim."
     chapter: null
   - verseNumber: 19
-    text: "David a intrebat pe YaHWeH: „Sa ma sui impotriva filistenilor? Ii vei da\
-      \ in miinile mele?” Si YaHWeH a zis lui David: „Suie-te, caci voi da pe filisteni\
+    text: "David a intrebat pe Yaue: „Sa ma sui impotriva filistenilor? Ii vei da\
+      \ in miinile mele?” Si Yaue a zis lui David: „Suie-te, caci voi da pe filisteni\
       \ in miinile tale.”"
-    textWithDiacritics: "David a întrebat pe YaHWeH: „Să mă sui împotriva filistenilor?\
-      \ Îi vei da în mîinile mele?” Şi YaHWeH a zis lui David: „Suie-te, căci voi\
-      \ da pe filisteni în mîinile tale.”"
+    textWithDiacritics: "David a întrebat pe Yaue: „Să mă sui împotriva filistenilor?\
+      \ Îi vei da în mîinile mele?” Şi Yaue a zis lui David: „Suie-te, căci voi da\
+      \ pe filisteni în mîinile tale.”"
     chapter: null
   - verseNumber: 20
-    text: "David a venit la Baal-Peratim unde i-a batut. Apoi a zis: „ YaHWeH a risipit\
+    text: "David a venit la Baal-Peratim unde i-a batut. Apoi a zis: „ Yaue a risipit\
       \ pe vrajmasii mei dinaintea mea, ca niste ape care se rup.” De aceea s-a dat\
       \ locului aceluia numele Baal-Peratim a). [a) Sau: Sesul rupturii ]"
     textWithDiacritics: "David a venit la Baal-Peraţim unde i-a bătut. Apoi a zis:\
-      \ „ YaHWeH a risipit pe vrăjmaşii mei dinaintea mea, ca nişte ape care se rup.”\
+      \ „ Yaue a risipit pe vrăjmaşii mei dinaintea mea, ca nişte ape care se rup.”\
       \ De aceea s-a dat locului aceluia numele Baal-Peraţim a). [a) Sau: Şesul rupturii\
       \ ]"
     chapter: null
@@ -919,21 +919,21 @@ chapterPojo:
     textWithDiacritics: "Filistenii s-au suit din nou şi s-au răspîndit în Valea Refaim."
     chapter: null
   - verseNumber: 23
-    text: "David a intrebat pe YaHWeH. Si YaHWeH a zis: „Sa nu te sui; ci ia-i pe\
-      \ la spate si mergi asupra lor in dreptul duzilor."
-    textWithDiacritics: "David a întrebat pe YaHWeH. Şi YaHWeH a zis: „Să nu te sui;\
-      \ ci ia-i pe la spate şi mergi asupra lor în dreptul duzilor."
+    text: "David a intrebat pe Yaue. Si Yaue a zis: „Sa nu te sui; ci ia-i pe la spate\
+      \ si mergi asupra lor in dreptul duzilor."
+    textWithDiacritics: "David a întrebat pe Yaue. Şi Yaue a zis: „Să nu te sui; ci\
+      \ ia-i pe la spate şi mergi asupra lor în dreptul duzilor."
     chapter: null
   - verseNumber: 24
     text: "Cind vei auzi un vuiet de pasi in virfurile duzilor, atunci sa te grabesti,\
-      \ caci YaHWeH merge inaintea ta ca sa bata ostirea filistenilor.”"
+      \ caci Yaue merge inaintea ta ca sa bata ostirea filistenilor.”"
     textWithDiacritics: "Cînd vei auzi un vuiet de paşi în vîrfurile duzilor, atunci\
-      \ să te grăbeşti, căci YaHWeH merge înaintea ta ca să bată oştirea filistenilor.”"
+      \ să te grăbeşti, căci Yaue merge înaintea ta ca să bată oştirea filistenilor.”"
     chapter: null
   - verseNumber: 25
-    text: "David a facut cum ii poruncise YaHWeH si a batut pe filisteni de la Gheba\
+    text: "David a facut cum ii poruncise Yaue si a batut pe filisteni de la Gheba\
       \ pina la Ghezer."
-    textWithDiacritics: "David a făcut cum îi poruncise YaHWeH şi a bătut pe filisteni\
+    textWithDiacritics: "David a făcut cum îi poruncise Yaue şi a bătut pe filisteni\
       \ de la Gheba pînă la Ghezer."
     chapter: null
 - number: 6
@@ -947,122 +947,121 @@ chapterPojo:
     chapter: null
   - verseNumber: 2
     text: "Si David, cu tot poporul care era cu el, a pornit de la Baale-Iuda, ca\
-      \ sa suie de acoloChivotul lui YaHWeH, inaintea caruia este chemat Numele lui\
-      \ YaHWeH al ostirilor care sta intre heruvimi deasupra Chivotului."
+      \ sa suie de acoloChivotul lui Yaue, inaintea caruia este chemat Numele lui\
+      \ Yaue al ostirilor care sta intre heruvimi deasupra Chivotului."
     textWithDiacritics: "Şi David, cu tot poporul care era cu el, a pornit de la Baale-Iuda,\
-      \ ca să suie de acoloChivotul lui YaHWeH, înaintea căruia este chemat Numele\
-      \ lui YaHWeH al oştirilor care stă între heruvimi deasupra Chivotului."
+      \ ca să suie de acoloChivotul lui Yaue, înaintea căruia este chemat Numele lui\
+      \ Yaue al oştirilor care stă între heruvimi deasupra Chivotului."
     chapter: null
   - verseNumber: 3
-    text: "Au pus Chivotul lui YaHWeH intr-un car nou si l-au ridicat din casa lui\
-      \ Abinadab, de pe deal; Uza si Ahio, fiul lui Abinadab, cirmuiau carul cel nou."
-    textWithDiacritics: "Au pus Chivotul lui YaHWeH într-un car nou şi l-au ridicat\
+    text: "Au pus Chivotul lui Yaue intr-un car nou si l-au ridicat din casa lui Abinadab,\
+      \ de pe deal; Uza si Ahio, fiul lui Abinadab, cirmuiau carul cel nou."
+    textWithDiacritics: "Au pus Chivotul lui Yaue într-un car nou şi l-au ridicat\
       \ din casa lui Abinadab, de pe deal; Uza şi Ahio, fiul lui Abinadab, cîrmuiau\
       \ carul cel nou."
     chapter: null
   - verseNumber: 4
     text: "L-au luat, dar, din casa lui Abinadab, de pe deal; Uza mergea alaturi de\
-      \ Chivotul lui YaHWeH, si Ahio mergea inaintea Chivotului."
+      \ Chivotul lui Yaue, si Ahio mergea inaintea Chivotului."
     textWithDiacritics: "L-au luat, dar, din casa lui Abinadab, de pe deal; Uza mergea\
-      \ alături de Chivotul lui YaHWeH, şi Ahio mergea înaintea Chivotului."
+      \ alături de Chivotul lui Yaue, şi Ahio mergea înaintea Chivotului."
     chapter: null
   - verseNumber: 5
-    text: "David si toata casa lui Israel cintau inaintea lui YaHWeH cu tot felul\
-      \ de instrumente de lemn de chiparos, cu harpe, cu laute, cu timpane, cu fluiere\
+    text: "David si toata casa lui Israel cintau inaintea lui Yaue cu tot felul de\
+      \ instrumente de lemn de chiparos, cu harpe, cu laute, cu timpane, cu fluiere\
       \ si cu tambale."
-    textWithDiacritics: "David şi toată casa lui Israel cîntau înaintea lui YaHWeH\
-      \ cu tot felul de instrumente de lemn de chiparos, cu harpe, cu lăute, cu timpane,\
+    textWithDiacritics: "David şi toată casa lui Israel cîntau înaintea lui Yaue cu\
+      \ tot felul de instrumente de lemn de chiparos, cu harpe, cu lăute, cu timpane,\
       \ cu fluiere şi cu ţambale."
     chapter: null
   - verseNumber: 6
-    text: "Cind au ajuns la aria lui Nacon, Uza a intins mina spre Chivotul lui YaHWeH\
+    text: "Cind au ajuns la aria lui Nacon, Uza a intins mina spre Chivotul lui Yaue\
       \ si l-a apucat, pentru ca era sa-l rastoarne boii."
     textWithDiacritics: "Cînd au ajuns la aria lui Nacon, Uza a întins mîna spre Chivotul\
-      \ lui YaHWeH şi l-a apucat, pentru că era să-l răstoarne boii."
+      \ lui Yaue şi l-a apucat, pentru că era să-l răstoarne boii."
     chapter: null
   - verseNumber: 7
-    text: "YaHWeH S-a aprins de minie impotriva lui Uza, si YaHWeH l-a lovit pe loc\
-      \ pentru pacatul lui, si a murit acolo linga Chivotul lui YaHWeH."
-    textWithDiacritics: "YaHWeH S-a aprins de mînie împotriva lui Uza, şi YaHWeH l-a\
-      \ lovit pe loc pentru păcatul lui, şi a murit acolo lîngă Chivotul lui YaHWeH."
+    text: "Yaue S-a aprins de minie impotriva lui Uza, si Yaue l-a lovit pe loc pentru\
+      \ pacatul lui, si a murit acolo linga Chivotul lui Yaue."
+    textWithDiacritics: "Yaue S-a aprins de mînie împotriva lui Uza, şi Yaue l-a lovit\
+      \ pe loc pentru păcatul lui, şi a murit acolo lîngă Chivotul lui Yaue."
     chapter: null
   - verseNumber: 8
-    text: "David s-a intristat ca YaHWeH lovise pe Uza cu o astfel de pedeapsa, rupindu-l\
+    text: "David s-a intristat ca Yaue lovise pe Uza cu o astfel de pedeapsa, rupindu-l\
       \ pe loc. Si locul acesta a fost numit pina in ziua de azi Peret-Uza a). [ a)\
       \ Sau: Ruperea lui Uza ]"
-    textWithDiacritics: "David s-a întristat că YaHWeH lovise pe Uza cu o astfel de\
+    textWithDiacritics: "David s-a întristat că Yaue lovise pe Uza cu o astfel de\
       \ pedeapsă, rupîndu-l pe loc. Şi locul acesta a fost numit pînă în ziua de azi\
       \ Pereţ-Uza a). [ a) Sau: Ruperea lui Uza ]"
     chapter: null
   - verseNumber: 9
-    text: "David s-a temut de YaHWeH in ziua aceea, si a zis: „Cum sa intre Chivotul\
-      \ lui YaHWeH la mine?”"
-    textWithDiacritics: "David s-a temut de YaHWeH în ziua aceea, şi a zis: „Cum să\
-      \ intre Chivotul lui YaHWeH la mine?”"
+    text: "David s-a temut de Yaue in ziua aceea, si a zis: „Cum sa intre Chivotul\
+      \ lui Yaue la mine?”"
+    textWithDiacritics: "David s-a temut de Yaue în ziua aceea, şi a zis: „Cum să\
+      \ intre Chivotul lui Yaue la mine?”"
     chapter: null
   - verseNumber: 10
-    text: "N-a vrut sa aduca Chivotul lui YaHWeH la el in cetatea lui David, si l-a\
+    text: "N-a vrut sa aduca Chivotul lui Yaue la el in cetatea lui David, si l-a\
       \ dus in casa lui Obed-Edom din Gat."
-    textWithDiacritics: "N-a vrut să aducă Chivotul lui YaHWeH la el în cetatea lui\
+    textWithDiacritics: "N-a vrut să aducă Chivotul lui Yaue la el în cetatea lui\
       \ David, şi l-a dus în casa lui Obed-Edom din Gat."
     chapter: null
   - verseNumber: 11
-    text: "Chivotul lui YaHWeH a ramas trei luni in casa lui Obed-Edom din Gat, si\
-      \ YaHWeH a binecuvintat pe Obed-Edom si toata casa lui. Aducerea chivotului\
+    text: "Chivotul lui Yaue a ramas trei luni in casa lui Obed-Edom din Gat, si Yaue\
+      \ a binecuvintat pe Obed-Edom si toata casa lui. Aducerea chivotului la Ierusalim"
+    textWithDiacritics: "Chivotul lui Yaue a rămas trei luni în casa lui Obed-Edom\
+      \ din Gat, şi Yaue a binecuvîntat pe Obed-Edom şi toată casa lui. Aducerea chivotului\
       \ la Ierusalim"
-    textWithDiacritics: "Chivotul lui YaHWeH a rămas trei luni în casa lui Obed-Edom\
-      \ din Gat, şi YaHWeH a binecuvîntat pe Obed-Edom şi toată casa lui. Aducerea\
-      \ chivotului la Ierusalim"
     chapter: null
   - verseNumber: 12
-    text: "Au venit si au spus imparatului David: „ YaHWeH a binecuvintat casa lui\
-      \ Obed-Edom si tot ce avea, din pricina chivotului lui YaHWeH ” Atunci David\
-      \ a pornit si a suit Chivotul lui YaHWeH din casa lui Obed-Edom in cetatea lui\
-      \ David, in mijlocul veseliei."
-    textWithDiacritics: "Au venit şi au spus împăratului David: „ YaHWeH a binecuvî\
-      ntat casa lui Obed-Edom şi tot ce avea, din pricina chivotului lui YaHWeH ”\
-      \ Atunci David a pornit şi a suit Chivotul lui YaHWeH din casa lui Obed-Edom\
-      \ în cetatea lui David, în mijlocul veseliei."
+    text: "Au venit si au spus imparatului David: „ Yaue a binecuvintat casa lui Obed-Edom\
+      \ si tot ce avea, din pricina chivotului lui Yaue ” Atunci David a pornit si\
+      \ a suit Chivotul lui Yaue din casa lui Obed-Edom in cetatea lui David, in mijlocul\
+      \ veseliei."
+    textWithDiacritics: "Au venit şi au spus împăratului David: „ Yaue a binecuvî\
+      ntat casa lui Obed-Edom şi tot ce avea, din pricina chivotului lui Yaue ” Atunci\
+      \ David a pornit şi a suit Chivotul lui Yaue din casa lui Obed-Edom în cetatea\
+      \ lui David, în mijlocul veseliei."
     chapter: null
   - verseNumber: 13
-    text: "Cind cei ce duceauChivotul lui YaHWeH au facut sase pasi, au jertfit un\
-      \ bou si un vitel gras."
-    textWithDiacritics: "Cînd cei ce duceauChivotul lui YaHWeH au făcut şase paşi,\
-      \ au jertfit un bou şi un viţel gras."
+    text: "Cind cei ce duceauChivotul lui Yaue au facut sase pasi, au jertfit un bou\
+      \ si un vitel gras."
+    textWithDiacritics: "Cînd cei ce duceauChivotul lui Yaue au făcut şase paşi, au\
+      \ jertfit un bou şi un viţel gras."
     chapter: null
   - verseNumber: 14
-    text: "David juca din rasputeri inaintea lui YaHWeH si era incins cu efodul de\
-      \ in subtire."
-    textWithDiacritics: "David juca din răsputeri înaintea lui YaHWeH şi era încins\
+    text: "David juca din rasputeri inaintea lui Yaue si era incins cu efodul de in\
+      \ subtire."
+    textWithDiacritics: "David juca din răsputeri înaintea lui Yaue şi era încins\
       \ cu efodul de in subţire."
     chapter: null
   - verseNumber: 15
-    text: "Astfel au suit David si toata casa lui Israel Chivotul lui YaHWeH, in strigate\
+    text: "Astfel au suit David si toata casa lui Israel Chivotul lui Yaue, in strigate\
       \ de bucurie si in sunet de trimbite."
     textWithDiacritics: "Astfel au suit David şi toată casa lui Israel Chivotul lui\
-      \ YaHWeH, în strigăte de bucurie şi în sunet de trîmbiţe."
+      \ Yaue, în strigăte de bucurie şi în sunet de trîmbiţe."
     chapter: null
   - verseNumber: 16
-    text: "Pe cind Chivotul lui YaHWeH intra in cetatea lui David, Mical, fata lui\
-      \ Saul, se uita pe fereastra; si, vazind pe imparatul David sarind si jucind\
-      \ inaintea lui YaHWeH, l-a dispretuit in inima ei."
-    textWithDiacritics: "Pe cînd Chivotul lui YaHWeH intra în cetatea lui David, Mical,\
+    text: "Pe cind Chivotul lui Yaue intra in cetatea lui David, Mical, fata lui Saul,\
+      \ se uita pe fereastra; si, vazind pe imparatul David sarind si jucind inaintea\
+      \ lui Yaue, l-a dispretuit in inima ei."
+    textWithDiacritics: "Pe cînd Chivotul lui Yaue intra în cetatea lui David, Mical,\
       \ fata lui Saul, se uita pe fereastră; şi, văzînd pe împăratul David sărind\
-      \ şi jucînd înaintea lui YaHWeH, l-a dispreţuit în inima ei."
+      \ şi jucînd înaintea lui Yaue, l-a dispreţuit în inima ei."
     chapter: null
   - verseNumber: 17
-    text: "Dupa ce au adus Chivotul lui YaHWeH, l-au pus la locul lui in mijlocul\
-      \ cortului pe care-l ridicase David pentru Chivot; si David a adus inaintea\
-      \ lui YaHWeH arderi de tot si jertfe de multumire."
-    textWithDiacritics: "După ce au adus Chivotul lui YaHWeH, l-au pus la locul lui\
+    text: "Dupa ce au adus Chivotul lui Yaue, l-au pus la locul lui in mijlocul cortului\
+      \ pe care-l ridicase David pentru Chivot; si David a adus inaintea lui Yaue\
+      \ arderi de tot si jertfe de multumire."
+    textWithDiacritics: "După ce au adus Chivotul lui Yaue, l-au pus la locul lui\
       \ în mijlocul cortului pe care-l ridicase David pentru Chivot; şi David a adus\
-      \ înaintea lui YaHWeH arderi de tot şi jertfe de mulţumire."
+      \ înaintea lui Yaue arderi de tot şi jertfe de mulţumire."
     chapter: null
   - verseNumber: 18
     text: "Cind a ispravit David de adus arderile de tot si jertfele de multumire,\
-      \ a binecuvintat poporul in Numele lui YaHWeH al ostirilor."
+      \ a binecuvintat poporul in Numele lui Yaue al ostirilor."
     textWithDiacritics: "Cînd a isprăvit David de adus arderile de tot şi jertfele\
-      \ de mulţumire, a binecuvîntat poporul în Numele lui YaHWeH al oştirilor."
+      \ de mulţumire, a binecuvîntat poporul în Numele lui Yaue al oştirilor."
     chapter: null
   - verseNumber: 19
     text: "Apoi a impartit la tot poporul, la toata multimea lui Israel, barbati si\
@@ -1082,12 +1081,12 @@ chapterPojo:
       \ un om de nimic!”"
     chapter: null
   - verseNumber: 21
-    text: "David a raspuns Micalei: „Inaintea lui YaHWeH, care m-a ales mai presus\
-      \ de tatal tau si de toata casa lui, ca sa ma puna capetenie peste poporul lui\
-      \ YaHWeH, peste Israel, inaintea lui YaHWeH am jucat."
-    textWithDiacritics: "David a răspuns Micalei: „Înaintea lui YaHWeH, care m-a ales\
+    text: "David a raspuns Micalei: „Inaintea lui Yaue, care m-a ales mai presus de\
+      \ tatal tau si de toata casa lui, ca sa ma puna capetenie peste poporul lui\
+      \ Yaue, peste Israel, inaintea lui Yaue am jucat."
+    textWithDiacritics: "David a răspuns Micalei: „Înaintea lui Yaue, care m-a ales\
       \ mai presus de tatăl tău şi de toată casa lui, ca să mă pună căpetenie peste\
-      \ poporul lui YaHWeH, peste Israel, înaintea lui YaHWeH am jucat."
+      \ poporul lui Yaue, peste Israel, înaintea lui Yaue am jucat."
     chapter: null
   - verseNumber: 22
     text: "Vreau sa ma arat si mai de nimic decit de data asta si sa ma injosesc in\
@@ -1105,32 +1104,32 @@ chapterPojo:
   book: null
   versePojo:
   - verseNumber: 1
-    text: "Cind a locuit imparatul in casa lui si cind i-a dat odihna YaHWeH, dupa\
-      \ ce l-a izbavit de toti vrajmasii care-l inconjurau,"
+    text: "Cind a locuit imparatul in casa lui si cind i-a dat odihna Yaue, dupa ce\
+      \ l-a izbavit de toti vrajmasii care-l inconjurau,"
     textWithDiacritics: "Cînd a locuit împăratul în casa lui şi cînd i-a dat odihnă\
-      \ YaHWeH, după ce l-a izbăvit de toţi vrăjmaşii care-l înconjurau,"
+      \ Yaue, după ce l-a izbăvit de toţi vrăjmaşii care-l înconjurau,"
     chapter: null
   - verseNumber: 2
     text: "a zis prorocului Natan: „Iata! eu locuiesc intr-o casa de cedru, siChivotul\
-      \ lui YaHWeH locuieste intr-un cort.”"
+      \ lui Yaue locuieste intr-un cort.”"
     textWithDiacritics: "a zis prorocului Natan: „Iată! eu locuiesc într-o casă de\
-      \ cedru, şiChivotul lui YaHWeH locuieşte într-un cort.”"
+      \ cedru, şiChivotul lui Yaue locuieşte într-un cort.”"
     chapter: null
   - verseNumber: 3
-    text: "Natan a raspuns imparatului: „Du-te si fa tot ce ai in inima caci YaHWeH\
+    text: "Natan a raspuns imparatului: „Du-te si fa tot ce ai in inima caci Yaue\
       \ este cu tine.”"
     textWithDiacritics: "Natan a răspuns împăratului: „Du-te şi fă tot ce ai în inimă\
-      \ căci YaHWeH este cu tine.”"
+      \ căci Yaue este cu tine.”"
     chapter: null
   - verseNumber: 4
-    text: "In noaptea urmatoare, cuvintul lui YaHWeH a vorbit lui Natan:"
-    textWithDiacritics: "În noaptea următoare, cuvîntul lui YaHWeH a vorbit lui Natan:"
+    text: "In noaptea urmatoare, cuvintul lui Yaue a vorbit lui Natan:"
+    textWithDiacritics: "În noaptea următoare, cuvîntul lui Yaue a vorbit lui Natan:"
     chapter: null
   - verseNumber: 5
-    text: "„Du-te si spune robului Meu David: „Asa vorbeste YaHWeH : „Oare tu Imi\
-      \ vei zidi o Casa ca sa locuiesc in ea?"
-    textWithDiacritics: "„Du-te şi spune robului Meu David: „Aşa vorbeşte YaHWeH :\
-      \ „Oare tu Îmi vei zidi o Casă ca să locuiesc în ea?"
+    text: "„Du-te si spune robului Meu David: „Asa vorbeste Yaue : „Oare tu Imi vei\
+      \ zidi o Casa ca sa locuiesc in ea?"
+    textWithDiacritics: "„Du-te şi spune robului Meu David: „Aşa vorbeşte Yaue : „\
+      Oare tu Îmi vei zidi o Casă ca să locuiesc în ea?"
     chapter: null
   - verseNumber: 6
     text: "Dar Eu n-am locuit intr-o casa, din ziua cind am scos pe copiii lui Israel\
@@ -1149,10 +1148,10 @@ chapterPojo:
       \ cedru?”?"
     chapter: null
   - verseNumber: 8
-    text: "Acum sa spui robului Meu David: „Asa vorbeste YaHWeH al ostirilor: „Te-am\
+    text: "Acum sa spui robului Meu David: „Asa vorbeste Yaue al ostirilor: „Te-am\
       \ luat de la pasune, de la oi, ca sa fii capetenie peste poporul Meu, peste\
       \ Israel;"
-    textWithDiacritics: "Acum să spui robului Meu David: „Aşa vorbeşte YaHWeH al oş\
+    textWithDiacritics: "Acum să spui robului Meu David: „Aşa vorbeşte Yaue al oş\
       tirilor: „Te-am luat de la păşune, de la oi, ca să fii căpetenie peste poporul\
       \ Meu, peste Israel;"
     chapter: null
@@ -1172,11 +1171,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 11
     text: "si ca pe vremea cind pusesem judecatori peste poporul Meu, Israel. Ti-am\
-      \ dat odihna izbavindu-te de toti vrajmasii tai. Si YaHWeH iti vesteste ca-ti\
+      \ dat odihna izbavindu-te de toti vrajmasii tai. Si Yaue iti vesteste ca-ti\
       \ va zidi o casa."
     textWithDiacritics: "şi ca pe vremea cînd pusesem judecători peste poporul Meu,\
-      \ Israel. Ţi-am dat odihnă izbăvindu-te de toţi vrăjmaşii tăi. Şi YaHWeH îţ\
-      i vesteşte că-ţi va zidi o casă."
+      \ Israel. Ţi-am dat odihnă izbăvindu-te de toţi vrăjmaşii tăi. Şi Yaue îţi vesteş\
+      te că-ţi va zidi o casă."
     chapter: null
   - verseNumber: 12
     text: "Cind ti se vor implini zilele si vei fi culcat cu parintii tai, Eu iti\
@@ -1216,25 +1215,25 @@ chapterPojo:
       \ aceasta."
     chapter: null
   - verseNumber: 18
-    text: "Si imparatul David s-a dus si s-a infatisat inaintea lui YaHWeH si a zis:\
-      \ „Cine sunt eu? YaHWeH Eylohim, si ce este casa mea, de m-ai facut sa ajung\
-      \ unde sunt?"
+    text: "Si imparatul David s-a dus si s-a infatisat inaintea lui Yaue si a zis:\
+      \ „Cine sunt eu? Yaue Elohim, si ce este casa mea, de m-ai facut sa ajung unde\
+      \ sunt?"
     textWithDiacritics: "Şi împăratul David s-a dus şi s-a înfăţişat înaintea lui\
-      \ YaHWeH şi a zis: „Cine sunt eu? YaHWeH Eylohim, şi ce este casa mea, de m-ai\
-      \ făcut să ajung unde sunt?"
+      \ Yaue şi a zis: „Cine sunt eu? Yaue Elohim, şi ce este casa mea, de m-ai fă\
+      cut să ajung unde sunt?"
     chapter: null
   - verseNumber: 19
-    text: "Si inca atit este putin inaintea Ta, YaHWeH Eylohim! Tu vorbesti despre\
-      \ casa robului Tau si in viitor. Si binevoiesti sa inveti pe un om cu privire\
-      \ la aceste lucruri, YaHWeH Eylohim!"
-    textWithDiacritics: "Şi încă atît este puţin înaintea Ta, YaHWeH Eylohim! Tu vorbeş\
+    text: "Si inca atit este putin inaintea Ta, Yaue Elohim! Tu vorbesti despre casa\
+      \ robului Tau si in viitor. Si binevoiesti sa inveti pe un om cu privire la\
+      \ aceste lucruri, Yaue Elohim!"
+    textWithDiacritics: "Şi încă atît este puţin înaintea Ta, Yaue Elohim! Tu vorbeş\
       ti despre casa robului Tău şi în viitor. Şi binevoieşti să înveţi pe un om cu\
-      \ privire la aceste lucruri, YaHWeH Eylohim!"
+      \ privire la aceste lucruri, Yaue Elohim!"
     chapter: null
   - verseNumber: 20
-    text: "Ce Ti-ar putea spune David mai mult? Tu cunosti pe robul Tau, YaHWeH Eylohim!"
+    text: "Ce Ti-ar putea spune David mai mult? Tu cunosti pe robul Tau, Yaue Elohim!"
     textWithDiacritics: "Ce Ţi-ar putea spune David mai mult? Tu cunoşti pe robul\
-      \ Tău, YaHWeH Eylohim!"
+      \ Tău, Yaue Elohim!"
     chapter: null
   - verseNumber: 21
     text: "Dupa cuvintul Tau si dupa inima Ta, Tu ai facut toate aceste lucruri mari,\
@@ -1243,64 +1242,63 @@ chapterPojo:
       \ lucruri mari, ca să le descoperi robului Tău!"
     chapter: null
   - verseNumber: 22
-    text: "Ce mare esti Tu, YaHWeH Eylohim! Caci nimeni nu este ca Tine si nu este\
-      \ alt Eylohim afara de Tine, dupa tot ce am auzit cu urechile noastre."
-    textWithDiacritics: "Ce mare eşti Tu, YaHWeH Eylohim! Căci nimeni nu este ca Tine\
-      \ şi nu este alt Eylohim afară de Tine, după tot ce am auzit cu urechile noastre."
+    text: "Ce mare esti Tu, Yaue Elohim! Caci nimeni nu este ca Tine si nu este alt\
+      \ Elohim afara de Tine, dupa tot ce am auzit cu urechile noastre."
+    textWithDiacritics: "Ce mare eşti Tu, Yaue Elohim! Căci nimeni nu este ca Tine\
+      \ şi nu este alt Elohim afară de Tine, după tot ce am auzit cu urechile noastre."
     chapter: null
   - verseNumber: 23
     text: "Este oare pe pamint un singur neam care sa fie ca poporul Tau, ca Israel,\
-      \ pe care a venit sa-l rascumpere YaHWeH, ca sa faca din el poporul Lui, ca\
-      \ sa-Si faca un Nume si ca sa faca pentru el, pentru tara Ta, minuni si semne,\
-      \ izgonind dinaintea poporului Tau, pe care l-ai rascumparat din Egipt, Dintre\
-      \ neamuri si dumnezei?"
+      \ pe care a venit sa-l rascumpere Yaue, ca sa faca din el poporul Lui, ca sa-Si\
+      \ faca un Nume si ca sa faca pentru el, pentru tara Ta, minuni si semne, izgonind\
+      \ dinaintea poporului Tau, pe care l-ai rascumparat din Egipt, Dintre neamuri\
+      \ si dumnezei?"
     textWithDiacritics: "Este oare pe pămînt un singur neam care să fie ca poporul\
-      \ Tău, ca Israel, pe care a venit să-l răscumpere YaHWeH, ca să facă din el\
-      \ poporul Lui, ca să-Şi facă un Nume şi ca să facă pentru el, pentru ţara Ta,\
-      \ minuni şi semne, izgonind dinaintea poporului Tău, pe care l-ai răscumpărat\
-      \ din Egipt, Dintre neamuri şi dumnezei?"
+      \ Tău, ca Israel, pe care a venit să-l răscumpere Yaue, ca să facă din el poporul\
+      \ Lui, ca să-Şi facă un Nume şi ca să facă pentru el, pentru ţara Ta, minuni\
+      \ şi semne, izgonind dinaintea poporului Tău, pe care l-ai răscumpărat din Egipt,\
+      \ Dintre neamuri şi dumnezei?"
     chapter: null
   - verseNumber: 24
     text: "Tu ai intarit pe poporul Tau, Israel, ca sa fie poporul Tau pe vecie; si\
-      \ Tu, YaHWeH, Te-ai facut Eylohim al lui."
+      \ Tu, Yaue, Te-ai facut Elohim al lui."
     textWithDiacritics: "Tu ai întărit pe poporul Tău, Israel, ca să fie poporul Tă\
-      u pe vecie; şi Tu, YaHWeH, Te-ai făcut Eylohim al lui."
+      u pe vecie; şi Tu, Yaue, Te-ai făcut Elohim al lui."
     chapter: null
   - verseNumber: 25
-    text: "Acum, YaHWeH Eylohim, fa sa ramina in veci cuvintul pe care l-ai rostit\
-      \ asupra robului Tau si asupra casei lui, si lucreaza dupa cuvintul Tau."
-    textWithDiacritics: "Acum, YaHWeH Eylohim, fă să rămînă în veci cuvîntul pe care\
+    text: "Acum, Yaue Elohim, fa sa ramina in veci cuvintul pe care l-ai rostit asupra\
+      \ robului Tau si asupra casei lui, si lucreaza dupa cuvintul Tau."
+    textWithDiacritics: "Acum, Yaue Elohim, fă să rămînă în veci cuvîntul pe care\
       \ l-ai rostit asupra robului Tău şi asupra casei lui, şi lucrează după cuvî\
       ntul Tău."
     chapter: null
   - verseNumber: 26
-    text: "Slavit sa fie Numele Tau pe vecie si sa se zica: „ YaHWeH al ostirilor\
-      \ este Eylohim al lui Israel.” Si casa robului Tau David sa ramina inaintea\
-      \ Ta!"
-    textWithDiacritics: "Slăvit să fie Numele Tău pe vecie şi să se zică: „ YaHWeH\
-      \ al oştirilor este Eylohim al lui Israel.” Şi casa robului Tău David să ră\
-      mînă înaintea Ta!"
+    text: "Slavit sa fie Numele Tau pe vecie si sa se zica: „ Yaue al ostirilor este\
+      \ Elohim al lui Israel.” Si casa robului Tau David sa ramina inaintea Ta!"
+    textWithDiacritics: "Slăvit să fie Numele Tău pe vecie şi să se zică: „ Yaue al\
+      \ oştirilor este Elohim al lui Israel.” Şi casa robului Tău David să rămînă\
+      \ înaintea Ta!"
     chapter: null
   - verseNumber: 27
-    text: "Caci Tu insuti, YaHWeH al ostirilor, Eylohim al lui Israel, Te-ai descoperit\
+    text: "Caci Tu insuti, Yaue al ostirilor, Elohim al lui Israel, Te-ai descoperit\
       \ robului Tau, zicind: „Eu iti voi intemeia o casa!” De aceea a indraznit robul\
       \ Tau sa-Ti faca aceasta rugaciune."
-    textWithDiacritics: "Căci Tu însuţi, YaHWeH al oştirilor, Eylohim al lui Israel,\
+    textWithDiacritics: "Căci Tu însuţi, Yaue al oştirilor, Elohim al lui Israel,\
       \ Te-ai descoperit robului Tău, zicînd: „Eu îţi voi întemeia o casă!” De aceea\
       \ a îndrăznit robul Tău să-Ţi facă această rugăciune."
     chapter: null
   - verseNumber: 28
-    text: "Acum, YaHWeH Eylohim, Tu esti Eylohim, si cuvintele Tale sunt Adevar, si\
-      \ Tu ai vestit harul acesta robului Tau."
-    textWithDiacritics: "Acum, YaHWeH Eylohim, Tu eşti Eylohim, şi cuvintele Tale\
-      \ sunt Adevăr, şi Tu ai vestit harul acesta robului Tău."
+    text: "Acum, Yaue Elohim, Tu esti Elohim, si cuvintele Tale sunt Adevar, si Tu\
+      \ ai vestit harul acesta robului Tau."
+    textWithDiacritics: "Acum, Yaue Elohim, Tu eşti Elohim, şi cuvintele Tale sunt\
+      \ Adevăr, şi Tu ai vestit harul acesta robului Tău."
     chapter: null
   - verseNumber: 29
     text: "Binecuvinta, dar, casa robului Tau, ca sa dainuiasca pe vecie inaintea\
-      \ Ta! Caci Tu, YaHWeH Eylohim, ai vorbit, si, prin binecuvintarea Ta, casa robului\
+      \ Ta! Caci Tu, Yaue Elohim, ai vorbit, si, prin binecuvintarea Ta, casa robului\
       \ Tau va fi binecuvintata pe vecie.”"
     textWithDiacritics: "Binecuvîntă, dar, casa robului Tău, ca să dăinuiască pe vecie\
-      \ înaintea Ta! Căci Tu, YaHWeH Eylohim, ai vorbit, şi, prin binecuvîntarea Ta,\
+      \ înaintea Ta! Căci Tu, Yaue Elohim, ai vorbit, şi, prin binecuvîntarea Ta,\
       \ casa robului Tău va fi binecuvîntată pe vecie.”"
     chapter: null
 - number: 8
@@ -1345,10 +1343,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 6
     text: "David a pus straja in Siria Damascului. Si sirienii au fost supusi lui\
-      \ David si i-au platit un bir. YaHWeH ocrotea pe David oriunde se ducea."
+      \ David si i-au platit un bir. Yaue ocrotea pe David oriunde se ducea."
     textWithDiacritics: "David a pus strajă în Siria Damascului. Şi sirienii au fost\
-      \ supuşi lui David şi i-au plătit un bir. YaHWeH ocrotea pe David oriunde se\
-      \ ducea."
+      \ supuşi lui David şi i-au plătit un bir. Yaue ocrotea pe David oriunde se ducea."
     chapter: null
   - verseNumber: 7
     text: "Si David a luat scuturile de aur, pe care le aveau slujitorii lui Hadadezer,\
@@ -1378,10 +1375,10 @@ chapterPojo:
       \ vase de aur şi vase de aramă."
     chapter: null
   - verseNumber: 11
-    text: "Imparatul David le-a inchinat lui YaHWeH, cum inchinase si argintul si\
-      \ aurul luat de la toate neamurile pe care le biruise,"
-    textWithDiacritics: "Împăratul David le-a închinat lui YaHWeH, cum închinase ş\
-      i argintul şi aurul luat de la toate neamurile pe care le biruise,"
+    text: "Imparatul David le-a inchinat lui Yaue, cum inchinase si argintul si aurul\
+      \ luat de la toate neamurile pe care le biruise,"
+    textWithDiacritics: "Împăratul David le-a închinat lui Yaue, cum închinase şi\
+      \ argintul şi aurul luat de la toate neamurile pe care le biruise,"
     chapter: null
   - verseNumber: 12
     text: "din Siria, din Moab, de la fiii lui Amon, de la filisteni, de la Amalec\
@@ -1399,10 +1396,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 14
     text: "A pus straji in Edom, a pus straji in tot Edomul. Si tot Edomul a fost\
-      \ supus lui David. YaHWeH ocrotea pe David pretutindeni pe unde mergea. Inalti\
+      \ supus lui David. Yaue ocrotea pe David pretutindeni pe unde mergea. Inalti\
       \ slujbasi ai lui David"
     textWithDiacritics: "A pus străji în Edom, a pus străji în tot Edomul. Şi tot\
-      \ Edomul a fost supus lui David. YaHWeH ocrotea pe David pretutindeni pe unde\
+      \ Edomul a fost supus lui David. Yaue ocrotea pe David pretutindeni pe unde\
       \ mergea. Înalţi slujbaşi ai lui David"
     chapter: null
   - verseNumber: 15
@@ -1447,11 +1444,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 3
     text: "Imparatul a zis: „Nu mai este nimeni din casa lui Saul ca sa ma port cu\
-      \ el cu o bunatate ca bunatatea lui YaHWeH?” Si Tiba a raspuns imparatului:\
-      \ „Mai este un fiu al lui Ionatan, olog de picioare.”"
+      \ el cu o bunatate ca bunatatea lui Yaue?” Si Tiba a raspuns imparatului: „\
+      Mai este un fiu al lui Ionatan, olog de picioare.”"
     textWithDiacritics: "Împăratul a zis: „Nu mai este nimeni din casa lui Saul ca\
-      \ să mă port cu el cu o bunătate ca bunătatea lui YaHWeH?” Şi Ţiba a răspuns\
-      \ împăratului: „Mai este un fiu al lui Ionatan, olog de picioare.”"
+      \ să mă port cu el cu o bunătate ca bunătatea lui Yaue?” Şi Ţiba a răspuns î\
+      mpăratului: „Mai este un fiu al lui Ionatan, olog de picioare.”"
     chapter: null
   - verseNumber: 4
     text: "Imparatul a zis: „Unde este?” Si Tiba a raspuns imparatului: „Este in casa\
@@ -1614,10 +1611,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 12
     text: "Fii tare si sa ne aratam plini de barbatie pentru poporul nostru si pentru\
-      \ cetatile lui YaHWeH Eylohim al nostru; si YaHWeH sa faca ce va crede!”"
+      \ cetatile lui Yaue Elohim al nostru; si Yaue sa faca ce va crede!”"
     textWithDiacritics: "Fii tare şi să ne arătăm plini de bărbăţie pentru poporul\
-      \ nostru şi pentru cetăţile lui YaHWeH Eylohim al nostru; şi YaHWeH să facă\
-      \ ce va crede!”"
+      \ nostru şi pentru cetăţile lui Yaue Elohim al nostru; şi Yaue să facă ce va\
+      \ crede!”"
     chapter: null
   - verseNumber: 13
     text: "Ioab, cu poporul lui, a inaintat la lupta impotriva sirienilor, si ei au\
@@ -1852,19 +1849,19 @@ chapterPojo:
   - verseNumber: 27
     text: "Dupa ce au trecut zilele de jale, David a trimis s-o ia si a primit-o in\
       \ casa lui. Ea i-a fost nevasta si i-a nascut un fiu. Fapta lui David n-a placut\
-      \ lui YaHWeH."
+      \ lui Yaue."
     textWithDiacritics: "După ce au trecut zilele de jale, David a trimis s-o ia ş\
       i a primit-o în casa lui. Ea i-a fost nevastă şi i-a născut un fiu. Fapta lui\
-      \ David n-a plăcut lui YaHWeH."
+      \ David n-a plăcut lui Yaue."
     chapter: null
 - number: 12
   book: null
   versePojo:
   - verseNumber: 1
-    text: "YaHWeH a trimis pe Natan la David. Si Natan a venit la el si i-a zis: „\
-      Intr-o cetate erau doi oameni, unul bogat si altul sarac."
-    textWithDiacritics: "YaHWeH a trimis pe Natan la David. Şi Natan a venit la el\
-      \ şi i-a zis: „Într-o cetate erau doi oameni, unul bogat şi altul sărac."
+    text: "Yaue a trimis pe Natan la David. Si Natan a venit la el si i-a zis: „Intr-o\
+      \ cetate erau doi oameni, unul bogat si altul sarac."
+    textWithDiacritics: "Yaue a trimis pe Natan la David. Şi Natan a venit la el ş\
+      i i-a zis: „Într-o cetate erau doi oameni, unul bogat şi altul sărac."
     chapter: null
   - verseNumber: 2
     text: "Bogatul avea foarte multe oi si foarte multi boi."
@@ -1892,10 +1889,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 5
     text: "David s-a aprins foarte tare de minie impotriva omului acestuia si a zis\
-      \ lui Natan: „Viu este YaHWeH, ca omul care a facut lucrul acesta este vrednic\
+      \ lui Natan: „Viu este Yaue, ca omul care a facut lucrul acesta este vrednic\
       \ de moarte."
     textWithDiacritics: "David s-a aprins foarte tare de mînie împotriva omului acestuia\
-      \ şi a zis lui Natan: „Viu este YaHWeH, că omul care a făcut lucrul acesta este\
+      \ şi a zis lui Natan: „Viu este Yaue, că omul care a făcut lucrul acesta este\
       \ vrednic de moarte."
     chapter: null
   - verseNumber: 6
@@ -1905,12 +1902,12 @@ chapterPojo:
       \ şi n-a avut milă.”"
     chapter: null
   - verseNumber: 7
-    text: "Si Natan a zis lui David: „Tu esti omul acesta! Asa vorbeste YaHWeH Eylohim\
+    text: "Si Natan a zis lui David: „Tu esti omul acesta! Asa vorbeste Yaue Elohim\
       \ al lui Israel: „Eu te-am uns imparat peste Israel si te-am scapat din mina\
       \ lui Saul;"
     textWithDiacritics: "Şi Natan a zis lui David: „Tu eşti omul acesta! Aşa vorbeş\
-      te YaHWeH Eylohim al lui Israel: „Eu te-am uns împărat peste Israel şi te-am\
-      \ scăpat din mîna lui Saul;"
+      te Yaue Elohim al lui Israel: „Eu te-am uns împărat peste Israel şi te-am scă\
+      pat din mîna lui Saul;"
     chapter: null
   - verseNumber: 8
     text: "te-am facut stapin pe casa stapinului tau, am pus la sinul tau nevestele\
@@ -1921,11 +1918,11 @@ chapterPojo:
       \ ar fi fost puţin atîta, aş mai fi adăugat."
     chapter: null
   - verseNumber: 9
-    text: "Pentru ce, dar, ai dispretuit tu cuvintul lui YaHWeH, facind ce este rau\
+    text: "Pentru ce, dar, ai dispretuit tu cuvintul lui Yaue, facind ce este rau\
       \ inaintea Lui? Ai lovit cu sabia pe Urie, hetitul; ai luat de nevasta pe nevasta\
       \ sa, si pe el l-ai ucis cu sabia fiilor lui Amon."
-    textWithDiacritics: "Pentru ce, dar, ai dispreţuit tu cuvîntul lui YaHWeH, fă\
-      cînd ce este rău înaintea Lui? Ai lovit cu sabia pe Urie, hetitul; ai luat de\
+    textWithDiacritics: "Pentru ce, dar, ai dispreţuit tu cuvîntul lui Yaue, făcî\
+      nd ce este rău înaintea Lui? Ai lovit cu sabia pe Urie, hetitul; ai luat de\
       \ nevastă pe nevasta sa, şi pe el l-ai ucis cu sabia fiilor lui Amon."
     chapter: null
   - verseNumber: 10
@@ -1935,10 +1932,10 @@ chapterPojo:
       \ că M-ai dispreţuit şi pentru că ai luat de nevastă pe nevasta lui Urie, hetitul.”"
     chapter: null
   - verseNumber: 11
-    text: "Asa vorbeste YaHWeH: „Iata, din casa ta voi ridica nenorocirea impotriva\
+    text: "Asa vorbeste Yaue: „Iata, din casa ta voi ridica nenorocirea impotriva\
       \ ta si voi lua sub ochii tai pe nevestele tale si le voi da altuia care se\
       \ va culca cu ele in fata soarelui acestuia."
-    textWithDiacritics: "Aşa vorbeşte YaHWeH: „Iată, din casa ta voi ridica nenorocirea\
+    textWithDiacritics: "Aşa vorbeşte Yaue: „Iată, din casa ta voi ridica nenorocirea\
       \ împotriva ta şi voi lua sub ochii tăi pe nevestele tale şi le voi da altuia\
       \ care se va culca cu ele în faţa soarelui acestuia."
     chapter: null
@@ -1949,28 +1946,28 @@ chapterPojo:
       \ în faţa întregului Israel şi în faţa soarelui.”"
     chapter: null
   - verseNumber: 13
-    text: "David a zis lui Natan: „Am pacatuit impotriva lui YaHWeH!” Si Natan a zis\
-      \ lui David: „ YaHWeH iti iarta pacatul, nu vei muri."
-    textWithDiacritics: "David a zis lui Natan: „Am păcătuit împotriva lui YaHWeH!”\
-      \ Şi Natan a zis lui David: „ YaHWeH îţi iartă păcatul, nu vei muri."
+    text: "David a zis lui Natan: „Am pacatuit impotriva lui Yaue!” Si Natan a zis\
+      \ lui David: „ Yaue iti iarta pacatul, nu vei muri."
+    textWithDiacritics: "David a zis lui Natan: „Am păcătuit împotriva lui Yaue!”\
+      \ Şi Natan a zis lui David: „ Yaue îţi iartă păcatul, nu vei muri."
     chapter: null
   - verseNumber: 14
-    text: "Dar, pentru ca ai facut pe vrajmasii lui YaHWeH sa-L huleasca, savirsind\
+    text: "Dar, pentru ca ai facut pe vrajmasii lui Yaue sa-L huleasca, savirsind\
       \ fapta aceasta, fiul care ti s-a nascut va muri.” Moartea copilului – Solomon"
-    textWithDiacritics: "Dar, pentru că ai făcut pe vrăjmaşii lui YaHWeH să-L hulească\
+    textWithDiacritics: "Dar, pentru că ai făcut pe vrăjmaşii lui Yaue să-L hulească\
       , săvîrşind fapta aceasta, fiul care ţi s-a născut va muri.” Moartea copilului\
       \ – Solomon"
     chapter: null
   - verseNumber: 15
-    text: "Si Natan a plecat acasa. YaHWeH a lovit copilul pe care-l nascuse lui David\
+    text: "Si Natan a plecat acasa. Yaue a lovit copilul pe care-l nascuse lui David\
       \ nevasta lui Urie, si a fost greu bolnav."
-    textWithDiacritics: "Şi Natan a plecat acasă. YaHWeH a lovit copilul pe care-l\
-      \ născuse lui David nevasta lui Urie, şi a fost greu bolnav."
+    textWithDiacritics: "Şi Natan a plecat acasă. Yaue a lovit copilul pe care-l nă\
+      scuse lui David nevasta lui Urie, şi a fost greu bolnav."
     chapter: null
   - verseNumber: 16
-    text: "David s-a rugat lui YaHWeH pentru copil si a postit; si cind a venit acasa,\
+    text: "David s-a rugat lui Yaue pentru copil si a postit; si cind a venit acasa,\
       \ toata noaptea a stat culcat pe pamint."
-    textWithDiacritics: "David s-a rugat lui YaHWeH pentru copil şi a postit; şi cî\
+    textWithDiacritics: "David s-a rugat lui Yaue pentru copil şi a postit; şi cî\
       nd a venit acasă, toată noaptea a stat culcat pe pămînt."
     chapter: null
   - verseNumber: 17
@@ -1999,11 +1996,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 20
     text: "Atunci David s-a sculat de la pamint. S-a spalat, s-a uns si si-a schimbat\
-      \ hainele; apoi s-a dus in Casa lui YaHWeH si s-a inchinat. Intorcindu-se acasa,\
+      \ hainele; apoi s-a dus in Casa lui Yaue si s-a inchinat. Intorcindu-se acasa,\
       \ a cerut sa i se dea sa manince si a mincat."
     textWithDiacritics: "Atunci David s-a sculat de la pămînt. S-a spălat, s-a uns\
-      \ şi şi-a schimbat hainele; apoi s-a dus în Casa lui YaHWeH şi s-a închinat.\
-      \ Întorcîndu-se acasă, a cerut să i se dea să mănînce şi a mîncat."
+      \ şi şi-a schimbat hainele; apoi s-a dus în Casa lui Yaue şi s-a închinat. Î\
+      ntorcîndu-se acasă, a cerut să i se dea să mănînce şi a mîncat."
     chapter: null
   - verseNumber: 21
     text: "Slujitorii lui i-au zis: „Ce inseamna ceea ce faci? Cind traia copilul,\
@@ -2014,10 +2011,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 22
     text: "El a raspuns: „Cind traia copilul, posteam si plingeam, caci ziceam: „\
-      Cine stie daca nu Se va indura YaHWeH de mine si daca nu va trai copilul?”"
+      Cine stie daca nu Se va indura Yaue de mine si daca nu va trai copilul?”"
     textWithDiacritics: "El a răspuns: „Cînd trăia copilul, posteam şi plîngeam, că\
-      ci ziceam: „Cine ştie dacă nu Se va îndura YaHWeH de mine şi dacă nu va tră\
-      i copilul?”"
+      ci ziceam: „Cine ştie dacă nu Se va îndura Yaue de mine şi dacă nu va trăi copilul?”"
     chapter: null
   - verseNumber: 23
     text: "Acum, cind a murit, pentru ce sa mai postesc? Pot sa-l intorc in viata?\
@@ -2028,17 +2024,17 @@ chapterPojo:
   - verseNumber: 24
     text: "David a mingiiat pe nevasta sa Bat-Seba si a intrat la ea si s-a culcat\
       \ cu ea. Ea a nascut un fiu, pe care l-a numit Solomon si care a fost iubit\
-      \ de YaHWeH."
+      \ de Yaue."
     textWithDiacritics: "David a mîngîiat pe nevasta sa Bat-Şeba şi a intrat la ea\
       \ şi s-a culcat cu ea. Ea a născut un fiu, pe care l-a numit Solomon şi care\
-      \ a fost iubit de YaHWeH."
+      \ a fost iubit de Yaue."
     chapter: null
   - verseNumber: 25
     text: "El l-a incredintat in miinile prorocului Natan, si Natan i-a pus numele\
-      \ Iedidia a) pentru YaHWeH. [ a) Sau: Iubitul lui YaHWeH ] Luarea Rabei si supunerea\
+      \ Iedidia a) pentru Yaue. [ a) Sau: Iubitul lui Yaue ] Luarea Rabei si supunerea\
       \ amonitilor"
     textWithDiacritics: "El l-a încredinţat în mîinile prorocului Natan, şi Natan\
-      \ i-a pus numele Iedidia a) pentru YaHWeH. [ a) Sau: Iubitul lui YaHWeH ] Luarea\
+      \ i-a pus numele Iedidia a) pentru Yaue. [ a) Sau: Iubitul lui Yaue ] Luarea\
       \ Rabei şi supunerea amoniţilor"
     chapter: null
   - verseNumber: 26
@@ -2419,13 +2415,13 @@ chapterPojo:
       \ aduci la mine, şi nu se va mai atinge de tine.”"
     chapter: null
   - verseNumber: 11
-    text: "Ea a zis: „Sa-si aduca aminte imparatul de YaHWeH Eylohim al tau, pentru\
-      \ ca razbunatorul singelui sa nu mareasca prapadul si sa nu mi se nimiceasca\
-      \ fiul!” Si el a zis: „Viu este YaHWeH, ca un par din capul fiului tau nu va\
-      \ cadea la pamint!”"
-    textWithDiacritics: "Ea a zis: „Să-şi aducă aminte împăratul de YaHWeH Eylohim\
-      \ al tău, pentru ca răzbunătorul sîngelui să nu mărească prăpădul şi să nu mi\
-      \ se nimicească fiul!” Şi el a zis: „Viu este YaHWeH, că un păr din capul fiului\
+    text: "Ea a zis: „Sa-si aduca aminte imparatul de Yaue Elohim al tau, pentru ca\
+      \ razbunatorul singelui sa nu mareasca prapadul si sa nu mi se nimiceasca fiul!”\
+      \ Si el a zis: „Viu este Yaue, ca un par din capul fiului tau nu va cadea la\
+      \ pamint!”"
+    textWithDiacritics: "Ea a zis: „Să-şi aducă aminte împăratul de Yaue Elohim al\
+      \ tău, pentru ca răzbunătorul sîngelui să nu mărească prăpădul şi să nu mi se\
+      \ nimicească fiul!” Şi el a zis: „Viu este Yaue, că un păr din capul fiului\
       \ tău nu va cădea la pămînt!”"
     chapter: null
   - verseNumber: 12
@@ -2435,20 +2431,20 @@ chapterPojo:
       nului meu, împăratul.” Şi el a zis: „Vorbeşte!”"
     chapter: null
   - verseNumber: 13
-    text: "Femeia a zis: „Pentru ce gindesti tu astfel cu privire la poporul lui YaHWeH,\
+    text: "Femeia a zis: „Pentru ce gindesti tu astfel cu privire la poporul lui Yaue,\
       \ caci nu iese chiar din cuvintele imparatului ca imparatul este ca si vinovat\
       \ cind nu cheama inapoi pe acela pe care l-a gonit?"
     textWithDiacritics: "Femeia a zis: „Pentru ce gîndeşti tu astfel cu privire la\
-      \ poporul lui YaHWeH, căci nu iese chiar din cuvintele împăratului că împăratul\
+      \ poporul lui Yaue, căci nu iese chiar din cuvintele împăratului că împăratul\
       \ este ca şi vinovat cînd nu cheamă înapoi pe acela pe care l-a gonit?"
     chapter: null
   - verseNumber: 14
     text: "Trebuie negresit sa murim si vom fi ca niste ape varsate pe pamint, care\
-      \ nu se mai aduna. YaHWeH nu ia viata, ci doreste ca fugarul sa nu ramina izgonit\
+      \ nu se mai aduna. Yaue nu ia viata, ci doreste ca fugarul sa nu ramina izgonit\
       \ dinaintea Lui."
     textWithDiacritics: "Trebuie negreşit să murim şi vom fi ca nişte ape vărsate\
-      \ pe pămînt, care nu se mai adună. YaHWeH nu ia viaţa, ci doreşte ca fugarul\
-      \ să nu rămînă izgonit dinaintea Lui."
+      \ pe pămînt, care nu se mai adună. Yaue nu ia viaţa, ci doreşte ca fugarul să\
+      \ nu rămînă izgonit dinaintea Lui."
     chapter: null
   - verseNumber: 15
     text: "Acum, daca am venit sa spun aceste lucruri imparatului, stapinului meu,\
@@ -2460,18 +2456,18 @@ chapterPojo:
     chapter: null
   - verseNumber: 16
     text: "Da, imparatul va asculta pe roaba sa, ca sa scape din mina celor ce cauta\
-      \ sa ne nimiceasca, pe mine si pe fiul meu, din mostenirea lui YaHWeH.”"
+      \ sa ne nimiceasca, pe mine si pe fiul meu, din mostenirea lui Yaue.”"
     textWithDiacritics: "Da, împăratul va asculta pe roaba sa, ca să scape din mî\
       na celor ce caută să ne nimicească, pe mine şi pe fiul meu, din moştenirea lui\
-      \ YaHWeH.”"
+      \ Yaue.”"
     chapter: null
   - verseNumber: 17
     text: "Roaba ta a zis: „Cuvintul stapinului meu, imparatul, sa-mi dea odihna.\
-      \ Caci stapinul meu, imparatul, este ca un inger al lui YaHWeH, gata sa auda\
-      \ binele si raul. Si YaHWeH Eylohim al tau sa fie cu tine.”"
+      \ Caci stapinul meu, imparatul, este ca un inger al lui Yaue, gata sa auda binele\
+      \ si raul. Si Yaue Elohim al tau sa fie cu tine.”"
     textWithDiacritics: "Roaba ta a zis: „Cuvîntul stapînului meu, împăratul, să-mi\
-      \ dea odihnă. Căci stăpînul meu, împăratul, este ca un înger al lui YaHWeH,\
-      \ gata să audă binele şi răul. Şi YaHWeH Eylohim al tău să fie cu tine.”"
+      \ dea odihnă. Căci stăpînul meu, împăratul, este ca un înger al lui Yaue, gata\
+      \ să audă binele şi răul. Şi Yaue Elohim al tău să fie cu tine.”"
     chapter: null
   - verseNumber: 18
     text: "Imparatul a raspuns si a zis femeii: „Nu-mi ascunde ce te voi intreba.”\
@@ -2493,11 +2489,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 20
     text: "Ca sa dea o alta infatisare lucrului, a facut robul tau Ioab lucrul acesta.\
-      \ Dar stapinul meu este tot atit de intelept ca si un inger al lui YaHWeH, ca\
+      \ Dar stapinul meu este tot atit de intelept ca si un inger al lui Yaue, ca\
       \ sa cunoasca tot ce se petrece pe pamint.” Absalom este iertat si adus inapoi"
     textWithDiacritics: "Ca să dea o altă înfăţişare lucrului, a făcut robul tău Ioab\
       \ lucrul acesta. Dar stăpînul meu este tot atît de înţelept ca şi un înger al\
-      \ lui YaHWeH, ca să cunoască tot ce se petrece pe pămînt.” Absalom este iertat\
+      \ lui Yaue, ca să cunoască tot ce se petrece pe pămînt.” Absalom este iertat\
       \ şi adus înapoi"
     chapter: null
   - verseNumber: 21
@@ -2638,18 +2634,18 @@ chapterPojo:
     chapter: null
   - verseNumber: 7
     text: "Dupa trecere de patruzeci a] de ani, Absalom a zis imparatului: „Da-mi\
-      \ voie sa ma duc la Hebron sa implinesc o juruinta pe care am facut-o lui YaHWeH.\
+      \ voie sa ma duc la Hebron sa implinesc o juruinta pe care am facut-o lui Yaue.\
       \ [ a) Sau: patru ]"
     textWithDiacritics: "După trecere de patruzeci a] de ani, Absalom a zis împăratului:\
       \ „Dă-mi voie să mă duc la Hebron să împlinesc o juruinţă pe care am făcut-o\
-      \ lui YaHWeH. [ a) Sau: patru ]"
+      \ lui Yaue. [ a) Sau: patru ]"
     chapter: null
   - verseNumber: 8
     text: "Caci robul tau a facut o juruinta, cind locuiam la Ghesur, in Siria; si\
-      \ am zis: „Daca ma va aduce YaHWeH inapoi la Ierusalim, voi da cinste lui YaHWeH.”"
+      \ am zis: „Daca ma va aduce Yaue inapoi la Ierusalim, voi da cinste lui Yaue.”"
     textWithDiacritics: "Căci robul tău a făcut o juruinţă, cînd locuiam la Gheşur,\
-      \ în Siria; şi am zis: „Dacă mă va aduce YaHWeH înapoi la Ierusalim, voi da\
-      \ cinste lui YaHWeH.”"
+      \ în Siria; şi am zis: „Dacă mă va aduce Yaue înapoi la Ierusalim, voi da cinste\
+      \ lui Yaue.”"
     chapter: null
   - verseNumber: 9
     text: "Imparatul i-a zis: „Du-te in pace.” Absalom s-a sculat si a plecat la Hebron."
@@ -2730,19 +2726,19 @@ chapterPojo:
   - verseNumber: 20
     text: "De ieri ai venit, si azi sa te fac sa ratacesti cu noi incoace si incolo,\
       \ cind nici eu insumi nu stiu unde ma duc! Intoarce-te si ia si pe fratii tai\
-      \ cu tine. YaHWeH sa Se poarte cu tine cu bunatate si credinciosie!”"
+      \ cu tine. Yaue sa Se poarte cu tine cu bunatate si credinciosie!”"
     textWithDiacritics: "De ieri ai venit, şi azi să te fac să rătăceşti cu noi î\
       ncoace şi încolo, cînd nici eu însumi nu ştiu unde mă duc! Întoarce-te şi ia\
-      \ şi pe fraţii tăi cu tine. YaHWeH să Se poarte cu tine cu bunătate şi credincioş\
+      \ şi pe fraţii tăi cu tine. Yaue să Se poarte cu tine cu bunătate şi credincioş\
       ie!”"
     chapter: null
   - verseNumber: 21
-    text: "Itai a raspuns imparatului si a zis: „Viu este YaHWeH si viu este stapinul\
+    text: "Itai a raspuns imparatului si a zis: „Viu este Yaue si viu este stapinul\
       \ meu, imparatul, ca in locul unde va fi stapinul meu, imparatul, fie ca sa\
       \ moara, fie ca sa traiasca, acolo va fi si robul tau.”"
-    textWithDiacritics: "Itai a răspuns împăratului şi a zis: „Viu este YaHWeH şi\
-      \ viu este stăpînul meu, împăratul, că în locul unde va fi stăpînul meu, împă\
-      ratul, fie ca să moară, fie ca să trăiască, acolo va fi şi robul tău.”"
+    textWithDiacritics: "Itai a răspuns împăratului şi a zis: „Viu este Yaue şi viu\
+      \ este stăpînul meu, împăratul, că în locul unde va fi stăpînul meu, împăratul,\
+      \ fie ca să moară, fie ca să trăiască, acolo va fi şi robul tău.”"
     chapter: null
   - verseNumber: 22
     text: "David a zis atunci lui Itai: „Du-te si treci!” Si Itai din Gat a trecut\
@@ -2760,19 +2756,19 @@ chapterPojo:
     chapter: null
   - verseNumber: 24
     text: "Tadoc era si el acolo, si cu el toti levitii, ducind Chivotul Legamintului\
-      \ lui Eylohim; si au asezat jos Chivotul lui YaHWeH, si Abiatar se suia, in\
-      \ timp ce tot poporul ispravea de iesit din cetate."
+      \ lui Elohim; si au asezat jos Chivotul lui Yaue, si Abiatar se suia, in timp\
+      \ ce tot poporul ispravea de iesit din cetate."
     textWithDiacritics: "Ţadoc era şi el acolo, şi cu el toţi leviţii, ducînd Chivotul\
-      \ Legămîntului lui Eylohim; şi au aşezat jos Chivotul lui YaHWeH, şi Abiatar\
-      \ se suia, în timp ce tot poporul isprăvea de ieşit din cetate."
+      \ Legămîntului lui Elohim; şi au aşezat jos Chivotul lui Yaue, şi Abiatar se\
+      \ suia, în timp ce tot poporul isprăvea de ieşit din cetate."
     chapter: null
   - verseNumber: 25
-    text: "Imparatul a zis lui Tadoc: „Du Chivotul lui YaHWeH inapoi in cetate. Daca\
-      \ voi capata trecere inaintea lui YaHWeH, ma va aduce inapoi si ma va face sa\
+    text: "Imparatul a zis lui Tadoc: „Du Chivotul lui Yaue inapoi in cetate. Daca\
+      \ voi capata trecere inaintea lui Yaue, ma va aduce inapoi si ma va face sa\
       \ vad Chivotul si Locasul Lui."
-    textWithDiacritics: "Împăratul a zis lui Ţadoc: „Du Chivotul lui YaHWeH înapoi\
-      \ în cetate. Dacă voi căpăta trecere înaintea lui YaHWeH, mă va aduce înapoi\
-      \ şi mă va face să văd Chivotul şi Locaşul Lui."
+    textWithDiacritics: "Împăratul a zis lui Ţadoc: „Du Chivotul lui Yaue înapoi î\
+      n cetate. Dacă voi căpăta trecere înaintea lui Yaue, mă va aduce înapoi şi mă\
+      \ va face să văd Chivotul şi Locaşul Lui."
     chapter: null
   - verseNumber: 26
     text: "Dar daca va zice: „Nu-mi place de tine”, iata-ma, sa faca ce va crede cu\
@@ -2795,10 +2791,10 @@ chapterPojo:
       \ veni veşti din partea voastră.”"
     chapter: null
   - verseNumber: 29
-    text: "Astfel Tadoc si Abiatar au dus inapoi Chivotul lui YaHWeH la Ierusalim\
-      \ si au ramas acolo."
-    textWithDiacritics: "Astfel Ţadoc şi Abiatar au dus înapoi Chivotul lui YaHWeH\
-      \ la Ierusalim şi au rămas acolo."
+    text: "Astfel Tadoc si Abiatar au dus inapoi Chivotul lui Yaue la Ierusalim si\
+      \ au ramas acolo."
+    textWithDiacritics: "Astfel Ţadoc şi Abiatar au dus înapoi Chivotul lui Yaue la\
+      \ Ierusalim şi au rămas acolo."
     chapter: null
   - verseNumber: 30
     text: "David a suit dealul maslinilor. Suia plingind si cu capul acoperit si mergea\
@@ -2810,15 +2806,15 @@ chapterPojo:
     chapter: null
   - verseNumber: 31
     text: "Au venit si au spus lui David: „Ahitofel este impreuna cu Absalom printre\
-      \ uneltitori.” Si David a zis: „ YaHWeH, nimiceste sfaturile lui Ahitofel!”"
+      \ uneltitori.” Si David a zis: „ Yaue, nimiceste sfaturile lui Ahitofel!”"
     textWithDiacritics: "Au venit şi au spus lui David: „Ahitofel este împreună cu\
-      \ Absalom printre uneltitori.” Şi David a zis: „ YaHWeH, nimiceşte sfaturile\
-      \ lui Ahitofel!”"
+      \ Absalom printre uneltitori.” Şi David a zis: „ Yaue, nimiceşte sfaturile lui\
+      \ Ahitofel!”"
     chapter: null
   - verseNumber: 32
-    text: "Cind a ajuns David pe virf, s-a inchinat inaintea lui YaHWeH, iata ca Husai,\
+    text: "Cind a ajuns David pe virf, s-a inchinat inaintea lui Yaue, iata ca Husai,\
       \ architul, a venit inaintea lui, cu haina sfisiata si capul acoperit cu tarina."
-    textWithDiacritics: "Cînd a ajuns David pe vîrf, s-a închinat înaintea lui YaHWeH,\
+    textWithDiacritics: "Cînd a ajuns David pe vîrf, s-a închinat înaintea lui Yaue,\
       \ iată că Huşai, architul, a venit înaintea lui, cu haina sfîşiată şi capul\
       \ acoperit cu ţărînă."
     chapter: null
@@ -2914,13 +2910,12 @@ chapterPojo:
       ngelui, om rău!"
     chapter: null
   - verseNumber: 8
-    text: "YaHWeH face sa cada asupra ta pedeapsa pentru tot singele casei lui Saul,\
-      \ al carui scaun de stapinire l-ai luat, si YaHWeH a dat imparatia in miinile\
+    text: "Yaue face sa cada asupra ta pedeapsa pentru tot singele casei lui Saul,\
+      \ al carui scaun de stapinire l-ai luat, si Yaue a dat imparatia in miinile\
       \ fiului tau Absalom; si iata-te nenorocit, caci esti un om al singelui!”"
-    textWithDiacritics: "YaHWeH face să cadă asupra ta pedeapsa pentru tot sîngele\
-      \ casei lui Saul, al cărui scaun de stăpînire l-ai luat, şi YaHWeH a dat împă\
-      răţia în mîinile fiului tău Absalom; şi iată-te nenorocit, căci eşti un om al\
-      \ sîngelui!”"
+    textWithDiacritics: "Yaue face să cadă asupra ta pedeapsa pentru tot sîngele casei\
+      \ lui Saul, al cărui scaun de stăpînire l-ai luat, şi Yaue a dat împărăţia î\
+      n mîinile fiului tău Absalom; şi iată-te nenorocit, căci eşti un om al sîngelui!”"
     chapter: null
   - verseNumber: 9
     text: "Atunci Abisai, fiul Teruiei, a zis imparatului: „Pentru ce blestema acest\
@@ -2932,24 +2927,24 @@ chapterPojo:
     chapter: null
   - verseNumber: 10
     text: "Dar imparatul a zis: „Ce aveti voi cu mine, fiii Teruiei? Daca blestema,\
-      \ inseamna ca YaHWeH i-a zis: „Blestema pe David!” Cine-i va zice, dar: „Pentru\
+      \ inseamna ca Yaue i-a zis: „Blestema pe David!” Cine-i va zice, dar: „Pentru\
       \ ce faci asa?”?”"
     textWithDiacritics: "Dar împăratul a zis: „Ce aveţi voi cu mine, fiii Ţeruiei?\
-      \ Dacă blestemă, înseamnă că YaHWeH i-a zis: „Blestemă pe David!” Cine-i va\
-      \ zice, dar: „Pentru ce faci aşa?”?”"
+      \ Dacă blestemă, înseamnă că Yaue i-a zis: „Blestemă pe David!” Cine-i va zice,\
+      \ dar: „Pentru ce faci aşa?”?”"
     chapter: null
   - verseNumber: 11
     text: "Si David a zis lui Abisai si tuturor slujitorilor sai: „Iata ca fiul meu,\
       \ care a iesit din trupul meu, vrea sa-mi ia viata; cu cit mai mult beniamitul\
-      \ acesta! Lasati-l sa blesteme, caci YaHWeH i-a zis."
+      \ acesta! Lasati-l sa blesteme, caci Yaue i-a zis."
     textWithDiacritics: "Şi David a zis lui Abişai şi tuturor slujitorilor săi: „\
       Iată că fiul meu, care a ieşit din trupul meu, vrea să-mi ia viaţa; cu cît mai\
-      \ mult beniamitul acesta! Lăsaţi-l să blesteme, căci YaHWeH i-a zis."
+      \ mult beniamitul acesta! Lăsaţi-l să blesteme, căci Yaue i-a zis."
     chapter: null
   - verseNumber: 12
-    text: "Poate ca YaHWeH Se va uita la necazul meu si-mi va face bine in locul blestemelor\
+    text: "Poate ca Yaue Se va uita la necazul meu si-mi va face bine in locul blestemelor\
       \ de azi.”"
-    textWithDiacritics: "Poate că YaHWeH Se va uita la necazul meu şi-mi va face bine\
+    textWithDiacritics: "Poate că Yaue Se va uita la necazul meu şi-mi va face bine\
       \ în locul blestemelor de azi.”"
     chapter: null
   - verseNumber: 13
@@ -2986,11 +2981,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 18
     text: "Husai a raspuns lui Absalom: „Pentru ca vreau sa fiu al aceluia pe care\
-      \ l-a ales YaHWeH si tot poporul acesta si toti barbatii lui Israel, si cu el\
+      \ l-a ales Yaue si tot poporul acesta si toti barbatii lui Israel, si cu el\
       \ vreau sa ramin."
     textWithDiacritics: "Huşai a răspuns lui Absalom: „Pentru că vreau să fiu al aceluia\
-      \ pe care l-a ales YaHWeH şi tot poporul acesta şi toţi bărbaţii lui Israel,\
-      \ şi cu el vreau să rămîn."
+      \ pe care l-a ales Yaue şi tot poporul acesta şi toţi bărbaţii lui Israel, ş\
+      i cu el vreau să rămîn."
     chapter: null
   - verseNumber: 19
     text: "De altfel, cui ii voi sluji? Nu fiului sau? Cum am slujit tatalui tau,\
@@ -3020,11 +3015,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 23
     text: "Sfatul dat pe vremea aceea de Ahitofel avea tot atita putere ca si cind\
-      \ ar fi intrebat chiar pe YaHWeH. Tot asa era cu toate sfaturile lui Ahitofel,\
+      \ ar fi intrebat chiar pe Yaue. Tot asa era cu toate sfaturile lui Ahitofel,\
       \ fie pentru David, fie pentru Absalom."
     textWithDiacritics: "Sfatul dat pe vremea aceea de Ahitofel avea tot atîta putere\
-      \ ca şi cînd ar fi întrebat chiar pe YaHWeH. Tot aşa era cu toate sfaturile\
-      \ lui Ahitofel, fie pentru David, fie pentru Absalom."
+      \ ca şi cînd ar fi întrebat chiar pe Yaue. Tot aşa era cu toate sfaturile lui\
+      \ Ahitofel, fie pentru David, fie pentru Absalom."
     chapter: null
 - number: 17
   book: null
@@ -3122,11 +3117,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 14
     text: "Absalom si toti oamenii lui Israel au zis: „Sfatul lui Husai, architul,\
-      \ este mai bun decit sfatul lui Ahitofel.” Dar YaHWeH hotarise sa nimiceasca\
-      \ bunul sfat al lui Ahitofel, ca sa aduca nenorocirea peste Absalom. Moartea\
-      \ lui Ahitofel"
+      \ este mai bun decit sfatul lui Ahitofel.” Dar Yaue hotarise sa nimiceasca bunul\
+      \ sfat al lui Ahitofel, ca sa aduca nenorocirea peste Absalom. Moartea lui Ahitofel"
     textWithDiacritics: "Absalom şi toţi oamenii lui Israel au zis: „Sfatul lui Huş\
-      ai, architul, este mai bun decît sfatul lui Ahitofel.” Dar YaHWeH hotărîse să\
+      ai, architul, este mai bun decît sfatul lui Ahitofel.” Dar Yaue hotărîse să\
       \ nimicească bunul sfat al lui Ahitofel, ca să aducă nenorocirea peste Absalom.\
       \ Moartea lui Ahitofel"
     chapter: null
@@ -3381,10 +3375,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 19
     text: "Ahimaat, fiul lui Tadoc, a zis: „Lasa-ma sa dau fuga si sa duc imparatului\
-      \ vestea cea buna ca YaHWeH i-a facut dreptate, scapindu-l din mina vrajmasilor\
+      \ vestea cea buna ca Yaue i-a facut dreptate, scapindu-l din mina vrajmasilor\
       \ sai.”"
     textWithDiacritics: "Ahimaaţ, fiul lui Ţadoc, a zis: „Lasă-mă să dau fuga şi să\
-      \ duc împăratului vestea cea bună că YaHWeH i-a făcut dreptate, scăpîndu-l din\
+      \ duc împăratului vestea cea bună că Yaue i-a făcut dreptate, scăpîndu-l din\
       \ mîna vrăjmaşilor săi.”"
     chapter: null
   - verseNumber: 20
@@ -3444,11 +3438,11 @@ chapterPojo:
   - verseNumber: 28
     text: "Ahimaat a strigat si a zis imparatului: „Este bine de tot!” S-a inchinat\
       \ inaintea imparatului cu fata pina la pamint si a zis: „Binecuvintat sa fie\
-      \ YaHWeH Eylohim al tau care a dat in miinile noastre pe cei ce ridicau mina\
-      \ impotriva stapinului nostru, imparatul.”"
+      \ Yaue Elohim al tau care a dat in miinile noastre pe cei ce ridicau mina impotriva\
+      \ stapinului nostru, imparatul.”"
     textWithDiacritics: "Ahimaaţ a strigat şi a zis împăratului: „Este bine de tot!”\
       \ S-a închinat înaintea împăratului cu faţa pînă la pămînt şi a zis: „Binecuvî\
-      ntat să fie YaHWeH Eylohim al tău care a dat în mîinile noastre pe cei ce ridicau\
+      ntat să fie Yaue Elohim al tău care a dat în mîinile noastre pe cei ce ridicau\
       \ mîna împotriva stapînului nostru, împăratul.”"
     chapter: null
   - verseNumber: 29
@@ -3466,10 +3460,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 31
     text: "Indata a sosit Cusi. Si a zis: „Sa afle stapinul meu, imparatul, vestea\
-      \ cea buna! Astazi YaHWeH ti-a facut dreptate, scapindu-te din mina tuturor\
-      \ celor ce se ridicau impotriva ta.”"
+      \ cea buna! Astazi Yaue ti-a facut dreptate, scapindu-te din mina tuturor celor\
+      \ ce se ridicau impotriva ta.”"
     textWithDiacritics: "Îndată a sosit Cuşi. Şi a zis: „Să afle stăpînul meu, împă\
-      ratul, vestea cea bună! Astăzi YaHWeH ţi-a făcut dreptate, scăpîndu-te din mî\
+      ratul, vestea cea bună! Astăzi Yaue ţi-a făcut dreptate, scăpîndu-te din mî\
       na tuturor celor ce se ridicau împotriva ta.”"
     chapter: null
   - verseNumber: 32
@@ -3537,13 +3531,13 @@ chapterPojo:
     chapter: null
   - verseNumber: 7
     text: "Scoala-te, dar, iesi si vorbeste dupa inima slujitorilor tai! Caci jur\
-      \ pe YaHWeH, ca, daca nu iesi sa te arati, nu va ramine un om cu tine in noaptea\
+      \ pe Yaue, ca, daca nu iesi sa te arati, nu va ramine un om cu tine in noaptea\
       \ aceasta; si aceasta va fi o nenorocire mai rea pentru tine decit toate nenorocirile\
       \ care ti s-au intimplat din tinerete pina acum.” Intoarcerea imparatului la\
       \ Ierusalim"
     textWithDiacritics: "Scoală-te, dar, ieşi şi vorbeşte după inima slujitorilor\
-      \ tăi! Căci jur pe YaHWeH, că, dacă nu ieşi să te arăţi, nu va rămîne un om\
-      \ cu tine în noaptea aceasta; şi aceasta va fi o nenorocire mai rea pentru tine\
+      \ tăi! Căci jur pe Yaue, că, dacă nu ieşi să te arăţi, nu va rămîne un om cu\
+      \ tine în noaptea aceasta; şi aceasta va fi o nenorocire mai rea pentru tine\
       \ decît toate nenorocirile care ţi s-au întîmplat din tinereţe pînă acum.” Î\
       ntoarcerea împăratului la Ierusalim"
     chapter: null
@@ -3588,10 +3582,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 13
     text: "Si lui Amasa spuneti-i asa: „Nu esti tu oare os din oasele mele si carne\
-      \ din carnea mea? Sa ma pedepseasca YaHWeH cu toata asprimea daca nu vei fi\
-      \ inaintea mea pentru totdeauna capetenia ostirii, in locul lui Ioab!”"
+      \ din carnea mea? Sa ma pedepseasca Yaue cu toata asprimea daca nu vei fi inaintea\
+      \ mea pentru totdeauna capetenia ostirii, in locul lui Ioab!”"
     textWithDiacritics: "Şi lui Amasa spuneţi-i aşa: „Nu eşti tu oare os din oasele\
-      \ mele şi carne din carnea mea? Să mă pedepsească YaHWeH cu toată asprimea dacă\
+      \ mele şi carne din carnea mea? Să mă pedepsească Yaue cu toată asprimea dacă\
       \ nu vei fi înaintea mea pentru totdeauna căpetenia oştirii, în locul lui Ioab!”"
     chapter: null
   - verseNumber: 14
@@ -3648,9 +3642,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 21
     text: "Atunci Abisai, fiul Turiei, a luat cuvintul si a zis: „Nu trebuie oare\
-      \ sa moara Simei pentru ca a blestemat pe unsul lui YaHWeH?”"
+      \ sa moara Simei pentru ca a blestemat pe unsul lui Yaue?”"
     textWithDiacritics: "Atunci Abişai, fiul Ţuriei, a luat cuvîntul şi a zis: „Nu\
-      \ trebuie oare să moară Şimei pentru că a blestemat pe unsul lui YaHWeH?”"
+      \ trebuie oare să moară Şimei pentru că a blestemat pe unsul lui Yaue?”"
     chapter: null
   - verseNumber: 22
     text: "Dar David a zis: „Ce am eu cu voi, fiii Turiei, si pentru ce va aratati\
@@ -3690,9 +3684,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 27
     text: "Si el a innegrit pe robul tau la stapinul meu, imparatul. Dar stapinul\
-      \ meu, imparatul, este ca un inger al lui YaHWeH. Fa ce vei crede."
+      \ meu, imparatul, este ca un inger al lui Yaue. Fa ce vei crede."
     textWithDiacritics: "Şi el a înnegrit pe robul tău la stăpînul meu, împăratul.\
-      \ Dar stăpînul meu, împăratul, este ca un înger al lui YaHWeH. Fă ce vei crede."
+      \ Dar stăpînul meu, împăratul, este ca un înger al lui Yaue. Fă ce vei crede."
     chapter: null
   - verseNumber: 28
     text: "Caci toti cei din casa tatalui meu au fost niste oameni vrednici de moarte\
@@ -3958,10 +3952,10 @@ chapterPojo:
   - verseNumber: 19
     text: "Eu sunt una din cetatile linistite si credincioase din Israel; si tu cauti\
       \ sa pierzi o cetate care este o mama in Israel! Pentru ce ai nimici tu mostenirea\
-      \ lui YaHWeH?”"
+      \ lui Yaue?”"
     textWithDiacritics: "Eu sunt una din cetăţile liniştite şi credincioase din Israel;\
       \ şi tu cauţi să pierzi o cetate care este o mamă în Israel! Pentru ce ai nimici\
-      \ tu moştenirea lui YaHWeH?”"
+      \ tu moştenirea lui Yaue?”"
     chapter: null
   - verseNumber: 20
     text: "Ioab a raspuns: „Departe, departe de mine gindul sa nimicesc sau sa darim!"
@@ -4013,10 +4007,10 @@ chapterPojo:
   versePojo:
   - verseNumber: 1
     text: "Pe vremea lui David, a fost o foamete care a tinut trei ani. David a intrebat\
-      \ pe YaHWeH, si YaHWeH a zis: „Din pricina lui Saul si a casei lui singeroase,\
-      \ pentru ca a ucis pe gabaoniti, este foametea aceasta.”"
+      \ pe Yaue, si Yaue a zis: „Din pricina lui Saul si a casei lui singeroase, pentru\
+      \ ca a ucis pe gabaoniti, este foametea aceasta.”"
     textWithDiacritics: "Pe vremea lui David, a fost o foamete care a ţinut trei ani.\
-      \ David a întrebat pe YaHWeH, şi YaHWeH a zis: „Din pricina lui Saul şi a casei\
+      \ David a întrebat pe Yaue, şi Yaue a zis: „Din pricina lui Saul şi a casei\
       \ lui sîngeroase, pentru că a ucis pe gabaoniţi, este foametea aceasta.”"
     chapter: null
   - verseNumber: 2
@@ -4031,9 +4025,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 3
     text: "David a zis gabaonitilor: „Ce pot face eu pentru voi si cu ce sa fac ispasire,\
-      \ ca sa binecuvintati mostenirea lui YaHWeH?”"
+      \ ca sa binecuvintati mostenirea lui Yaue?”"
     textWithDiacritics: "David a zis gabaoniţilor: „Ce pot face eu pentru voi şi cu\
-      \ ce să fac ispăşire, ca să binecuvîntaţi moştenirea lui YaHWeH?”"
+      \ ce să fac ispăşire, ca să binecuvîntaţi moştenirea lui Yaue?”"
     chapter: null
   - verseNumber: 4
     text: "Gabaonitii i-au raspuns: „Nu voim nici argint, nici aur de la Saul si de\
@@ -4053,19 +4047,19 @@ chapterPojo:
     chapter: null
   - verseNumber: 6
     text: "sa ni se dea sapte barbati din fiii lui si-i vom spinzura inaintea lui\
-      \ YaHWeH, la Ghibeea lui Saul, alesul lui YaHWeH.” Si imparatul a zis: „Vi-i\
-      \ voi da.”"
+      \ Yaue, la Ghibeea lui Saul, alesul lui Yaue.” Si imparatul a zis: „Vi-i voi\
+      \ da.”"
     textWithDiacritics: "să ni se dea şapte bărbaţi din fiii lui şi-i vom spînzura\
-      \ înaintea lui YaHWeH, la Ghibeea lui Saul, alesul lui YaHWeH.” Şi împăratul\
-      \ a zis: „Vi-i voi da.”"
+      \ înaintea lui Yaue, la Ghibeea lui Saul, alesul lui Yaue.” Şi împăratul a zis:\
+      \ „Vi-i voi da.”"
     chapter: null
   - verseNumber: 7
     text: "Imparatul a crutat pe Mefiboset, fiul lui Ionatan, fiul lui Saul, pentru\
-      \ juramintul pe care-l facusera intre ei, inaintea lui YaHWeH, David si Ionatan,\
+      \ juramintul pe care-l facusera intre ei, inaintea lui Yaue, David si Ionatan,\
       \ fiul lui Saul."
     textWithDiacritics: "Împăratul a cruţat pe Mefiboşet, fiul lui Ionatan, fiul lui\
-      \ Saul, pentru jurămîntul pe care-l făcuseră între ei, înaintea lui YaHWeH,\
-      \ David şi Ionatan, fiul lui Saul."
+      \ Saul, pentru jurămîntul pe care-l făcuseră între ei, înaintea lui Yaue, David\
+      \ şi Ionatan, fiul lui Saul."
     chapter: null
   - verseNumber: 8
     text: "Dar imparatul a luat pe cei doi fii, pe care-i nascuse lui Saul, Ritpa,\
@@ -4078,11 +4072,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 9
     text: "i-a dat in miinile gabaonitilor, care i-au spinzurat pe munte, inaintea\
-      \ lui YaHWeH. Toti cei sapte au pierit impreuna; au fost omoriti in cele dintii\
+      \ lui Yaue. Toti cei sapte au pierit impreuna; au fost omoriti in cele dintii\
       \ zile ale seceratului, la inceputul seceratului orzului."
     textWithDiacritics: "i-a dat în mîinile gabaoniţilor, care i-au spînzurat pe munte,\
-      \ înaintea lui YaHWeH. Toţi cei şapte au pierit împreună; au fost omorîţi î\
-      n cele dintîi zile ale seceratului, la începutul seceratului orzului."
+      \ înaintea lui Yaue. Toţi cei şapte au pierit împreună; au fost omorîţi în cele\
+      \ dintîi zile ale seceratului, la începutul seceratului orzului."
     chapter: null
   - verseNumber: 10
     text: "Ritpa, fata lui Aiia, a luat un sac si l-a intins sub ea peste stinca,\
@@ -4117,12 +4111,12 @@ chapterPojo:
   - verseNumber: 14
     text: "Au ingropat oasele lui Saul si fiului sau Ionatan in tara lui Beniamin,\
       \ la Tela, in mormintul lui Chis, tatal lui Saul. Si au facut tot ce poruncise\
-      \ imparatul. Dupa aceea, YaHWeH a fost potolit fata de tara. Razboiul impotriva\
+      \ imparatul. Dupa aceea, Yaue a fost potolit fata de tara. Razboiul impotriva\
       \ Filistenilor"
     textWithDiacritics: "Au îngropat oasele lui Saul şi fiului său Ionatan în ţara\
       \ lui Beniamin, la Ţela, în mormîntul lui Chis, tatăl lui Saul. Şi au făcut\
-      \ tot ce poruncise împăratul. După aceea, YaHWeH a fost potolit faţă de ţară\
-      . Războiul împotriva Filistenilor"
+      \ tot ce poruncise împăratul. După aceea, Yaue a fost potolit faţă de ţară.\
+      \ Războiul împotriva Filistenilor"
     chapter: null
   - verseNumber: 15
     text: "Filistenii au pornit iarasi cu razboi impotriva lui Israel. David s-a coborit\
@@ -4185,29 +4179,28 @@ chapterPojo:
   book: null
   versePojo:
   - verseNumber: 1
-    text: "David a indreptat catre YaHWeH cuvintele acestei cintari, dupa ce YaHWeH\
-      \ l-a izbavit din mina tuturor vrajmasilor lui si din mina lui Saul."
-    textWithDiacritics: "David a îndreptat către YaHWeH cuvintele acestei cîntări,\
-      \ după ce YaHWeH l-a izbăvit din mîna tuturor vrăjmaşilor lui şi din mîna lui\
-      \ Saul."
+    text: "David a indreptat catre Yaue cuvintele acestei cintari, dupa ce Yaue l-a\
+      \ izbavit din mina tuturor vrajmasilor lui si din mina lui Saul."
+    textWithDiacritics: "David a îndreptat către Yaue cuvintele acestei cîntări, după\
+      \ ce Yaue l-a izbăvit din mîna tuturor vrăjmaşilor lui şi din mîna lui Saul."
     chapter: null
   - verseNumber: 2
-    text: "El a zis: „ YaHWeH este Stinca mea, cetatuia mea, izbavitorul meu."
-    textWithDiacritics: "El a zis: „ YaHWeH este Stînca mea, cetăţuia mea, izbăvitorul\
+    text: "El a zis: „ Yaue este Stinca mea, cetatuia mea, izbavitorul meu."
+    textWithDiacritics: "El a zis: „ Yaue este Stînca mea, cetăţuia mea, izbăvitorul\
       \ meu."
     chapter: null
   - verseNumber: 3
-    text: "YaHWeH este Stinca mea, la care gasesc un adapost, scutul meu si puterea\
+    text: "Yaue este Stinca mea, la care gasesc un adapost, scutul meu si puterea\
       \ care ma mintuieste, turnul meu cel inalt si scaparea mea. Mintuitorule! Tu\
       \ ma scapi de silnicie."
-    textWithDiacritics: "YaHWeH este Stînca mea, la care găsesc un adăpost, scutul\
-      \ meu şi puterea care mă mîntuieşte, turnul meu cel înalt şi scăparea mea. Mî\
-      ntuitorule! Tu mă scapi de silnicie."
+    textWithDiacritics: "Yaue este Stînca mea, la care găsesc un adăpost, scutul meu\
+      \ şi puterea care mă mîntuieşte, turnul meu cel înalt şi scăparea mea. Mîntuitorule!\
+      \ Tu mă scapi de silnicie."
     chapter: null
   - verseNumber: 4
-    text: "Eu chem pe YaHWeH cel vrednic de lauda si sunt izbavit de vrajmasii mei."
-    textWithDiacritics: "Eu chem pe YaHWeH cel vrednic de laudă şi sunt izbăvit de\
-      \ vrăjmaşii mei."
+    text: "Eu chem pe Yaue cel vrednic de lauda si sunt izbavit de vrajmasii mei."
+    textWithDiacritics: "Eu chem pe Yaue cel vrednic de laudă şi sunt izbăvit de vră\
+      jmaşii mei."
     chapter: null
   - verseNumber: 5
     text: "Caci valurile mortii ma inconjurasera, suvoaiele nimicirii ma inspaimintasera;"
@@ -4220,12 +4213,12 @@ chapterPojo:
       \ mă prinseseră."
     chapter: null
   - verseNumber: 7
-    text: "In strimtorarea mea, am chemat pe YaHWeH, am chemat pe YaHWeH Eylohim al\
-      \ meu; din locasul Lui, El mi-a auzit glasul, si strigatul meu a ajuns la urechile\
+    text: "In strimtorarea mea, am chemat pe Yaue, am chemat pe Yaue Elohim al meu;\
+      \ din locasul Lui, El mi-a auzit glasul, si strigatul meu a ajuns la urechile\
       \ Lui."
-    textWithDiacritics: "În strîmtorarea mea, am chemat pe YaHWeH, am chemat pe YaHWeH\
-      \ Eylohim al meu; din locaşul Lui, El mi-a auzit glasul, şi strigătul meu a\
-      \ ajuns la urechile Lui."
+    textWithDiacritics: "În strîmtorarea mea, am chemat pe Yaue, am chemat pe Yaue\
+      \ Elohim al meu; din locaşul Lui, El mi-a auzit glasul, şi strigătul meu a ajuns\
+      \ la urechile Lui."
     chapter: null
   - verseNumber: 8
     text: "Atunci pamintul s-a cutremurat si s-a clatinat, temeliile cerului s-au\
@@ -4260,9 +4253,9 @@ chapterPojo:
       \ foc."
     chapter: null
   - verseNumber: 14
-    text: "YaHWeH a tunat din ceruri, Cel Preainalt a facut sa-I rasune glasul;"
-    textWithDiacritics: "YaHWeH a tunat din ceruri, Cel Preaînalt a făcut să-I ră\
-      sune glasul;"
+    text: "Yaue a tunat din ceruri, Cel Preainalt a facut sa-I rasune glasul;"
+    textWithDiacritics: "Yaue a tunat din ceruri, Cel Preaînalt a făcut să-I răsune\
+      \ glasul;"
     chapter: null
   - verseNumber: 15
     text: "a aruncat sageti si a risipit pe vrajmasii mei, a aruncat fulgerul si i-a\
@@ -4272,9 +4265,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 16
     text: "Fundul marii s-a vazut, temeliile lumii au fost descoperite de mustrarea\
-      \ lui YaHWeH, de vuietul suflarii narilor Lui."
+      \ lui Yaue, de vuietul suflarii narilor Lui."
     textWithDiacritics: "Fundul mării s-a văzut, temeliile lumii au fost descoperite\
-      \ de mustrarea lui YaHWeH, de vuietul suflării nărilor Lui."
+      \ de mustrarea lui Yaue, de vuietul suflării nărilor Lui."
     chapter: null
   - verseNumber: 17
     text: "El Si-a intins mina de sus din inaltime, m-a apucat, m-a scos din apele\
@@ -4289,10 +4282,10 @@ chapterPojo:
       \ mei care erau mai tari decît mine."
     chapter: null
   - verseNumber: 19
-    text: "Ei ma prinsesera in ziua strimtorarii mele, dar YaHWeH a fost sprijinitorul\
+    text: "Ei ma prinsesera in ziua strimtorarii mele, dar Yaue a fost sprijinitorul\
       \ meu,"
-    textWithDiacritics: "Ei mă prinseseră în ziua strîmtorării mele, dar YaHWeH a\
-      \ fost sprijinitorul meu,"
+    textWithDiacritics: "Ei mă prinseseră în ziua strîmtorării mele, dar Yaue a fost\
+      \ sprijinitorul meu,"
     chapter: null
   - verseNumber: 20
     text: "El m-a scos la loc larg. El m-a mintuit pentru ca ma iubeste."
@@ -4300,16 +4293,16 @@ chapterPojo:
       te."
     chapter: null
   - verseNumber: 21
-    text: "YaHWeH mi-a rasplatit dupa nevinovatia mea, mi-a facut dupa curatia miinilor\
+    text: "Yaue mi-a rasplatit dupa nevinovatia mea, mi-a facut dupa curatia miinilor\
       \ mele;"
-    textWithDiacritics: "YaHWeH mi-a răsplătit după nevinovăţia mea, mi-a făcut după\
+    textWithDiacritics: "Yaue mi-a răsplătit după nevinovăţia mea, mi-a făcut după\
       \ curăţia mîinilor mele;"
     chapter: null
   - verseNumber: 22
-    text: "caci am pazit caile lui YaHWeH, nu m-am facut vinovat fata de YaHWeH Eylohim\
+    text: "caci am pazit caile lui Yaue, nu m-am facut vinovat fata de Yaue Elohim\
       \ al meu."
-    textWithDiacritics: "căci am păzit căile lui YaHWeH, nu m-am făcut vinovat faţ\
-      ă de YaHWeH Eylohim al meu."
+    textWithDiacritics: "căci am păzit căile lui Yaue, nu m-am făcut vinovat faţă\
+      \ de Yaue Elohim al meu."
     chapter: null
   - verseNumber: 23
     text: "Toate Poruncile Lui au fost inaintea mea, si nu m-am departat de la Legile\
@@ -4323,10 +4316,10 @@ chapterPojo:
       \ mea."
     chapter: null
   - verseNumber: 25
-    text: "De aceea YaHWeH mi-a rasplatit nevinovatia mea, dupa curatia mea inaintea\
+    text: "De aceea Yaue mi-a rasplatit nevinovatia mea, dupa curatia mea inaintea\
       \ Lui."
-    textWithDiacritics: "De aceea YaHWeH mi-a răsplătit nevinovăţia mea, după cură\
-      ţia mea înaintea Lui."
+    textWithDiacritics: "De aceea Yaue mi-a răsplătit nevinovăţia mea, după curăţ\
+      ia mea înaintea Lui."
     chapter: null
   - verseNumber: 26
     text: "Cu cel bun Tu esti bun, cu omul drept Te porti dupa dreptate,"
@@ -4344,32 +4337,32 @@ chapterPojo:
       \ Ta cobori pe cei mîndri."
     chapter: null
   - verseNumber: 29
-    text: "Da, Tu esti Lumina mea, YaHWeH! YaHWeH lumineaza intunericul meu."
-    textWithDiacritics: "Da, Tu eşti Lumina mea, YaHWeH! YaHWeH luminează întunericul\
+    text: "Da, Tu esti Lumina mea, Yaue! Yaue lumineaza intunericul meu."
+    textWithDiacritics: "Da, Tu eşti Lumina mea, Yaue! Yaue luminează întunericul\
       \ meu."
     chapter: null
   - verseNumber: 30
-    text: "Cu Tine ma napustesc asupra unei osti inarmate, cu Eylohim al meu sar peste\
+    text: "Cu Tine ma napustesc asupra unei osti inarmate, cu Elohim al meu sar peste\
       \ zid."
-    textWithDiacritics: "Cu Tine mă năpustesc asupra unei oşti înarmate, cu Eylohim\
+    textWithDiacritics: "Cu Tine mă năpustesc asupra unei oşti înarmate, cu Elohim\
       \ al meu sar peste zid."
     chapter: null
   - verseNumber: 31
-    text: "Caile lui YaHWeH sunt desavirsite, cuvintul lui YaHWeH este curatat; El\
-      \ este un scut pentru toti cei ce cauta adapost in El."
-    textWithDiacritics: "Căile lui YaHWeH sunt desăvîrşite, cuvîntul lui YaHWeH este\
-      \ curăţat; El este un scut pentru toţi cei ce caută adăpost în El."
+    text: "Caile lui Yaue sunt desavirsite, cuvintul lui Yaue este curatat; El este\
+      \ un scut pentru toti cei ce cauta adapost in El."
+    textWithDiacritics: "Căile lui Yaue sunt desăvîrşite, cuvîntul lui Yaue este cură\
+      ţat; El este un scut pentru toţi cei ce caută adăpost în El."
     chapter: null
   - verseNumber: 32
-    text: "Caci cine este Eylohim, afara de YaHWeH? Si cine este o Stinca, afara de\
-      \ YaHWeH Eylohim al nostru?"
-    textWithDiacritics: "Căci cine este Eylohim, afară de YaHWeH? Şi cine este o Stî\
-      ncă, afară de YaHWeH Eylohim al nostru?"
+    text: "Caci cine este Elohim, afara de Yaue? Si cine este o Stinca, afara de Yaue\
+      \ Elohim al nostru?"
+    textWithDiacritics: "Căci cine este Elohim, afară de Yaue? Şi cine este o Stî\
+      ncă, afară de Yaue Elohim al nostru?"
     chapter: null
   - verseNumber: 33
-    text: "YaHWeH este cetatuia mea cea tare si El ma calauzeste pe calea cea dreapta."
-    textWithDiacritics: "YaHWeH este cetăţuia mea cea tare şi El mă călăuzeşte pe\
-      \ calea cea dreaptă."
+    text: "Yaue este cetatuia mea cea tare si El ma calauzeste pe calea cea dreapta."
+    textWithDiacritics: "Yaue este cetăţuia mea cea tare şi El mă călăuzeşte pe calea\
+      \ cea dreaptă."
     chapter: null
   - verseNumber: 34
     text: "El imi face picioarele ca ale cerboaicelor si El ma asaza pe locurile mele\
@@ -4414,10 +4407,10 @@ chapterPojo:
       \ pe cei ce mă urăsc."
     chapter: null
   - verseNumber: 42
-    text: "Se uita in jurul lor, si nu-i cine sa-i scape. Striga catre YaHWeH, dar\
-      \ nu le raspunde!"
+    text: "Se uita in jurul lor, si nu-i cine sa-i scape. Striga catre Yaue, dar nu\
+      \ le raspunde!"
     textWithDiacritics: "Se uită în jurul lor, şi nu-i cine să-i scape. Strigă că\
-      tre YaHWeH, dar nu le răspunde!"
+      tre Yaue, dar nu le răspunde!"
     chapter: null
   - verseNumber: 43
     text: "Ii pisez ca pulberea pamintului, ii zdrobesc, ii calc in picioare, ca noroiul\
@@ -4442,14 +4435,14 @@ chapterPojo:
       \ din cetăţuie."
     chapter: null
   - verseNumber: 47
-    text: "Traiasca YaHWeH si binecuvintata sa fie Stinca mea! Inaltat sa fie YaHWeH,\
+    text: "Traiasca Yaue si binecuvintata sa fie Stinca mea! Inaltat sa fie Yaue,\
       \ Stinca mintuirii mele,"
-    textWithDiacritics: "Trăiască YaHWeH şi binecuvîntată să fie Stînca mea! Înălţ\
-      at să fie YaHWeH, Stînca mîntuirii mele,"
+    textWithDiacritics: "Trăiască Yaue şi binecuvîntată să fie Stînca mea! Înălţat\
+      \ să fie Yaue, Stînca mîntuirii mele,"
     chapter: null
   - verseNumber: 48
-    text: "YaHWeH, care este Razbunatorul meu, care-mi supune popoarele"
-    textWithDiacritics: "YaHWeH, care este Răzbunătorul meu, care-mi supune popoarele"
+    text: "Yaue, care este Razbunatorul meu, care-mi supune popoarele"
+    textWithDiacritics: "Yaue, care este Răzbunătorul meu, care-mi supune popoarele"
     chapter: null
   - verseNumber: 49
     text: "si care ma face sa scap de vrajmasii mei! Tu ma inalti mai presus de potrivnicii\
@@ -4458,10 +4451,10 @@ chapterPojo:
       \ presus de potrivnicii mei, mă izbăveşti de omul asupritor."
     chapter: null
   - verseNumber: 50
-    text: "De aceea Te voi lauda printre neamuri, YaHWeH! Si voi cinta spre slava\
-      \ Numelui Tau."
-    textWithDiacritics: "De aceea Te voi lăuda printre neamuri, YaHWeH! Şi voi cî\
-      nta spre slava Numelui Tău."
+    text: "De aceea Te voi lauda printre neamuri, Yaue! Si voi cinta spre slava Numelui\
+      \ Tau."
+    textWithDiacritics: "De aceea Te voi lăuda printre neamuri, Yaue! Şi voi cînta\
+      \ spre slava Numelui Tău."
     chapter: null
   - verseNumber: 51
     text: "El da mari izbaviri imparatului Sau si arata mila unsului Sau: lui David\
@@ -4475,22 +4468,22 @@ chapterPojo:
   - verseNumber: 1
     text: "Iata cele din urma cuvinte ale lui David. Cuvintul lui David, fiul lui\
       \ Isai, cuvintul omului care a fost inaltat sus de tot, cuvintul unsului lui\
-      \ YaHWeH Eylohim al lui Iacov, cuvintul cintaretului placut al lui Israel."
+      \ Yaue Elohim al lui Iacov, cuvintul cintaretului placut al lui Israel."
     textWithDiacritics: "Iată cele din urmă cuvinte ale lui David. Cuvîntul lui David,\
       \ fiul lui Isai, cuvîntul omului care a fost înălţat sus de tot, cuvîntul unsului\
-      \ lui YaHWeH Eylohim al lui Iacov, cuvîntul cîntăreţului plăcut al lui Israel."
+      \ lui Yaue Elohim al lui Iacov, cuvîntul cîntăreţului plăcut al lui Israel."
     chapter: null
   - verseNumber: 2
-    text: "„Duhul lui YaHWeH vorbeste prin mine, si Cuvintul Lui este pe limba mea."
-    textWithDiacritics: "„Duhul lui YaHWeH vorbeşte prin mine, şi Cuvîntul Lui este\
+    text: "„Duhul lui Yaue vorbeste prin mine, si Cuvintul Lui este pe limba mea."
+    textWithDiacritics: "„Duhul lui Yaue vorbeşte prin mine, şi Cuvîntul Lui este\
       \ pe limba mea."
     chapter: null
   - verseNumber: 3
-    text: "YaHWeH Eylohim al lui Israel a vorbit. Stinca lui Israel mi-a zis: „Cel\
-      \ ce imparateste intre oameni cu dreptate, cel ce imparateste in frica de YaHWeH"
-    textWithDiacritics: "YaHWeH Eylohim al lui Israel a vorbit. Stînca lui Israel\
-      \ mi-a zis: „Cel ce împărăţeşte între oameni cu dreptate, cel ce împărăţeşte\
-      \ în frică de YaHWeH"
+    text: "Yaue Elohim al lui Israel a vorbit. Stinca lui Israel mi-a zis: „Cel ce\
+      \ imparateste intre oameni cu dreptate, cel ce imparateste in frica de Yaue"
+    textWithDiacritics: "Yaue Elohim al lui Israel a vorbit. Stînca lui Israel mi-a\
+      \ zis: „Cel ce împărăţeşte între oameni cu dreptate, cel ce împărăţeşte în frică\
+      \ de Yaue"
     chapter: null
   - verseNumber: 4
     text: "este ca lumina diminetii cind rasare soarele in dimineata fara nori; ca\
@@ -4500,12 +4493,12 @@ chapterPojo:
       mînt verdeaţa.”"
     chapter: null
   - verseNumber: 5
-    text: "Macar ca nu este asa casa mea inaintea lui YaHWeH, totusi El a facut cu\
-      \ mine un Legamint Vesnic, bine intarit in toate privintele si tare. Nu va face\
-      \ El oare sa rasara din el tot ce este spre mintuirea si bucuria mea?"
-    textWithDiacritics: "Măcar că nu este aşa casa mea înaintea lui YaHWeH, totuş\
-      i El a făcut cu mine un Legămînt Veşnic, bine întărit în toate privinţele ş\
-      i tare. Nu va face El oare să răsară din el tot ce este spre mîntuirea şi bucuria\
+    text: "Macar ca nu este asa casa mea inaintea lui Yaue, totusi El a facut cu mine\
+      \ un Legamint Vesnic, bine intarit in toate privintele si tare. Nu va face El\
+      \ oare sa rasara din el tot ce este spre mintuirea si bucuria mea?"
+    textWithDiacritics: "Măcar că nu este aşa casa mea înaintea lui Yaue, totuşi El\
+      \ a făcut cu mine un Legămînt Veşnic, bine întărit în toate privinţele şi tare.\
+      \ Nu va face El oare să răsară din el tot ce este spre mîntuirea şi bucuria\
       \ mea?"
     chapter: null
   - verseNumber: 6
@@ -4537,10 +4530,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 10
     text: "El s-a sculat si a lovit pe filisteni pina ce i-a obosit mina si a ramas\
-      \ lipita de sabie. YaHWeH a dat o mare izbavire in ziua aceea. Poporul s-a intors\
+      \ lipita de sabie. Yaue a dat o mare izbavire in ziua aceea. Poporul s-a intors\
       \ dupa Eleazar, numai ca sa ia prada."
     textWithDiacritics: "El s-a sculat şi a lovit pe filisteni pînă ce i-a obosit\
-      \ mîna şi a rămas lipită de sabie. YaHWeH a dat o mare izbăvire în ziua aceea.\
+      \ mîna şi a rămas lipită de sabie. Yaue a dat o mare izbăvire în ziua aceea.\
       \ Poporul s-a întors după Eleazar, numai ca să ia prada."
     chapter: null
   - verseNumber: 11
@@ -4553,9 +4546,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 12
     text: "Sama s-a asezat in mijlocul ogorului, l-a aparat si a batut pe filisteni.\
-      \ Si YaHWeH a dat o mare izbavire."
+      \ Si Yaue a dat o mare izbavire."
     textWithDiacritics: "Şama s-a aşezat în mijlocul ogorului, l-a apărat şi a bă\
-      tut pe filisteni. Şi YaHWeH a dat o mare izbăvire."
+      tut pe filisteni. Şi Yaue a dat o mare izbăvire."
     chapter: null
   - verseNumber: 13
     text: "Trei dintre cei treizeci de capetenii s-au coborit pe vremea seceratului\
@@ -4579,18 +4572,18 @@ chapterPojo:
   - verseNumber: 16
     text: "Atunci cei trei viteji au trecut prin tabara filistenilor si au scos apa\
       \ din fintina de la poarta Betleemului. Au adus-o si au dat-o lui David; dar\
-      \ el n-a vrut s-o bea si a varsat-o inaintea lui YaHWeH."
+      \ el n-a vrut s-o bea si a varsat-o inaintea lui Yaue."
     textWithDiacritics: "Atunci cei trei viteji au trecut prin tabăra filistenilor\
       \ şi au scos apă din fîntîna de la poarta Betleemului. Au adus-o şi au dat-o\
-      \ lui David; dar el n-a vrut s-o bea şi a vărsat-o înaintea lui YaHWeH."
+      \ lui David; dar el n-a vrut s-o bea şi a vărsat-o înaintea lui Yaue."
     chapter: null
   - verseNumber: 17
-    text: "El a zis: „Departe de mine, YaHWeH, gindul sa fac lucrul acesta! Sa beau\
+    text: "El a zis: „Departe de mine, Yaue, gindul sa fac lucrul acesta! Sa beau\
       \ singele oamenilor acestora care s-au dus cu primejdia vietii lor?” Si n-a\
       \ vrut s-o bea. Iata ce au facut acesti trei viteji."
-    textWithDiacritics: "El a zis: „Departe de mine, YaHWeH, gîndul să fac lucrul\
-      \ acesta! Să beau sîngele oamenilor acestora care s-au dus cu primejdia vieţ\
-      ii lor?” Şi n-a vrut s-o bea. Iată ce au făcut aceşti trei viteji."
+    textWithDiacritics: "El a zis: „Departe de mine, Yaue, gîndul să fac lucrul acesta!\
+      \ Să beau sîngele oamenilor acestora care s-au dus cu primejdia vieţii lor?”\
+      \ Şi n-a vrut s-o bea. Iată ce au făcut aceşti trei viteji."
     chapter: null
   - verseNumber: 18
     text: "Abisai, fratele lui Ioab, fiul Teruiei, era capetenia celor trei. El si-a\
@@ -4711,12 +4704,12 @@ chapterPojo:
   book: null
   versePojo:
   - verseNumber: 1
-    text: "YaHWeH S-a aprins de minie din nou impotriva lui Israel; si a stirnit pe\
+    text: "Yaue S-a aprins de minie din nou impotriva lui Israel; si a stirnit pe\
       \ David impotriva lor, zicind: „Du-te si fa numaratoarea lui Israel si a lui\
       \ Iuda.”"
-    textWithDiacritics: "YaHWeH S-a aprins de mînie din nou împotriva lui Israel;\
-      \ şi a stîrnit pe David împotriva lor, zicînd: „Du-te şi fă numărătoarea lui\
-      \ Israel şi a lui Iuda.”"
+    textWithDiacritics: "Yaue S-a aprins de mînie din nou împotriva lui Israel; ş\
+      i a stîrnit pe David împotriva lor, zicînd: „Du-te şi fă numărătoarea lui Israel\
+      \ şi a lui Iuda.”"
     chapter: null
   - verseNumber: 2
     text: "Si imparatul a zis lui Ioab, capetenia ostirii, care se afla linga el:\
@@ -4727,10 +4720,10 @@ chapterPojo:
       eba; să se facă numărătoarea poporului şi să ştiu la cît se ridică numărul lor.”"
     chapter: null
   - verseNumber: 3
-    text: "Ioab a zis imparatului: „ YaHWeH Eylohim al tau sa faca poporul de o suta\
+    text: "Ioab a zis imparatului: „ Yaue Elohim al tau sa faca poporul de o suta\
       \ de ori mai mare, si imparatul, stapinul meu, sa vada cu ochii lui lucrul acesta!\
       \ Dar pentru ce vrea imparatul, stapinul meu, sa faca lucrul acesta?”"
-    textWithDiacritics: "Ioab a zis împăratului: „ YaHWeH Eylohim al tău să facă poporul\
+    textWithDiacritics: "Ioab a zis împăratului: „ Yaue Elohim al tău să facă poporul\
       \ de o sută de ori mai mare, şi împăratul, stăpînul meu, să vadă cu ochii lui\
       \ lucrul acesta! Dar pentru ce vrea împăratul, stăpînul meu, să facă lucrul\
       \ acesta?”"
@@ -4778,25 +4771,25 @@ chapterPojo:
     chapter: null
   - verseNumber: 10
     text: "David a simtit cum ii batea inima, dupa ce facuse numaratoarea poporului.\
-      \ Si a zis lui YaHWeH: „Am savirsit un mare pacat, facind lucrul acesta! Acum,\
-      \ YaHWeH, binevoieste si iarta nelegiuirea robului Tau, caci am lucrat in totul\
+      \ Si a zis lui Yaue: „Am savirsit un mare pacat, facind lucrul acesta! Acum,\
+      \ Yaue, binevoieste si iarta nelegiuirea robului Tau, caci am lucrat in totul\
       \ ca un nebun!”"
     textWithDiacritics: "David a simţit cum îi bătea inima, după ce făcuse numără\
-      toarea poporului. Şi a zis lui YaHWeH: „Am săvîrşit un mare păcat, făcînd lucrul\
-      \ acesta! Acum, YaHWeH, binevoieşte şi iartă nelegiuirea robului Tău, căci am\
+      toarea poporului. Şi a zis lui Yaue: „Am săvîrşit un mare păcat, făcînd lucrul\
+      \ acesta! Acum, Yaue, binevoieşte şi iartă nelegiuirea robului Tău, căci am\
       \ lucrat în totul ca un nebun!”"
     chapter: null
   - verseNumber: 11
-    text: "A doua zi, cind s-a sculat David, cuvintul lui YaHWeH a vorbit astfel prorocului\
+    text: "A doua zi, cind s-a sculat David, cuvintul lui Yaue a vorbit astfel prorocului\
       \ Gad, vazatorul lui David:"
-    textWithDiacritics: "A doua zi, cînd s-a sculat David, cuvîntul lui YaHWeH a vorbit\
+    textWithDiacritics: "A doua zi, cînd s-a sculat David, cuvîntul lui Yaue a vorbit\
       \ astfel prorocului Gad, văzătorul lui David:"
     chapter: null
   - verseNumber: 12
-    text: "„Du-te si spune lui David: „Asa vorbeste YaHWeH: „Iti pun inainte trei\
-      \ nenorociri; alege una din ele, si te voi lovi cu ea.”"
-    textWithDiacritics: "„Du-te şi spune lui David: „Aşa vorbeşte YaHWeH: „Îţi pun\
-      \ înainte trei nenorociri; alege una din ele, şi te voi lovi cu ea.”"
+    text: "„Du-te si spune lui David: „Asa vorbeste Yaue: „Iti pun inainte trei nenorociri;\
+      \ alege una din ele, si te voi lovi cu ea.”"
+    textWithDiacritics: "„Du-te şi spune lui David: „Aşa vorbeşte Yaue: „Îţi pun î\
+      nainte trei nenorociri; alege una din ele, şi te voi lovi cu ea.”"
     chapter: null
   - verseNumber: 13
     text: "Gad s-a dus la David si i-a facut cunoscut lucrul acesta, zicind: „Vrei\
@@ -4810,44 +4803,44 @@ chapterPojo:
     chapter: null
   - verseNumber: 14
     text: "David a raspuns lui Gad: „Sunt intr-o mare strimtorare! Of! mai bine sa\
-      \ cadem in miinile lui YaHWeH, caci indurarile Lui sunt nemarginite; dar sa\
-      \ nu cad in miinile oamenilor!”"
+      \ cadem in miinile lui Yaue, caci indurarile Lui sunt nemarginite; dar sa nu\
+      \ cad in miinile oamenilor!”"
     textWithDiacritics: "David a răspuns lui Gad: „Sunt într-o mare strîmtorare! Of!\
-      \ mai bine să cădem în mîinile lui YaHWeH, căci îndurările Lui sunt nemărginite;\
+      \ mai bine să cădem în mîinile lui Yaue, căci îndurările Lui sunt nemărginite;\
       \ dar să nu cad în mîinile oamenilor!”"
     chapter: null
   - verseNumber: 15
-    text: "YaHWeH a trimis ciuma in Israel, de dimineata pina la vremea hotarita.\
-      \ Si, din Dan pina la Beer-Seba, au murit saptezeci de mii de oameni din popor."
-    textWithDiacritics: "YaHWeH a trimis ciuma în Israel, de dimineaţă pînă la vremea\
+    text: "Yaue a trimis ciuma in Israel, de dimineata pina la vremea hotarita. Si,\
+      \ din Dan pina la Beer-Seba, au murit saptezeci de mii de oameni din popor."
+    textWithDiacritics: "Yaue a trimis ciuma în Israel, de dimineaţă pînă la vremea\
       \ hotărîtă. Şi, din Dan pînă la Beer-Şeba, au murit şaptezeci de mii de oameni\
       \ din popor."
     chapter: null
   - verseNumber: 16
-    text: "Pe cind ingerul intindea mina peste Ierusalim ca sa-l nimiceasca, YaHWeH\
+    text: "Pe cind ingerul intindea mina peste Ierusalim ca sa-l nimiceasca, Yaue\
       \ S-a cait de raul acela si a zis ingerului care ucidea poporul: „Destul! Trage-ti\
-      \ mina acum!” Ingerul lui YaHWeH era linga aria lui Aravna, iebusitul."
+      \ mina acum!” Ingerul lui Yaue era linga aria lui Aravna, iebusitul."
     textWithDiacritics: "Pe cînd îngerul întindea mîna peste Ierusalim ca să-l nimicească\
-      , YaHWeH S-a căit de răul acela şi a zis îngerului care ucidea poporul: „Destul!\
-      \ Trage-ţi mîna acum!” Îngerul lui YaHWeH era lîngă aria lui Aravna, iebusitul."
+      , Yaue S-a căit de răul acela şi a zis îngerului care ucidea poporul: „Destul!\
+      \ Trage-ţi mîna acum!” Îngerul lui Yaue era lîngă aria lui Aravna, iebusitul."
     chapter: null
   - verseNumber: 17
-    text: "David, vazind pe ingerul care lovea pe popor, a zis lui YaHWeH: „Iata ca\
+    text: "David, vazind pe ingerul care lovea pe popor, a zis lui Yaue: „Iata ca\
       \ am pacatuit! Eu sunt vinovat: dar oile acestea ce au facut? Mina Ta sa se\
       \ indrepte, dar, impotriva mea si impotriva casei tatalui meu!”"
-    textWithDiacritics: "David, văzînd pe îngerul care lovea pe popor, a zis lui YaHWeH:\
+    textWithDiacritics: "David, văzînd pe îngerul care lovea pe popor, a zis lui Yaue:\
       \ „Iată că am păcătuit! Eu sunt vinovat: dar oile acestea ce au făcut? Mîna\
       \ Ta să se îndrepte, dar, împotriva mea şi împotriva casei tatălui meu!”"
     chapter: null
   - verseNumber: 18
     text: "In ziua aceea, Gad a venit la David si i-a zis: „Suie-te si inalta un altar\
-      \ lui YaHWeH in aria lui Aravna, iebusitul.”"
+      \ lui Yaue in aria lui Aravna, iebusitul.”"
     textWithDiacritics: "În ziua aceea, Gad a venit la David şi i-a zis: „Suie-te\
-      \ şi înalţă un altar lui YaHWeH în aria lui Aravna, iebusitul.”"
+      \ şi înalţă un altar lui Yaue în aria lui Aravna, iebusitul.”"
     chapter: null
   - verseNumber: 19
-    text: "David s-a suit, dupa cuvintul lui Gad, cum poruncise YaHWeH."
-    textWithDiacritics: "David s-a suit, după cuvîntul lui Gad, cum poruncise YaHWeH."
+    text: "David s-a suit, dupa cuvintul lui Gad, cum poruncise Yaue."
+    textWithDiacritics: "David s-a suit, după cuvîntul lui Gad, cum poruncise Yaue."
     chapter: null
   - verseNumber: 20
     text: "Aravna s-a uitat si a vazut pe imparat si pe slujitorii lui indreptindu-se\
@@ -4860,10 +4853,10 @@ chapterPojo:
   - verseNumber: 21
     text: "Aravna a zis: „Pentru ce vine stapinul meu, imparatul, la slujitorul lui?”\
       \ Si David a raspuns: „Ca sa cumpar de la tine aria si sa zidesc in ea un altar\
-      \ lui YaHWeH, pentru ca sa inceteze urgia aceasta de peste popor.”"
+      \ lui Yaue, pentru ca sa inceteze urgia aceasta de peste popor.”"
     textWithDiacritics: "Aravna a zis: „Pentru ce vine stăpînul meu, împăratul, la\
       \ slujitorul lui?” Şi David a răspuns: „Ca să cumpăr de la tine aria şi să zidesc\
-      \ în ea un altar lui YaHWeH, pentru ca să înceteze urgia aceasta de peste popor.”"
+      \ în ea un altar lui Yaue, pentru ca să înceteze urgia aceasta de peste popor.”"
     chapter: null
   - verseNumber: 22
     text: "Aravna a zis lui David: „Sa ia stapinul meu, imparatul, aria si sa aduca\
@@ -4879,19 +4872,19 @@ chapterPojo:
     chapter: null
   - verseNumber: 24
     text: "Dar imparatul a zis lui Aravna: „Nu! Vreau s-o cumpar de la tine pe pret\
-      \ de argint si nu voi aduce lui YaHWeH Eylohim al meu arderi de tot, care sa\
-      \ nu ma coste nimic.” Si David a cumparat aria si boii cu cincizeci de sicli\
-      \ de argint."
+      \ de argint si nu voi aduce lui Yaue Elohim al meu arderi de tot, care sa nu\
+      \ ma coste nimic.” Si David a cumparat aria si boii cu cincizeci de sicli de\
+      \ argint."
     textWithDiacritics: "Dar împăratul a zis lui Aravna: „Nu! Vreau s-o cumpăr de\
-      \ la tine pe preţ de argint şi nu voi aduce lui YaHWeH Eylohim al meu arderi\
-      \ de tot, care să nu mă coste nimic.” Şi David a cumpărat aria şi boii cu cincizeci\
+      \ la tine pe preţ de argint şi nu voi aduce lui Yaue Elohim al meu arderi de\
+      \ tot, care să nu mă coste nimic.” Şi David a cumpărat aria şi boii cu cincizeci\
       \ de sicli de argint."
     chapter: null
   - verseNumber: 25
-    text: "David a zidit acolo un altar lui YaHWeH si a adus arderi de tot si jertfe\
-      \ de multumire. Atunci YaHWeH a fost potolit fata de tara si a incetat urgia\
-      \ deasupra lui Israel. HalleluYah"
-    textWithDiacritics: "David a zidit acolo un altar lui YaHWeH şi a adus arderi\
-      \ de tot şi jertfe de mulţumire. Atunci YaHWeH a fost potolit faţă de ţară ş\
-      i a încetat urgia deasupra lui Israel. HalleluYah"
+    text: "David a zidit acolo un altar lui Yaue si a adus arderi de tot si jertfe\
+      \ de multumire. Atunci Yaue a fost potolit fata de tara si a incetat urgia deasupra\
+      \ lui Israel. HalleluYah"
+    textWithDiacritics: "David a zidit acolo un altar lui Yaue şi a adus arderi de\
+      \ tot şi jertfe de mulţumire. Atunci Yaue a fost potolit faţă de ţară şi a î\
+      ncetat urgia deasupra lui Israel. HalleluYah"
     chapter: null

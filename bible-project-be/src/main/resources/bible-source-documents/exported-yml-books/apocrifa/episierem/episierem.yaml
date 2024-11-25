@@ -15,9 +15,9 @@ chapterPojo:
   book: null
   versePojo:
   - verseNumber: 1
-    text: "Din cauza pacatelor cu care ati pacatuit inaintea lui Eylohim, veti fi\
-      \ dusi robi in Babilon de Nabucodonosor , regele Babilonului."
-    textWithDiacritics: "Din cauza păcatelor cu care ați păcătuit înaintea lui Eylohim,\
+    text: "Din cauza pacatelor cu care ati pacatuit inaintea lui Elohim, veti fi dusi\
+      \ robi in Babilon de Nabucodonosor , regele Babilonului."
+    textWithDiacritics: "Din cauza păcatelor cu care ați păcătuit înaintea lui Elohim,\
       \ veți fi duși robi în Babilon de Nabucodonosor , regele Babilonului."
     chapter: null
   - verseNumber: 2
@@ -323,11 +323,11 @@ chapterPojo:
     text: "Pentru ca ei sant de lemn, imbracati cu aur sau argint, se va recunoaste\
       \ mai tarziu ca ei nu sant decat minciuna; va fi limpede pentru toti, popoare\
       \ si regi, ca ei nu sant dumnezei, ci lucruri de maini omenesti, si ca in ei\
-      \ nu se afla nici o lucrare a lui Eylohim."
+      \ nu se afla nici o lucrare a lui Elohim."
     textWithDiacritics: "Pentru că ei sânt de lemn, îmbrăcați cu aur sau argint, se\
       \ va recunoaște mai târziu că ei nu sânt decât minciună; va fi limpede pentru\
       \ toți, popoare și regi, că ei nu sânt dumnezei, ci lucruri de mâini omeneș\
-      ti, și că în ei nu se află nici o lucrare a lui Eylohim."
+      ti, și că în ei nu se află nici o lucrare a lui Elohim."
     chapter: null
   - verseNumber: 51
     text: "Cui nu-i va fi, deci, lamurit, ca acestia nu sant dumnezei?"
@@ -395,9 +395,9 @@ chapterPojo:
       \ de asemenea, vântul bate în toată țara."
     chapter: null
   - verseNumber: 61
-    text: "Norii indeplinesc porunca pe care le-o da Eylohim de a strabate tot pamantul;\
+    text: "Norii indeplinesc porunca pe care le-o da Elohim de a strabate tot pamantul;\
       \ si focul, trimis de sus sa mistuie munti si paduri, face ce i s-a poruncit."
-    textWithDiacritics: "Norii îndeplinesc porunca pe care le-o dă Eylohim de a stră\
+    textWithDiacritics: "Norii îndeplinesc porunca pe care le-o dă Elohim de a stră\
       bate tot pământul; și focul, trimis de sus să mistuie munți și păduri, face\
       \ ce i s-a poruncit."
     chapter: null

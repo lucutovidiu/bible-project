@@ -15,14 +15,13 @@ chapterPojo:
   book: null
   versePojo:
   - verseNumber: 1
-    text: "Prorocia lui Obadia. Asa vorbeste YaHWeH, Eylohim despre Edom: – Noi am\
-      \ auzit o veste din partea lui YaHWeH, si un sol a fost trimis cu ea printre\
-      \ neamuri, zicind: „Sculati-va, sa mergem impotriva Edomului ca sa ne razboim\
-      \ cu el!”"
-    textWithDiacritics: "Prorocia lui Obadia. Aşa vorbeşte YaHWeH, Eylohim despre\
-      \ Edom: – Noi am auzit o veste din partea lui YaHWeH, şi un sol a fost trimis\
-      \ cu ea printre neamuri, zicînd: „Sculaţi-vă, să mergem împotriva Edomului ca\
-      \ să ne războim cu el!”"
+    text: "Prorocia lui Obadia. Asa vorbeste Yaue, Elohim despre Edom: – Noi am auzit\
+      \ o veste din partea lui Yaue, si un sol a fost trimis cu ea printre neamuri,\
+      \ zicind: „Sculati-va, sa mergem impotriva Edomului ca sa ne razboim cu el!”"
+    textWithDiacritics: "Prorocia lui Obadia. Aşa vorbeşte Yaue, Elohim despre Edom:\
+      \ – Noi am auzit o veste din partea lui Yaue, şi un sol a fost trimis cu ea\
+      \ printre neamuri, zicînd: „Sculaţi-vă, să mergem împotriva Edomului ca să ne\
+      \ războim cu el!”"
     chapter: null
   - verseNumber: 2
     text: "„Iata, te voi face mic printre neamuri, vei fi cel mai dispretuit."
@@ -39,10 +38,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 4
     text: "Dar, chiar daca ai locui tot atit de sus ca vulturul, chiar daca ti-ai\
-      \ aseza cuibul intre stele, tot te voi arunca jos si de acolo, zice YaHWeH."
+      \ aseza cuibul intre stele, tot te voi arunca jos si de acolo, zice Yaue."
     textWithDiacritics: "Dar, chiar dacă ai locui tot atît de sus ca vulturul, chiar\
       \ dacă ţi-ai aşeza cuibul între stele, tot te voi arunca jos şi de acolo, zice\
-      \ YaHWeH."
+      \ Yaue."
     chapter: null
   - verseNumber: 5
     text: "Daca ar fi intrat la tine niste hoti sau niste tilhari de noapte – cum\
@@ -67,10 +66,10 @@ chapterPojo:
       \ ţi-au întins curse pe care nu le-ai băgat de seamă!"
     chapter: null
   - verseNumber: 8
-    text: "Oare, zice YaHWeH, nu voi pierde Eu in ziua aceea pe cei intelepti din\
-      \ Edom si priceperea din muntele lui Esau?"
-    textWithDiacritics: "Oare, zice YaHWeH, nu voi pierde Eu în ziua aceea pe cei\
-      \ înţelepţi din Edom şi priceperea din muntele lui Esau?"
+    text: "Oare, zice Yaue, nu voi pierde Eu in ziua aceea pe cei intelepti din Edom\
+      \ si priceperea din muntele lui Esau?"
+    textWithDiacritics: "Oare, zice Yaue, nu voi pierde Eu în ziua aceea pe cei î\
+      nţelepţi din Edom şi priceperea din muntele lui Esau?"
     chapter: null
   - verseNumber: 9
     text: "Vitejii tai, Temane se vor inspaiminta, pentru ca toti cei din muntele\
@@ -117,11 +116,11 @@ chapterPojo:
       \ el în ziua necazului!"
     chapter: null
   - verseNumber: 15
-    text: "Caci ziua lui YaHWeH este aproape pentru toate popoarele. Cum ai facut,\
-      \ asa ti se va face; faptele tale se vor intoarce asupra capului tau."
-    textWithDiacritics: "Căci ziua lui YaHWeH este aproape pentru toate popoarele.\
-      \ Cum ai făcut, aşa ţi se va face; faptele tale se vor întoarce asupra capului\
-      \ tău."
+    text: "Caci ziua lui Yaue este aproape pentru toate popoarele. Cum ai facut, asa\
+      \ ti se va face; faptele tale se vor intoarce asupra capului tau."
+    textWithDiacritics: "Căci ziua lui Yaue este aproape pentru toate popoarele. Cum\
+      \ ai făcut, aşa ţi se va face; faptele tale se vor întoarce asupra capului tă\
+      u."
     chapter: null
   - verseNumber: 16
     text: "Caci, dupa cum ati baut paharul miniei, voi cei de pe muntele Meu cel sfint,\
@@ -140,10 +139,10 @@ chapterPojo:
   - verseNumber: 18
     text: "Casa lui Iacov va fi un foc, si casa lui Iosif, o flacara; dar casa lui\
       \ Esau va fi miristea pe care o vor aprinde si o vor mistui; si nu va mai ramine\
-      \ niciunul din casa lui Esau, caci YaHWeH a vorbit!"
+      \ niciunul din casa lui Esau, caci Yaue a vorbit!"
     textWithDiacritics: "Casa lui Iacov va fi un foc, şi casa lui Iosif, o flacără\
       ; dar casa lui Esau va fi miriştea pe care o vor aprinde şi o vor mistui; ş\
-      i nu va mai rămîne niciunul din casa lui Esau, căci YaHWeH a vorbit!"
+      i nu va mai rămîne niciunul din casa lui Esau, căci Yaue a vorbit!"
     chapter: null
   - verseNumber: 19
     text: "Cei de la miazazi vor stapini muntele lui Esau, si cei din cimpie, tara\
@@ -163,7 +162,7 @@ chapterPojo:
     chapter: null
   - verseNumber: 21
     text: "Izbavitorii se vor sui pe muntele Sionului ca sa judece muntele lui Esau.\
-      \ Dar imparatia va fi a lui YaHWeH.” HalleluYah"
+      \ Dar imparatia va fi a lui Yaue.” HalleluYah"
     textWithDiacritics: "Izbăvitorii se vor sui pe muntele Sionului ca să judece muntele\
-      \ lui Esau. Dar împărăţia va fi a lui YaHWeH.” HalleluYah"
+      \ lui Esau. Dar împărăţia va fi a lui Yaue.” HalleluYah"
     chapter: null

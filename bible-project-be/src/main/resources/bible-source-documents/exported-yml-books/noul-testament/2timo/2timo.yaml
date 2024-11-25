@@ -15,21 +15,21 @@ chapterPojo:
   book: null
   versePojo:
   - verseNumber: 1
-    text: "Pavel, apostol al lui haMasiya Yasua, prin voia lui YaHWeH, dupa fagaduinta\
+    text: "Pavel, apostol al lui haMasiya Yasua, prin voia lui Yaue, dupa fagaduinta\
       \ vietii care este in haMasiya Yasua,"
-    textWithDiacritics: "Pavel, apostol al lui haMaşiya Yașua, prin voia lui YaHWeH,\
+    textWithDiacritics: "Pavel, apostol al lui haMaşiya Yașua, prin voia lui Yaue,\
       \ după făgăduinţa vieţii care este în haMaşiya Yașua,"
     chapter: null
   - verseNumber: 2
-    text: "catre Timotei, copilul meu preaiubit: Har, indurare si pace de la YaHWeH\
+    text: "catre Timotei, copilul meu preaiubit: Har, indurare si pace de la Yaue\
       \ Tatal si de la haMasiya Yasua, Stapinul nostru!"
     textWithDiacritics: "către Timotei, copilul meu preaiubit: Har, îndurare şi pace\
-      \ de la YaHWeH Tatăl şi de la haMaşiya Yașua, Stăpînul nostru!"
+      \ de la Yaue Tatăl şi de la haMaşiya Yașua, Stăpînul nostru!"
     chapter: null
   - verseNumber: 3
-    text: "Multumesc lui YaHWeH, caruia Ii slujesc cu un cuget curat, din mosi stramosi,\
+    text: "Multumesc lui Yaue, caruia Ii slujesc cu un cuget curat, din mosi stramosi,\
       \ ca neintrerupt te pomenesc in rugaciunile mele, zi si noapte."
-    textWithDiacritics: "Mulţumesc lui YaHWeH, căruia Îi slujesc cu un cuget curat,\
+    textWithDiacritics: "Mulţumesc lui Yaue, căruia Îi slujesc cu un cuget curat,\
       \ din moşi strămoşi, că neîntrerupt te pomenesc în rugăciunile mele, zi şi noapte."
     chapter: null
   - verseNumber: 4
@@ -46,24 +46,24 @@ chapterPojo:
       \ şi în tine."
     chapter: null
   - verseNumber: 6
-    text: "De aceea iti aduc aminte sa inflacarezi darul lui YaHWeH care este in tine\
+    text: "De aceea iti aduc aminte sa inflacarezi darul lui Yaue care este in tine\
       \ prin punerea miinilor mele."
-    textWithDiacritics: "De aceea îţi aduc aminte să înflăcărezi darul lui YaHWeH\
-      \ care este în tine prin punerea mîinilor mele."
+    textWithDiacritics: "De aceea îţi aduc aminte să înflăcărezi darul lui Yaue care\
+      \ este în tine prin punerea mîinilor mele."
     chapter: null
   - verseNumber: 7
-    text: "Caci YaHWeH nu ne-a dat un Duh de frica, ci de Putere, de dragoste si de\
+    text: "Caci Yaue nu ne-a dat un Duh de frica, ci de Putere, de dragoste si de\
       \ chibzuinta."
-    textWithDiacritics: "Căci YaHWeH nu ne-a dat un Duh de frică, ci de Putere, de\
-      \ dragoste şi de chibzuinţă."
+    textWithDiacritics: "Căci Yaue nu ne-a dat un Duh de frică, ci de Putere, de dragoste\
+      \ şi de chibzuinţă."
     chapter: null
   - verseNumber: 8
     text: "Sa nu-ti fie rusine, dar, de marturisirea Mintuitorului nostru, nici de\
       \ mine, intemnitatul Lui. Ci sufera impreuna cu Evanghelia, prin puterea lui\
-      \ YaHWeH."
+      \ Yaue."
     textWithDiacritics: "Să nu-ţi fie ruşine, dar, de mărturisirea Mîntuitorului nostru,\
       \ nici de mine, întemniţatul Lui. Ci suferă împreună cu Evanghelia, prin puterea\
-      \ lui YaHWeH."
+      \ lui Yaue."
     chapter: null
   - verseNumber: 9
     text: "El ne-a Mintuit si ne-a dat o chemare sfinta, nu pentru faptele noastre,\
@@ -113,10 +113,10 @@ chapterPojo:
       ii şi Figel şi Ermogen."
     chapter: null
   - verseNumber: 16
-    text: "YaHWeH sa-Si verse indurarea peste casa lui Onisifor; caci de multe ori\
-      \ m-a mingiiat si nu i-a fost rusine de lantul meu."
-    textWithDiacritics: "YaHWeH să-Şi verse îndurarea peste casa lui Onisifor; că\
-      ci de multe ori m-a mîngîiat şi nu i-a fost ruşine de lanţul meu."
+    text: "Yaue sa-Si verse indurarea peste casa lui Onisifor; caci de multe ori m-a\
+      \ mingiiat si nu i-a fost rusine de lantul meu."
+    textWithDiacritics: "Yaue să-Şi verse îndurarea peste casa lui Onisifor; căci\
+      \ de multe ori m-a mîngîiat şi nu i-a fost ruşine de lanţul meu."
     chapter: null
   - verseNumber: 17
     text: "Nu numai atit, dar, cind a fost in Roma, m-a cautat cu multa grija si m-a\
@@ -125,9 +125,9 @@ chapterPojo:
       \ grijă şi m-a găsit."
     chapter: null
   - verseNumber: 18
-    text: "Dea Stapinul Yasua sa capete indurare de la YaHWeH „in ziua aceea.” Tu\
-      \ stii foarte bine cit ajutor mi-a dat el in Efes."
-    textWithDiacritics: "Dea Stăpînul Yașua să capete îndurare de la YaHWeH „în ziua\
+    text: "Dea Stapinul Yasua sa capete indurare de la Yaue „in ziua aceea.” Tu stii\
+      \ foarte bine cit ajutor mi-a dat el in Efes."
+    textWithDiacritics: "Dea Stăpînul Yașua să capete îndurare de la Yaue „în ziua\
       \ aceea.” Tu ştii foarte bine cît ajutor mi-a dat el în Efes."
     chapter: null
 - number: 2
@@ -164,9 +164,8 @@ chapterPojo:
     textWithDiacritics: "Plugarul trebuie să muncească înainte ca să strîngă roadele."
     chapter: null
   - verseNumber: 7
-    text: "Intelege ce-ti spun; YaHWeH iti va da pricepere in toate lucrurile."
-    textWithDiacritics: "Înţelege ce-ţi spun; YaHWeH îţi va da pricepere în toate\
-      \ lucrurile."
+    text: "Intelege ce-ti spun; Yaue iti va da pricepere in toate lucrurile."
+    textWithDiacritics: "Înţelege ce-ţi spun; Yaue îţi va da pricepere în toate lucrurile."
     chapter: null
   - verseNumber: 8
     text: "Adu-ti aminte de Stapinul Yasua haMasiya, din saminta lui David, inviat\
@@ -176,9 +175,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 9
     text: "pentru care sufar pina acolo ca sunt legat ca un facator de rele. Dar Cuvintul\
-      \ lui YaHWeH nu este legat."
+      \ lui Yaue nu este legat."
     textWithDiacritics: "pentru care sufăr pînă acolo că sunt legat ca un făcător\
-      \ de rele. Dar Cuvîntul lui YaHWeH nu este legat."
+      \ de rele. Dar Cuvîntul lui Yaue nu este legat."
     chapter: null
   - verseNumber: 10
     text: "De aceea rabd totul pentru cei alesi, pentru ca si ei sa capete mintuirea\
@@ -205,25 +204,25 @@ chapterPojo:
       ci nu Se poate tăgădui singur."
     chapter: null
   - verseNumber: 14
-    text: "Adu-le aminte de aceste lucruri si roaga-i fierbinte, inaintea lui YaHWeH,\
+    text: "Adu-le aminte de aceste lucruri si roaga-i fierbinte, inaintea lui Yaue,\
       \ sa se fereasca de certurile de cuvinte, care nu duc la alt folos decit la\
       \ pieirea celor ce le asculta."
     textWithDiacritics: "Adu-le aminte de aceste lucruri şi roagă-i fierbinte, înaintea\
-      \ lui YaHWeH, să se ferească de certurile de cuvinte, care nu duc la alt folos\
+      \ lui Yaue, să se ferească de certurile de cuvinte, care nu duc la alt folos\
       \ decît la pieirea celor ce le ascultă."
     chapter: null
   - verseNumber: 15
-    text: "Cauta sa te infatisezi inaintea lui YaHWeH ca un om incercat, ca un lucrator\
+    text: "Cauta sa te infatisezi inaintea lui Yaue ca un om incercat, ca un lucrator\
       \ care n-are de ce sa-i fie rusine si care imparte drept Cuvintul Adevarului."
-    textWithDiacritics: "Caută să te înfăţişezi înaintea lui YaHWeH ca un om încercat,\
+    textWithDiacritics: "Caută să te înfăţişezi înaintea lui Yaue ca un om încercat,\
       \ ca un lucrător care n-are de ce să-i fie ruşine şi care împarte drept Cuvî\
       ntul Adevărului."
     chapter: null
   - verseNumber: 16
     text: "Fereste-te de vorbariile goale si lumesti; caci cei ce le tin vor inainta\
-      \ tot mai mult in necinstirea lui YaHWeH."
+      \ tot mai mult in necinstirea lui Yaue."
     textWithDiacritics: "Fereşte-te de vorbăriile goale şi lumeşti; căci cei ce le\
-      \ ţin vor înainta tot mai mult în necinstirea lui YaHWeH."
+      \ ţin vor înainta tot mai mult în necinstirea lui Yaue."
     chapter: null
   - verseNumber: 17
     text: "Si cuvintul lor va roade ca cangrena. Din numarul acestora sunt Imeneu\
@@ -238,12 +237,12 @@ chapterPojo:
       \ şi răstoarnă credinţa unora."
     chapter: null
   - verseNumber: 19
-    text: "Totusi temelia tare a lui YaHWeH sta nezguduita, avind pecetea aceasta:\
-      \ „ YaHWeH cunoaste pe cei ce sunt ai Lui”; si: „Oricine rosteste Numele YaHWeH\
-      \ sa se departeze de fara de Lege!”"
-    textWithDiacritics: "Totuşi temelia tare a lui YaHWeH stă nezguduită, avînd pecetea\
-      \ aceasta: „ YaHWeH cunoaşte pe cei ce sunt ai Lui”; şi: „Oricine rosteşte Numele\
-      \ YaHWeH să se depărteze de fără de Lege!”"
+    text: "Totusi temelia tare a lui Yaue sta nezguduita, avind pecetea aceasta: „\
+      \ Yaue cunoaste pe cei ce sunt ai Lui”; si: „Oricine rosteste Numele Yaue sa\
+      \ se departeze de fara de Lege!”"
+    textWithDiacritics: "Totuşi temelia tare a lui Yaue stă nezguduită, avînd pecetea\
+      \ aceasta: „ Yaue cunoaşte pe cei ce sunt ai Lui”; şi: „Oricine rosteşte Numele\
+      \ Yaue să se depărteze de fără de Lege!”"
     chapter: null
   - verseNumber: 20
     text: "Intr-o casa mare nu sunt numai vase de aur si de argint, ci si de lemn\
@@ -262,10 +261,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 22
     text: "Fugi de poftele tineretii si urmareste neprihanirea, credinta, dragostea,\
-      \ pacea, impreuna cu cei ce cheama pe YaHWeH dintr-o inima curata."
+      \ pacea, impreuna cu cei ce cheama pe Yaue dintr-o inima curata."
     textWithDiacritics: "Fugi de poftele tinereţii şi urmăreşte neprihănirea, credinţ\
-      a, dragostea, pacea, împreună cu cei ce cheamă pe YaHWeH dintr-o inimă curată\
-      ."
+      a, dragostea, pacea, împreună cu cei ce cheamă pe Yaue dintr-o inimă curată."
     chapter: null
   - verseNumber: 23
     text: "Fereste-te de intrebarile nebune si nefolositoare, caci stii ca dau nastere\
@@ -274,15 +272,15 @@ chapterPojo:
       tii că dau naştere la certuri."
     chapter: null
   - verseNumber: 24
-    text: "Si robul lui YaHWeH nu trebuie sa se certe; ci sa fie blind cu toti, in\
-      \ stare sa invete pe toti, plin de ingaduinta rabdatoare,"
-    textWithDiacritics: "Şi robul lui YaHWeH nu trebuie să se certe; ci să fie blî\
-      nd cu toţi, în stare să înveţe pe toţi, plin de îngăduinţă răbdătoare,"
+    text: "Si robul lui Yaue nu trebuie sa se certe; ci sa fie blind cu toti, in stare\
+      \ sa invete pe toti, plin de ingaduinta rabdatoare,"
+    textWithDiacritics: "Şi robul lui Yaue nu trebuie să se certe; ci să fie blînd\
+      \ cu toţi, în stare să înveţe pe toţi, plin de îngăduinţă răbdătoare,"
     chapter: null
   - verseNumber: 25
-    text: "sa indrepte cu blindete pe potrivnici, in nadejdea ca YaHWeH le va da pocainta,\
+    text: "sa indrepte cu blindete pe potrivnici, in nadejdea ca Yaue le va da pocainta,\
       \ ca sa ajunga la cunostinta Adevarului;"
-    textWithDiacritics: "să îndrepte cu blîndeţe pe potrivnici, în nădejdea că YaHWeH\
+    textWithDiacritics: "să îndrepte cu blîndeţe pe potrivnici, în nădejdea că Yaue\
       \ le va da pocăinţa, ca să ajungă la cunoştinţa Adevărului;"
     chapter: null
   - verseNumber: 26
@@ -312,9 +310,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 4
     text: "vinzatori, obraznici, ingimfati; iubitori mai mult de placeri decit iubitori\
-      \ de YaHWeH;"
+      \ de Yaue;"
     textWithDiacritics: "vînzători, obraznici, îngîmfaţi; iubitori mai mult de plă\
-      ceri decît iubitori de YaHWeH;"
+      ceri decît iubitori de Yaue;"
     chapter: null
   - verseNumber: 5
     text: "avind doar o forma de evlavie, dar tagaduindu-i puterea. Departeaza-te\
@@ -357,11 +355,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 11
     text: "prigonirile si suferintele care au venit peste mine in Antiohia, in Iconia\
-      \ si in Listra. Stii ce prigoniri am rabdat; si totusi YaHWeH m-a izbavit din\
+      \ si in Listra. Stii ce prigoniri am rabdat; si totusi Yaue m-a izbavit din\
       \ toate."
     textWithDiacritics: "prigonirile şi suferinţele care au venit peste mine în Antiohia,\
-      \ în Iconia şi în Listra. Ştii ce prigoniri am răbdat; şi totuşi YaHWeH m-a\
-      \ izbăvit din toate."
+      \ în Iconia şi în Listra. Ştii ce prigoniri am răbdat; şi totuşi Yaue m-a izbă\
+      vit din toate."
     chapter: null
   - verseNumber: 12
     text: "De altfel, toti cei ce voiesc sa traiasca cu evlavie in haMasiya Yasua\
@@ -388,24 +386,24 @@ chapterPojo:
       \ înţelepciunea care duce la Mîntuire, prin credinţa în haMaşiya Yașua."
     chapter: null
   - verseNumber: 16
-    text: "Toata Scriptura este insuflata de YaHWeH si de folos ca sa invete, sa mustre,\
+    text: "Toata Scriptura este insuflata de Yaue si de folos ca sa invete, sa mustre,\
       \ sa indrepte, sa dea intelepciune in neprihanire,"
-    textWithDiacritics: "Toată Scriptura este insuflată de YaHWeH şi de folos ca să\
+    textWithDiacritics: "Toată Scriptura este insuflată de Yaue şi de folos ca să\
       \ înveţe, să mustre, să îndrepte, să dea înţelepciune în neprihănire,"
     chapter: null
   - verseNumber: 17
-    text: "pentru ca omul lui YaHWeH sa fie desavirsit si cu totul destoinic pentru\
+    text: "pentru ca omul lui Yaue sa fie desavirsit si cu totul destoinic pentru\
       \ orice lucrare buna."
-    textWithDiacritics: "pentru ca omul lui YaHWeH să fie desăvîrşit şi cu totul destoinic\
+    textWithDiacritics: "pentru ca omul lui Yaue să fie desăvîrşit şi cu totul destoinic\
       \ pentru orice lucrare bună."
     chapter: null
 - number: 4
   book: null
   versePojo:
   - verseNumber: 1
-    text: "Te rog fierbinte inaintea lui YaHWeH si inaintea lui haMasiya Yasua, care\
+    text: "Te rog fierbinte inaintea lui Yaue si inaintea lui haMasiya Yasua, care\
       \ are sa judece viii si mortii, si pentru aratarea si Imparatia Sa:"
-    textWithDiacritics: "Te rog fierbinte înaintea lui YaHWeH şi înaintea lui haMaş\
+    textWithDiacritics: "Te rog fierbinte înaintea lui Yaue şi înaintea lui haMaş\
       iya Yașua, care are să judece viii şi morţii, şi pentru arătarea şi Împărăţ\
       ia Sa:"
     chapter: null
@@ -448,10 +446,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 8
     text: "De acum ma asteapta cununa neprihanirii, pe care mi-o va da in „ziua aceea”\
-      \ YaHWeH, Judecatorul cel drept. Si nu numai mie, ci si tuturor celor ce vor\
-      \ fi iubit venirea Lui."
+      \ Yaue, Judecatorul cel drept. Si nu numai mie, ci si tuturor celor ce vor fi\
+      \ iubit venirea Lui."
     textWithDiacritics: "De acum mă aşteaptă cununa neprihănirii, pe care mi-o va\
-      \ da în „ziua aceea” YaHWeH, Judecătorul cel drept. Şi nu numai mie, ci şi tuturor\
+      \ da în „ziua aceea” Yaue, Judecătorul cel drept. Şi nu numai mie, ci şi tuturor\
       \ celor ce vor fi iubit venirea Lui."
     chapter: null
   - verseNumber: 9
@@ -481,10 +479,10 @@ chapterPojo:
       \ la Carp, şi cărţile, mai ales pe cele de piele."
     chapter: null
   - verseNumber: 14
-    text: "Alexandru, caldararul, mi-a facut mult rau. YaHWeH ii va rasplati dupa\
-      \ faptele lui."
-    textWithDiacritics: "Alexandru, căldărarul, mi-a făcut mult rău. YaHWeH îi va\
-      \ răsplăti după faptele lui."
+    text: "Alexandru, caldararul, mi-a facut mult rau. Yaue ii va rasplati dupa faptele\
+      \ lui."
+    textWithDiacritics: "Alexandru, căldărarul, mi-a făcut mult rău. Yaue îi va ră\
+      splăti după faptele lui."
     chapter: null
   - verseNumber: 15
     text: "Pazeste-te si tu de el, pentru ca este cu totul impotriva cuvintelor noastre."
@@ -498,17 +496,17 @@ chapterPojo:
       \ ci toţi m-au părăsit. Să nu li se ţină în socoteală lucrul acesta!"
     chapter: null
   - verseNumber: 17
-    text: "Insa YaHWeH a stat linga mine si m-a intarit, pentru ca propovaduirea sa\
+    text: "Insa Yaue a stat linga mine si m-a intarit, pentru ca propovaduirea sa\
       \ fie vestita pe deplin prin mine si s-o auda toate popoarele. Si am fost izbavit\
       \ din gura leului."
-    textWithDiacritics: "Însă YaHWeH a stat lîngă mine şi m-a întărit, pentru ca propovă\
+    textWithDiacritics: "Însă Yaue a stat lîngă mine şi m-a întărit, pentru ca propovă\
       duirea să fie vestită pe deplin prin mine şi s-o audă toate popoarele. Şi am\
       \ fost izbăvit din gura leului."
     chapter: null
   - verseNumber: 18
-    text: "YaHWeH ma va izbavi de orice lucru rau si ma va mintui, ca sa intru in\
-      \ Imparatia Lui cereasca. A Lui sa fie slava in vecii vecilor! HalleluYa."
-    textWithDiacritics: "YaHWeH mă va izbăvi de orice lucru rău şi mă va mîntui, ca\
+    text: "Yaue ma va izbavi de orice lucru rau si ma va mintui, ca sa intru in Imparatia\
+      \ Lui cereasca. A Lui sa fie slava in vecii vecilor! HalleluYa."
+    textWithDiacritics: "Yaue mă va izbăvi de orice lucru rău şi mă va mîntui, ca\
       \ să intru în Împărăţia Lui cerească. A Lui să fie slava în vecii vecilor! HalleluYa."
     chapter: null
   - verseNumber: 19

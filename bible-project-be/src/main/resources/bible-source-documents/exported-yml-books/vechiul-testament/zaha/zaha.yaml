@@ -15,31 +15,30 @@ chapterPojo:
   book: null
   versePojo:
   - verseNumber: 1
-    text: "In luna a opta, in anul al doilea al lui Darius, cuvantul lui YaHWeH a\
-      \ vorbit prorocului Zaharia, fiul lui Berechia, fiul lui Ido, astfel:"
+    text: "In luna a opta, in anul al doilea al lui Darius, cuvantul lui Yaue a vorbit\
+      \ prorocului Zaharia, fiul lui Berechia, fiul lui Ido, astfel:"
     textWithDiacritics: "În luna a opta, în anul al doilea al lui Darius, cuvântul\
-      \ lui YaHWeH a vorbit prorocului Zaharia, fiul lui Berechia, fiul lui Ido, astfel:"
+      \ lui Yaue a vorbit prorocului Zaharia, fiul lui Berechia, fiul lui Ido, astfel:"
     chapter: null
   - verseNumber: 2
-    text: "„ YaHWeH S-a maniat foarte tare pe parintii vostri."
-    textWithDiacritics: "„ YaHWeH S-a mâniat foarte tare pe părinţii voştri."
+    text: "„ Yaue S-a maniat foarte tare pe parintii vostri."
+    textWithDiacritics: "„ Yaue S-a mâniat foarte tare pe părinţii voştri."
     chapter: null
   - verseNumber: 3
-    text: "Spune-le, dar: „Asa vorbeste YaHWeH Eylohim al ostirilor: „Intoarceti-va\
-      \ la Mine, zice YaHWeH, si Ma voi intoarce si Eu la voi, zice YaHWeH."
-    textWithDiacritics: "Spune-le, dar: „Aşa vorbeşte YaHWeH Eylohim al oştirilor:\
-      \ „Întoarceţi-vă la Mine, zice YaHWeH, şi Mă voi întoarce şi Eu la voi, zice\
-      \ YaHWeH."
+    text: "Spune-le, dar: „Asa vorbeste Yaue Elohim al ostirilor: „Intoarceti-va la\
+      \ Mine, zice Yaue, si Ma voi intoarce si Eu la voi, zice Yaue."
+    textWithDiacritics: "Spune-le, dar: „Aşa vorbeşte Yaue Elohim al oştirilor: „Î\
+      ntoarceţi-vă la Mine, zice Yaue, şi Mă voi întoarce şi Eu la voi, zice Yaue."
     chapter: null
   - verseNumber: 4
     text: "Nu fiti ca parintii vostri, carora le vorbeau prorocii de mai inainte,\
-      \ zicand: „Asa vorbeste YaHWeH Eylohim al ostirilor: „Intoarceti-va de la caile\
+      \ zicand: „Asa vorbeste Yaue Elohim al ostirilor: „Intoarceti-va de la caile\
       \ voastre cele rele, de la faptele voastre cele rele!”, dar n-au ascultat si\
-      \ n-au luat aminte la Mine, zice YaHWeH."
+      \ n-au luat aminte la Mine, zice Yaue."
     textWithDiacritics: "Nu fiţi ca părinţii voştri, cărora le vorbeau prorocii de\
-      \ mai înainte, zicând: „Aşa vorbeşte YaHWeH Eylohim al oştirilor: „Întoarceţ\
-      i-vă de la căile voastre cele rele, de la faptele voastre cele rele!”, dar n-au\
-      \ ascultat şi n-au luat aminte la Mine, zice YaHWeH."
+      \ mai înainte, zicând: „Aşa vorbeşte Yaue Elohim al oştirilor: „Întoarceţi-vă\
+      \ de la căile voastre cele rele, de la faptele voastre cele rele!”, dar n-au\
+      \ ascultat şi n-au luat aminte la Mine, zice Yaue."
     chapter: null
   - verseNumber: 5
     text: "Unde sunt acum parintii vostri? Si puteau prorocii sa traiasca vesnic?"
@@ -49,20 +48,20 @@ chapterPojo:
   - verseNumber: 6
     text: "Totusi cuvintele Mele si Poruncile pe care le dadusem slujitorilor Mei\
       \ prorocii ca sa le vesteasca n-au atins ele pe parintii vostri? Si atunci ei\
-      \ s-au intors si au zis: „ YaHWeH Eylohim al ostirilor ne-a facut cum hotarase\
+      \ s-au intors si au zis: „ Yaue Elohim al ostirilor ne-a facut cum hotarase\
       \ sa ne faca, dupa caile si faptele noastre!” Vedenii"
     textWithDiacritics: "Totuşi cuvintele Mele şi Poruncile pe care le dădusem slujitorilor\
       \ Mei prorocii ca să le vestească n-au atins ele pe părinţii voştri? Şi atunci\
-      \ ei s-au întors şi au zis: „ YaHWeH Eylohim al oştirilor ne-a făcut cum hotă\
-      râse să ne facă, după căile şi faptele noastre!” Vedenii"
+      \ ei s-au întors şi au zis: „ Yaue Elohim al oştirilor ne-a făcut cum hotărâ\
+      se să ne facă, după căile şi faptele noastre!” Vedenii"
     chapter: null
   - verseNumber: 7
     text: "In a douazeci si patra zi a lunii a unsprezecea, care este luna Sebat,\
-      \ in anul al doilea al lui Darius, cuvantul lui YaHWeH a vorbit prorocului Zaharia,\
+      \ in anul al doilea al lui Darius, cuvantul lui Yaue a vorbit prorocului Zaharia,\
       \ fiul lui Berechia, fiul lui Ido, astfel:"
     textWithDiacritics: "În a douăzeci şi patra zi a lunii a unsprezecea, care este\
-      \ luna Şebat, în anul al doilea al lui Darius, cuvântul lui YaHWeH a vorbit\
-      \ prorocului Zaharia, fiul lui Berechia, fiul lui Ido, astfel:"
+      \ luna Şebat, în anul al doilea al lui Darius, cuvântul lui Yaue a vorbit prorocului\
+      \ Zaharia, fiul lui Berechia, fiul lui Ido, astfel:"
     chapter: null
   - verseNumber: 8
     text: "M-am uitat noaptea, si iata ca un om era calare pe un cal rosu si statea\
@@ -80,39 +79,39 @@ chapterPojo:
     chapter: null
   - verseNumber: 10
     text: "Omul care statea intre mirti a luat cuvantul si a zis: „Acestia sunt aceia\
-      \ pe care i-a trimis YaHWeH sa cutreiere pamantul!” [ malach - trimis ]"
+      \ pe care i-a trimis Yaue sa cutreiere pamantul!” [ malach - trimis ]"
     textWithDiacritics: "Omul care stătea între mirţi a luat cuvântul şi a zis: „\
-      Aceştia sunt aceia pe care i-a trimis YaHWeH să cutreiere pământul!” [ malach\
+      Aceştia sunt aceia pe care i-a trimis Yaue să cutreiere pământul!” [ malach\
       \ - trimis ]"
     chapter: null
   - verseNumber: 11
-    text: "Si ei au vorbit Ingerului lui YaHWeH care statea intre mirti si au zis:\
-      \ „Am cutreierat pamantul, si iata ca tot pamantul este in pace si linistit!”"
-    textWithDiacritics: "Şi ei au vorbit Îngerului lui YaHWeH care stătea între mirţ\
+    text: "Si ei au vorbit Ingerului lui Yaue care statea intre mirti si au zis: „\
+      Am cutreierat pamantul, si iata ca tot pamantul este in pace si linistit!”"
+    textWithDiacritics: "Şi ei au vorbit Îngerului lui Yaue care stătea între mirţ\
       i şi au zis: „Am cutreierat pământul, şi iată că tot pământul este în pace ş\
       i liniştit!”"
     chapter: null
   - verseNumber: 12
-    text: "Atunci Ingerul lui YaHWeH a luat cuvantul si a zis: „ YaHWeH Eylohim al\
-      \ ostirilor, pana cand nu vei avea mila de Ierusalim si de cetatile lui Iuda,\
-      \ pe care Te-ai maniat in acesti saptezeci de ani?”"
-    textWithDiacritics: "Atunci Îngerul lui YaHWeH a luat cuvântul şi a zis: „ YaHWeH\
-      \ Eylohim al oştirilor, până când nu vei avea milă de Ierusalim şi de cetăţ\
-      ile lui Iuda, pe care Te-ai mâniat în aceşti şaptezeci de ani?”"
+    text: "Atunci Ingerul lui Yaue a luat cuvantul si a zis: „ Yaue Elohim al ostirilor,\
+      \ pana cand nu vei avea mila de Ierusalim si de cetatile lui Iuda, pe care Te-ai\
+      \ maniat in acesti saptezeci de ani?”"
+    textWithDiacritics: "Atunci Îngerul lui Yaue a luat cuvântul şi a zis: „ Yaue\
+      \ Elohim al oştirilor, până când nu vei avea milă de Ierusalim şi de cetăţile\
+      \ lui Iuda, pe care Te-ai mâniat în aceşti şaptezeci de ani?”"
     chapter: null
   - verseNumber: 13
-    text: "YaHWeH a raspuns cu vorbe bune, cu vorbe de mangaiere ingerului care vorbea\
+    text: "Yaue a raspuns cu vorbe bune, cu vorbe de mangaiere ingerului care vorbea\
       \ cu mine."
-    textWithDiacritics: "YaHWeH a răspuns cu vorbe bune, cu vorbe de mângâiere îngerului\
+    textWithDiacritics: "Yaue a răspuns cu vorbe bune, cu vorbe de mângâiere îngerului\
       \ care vorbea cu mine."
     chapter: null
   - verseNumber: 14
-    text: "Si ingerul care vorbea cu mine mi-a zis: „Striga si zi: „Asa vorbeste YaHWeH\
-      \ Eylohim al ostirilor: „Sunt plin de o mare gelozie pentru Ierusalim si pentru\
+    text: "Si ingerul care vorbea cu mine mi-a zis: „Striga si zi: „Asa vorbeste Yaue\
+      \ Elohim al ostirilor: „Sunt plin de o mare gelozie pentru Ierusalim si pentru\
       \ Sion"
     textWithDiacritics: "Şi îngerul care vorbea cu mine mi-a zis: „Strigă şi zi: „\
-      Aşa vorbeşte YaHWeH Eylohim al oştirilor: „Sunt plin de o mare gelozie pentru\
-      \ Ierusalim şi pentru Sion"
+      Aşa vorbeşte Yaue Elohim al oştirilor: „Sunt plin de o mare gelozie pentru Ierusalim\
+      \ şi pentru Sion"
     chapter: null
   - verseNumber: 15
     text: "si sunt plin de o mare manie impotriva paginilor ingamfati; caci Ma maniasem\
@@ -121,20 +120,19 @@ chapterPojo:
       i; căci Mă mâniasem numai puţin, dar ei au ajutat spre nenorocire.”"
     chapter: null
   - verseNumber: 16
-    text: "De aceea asa vorbeste YaHWeH: „Ma intorc cu indurarea catre Ierusalim;\
-      \ Casa Mea va fi zidita iarasi in el, si funia de masurat se va intinde asupra\
-      \ Ierusalimului.”"
-    textWithDiacritics: "De aceea aşa vorbeşte YaHWeH: „Mă întorc cu îndurarea că\
-      tre Ierusalim; Casa Mea va fi zidită iarăşi în el, şi funia de măsurat se va\
-      \ întinde asupra Ierusalimului.”"
+    text: "De aceea asa vorbeste Yaue: „Ma intorc cu indurarea catre Ierusalim; Casa\
+      \ Mea va fi zidita iarasi in el, si funia de masurat se va intinde asupra Ierusalimului.”"
+    textWithDiacritics: "De aceea aşa vorbeşte Yaue: „Mă întorc cu îndurarea către\
+      \ Ierusalim; Casa Mea va fi zidită iarăşi în el, şi funia de măsurat se va î\
+      ntinde asupra Ierusalimului.”"
     chapter: null
   - verseNumber: 17
-    text: "Striga din nou si zi: „Asa vorbeste YaHWeH al ostirilor: „Cetatile Mele\
-      \ vor avea iarasi belsug de bunatati, YaHWeH va mangaia iarasi Sionul, va alege\
-      \ iarasi Ierusalimul.”"
-    textWithDiacritics: "Strigă din nou şi zi: „Aşa vorbeşte YaHWeH al oştirilor:\
-      \ „Cetăţile Mele vor avea iarăşi belşug de bunătăţi, YaHWeH va mângâia iarăş\
-      i Sionul, va alege iarăşi Ierusalimul.”"
+    text: "Striga din nou si zi: „Asa vorbeste Yaue al ostirilor: „Cetatile Mele vor\
+      \ avea iarasi belsug de bunatati, Yaue va mangaia iarasi Sionul, va alege iarasi\
+      \ Ierusalimul.”"
+    textWithDiacritics: "Strigă din nou şi zi: „Aşa vorbeşte Yaue al oştirilor: „\
+      Cetăţile Mele vor avea iarăşi belşug de bunătăţi, Yaue va mângâia iarăşi Sionul,\
+      \ va alege iarăşi Ierusalimul.”"
     chapter: null
   - verseNumber: 18
     text: "Am ridicat ochii si m-am uitat, si iata ca erau patru coarne!"
@@ -149,8 +147,8 @@ chapterPojo:
       \ pe Israel şi Ierusalimul.”"
     chapter: null
   - verseNumber: 20
-    text: "YaHWeH mi-a aratat patru fierari."
-    textWithDiacritics: "YaHWeH mi-a arătat patru fierari."
+    text: "Yaue mi-a aratat patru fierari."
+    textWithDiacritics: "Yaue mi-a arătat patru fierari."
     chapter: null
   - verseNumber: 21
     text: "Eu am intrebat: „Ce vor sa faca acestia?” Si el a zis: „Acestia vin sa\
@@ -191,80 +189,80 @@ chapterPojo:
       \ care vor fi în mijlocul lui;"
     chapter: null
   - verseNumber: 5
-    text: "Eu insumi – zice YaHWeH – voi fi un zid de foc de jur imprejurul lui si\
-      \ voi fi slava lui in mijlocul lui!"
-    textWithDiacritics: "Eu însumi – zice YaHWeH – voi fi un zid de foc de jur împrejurul\
+    text: "Eu insumi – zice Yaue – voi fi un zid de foc de jur imprejurul lui si voi\
+      \ fi slava lui in mijlocul lui!"
+    textWithDiacritics: "Eu însumi – zice Yaue – voi fi un zid de foc de jur împrejurul\
       \ lui şi voi fi slava lui în mijlocul lui!"
     chapter: null
   - verseNumber: 6
-    text: "Fugiti, fugiti din tara de la miazanoapte! – zice YaHWeH.Caci v-am imprastiat\
-      \ in cele patru vanturi ale cerurilor, zice YaHWeH."
-    textWithDiacritics: "Fugiţi, fugiţi din ţara de la miazănoapte! – zice YaHWeH.Că\
-      ci v-am împrăştiat în cele patru vânturi ale cerurilor, zice YaHWeH."
+    text: "Fugiti, fugiti din tara de la miazanoapte! – zice Yaue.Caci v-am imprastiat\
+      \ in cele patru vanturi ale cerurilor, zice Yaue."
+    textWithDiacritics: "Fugiţi, fugiţi din ţara de la miazănoapte! – zice Yaue.Că\
+      ci v-am împrăştiat în cele patru vânturi ale cerurilor, zice Yaue."
     chapter: null
   - verseNumber: 7
     text: "Scapa, Sioane, tu care locuiesti la fiica Babilonului!”"
     textWithDiacritics: "Scapă, Sioane, tu care locuieşti la fiica Babilonului!”"
     chapter: null
   - verseNumber: 8
-    text: "Caci asa vorbeste YaHWeH Eylohim al ostirilor: „Dupa slava M-a trimis El\
-      \ la paginii care v-au jefuit; caci cel ce se atinge de voi se atinge de lumina\
+    text: "Caci asa vorbeste Yaue Elohim al ostirilor: „Dupa slava M-a trimis El la\
+      \ paginii care v-au jefuit; caci cel ce se atinge de voi se atinge de lumina\
       \ ochilor Lui."
-    textWithDiacritics: "Căci aşa vorbeşte YaHWeH Eylohim al oştirilor: „După slavă\
-      \ M-a trimis El la păgînii care v-au jefuit; căci cel ce se atinge de voi se\
-      \ atinge de lumina ochilor Lui."
+    textWithDiacritics: "Căci aşa vorbeşte Yaue Elohim al oştirilor: „După slavă M-a\
+      \ trimis El la păgînii care v-au jefuit; căci cel ce se atinge de voi se atinge\
+      \ de lumina ochilor Lui."
     chapter: null
   - verseNumber: 9
-    text: "Iata, Imi ridic mana impotriva lor – zice YaHWeH – si ei vor fi prada celor\
-      \ ce le erau supusi, ca sa stiti ca YaHWeH Eylohim al ostirilor M-a trimis."
-    textWithDiacritics: "Iată, Îmi ridic mâna împotriva lor – zice YaHWeH – şi ei\
-      \ vor fi prada celor ce le erau supuşi, ca să ştiţi că YaHWeH Eylohim al oş\
-      tirilor M-a trimis."
+    text: "Iata, Imi ridic mana impotriva lor – zice Yaue – si ei vor fi prada celor\
+      \ ce le erau supusi, ca sa stiti ca Yaue Elohim al ostirilor M-a trimis."
+    textWithDiacritics: "Iată, Îmi ridic mâna împotriva lor – zice Yaue – şi ei vor\
+      \ fi prada celor ce le erau supuşi, ca să ştiţi că Yaue Elohim al oştirilor\
+      \ M-a trimis."
     chapter: null
   - verseNumber: 10
     text: "Striga de veselie si bucura-te, fiica Sionului! Caci iata, Eu vin si voi\
-      \ locui in mijlocul tau, zice YaHWeH."
+      \ locui in mijlocul tau, zice Yaue."
     textWithDiacritics: "Strigă de veselie şi bucură-te, fiica Sionului! Căci iată\
-      , Eu vin şi voi locui în mijlocul tău, zice YaHWeH."
+      , Eu vin şi voi locui în mijlocul tău, zice Yaue."
     chapter: null
   - verseNumber: 11
-    text: "Multe popoare se vor alipi de YaHWeH, in ziua aceea, si vor fi poporul\
-      \ Meu. Eu voi locui in mijlocul tau, si vei sti ca YaHWeH, m-a trimis la tine."
-    textWithDiacritics: "Multe popoare se vor alipi de YaHWeH, în ziua aceea, şi vor\
-      \ fi poporul Meu. Eu voi locui în mijlocul tău, şi vei şti că YaHWeH, m-a trimis\
+    text: "Multe popoare se vor alipi de Yaue, in ziua aceea, si vor fi poporul Meu.\
+      \ Eu voi locui in mijlocul tau, si vei sti ca Yaue, m-a trimis la tine."
+    textWithDiacritics: "Multe popoare se vor alipi de Yaue, în ziua aceea, şi vor\
+      \ fi poporul Meu. Eu voi locui în mijlocul tău, şi vei şti că Yaue, m-a trimis\
       \ la tine."
     chapter: null
   - verseNumber: 12
-    text: "YaHWeH va lua in stapanire pe Iuda, ca partea Lui de mostenire in pamantul\
+    text: "Yaue va lua in stapanire pe Iuda, ca partea Lui de mostenire in pamantul\
       \ sfant, si va alege iarasi Ierusalimul."
-    textWithDiacritics: "YaHWeH va lua în stăpânire pe Iuda, ca partea Lui de moş\
-      tenire în pământul sfânt, şi va alege iarăşi Ierusalimul."
+    textWithDiacritics: "Yaue va lua în stăpânire pe Iuda, ca partea Lui de moştenire\
+      \ în pământul sfânt, şi va alege iarăşi Ierusalimul."
     chapter: null
   - verseNumber: 13
-    text: "Orice faptura sa taca inaintea lui YaHWeH, caci El S-a si sculat din locasul\
+    text: "Orice faptura sa taca inaintea lui Yaue, caci El S-a si sculat din locasul\
       \ Lui cel sfant!” Tora - Pericopa 36 - B\"Haalotcha 8 : 1 - 12 : 16 Haftarah\
       \ - Zaharia / Zecharyah 2 : 14 - 4 : 7 Legamintul Innoit - Evrei / Ivrim 4 :\
       \ 1 - 16"
-    textWithDiacritics: "Orice făptură să tacă înaintea lui YaHWeH, căci El S-a ş\
-      i sculat din locaşul Lui cel sfânt!” Tora - Pericopa 36 - B\"Haalotcha 8 : 1\
-      \ - 12 : 16 Haftarah - Zaharia / Zecharyah 2 : 14 - 4 : 7 Legămîntul Innoit\
-      \ - Evrei / Ivrim 4 : 1 - 16"
+    textWithDiacritics: "Orice făptură să tacă înaintea lui Yaue, căci El S-a şi sculat\
+      \ din locaşul Lui cel sfânt!” Tora - Pericopa 36 - B\"Haalotcha 8 : 1 - 12 :\
+      \ 16 Haftarah - Zaharia / Zecharyah 2 : 14 - 4 : 7 Legămîntul Innoit - Evrei\
+      \ / Ivrim 4 : 1 - 16"
     chapter: null
 - number: 3
   book: null
   versePojo:
   - verseNumber: 1
     text: "El [ingerul] mi-a aratat pe marele preot Iosua stand in picioare inaintea\
-      \ Ingerului lui YaHWeH si pe Satana stand la dreapta lui ca sa-l parasca."
+      \ Ingerului lui Yaue si pe Satana stand la dreapta lui ca sa-l parasca."
     textWithDiacritics: "El [îngerul] mi-a arătat pe marele preot Iosua stând în picioare\
-      \ înaintea Îngerului lui YaHWeH şi pe Satana stând la dreapta lui ca să-l pâ\
-      rască."
+      \ înaintea Îngerului lui Yaue şi pe Satana stând la dreapta lui ca să-l pârască\
+      ."
     chapter: null
   - verseNumber: 2
-    text: "YaHWeH a zis Satanei: „ YaHWeH sa te mustre, Satano! YaHWeH sa te mustre,\
-      \ El care a ales Ierusalimul! Nu este el, Iosua, un taciune scos din foc?”"
-    textWithDiacritics: "YaHWeH a zis Satanei: „ YaHWeH să te mustre, Satano! YaHWeH\
-      \ să te mustre, El care a ales Ierusalimul! Nu este el, Iosua, un tăciune scos\
+    text: "Yaue a zis Satanei: „ Yaue sa te mustre, Satano! Yaue sa te mustre, El\
+      \ care a ales Ierusalimul! Nu este el, Iosua, un taciune scos din foc?”"
+    textWithDiacritics: "Yaue a zis Satanei: „ Yaue să te mustre, Satano! Yaue să\
+      \ te mustre, El care a ales Ierusalimul! Nu este el, Iosua, un tăciune scos\
       \ din foc?”"
     chapter: null
   - verseNumber: 3
@@ -283,21 +281,21 @@ chapterPojo:
     chapter: null
   - verseNumber: 5
     text: "Eu am zis: „Sa i se puna pe cap o mitra curata!” Si i-au pus o mitra curata\
-      \ pe cap si l-au imbracat in haine, in timp ce Ingerul lui YaHWeH statea acolo."
+      \ pe cap si l-au imbracat in haine, in timp ce Ingerul lui Yaue statea acolo."
     textWithDiacritics: "Eu am zis: „Să i se pună pe cap o mitră curată!” Şi i-au\
       \ pus o mitră curată pe cap şi l-au îmbrăcat în haine, în timp ce Îngerul lui\
-      \ YaHWeH stătea acolo."
+      \ Yaue stătea acolo."
     chapter: null
   - verseNumber: 6
-    text: "Ingerul lui YaHWeH a facut lui Iosua urmatoarea marturisire:"
-    textWithDiacritics: "Îngerul lui YaHWeH a făcut lui Iosua următoarea mărturisire:"
+    text: "Ingerul lui Yaue a facut lui Iosua urmatoarea marturisire:"
+    textWithDiacritics: "Îngerul lui Yaue a făcut lui Iosua următoarea mărturisire:"
     chapter: null
   - verseNumber: 7
-    text: "„Asa vorbeste YaHWeH Eylohim al ostirilor: „Daca vei umbla pe caile Mele\
-      \ si daca vei pazi Poruncile Mele, vei judeca si Casa Mea si vei priveghea asupra\
+    text: "„Asa vorbeste Yaue Elohim al ostirilor: „Daca vei umbla pe caile Mele si\
+      \ daca vei pazi Poruncile Mele, vei judeca si Casa Mea si vei priveghea asupra\
       \ curtilor Mele, si te voi lasa sa intri impreuna cu cei ce sunt aici."
-    textWithDiacritics: "„Aşa vorbeşte YaHWeH Eylohim al oştirilor: „Dacă vei umbla\
-      \ pe căile Mele şi dacă vei păzi Poruncile Mele, vei judeca şi Casa Mea şi vei\
+    textWithDiacritics: "„Aşa vorbeşte Yaue Elohim al oştirilor: „Dacă vei umbla pe\
+      \ căile Mele şi dacă vei păzi Poruncile Mele, vei judeca şi Casa Mea şi vei\
       \ priveghea asupra curţilor Mele, şi te voi lăsa să intri împreună cu cei ce\
       \ sunt aici."
     chapter: null
@@ -312,18 +310,18 @@ chapterPojo:
   - verseNumber: 9
     text: "Caci iata ca numai spre piatra aceasta pe care am pus-o inaintea lui Iosua\
       \ sunt indreptati sapte ochi; iata Eu insumi voi sapa ce trebuie sapat pe ea,\
-      \ zice YaHWeH Eylohim al ostirilor; si intr-o singura zi voi inlatura nelegiuirea\
+      \ zice Yaue Elohim al ostirilor; si intr-o singura zi voi inlatura nelegiuirea\
       \ tarii acesteia."
     textWithDiacritics: "Căci iată că numai spre piatra aceasta pe care am pus-o î\
       naintea lui Iosua sunt îndreptaţi şapte ochi; iată Eu însumi voi săpa ce trebuie\
-      \ săpat pe ea, zice YaHWeH Eylohim al oştirilor; şi într-o singură zi voi î\
-      nlătura nelegiuirea ţării acesteia."
+      \ săpat pe ea, zice Yaue Elohim al oştirilor; şi într-o singură zi voi înlă\
+      tura nelegiuirea ţării acesteia."
     chapter: null
   - verseNumber: 10
-    text: "In ziua aceea – zice YaHWeH ,va veti pofti unii pe altii sub vita si sub\
+    text: "In ziua aceea – zice Yaue ,va veti pofti unii pe altii sub vita si sub\
       \ smochin.”"
-    textWithDiacritics: "În ziua aceea – zice YaHWeH ,vă veţi pofti unii pe alţii\
-      \ sub viţă şi sub smochin.”"
+    textWithDiacritics: "În ziua aceea – zice Yaue ,vă veţi pofti unii pe alţii sub\
+      \ viţă şi sub smochin.”"
     chapter: null
 - number: 4
   book: null
@@ -351,9 +349,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 4
     text: "Si, luand iarasi cuvantul, am zis ingerului care vorbea cu mine: „Ce inseamna\
-      \ lucrurile acestea, YaHWeH Eylohim al meu?”"
+      \ lucrurile acestea, Yaue Elohim al meu?”"
     textWithDiacritics: "Şi, luând iarăşi cuvântul, am zis îngerului care vorbea cu\
-      \ mine: „Ce înseamnă lucrurile acestea, YaHWeH Eylohim al meu?”"
+      \ mine: „Ce înseamnă lucrurile acestea, Yaue Elohim al meu?”"
     chapter: null
   - verseNumber: 5
     text: "Ingerul care vorbea cu mine mi-a raspuns: „Nu stii ce inseamna aceste lucruri?”\
@@ -363,11 +361,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 6
     text: "Atunci el a luat din nou cuvantul si mi-a zis: „Acesta este cuvantul lui\
-      \ YaHWeH catre Zorobabel si suna astfel: „Lucrul acesta nu se va face nici prin\
-      \ putere, nici prin tarie, ci prin Duhul Meu – zice YaHWeH!"
+      \ Yaue catre Zorobabel si suna astfel: „Lucrul acesta nu se va face nici prin\
+      \ putere, nici prin tarie, ci prin Duhul Meu – zice Yaue!"
     textWithDiacritics: "Atunci el a luat din nou cuvântul şi mi-a zis: „Acesta este\
-      \ cuvântul lui YaHWeH către Zorobabel şi sună astfel: „Lucrul acesta nu se va\
-      \ face nici prin putere, nici prin tărie, ci prin Duhul Meu – zice YaHWeH!"
+      \ cuvântul lui Yaue către Zorobabel şi sună astfel: „Lucrul acesta nu se va\
+      \ face nici prin putere, nici prin tărie, ci prin Duhul Meu – zice Yaue!"
     chapter: null
   - verseNumber: 7
     text: "Cine esti tu munte mare, inaintea lui Zorobabel? Te vei preface intr-un\
@@ -378,23 +376,23 @@ chapterPojo:
       \ în mijlocul strigătelor de: „Îndurare, îndurare cu ea!”"
     chapter: null
   - verseNumber: 8
-    text: "Cuvantul lui YaHWeH mi-a vorbit astfel:"
-    textWithDiacritics: "Cuvântul lui YaHWeH mi-a vorbit astfel:"
+    text: "Cuvantul lui Yaue mi-a vorbit astfel:"
+    textWithDiacritics: "Cuvântul lui Yaue mi-a vorbit astfel:"
     chapter: null
   - verseNumber: 9
     text: "„Mainile lui Zorobabel au intemeiat Casa aceasta si tot mainile lui o vor\
-      \ ispravi; si veti sti ca YaHWeH Eylohim ostirilor M-a trimis la voi."
+      \ ispravi; si veti sti ca Yaue Elohim ostirilor M-a trimis la voi."
     textWithDiacritics: "„Mâinile lui Zorobabel au întemeiat Casa aceasta şi tot mâ\
-      inile lui o vor isprăvi; şi veţi şti că YaHWeH Eylohim oştirilor M-a trimis\
-      \ la voi."
+      inile lui o vor isprăvi; şi veţi şti că Yaue Elohim oştirilor M-a trimis la\
+      \ voi."
     chapter: null
   - verseNumber: 10
     text: "Caci cine dispretuieste ziua inceputurilor slabe? Acestia sapte vor privi\
-      \ cu bucurie cumpana in mana lui Zorobabel. Acestia sapte sunt ochii lui YaHWeH\
+      \ cu bucurie cumpana in mana lui Zorobabel. Acestia sapte sunt ochii lui Yaue\
       \ care cutreiera tot pamantul.”"
     textWithDiacritics: "Căci cine dispreţuieşte ziua începuturilor slabe? Aceştia\
       \ şapte vor privi cu bucurie cumpăna în mâna lui Zorobabel. Aceştia şapte sunt\
-      \ ochii lui YaHWeH care cutreieră tot pământul.”"
+      \ ochii lui Yaue care cutreieră tot pământul.”"
     chapter: null
   - verseNumber: 11
     text: "Eu am luat cuvantul si i-am zis: „Ce inseamna acesti doi maslini la dreapta\
@@ -417,10 +415,9 @@ chapterPojo:
       pînul meu.” Şi el a zis:"
     chapter: null
   - verseNumber: 14
-    text: "„Acestia sunt cei doi unsi care stau inaintea lui YaHWeH al intregului\
-      \ pamant.”"
-    textWithDiacritics: "„Aceştia sunt cei doi unşi care stau înaintea lui YaHWeH\
-      \ al întregului pământ.”"
+    text: "„Acestia sunt cei doi unsi care stau inaintea lui Yaue al intregului pamant.”"
+    textWithDiacritics: "„Aceştia sunt cei doi unşi care stau înaintea lui Yaue al\
+      \ întregului pământ.”"
     chapter: null
 - number: 5
   book: null
@@ -446,11 +443,11 @@ chapterPojo:
       \ fi nimicit cu desăvârşire de aici."
     chapter: null
   - verseNumber: 4
-    text: "Il trimit – zice YaHWeH Eylohim al ostirilor ca sa intre in casa hotului\
-      \ si a celui ce jura stramb in Numele Meu, ca sa ramana in casa aceea si s-o\
-      \ mistuie impreuna cu lemnele si pietrele ei.”"
-    textWithDiacritics: "Îl trimit – zice YaHWeH Eylohim al oştirilor ca să intre\
-      \ în casa hoţului şi a celui ce jură strâmb în Numele Meu, ca să rămână în casa\
+    text: "Il trimit – zice Yaue Elohim al ostirilor ca sa intre in casa hotului si\
+      \ a celui ce jura stramb in Numele Meu, ca sa ramana in casa aceea si s-o mistuie\
+      \ impreuna cu lemnele si pietrele ei.”"
+    textWithDiacritics: "Îl trimit – zice Yaue Elohim al oştirilor ca să intre în\
+      \ casa hoţului şi a celui ce jură strâmb în Numele Meu, ca să rămână în casa\
       \ aceea şi s-o mistuie împreună cu lemnele şi pietrele ei.”"
     chapter: null
   - verseNumber: 5
@@ -523,10 +520,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 5
     text: "Ingerul mi-a raspuns: „Acestia sunt cele patru vanturi ale cerurilor care\
-      \ ies din locul in care stateau inaintea lui YaHWeH Eylohim al intregului pamant."
+      \ ies din locul in care stateau inaintea lui Yaue Elohim al intregului pamant."
     textWithDiacritics: "Îngerul mi-a răspuns: „Aceştia sunt cele patru vânturi ale\
-      \ cerurilor care ies din locul în care stăteau înaintea lui YaHWeH Eylohim al\
-      \ întregului pământ."
+      \ cerurilor care ies din locul în care stăteau înaintea lui Yaue Elohim al î\
+      ntregului pământ."
     chapter: null
   - verseNumber: 6
     text: "Caii cei negri, inhamati la unul din care, s-au indreptat spre tara de\
@@ -551,8 +548,8 @@ chapterPojo:
       noapte.”"
     chapter: null
   - verseNumber: 9
-    text: "cuvantul lui YaHWeH mi-a vorbit astfel:"
-    textWithDiacritics: "cuvântul lui YaHWeH mi-a vorbit astfel:"
+    text: "cuvantul lui Yaue mi-a vorbit astfel:"
+    textWithDiacritics: "cuvântul lui Yaue mi-a vorbit astfel:"
     chapter: null
   - verseNumber: 10
     text: "„Sa primesti daruri de la prinsii de razboi din Babilon: Heldai, Tobia,\
@@ -569,61 +566,60 @@ chapterPojo:
       , şi s-o pui pe capul lui Iosua, fiul lui Ioţadac, marele preot."
     chapter: null
   - verseNumber: 12
-    text: "Si sa-i spui: „Asa vorbeste YaHWeH: „Iata ca un om, al carui nume este\
-      \ [ Temach ] Ramura, El va creste din locul sau, si va reconstrui Templul lui\
-      \ YaHWeH."
-    textWithDiacritics: "Şi să-i spui: „Aşa vorbeşte YaHWeH: „Iată că un om, al că\
-      rui nume este [ Ţemach ] Ramura, El va crește din locul său, şi va reconstrui\
-      \ Templul lui YaHWeH."
+    text: "Si sa-i spui: „Asa vorbeste Yaue: „Iata ca un om, al carui nume este [\
+      \ Temach ] Ramura, El va creste din locul sau, si va reconstrui Templul lui\
+      \ Yaue."
+    textWithDiacritics: "Şi să-i spui: „Aşa vorbeşte Yaue: „Iată că un om, al cărui\
+      \ nume este [ Ţemach ] Ramura, El va crește din locul său, şi va reconstrui\
+      \ Templul lui Yaue."
     chapter: null
   - verseNumber: 13
-    text: "Da, El va zidi Templul lui YaHWeH, va purta podoaba imparateasca, va sedea\
+    text: "Da, El va zidi Templul lui Yaue, va purta podoaba imparateasca, va sedea\
       \ si va stapani pe scaunul Lui de stapinire, va fi preot pe scaunul Lui de stapinire,\
       \ si o desavarsita unire va fi intre ei amandoi.”"
-    textWithDiacritics: "Da, El va zidi Templul lui YaHWeH, va purta podoabă împă\
-      rătească, va şedea şi va stăpâni pe scaunul Lui de stăpînire, va fi preot pe\
-      \ scaunul Lui de stăpînire, şi o desăvârşită unire va fi între ei amândoi.”"
+    textWithDiacritics: "Da, El va zidi Templul lui Yaue, va purta podoabă împără\
+      tească, va şedea şi va stăpâni pe scaunul Lui de stăpînire, va fi preot pe scaunul\
+      \ Lui de stăpînire, şi o desăvârşită unire va fi între ei amândoi.”"
     chapter: null
   - verseNumber: 14
     text: "Cununa va fi pentru Helem, Tobia si Iedaia, si pentru Hen, fiul lui Tefania,\
-      \ ca o aducere aminte in Templul lui YaHWeH."
+      \ ca o aducere aminte in Templul lui Yaue."
     textWithDiacritics: "Cununa va fi pentru Helem, Tobia şi Iedaia, şi pentru Hen,\
-      \ fiul lui Ţefania, ca o aducere aminte în Templul lui YaHWeH."
+      \ fiul lui Ţefania, ca o aducere aminte în Templul lui Yaue."
     chapter: null
   - verseNumber: 15
-    text: "Cei ce sunt departe vor veni si vor lucra la Templul lui YaHWeH; si veti\
-      \ sti astfel ca YaHWeH Eylohim al ostirilor M-a trimis la voi. Lucrul acesta\
-      \ se va intampla daca veti asculta glasul lui YaHWeH, Eylohim al vostru.”"
+    text: "Cei ce sunt departe vor veni si vor lucra la Templul lui Yaue; si veti\
+      \ sti astfel ca Yaue Elohim al ostirilor M-a trimis la voi. Lucrul acesta se\
+      \ va intampla daca veti asculta glasul lui Yaue, Elohim al vostru.”"
     textWithDiacritics: "Cei ce sunt departe vor veni şi vor lucra la Templul lui\
-      \ YaHWeH; şi veţi şti astfel că YaHWeH Eylohim al oştirilor M-a trimis la voi.\
-      \ Lucrul acesta se va întâmpla dacă veţi asculta glasul lui YaHWeH, Eylohim\
-      \ al vostru.”"
+      \ Yaue; şi veţi şti astfel că Yaue Elohim al oştirilor M-a trimis la voi. Lucrul\
+      \ acesta se va întâmpla dacă veţi asculta glasul lui Yaue, Elohim al vostru.”"
     chapter: null
 - number: 7
   book: null
   versePojo:
   - verseNumber: 1
-    text: "In anul al patrulea al imparatului Darius, cuvantul lui YaHWeH a vorbit\
-      \ lui Zaharia, in ziua a patra a lunii a noua, care este luna Chisleu."
-    textWithDiacritics: "În anul al patrulea al împăratului Darius, cuvântul lui YaHWeH\
+    text: "In anul al patrulea al imparatului Darius, cuvantul lui Yaue a vorbit lui\
+      \ Zaharia, in ziua a patra a lunii a noua, care este luna Chisleu."
+    textWithDiacritics: "În anul al patrulea al împăratului Darius, cuvântul lui Yaue\
       \ a vorbit lui Zaharia, în ziua a patra a lunii a noua, care este luna Chisleu."
     chapter: null
   - verseNumber: 2
     text: "Cei din Betel trimisesera pe Sareter si pe Reghem-Melec cu oamenii sai\
-      \ sa se roage lui YaHWeH"
+      \ sa se roage lui Yaue"
     textWithDiacritics: "Cei din Betel trimiseseră pe Şareţer şi pe Reghem-Melec cu\
-      \ oamenii săi să se roage lui YaHWeH"
+      \ oamenii săi să se roage lui Yaue"
     chapter: null
   - verseNumber: 3
-    text: "si sa intrebe pe preotii din Casa lui YaHWeH si pe proroci: „Trebuie sa\
-      \ plang si in luna a cincea si sa ma infranez, cum am facut atatia ani?”"
-    textWithDiacritics: "şi să întrebe pe preoţii din Casa lui YaHWeH şi pe proroci:\
+    text: "si sa intrebe pe preotii din Casa lui Yaue si pe proroci: „Trebuie sa plang\
+      \ si in luna a cincea si sa ma infranez, cum am facut atatia ani?”"
+    textWithDiacritics: "şi să întrebe pe preoţii din Casa lui Yaue şi pe proroci:\
       \ „Trebuie să plâng şi în luna a cincea şi să mă înfrânez, cum am făcut atâţ\
       ia ani?”"
     chapter: null
   - verseNumber: 4
-    text: "Atunci cuvantul lui YaHWeH al ostirilor mi-a vorbit astfel:"
-    textWithDiacritics: "Atunci cuvântul lui YaHWeH al oştirilor mi-a vorbit astfel:"
+    text: "Atunci cuvantul lui Yaue al ostirilor mi-a vorbit astfel:"
+    textWithDiacritics: "Atunci cuvântul lui Yaue al oştirilor mi-a vorbit astfel:"
     chapter: null
   - verseNumber: 5
     text: "„Spune la tot poporul tarii si preotilor: „Cand ati postit si ati plans\
@@ -639,21 +635,21 @@ chapterPojo:
       i beţi?"
     chapter: null
   - verseNumber: 7
-    text: "Nu cunoasteti cuvintele pe care le-a vestit YaHWeH prin prorocii de mai\
-      \ inainte, cand Ierusalimul era inca locuit si linistit impreuna cu cetatile\
-      \ lui dimprejur si cand si partea de miazazi si campia erau locuite?”"
-    textWithDiacritics: "Nu cunoaşteţi cuvintele pe care le-a vestit YaHWeH prin prorocii\
+    text: "Nu cunoasteti cuvintele pe care le-a vestit Yaue prin prorocii de mai inainte,\
+      \ cand Ierusalimul era inca locuit si linistit impreuna cu cetatile lui dimprejur\
+      \ si cand si partea de miazazi si campia erau locuite?”"
+    textWithDiacritics: "Nu cunoaşteţi cuvintele pe care le-a vestit Yaue prin prorocii\
       \ de mai înainte, când Ierusalimul era încă locuit şi liniştit împreună cu cetă\
       ţile lui dimprejur şi când şi partea de miazăzi şi câmpia erau locuite?”"
     chapter: null
   - verseNumber: 8
-    text: "cuvantul lui YaHWeH a vorbit lui Zaharia astfel:"
-    textWithDiacritics: "cuvântul lui YaHWeH a vorbit lui Zaharia astfel:"
+    text: "cuvantul lui Yaue a vorbit lui Zaharia astfel:"
+    textWithDiacritics: "cuvântul lui Yaue a vorbit lui Zaharia astfel:"
     chapter: null
   - verseNumber: 9
-    text: "„Asa a vorbit YaHWeH al ostirilor: „Faceti cu adevarat dreptate si purtati-va\
+    text: "„Asa a vorbit Yaue al ostirilor: „Faceti cu adevarat dreptate si purtati-va\
       \ cu bunatate si indurare unul fata de altul."
-    textWithDiacritics: "„Aşa a vorbit YaHWeH al oştirilor: „Faceţi cu adevărat dreptate\
+    textWithDiacritics: "„Aşa a vorbit Yaue al oştirilor: „Faceţi cu adevărat dreptate\
       \ şi purtaţi-vă cu bunătate şi îndurare unul faţă de altul."
     chapter: null
   - verseNumber: 10
@@ -670,18 +666,18 @@ chapterPojo:
     chapter: null
   - verseNumber: 12
     text: "Si-au facut inima ca diamantul de tare, ca sa n-asculte Legea, nici cuvintele\
-      \ pe care li le spunea YaHWeH prin Duhul Sau, prin prorocii de mai inainte.\
-      \ Din pricina aceasta, YaHWeH Eylohim al ostirilor S-a aprins de o mare manie."
+      \ pe care li le spunea Yaue prin Duhul Sau, prin prorocii de mai inainte. Din\
+      \ pricina aceasta, Yaue Elohim al ostirilor S-a aprins de o mare manie."
     textWithDiacritics: "Şi-au făcut inima ca diamantul de tare, ca să n-asculte Legea,\
-      \ nici cuvintele pe care li le spunea YaHWeH prin Duhul Său, prin prorocii de\
-      \ mai înainte. Din pricina aceasta, YaHWeH Eylohim al oştirilor S-a aprins de\
-      \ o mare mânie."
+      \ nici cuvintele pe care li le spunea Yaue prin Duhul Său, prin prorocii de\
+      \ mai înainte. Din pricina aceasta, Yaue Elohim al oştirilor S-a aprins de o\
+      \ mare mânie."
     chapter: null
   - verseNumber: 13
     text: "Cand chema El, ei n-au vrut s-asculte: „De aceea nici Eu n-am vrut s-ascult,\
-      \ cand au chemat ei, zice YaHWeH."
+      \ cand au chemat ei, zice Yaue."
     textWithDiacritics: "Când chema El, ei n-au vrut s-asculte: „De aceea nici Eu\
-      \ n-am vrut s-ascult, când au chemat ei, zice YaHWeH."
+      \ n-am vrut s-ascult, când au chemat ei, zice Yaue."
     chapter: null
   - verseNumber: 14
     text: "Ci i-am imprastiat printre pagini pe care nu-i cunosteau; tara a fost pustiita\
@@ -695,30 +691,29 @@ chapterPojo:
   book: null
   versePojo:
   - verseNumber: 1
-    text: "Cuvintul lui YaHWeH Eylohim mi-a vorbit astfel:"
-    textWithDiacritics: "Cuvîntul lui YaHWeH Eylohim mi-a vorbit astfel:"
+    text: "Cuvintul lui Yaue Elohim mi-a vorbit astfel:"
+    textWithDiacritics: "Cuvîntul lui Yaue Elohim mi-a vorbit astfel:"
     chapter: null
   - verseNumber: 2
-    text: "„Asa vorbeste YaHWeH: „Am o mare ravna pentru Sion si sunt stapanit de\
-      \ o ravna plina de manie pentru el.”"
-    textWithDiacritics: "„Aşa vorbeşte YaHWeH: „Am o mare râvnă pentru Sion şi sunt\
+    text: "„Asa vorbeste Yaue: „Am o mare ravna pentru Sion si sunt stapanit de o\
+      \ ravna plina de manie pentru el.”"
+    textWithDiacritics: "„Aşa vorbeşte Yaue: „Am o mare râvnă pentru Sion şi sunt\
       \ stăpânit de o râvnă plină de mânie pentru el.”"
     chapter: null
   - verseNumber: 3
-    text: "Asa vorbeste YaHWeH: „Ma intorc iarasi in Sion si vreau sa locuiesc in\
-      \ mijlocul Ierusalimului. Ierusalimul se va chema: „Cetatea cea credincioasa”\
-      , si muntele lui YaHWeH Eylohim al ostirilor se va chema: „Muntele cel sfant”\
-      ."
-    textWithDiacritics: "Aşa vorbeşte YaHWeH: „Mă întorc iarăşi în Sion şi vreau să\
+    text: "Asa vorbeste Yaue: „Ma intorc iarasi in Sion si vreau sa locuiesc in mijlocul\
+      \ Ierusalimului. Ierusalimul se va chema: „Cetatea cea credincioasa”, si muntele\
+      \ lui Yaue Elohim al ostirilor se va chema: „Muntele cel sfant”."
+    textWithDiacritics: "Aşa vorbeşte Yaue: „Mă întorc iarăşi în Sion şi vreau să\
       \ locuiesc în mijlocul Ierusalimului. Ierusalimul se va chema: „Cetatea cea\
-      \ credincioasă”, şi muntele lui YaHWeH Eylohim al oştirilor se va chema: „Muntele\
+      \ credincioasă”, şi muntele lui Yaue Elohim al oştirilor se va chema: „Muntele\
       \ cel sfânt”."
     chapter: null
   - verseNumber: 4
-    text: "Asa vorbeste YaHWeH: „Iarasi vor sedea pe ulitele Ierusalimului batrani\
-      \ si femei in varsta, fiecare cu toiagul in mana, din pricina marelui lor numar\
+    text: "Asa vorbeste Yaue: „Iarasi vor sedea pe ulitele Ierusalimului batrani si\
+      \ femei in varsta, fiecare cu toiagul in mana, din pricina marelui lor numar\
       \ de zile."
-    textWithDiacritics: "Aşa vorbeşte YaHWeH: „Iarăşi vor şedea pe uliţele Ierusalimului\
+    textWithDiacritics: "Aşa vorbeşte Yaue: „Iarăşi vor şedea pe uliţele Ierusalimului\
       \ bătrâni şi femei în vârstă, fiecare cu toiagul în mână, din pricina marelui\
       \ lor număr de zile."
     chapter: null
@@ -728,33 +723,32 @@ chapterPojo:
       \ juca pe uliţe.”"
     chapter: null
   - verseNumber: 6
-    text: "Asa vorbeste YaHWeH Eylohim al ostirilor: „Daca lucrul acesta va parea\
-      \ de mirat in ochii ramasitei poporului acestuia in zilele acelea, va fi de\
-      \ mirat oare si in ochii Mei? – zice YaHWeH.”"
-    textWithDiacritics: "Aşa vorbeşte YaHWeH Eylohim al oştirilor: „Dacă lucrul acesta\
+    text: "Asa vorbeste Yaue Elohim al ostirilor: „Daca lucrul acesta va parea de\
+      \ mirat in ochii ramasitei poporului acestuia in zilele acelea, va fi de mirat\
+      \ oare si in ochii Mei? – zice Yaue.”"
+    textWithDiacritics: "Aşa vorbeşte Yaue Elohim al oştirilor: „Dacă lucrul acesta\
       \ va părea de mirat în ochii rămăşiţei poporului acestuia în zilele acelea,\
-      \ va fi de mirat oare şi în ochii Mei? – zice YaHWeH.”"
+      \ va fi de mirat oare şi în ochii Mei? – zice Yaue.”"
     chapter: null
   - verseNumber: 7
-    text: "Asa vorbeste YaHWeH: „Iata, Eu izbavesc pe poporul Meu din tara de la rasarit\
+    text: "Asa vorbeste Yaue: „Iata, Eu izbavesc pe poporul Meu din tara de la rasarit\
       \ si din tara de la asfintitul soarelui."
-    textWithDiacritics: "Aşa vorbeşte YaHWeH: „Iată, Eu izbăvesc pe poporul Meu din\
+    textWithDiacritics: "Aşa vorbeşte Yaue: „Iată, Eu izbăvesc pe poporul Meu din\
       \ ţara de la răsărit şi din ţara de la asfinţitul soarelui."
     chapter: null
   - verseNumber: 8
     text: "Ii voi aduce inapoi, si vor locui in mijlocul Ierusalimului; ei vor fi\
-      \ poporul Meu, si Eu voi fi Eylohim al lor cu adevar si dreptate.”"
+      \ poporul Meu, si Eu voi fi Elohim al lor cu adevar si dreptate.”"
     textWithDiacritics: "Îi voi aduce înapoi, şi vor locui în mijlocul Ierusalimului;\
-      \ ei vor fi poporul Meu, şi Eu voi fi Eylohim al lor cu adevăr şi dreptate.”"
+      \ ei vor fi poporul Meu, şi Eu voi fi Elohim al lor cu adevăr şi dreptate.”"
     chapter: null
   - verseNumber: 9
-    text: "Asa vorbeste YaHWeH: „Intariti-va mainile, cei ce auziti astazi aceste\
-      \ cuvinte din gura prorocilor care au vorbit in ziua cand s-a pus temelia Casei\
-      \ lui YaHWeH Eylohim al ostirilor, cand s-a inceput sa se zideasca Templul!"
-    textWithDiacritics: "Aşa vorbeşte YaHWeH: „Întăriţi-vă mâinile, cei ce auziţi\
-      \ astăzi aceste cuvinte din gura prorocilor care au vorbit în ziua când s-a\
-      \ pus temelia Casei lui YaHWeH Eylohim al oştirilor, când s-a început să se\
-      \ zidească Templul!"
+    text: "Asa vorbeste Yaue: „Intariti-va mainile, cei ce auziti astazi aceste cuvinte\
+      \ din gura prorocilor care au vorbit in ziua cand s-a pus temelia Casei lui\
+      \ Yaue Elohim al ostirilor, cand s-a inceput sa se zideasca Templul!"
+    textWithDiacritics: "Aşa vorbeşte Yaue: „Întăriţi-vă mâinile, cei ce auziţi astă\
+      zi aceste cuvinte din gura prorocilor care au vorbit în ziua când s-a pus temelia\
+      \ Casei lui Yaue Elohim al oştirilor, când s-a început să se zidească Templul!"
     chapter: null
   - verseNumber: 10
     text: "Caci inainte de aceste zile, nu era rasplata nici pentru lucrul omului,\
@@ -765,9 +759,9 @@ chapterPojo:
       \ din pricina vrăjmaşului, şi Eu dezbinam pe toţi oamenii unii împotriva altora."
     chapter: null
   - verseNumber: 11
-    text: "Acum nu voi mai face ramasitei poporului acestuia ca in trecut, zice YaHWeH."
+    text: "Acum nu voi mai face ramasitei poporului acestuia ca in trecut, zice Yaue."
     textWithDiacritics: "Acum nu voi mai face rămăşiţei poporului acestuia ca în trecut,\
-      \ zice YaHWeH."
+      \ zice Yaue."
     chapter: null
   - verseNumber: 12
     text: "Ci semanaturile vor merge bine, vita isi va da rodul, pamantul isi va da\
@@ -786,12 +780,12 @@ chapterPojo:
       \ Nu vă temeţi, ci întăriţi-vă mâinile!”"
     chapter: null
   - verseNumber: 14
-    text: "Caci asa vorbeste YaHWeH Eylohim al ostirilor: „Dupa cum am cautat sa va\
-      \ fac rau, cand Ma maniau parintii vostri, zice YaHWeH, si nu M-am cait de lucrul\
+    text: "Caci asa vorbeste Yaue Elohim al ostirilor: „Dupa cum am cautat sa va fac\
+      \ rau, cand Ma maniau parintii vostri, zice Yaue, si nu M-am cait de lucrul\
       \ acesta,"
-    textWithDiacritics: "Căci aşa vorbeşte YaHWeH Eylohim al oştirilor: „După cum\
-      \ am căutat să vă fac rău, când Mă mâniau părinţii voştri, zice YaHWeH, şi nu\
-      \ M-am căit de lucrul acesta,"
+    textWithDiacritics: "Căci aşa vorbeşte Yaue Elohim al oştirilor: „După cum am\
+      \ căutat să vă fac rău, când Mă mâniau părinţii voştri, zice Yaue, şi nu M-am\
+      \ căit de lucrul acesta,"
     chapter: null
   - verseNumber: 15
     text: "tot asa acum Ma intorc in aceste zile si hotarasc sa fac bine Ierusalimului\
@@ -808,63 +802,63 @@ chapterPojo:
   - verseNumber: 17
     text: "niciunul sa nu gandeasca in inima lui rau impotriva aproapelui sau si nici\
       \ sa nu iubiti juramantul stramb! Caci toate lucrurile acestea Eu le urasc,\
-      \ zice YaHWeH.”"
+      \ zice Yaue.”"
     textWithDiacritics: "niciunul să nu gândească în inima lui rău împotriva aproapelui\
       \ său şi nici să nu iubiţi jurământul strâmb! Căci toate lucrurile acestea Eu\
-      \ le urăsc, zice YaHWeH.”"
+      \ le urăsc, zice Yaue.”"
     chapter: null
   - verseNumber: 18
-    text: "cuvantul lui YaHWeH mi-a vorbit astfel:"
-    textWithDiacritics: "cuvântul lui YaHWeH mi-a vorbit astfel:"
+    text: "cuvantul lui Yaue mi-a vorbit astfel:"
+    textWithDiacritics: "cuvântul lui Yaue mi-a vorbit astfel:"
     chapter: null
   - verseNumber: 19
-    text: "„Asa vorbeste YaHWeH Eylohim al ostirilor: „Postul din luna a patra, postul\
+    text: "„Asa vorbeste Yaue Elohim al ostirilor: „Postul din luna a patra, postul\
       \ din luna a cincea, postul din luna a saptea si postul din luna a zecea se\
       \ vor preface pentru casa lui Iuda in zile de veselie si de bucurie, in Sarbatori\
       \ de voiosie. Dar iubiti Adevarul si pacea!”"
-    textWithDiacritics: "„Aşa vorbeşte YaHWeH Eylohim al oştirilor: „Postul din luna\
+    textWithDiacritics: "„Aşa vorbeşte Yaue Elohim al oştirilor: „Postul din luna\
       \ a patra, postul din luna a cincea, postul din luna a şaptea şi postul din\
       \ luna a zecea se vor preface pentru casa lui Iuda în zile de veselie şi de\
       \ bucurie, în Sărbători de voioşie. Dar iubiţi Adevărul şi pacea!”"
     chapter: null
   - verseNumber: 20
-    text: "Asa vorbeste YaHWeH Eylohim al ostirilor: „Vor mai veni iarasi popoare\
-      \ si locuitori dintr-un mare numar de cetati."
-    textWithDiacritics: "Aşa vorbeşte YaHWeH Eylohim al oştirilor: „Vor mai veni iară\
+    text: "Asa vorbeste Yaue Elohim al ostirilor: „Vor mai veni iarasi popoare si\
+      \ locuitori dintr-un mare numar de cetati."
+    textWithDiacritics: "Aşa vorbeşte Yaue Elohim al oştirilor: „Vor mai veni iară\
       şi popoare şi locuitori dintr-un mare număr de cetăţi."
     chapter: null
   - verseNumber: 21
     text: "Locuitorii unei cetati vor merge la cealalta si vor zice: „Haidem sa ne\
-      \ rugam lui YaHWeH si sa cautam pe YaHWeH Eylohim al ostirilor! Vrem sa mergem\
-      \ si noi!”"
+      \ rugam lui Yaue si sa cautam pe Yaue Elohim al ostirilor! Vrem sa mergem si\
+      \ noi!”"
     textWithDiacritics: "Locuitorii unei cetăţi vor merge la cealaltă şi vor zice:\
-      \ „Haidem să ne rugăm lui YaHWeH şi să căutăm pe YaHWeH Eylohim al oştirilor!\
-      \ Vrem să mergem şi noi!”"
+      \ „Haidem să ne rugăm lui Yaue şi să căutăm pe Yaue Elohim al oştirilor! Vrem\
+      \ să mergem şi noi!”"
     chapter: null
   - verseNumber: 22
-    text: "Si multe popoare, si multe neamuri vor veni astfel sa caute pe YaHWeH Eylohim\
-      \ al ostirilor la Ierusalim si sa se roage lui YaHWeH.”"
+    text: "Si multe popoare, si multe neamuri vor veni astfel sa caute pe Yaue Elohim\
+      \ al ostirilor la Ierusalim si sa se roage lui Yaue.”"
     textWithDiacritics: "Şi multe popoare, şi multe neamuri vor veni astfel să caute\
-      \ pe YaHWeH Eylohim al oştirilor la Ierusalim şi să se roage lui YaHWeH.”"
+      \ pe Yaue Elohim al oştirilor la Ierusalim şi să se roage lui Yaue.”"
     chapter: null
   - verseNumber: 23
-    text: "Asa vorbeste YaHWeH: „In zilele acelea, zece oameni din toate limbile paginilor\
+    text: "Asa vorbeste Yaue: „In zilele acelea, zece oameni din toate limbile paginilor\
       \ vor apuca pe un iudeu de poala hainei si-i vor zice: „Vrem sa mergem cu voi;\
-      \ caci am auzit ca YaHWeH Eylohim este cu voi!”"
-    textWithDiacritics: "Aşa vorbeşte YaHWeH: „În zilele acelea, zece oameni din toate\
+      \ caci am auzit ca Yaue Elohim este cu voi!”"
+    textWithDiacritics: "Aşa vorbeşte Yaue: „În zilele acelea, zece oameni din toate\
       \ limbile păgînilor vor apuca pe un iudeu de poala hainei şi-i vor zice: „Vrem\
-      \ să mergem cu voi; căci am auzit că YaHWeH Eylohim este cu voi!”"
+      \ să mergem cu voi; căci am auzit că Yaue Elohim este cu voi!”"
     chapter: null
 - number: 9
   book: null
   versePojo:
   - verseNumber: 1
-    text: "Iata prorocia, Cuvantul lui YaHWeH despre tara Hadrac; si va incepe din\
-      \ Damasc. Caci YaHWeH are ochiul indreptat asupra oamenilor si peste toate semintiile\
+    text: "Iata prorocia, Cuvantul lui Yaue despre tara Hadrac; si va incepe din Damasc.\
+      \ Caci Yaue are ochiul indreptat asupra oamenilor si peste toate semintiile\
       \ lui Israel."
-    textWithDiacritics: "Iată prorocia, Cuvântul lui YaHWeH despre ţara Hadrac; ş\
-      i va începe din Damasc. Căci YaHWeH are ochiul îndreptat asupra oamenilor ş\
-      i peste toate seminţiile lui Israel."
+    textWithDiacritics: "Iată prorocia, Cuvântul lui Yaue despre ţara Hadrac; şi va\
+      \ începe din Damasc. Căci Yaue are ochiul îndreptat asupra oamenilor şi peste\
+      \ toate seminţiile lui Israel."
     chapter: null
   - verseNumber: 2
     text: "El se opreste si peste Hamat, care se margineste cu Damascul, peste Tir\
@@ -879,10 +873,10 @@ chapterPojo:
       \ şi aur ca noroiul de pe uliţe."
     chapter: null
   - verseNumber: 4
-    text: "Iata ca YaHWeH va pune mana pe el, ii va napusti puterea in mare, si el\
-      \ insusi va fi ars cu foc."
-    textWithDiacritics: "Iată că YaHWeH va pune mâna pe el, îi va năpusti puterea\
-      \ în mare, şi el însuşi va fi ars cu foc."
+    text: "Iata ca Yaue va pune mana pe el, ii va napusti puterea in mare, si el insusi\
+      \ va fi ars cu foc."
+    textWithDiacritics: "Iată că Yaue va pune mâna pe el, îi va năpusti puterea î\
+      n mare, şi el însuşi va fi ars cu foc."
     chapter: null
   - verseNumber: 5
     text: "Ascalonul va vedea lucrul acesta, si se va teme; Gaza, de asemenea, si\
@@ -900,11 +894,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 7
     text: "Ii voi scoate sangele din gura si uraciunile idolesti dintre dinti, ca\
-      \ sa fie si el o ramasita pentru YaHWeH Eylohim al nostru si sa fie ca o capetenie\
+      \ sa fie si el o ramasita pentru Yaue Elohim al nostru si sa fie ca o capetenie\
       \ din Iuda, si Ecronul, ca iebusitii."
     textWithDiacritics: "Îi voi scoate sângele din gură şi urâciunile idoleşti dintre\
-      \ dinţi, ca să fie şi el o rămăşiţă pentru YaHWeH Eylohim al nostru şi să fie\
-      \ ca o căpetenie din Iuda, şi Ecronul, ca iebusiţii."
+      \ dinţi, ca să fie şi el o rămăşiţă pentru Yaue Elohim al nostru şi să fie ca\
+      \ o căpetenie din Iuda, şi Ecronul, ca iebusiţii."
     chapter: null
   - verseNumber: 8
     text: "Voi tabari in jurul Casei Mele ca s-o apar impotriva unei ostiri, impotriva\
@@ -952,24 +946,24 @@ chapterPojo:
       \ face ca sabia unui viteaz!”"
     chapter: null
   - verseNumber: 14
-    text: "Dar YaHWeH Se va arata deasupra lor, si sageata Lui va porni ca fulgerul;\
-      \ YaHWeH, Eylohim va suna din trambita si va inainta in vijelia de la miazazi."
-    textWithDiacritics: "Dar YaHWeH Se va arăta deasupra lor, şi săgeata Lui va porni\
-      \ ca fulgerul; YaHWeH, Eylohim va suna din trâmbiţă şi va înainta în vijelia\
-      \ de la miazăzi."
+    text: "Dar Yaue Se va arata deasupra lor, si sageata Lui va porni ca fulgerul;\
+      \ Yaue, Elohim va suna din trambita si va inainta in vijelia de la miazazi."
+    textWithDiacritics: "Dar Yaue Se va arăta deasupra lor, şi săgeata Lui va porni\
+      \ ca fulgerul; Yaue, Elohim va suna din trâmbiţă şi va înainta în vijelia de\
+      \ la miazăzi."
     chapter: null
   - verseNumber: 15
-    text: "YaHWeH Eylohim al ostirilor ii va ocroti si vor manca, si vor zdrobi pietrele\
+    text: "Yaue Elohim al ostirilor ii va ocroti si vor manca, si vor zdrobi pietrele\
       \ de prastie, vor bea, vor face galagie ca ametiti de vin, vor fi plini ca un\
       \ pahar de jertfa, ca si colturile altarului."
-    textWithDiacritics: "YaHWeH Eylohim al oştirilor îi va ocroti şi vor mânca, ş\
-      i vor zdrobi pietrele de praştie, vor bea, vor face gălăgie ca ameţiţi de vin,\
-      \ vor fi plini ca un pahar de jertfă, ca şi colţurile altarului."
+    textWithDiacritics: "Yaue Elohim al oştirilor îi va ocroti şi vor mânca, şi vor\
+      \ zdrobi pietrele de praştie, vor bea, vor face gălăgie ca ameţiţi de vin, vor\
+      \ fi plini ca un pahar de jertfă, ca şi colţurile altarului."
     chapter: null
   - verseNumber: 16
-    text: "YaHWeH, Eylohim al lor ii va scapa in ziua aceea ca pe turma poporului\
-      \ Sau; caci ei sunt pietrele cununii imparatesti care vor straluci in tara Sa!"
-    textWithDiacritics: "YaHWeH, Eylohim al lor îi va scăpa în ziua aceea ca pe turma\
+    text: "Yaue, Elohim al lor ii va scapa in ziua aceea ca pe turma poporului Sau;\
+      \ caci ei sunt pietrele cununii imparatesti care vor straluci in tara Sa!"
+    textWithDiacritics: "Yaue, Elohim al lor îi va scăpa în ziua aceea ca pe turma\
       \ poporului Său; căci ei sunt pietrele cununii împărăteşti care vor străluci\
       \ în ţara Sa!"
     chapter: null
@@ -983,9 +977,9 @@ chapterPojo:
   book: null
   versePojo:
   - verseNumber: 1
-    text: "Cereti de la YaHWeH ploaie, ploaie de primavara! YaHWeH scoate fulgerele\
-      \ si va trimite o ploaie imbelsugata pentru toata verdeata de pe camp."
-    textWithDiacritics: "Cereţi de la YaHWeH ploaie, ploaie de primăvară! YaHWeH scoate\
+    text: "Cereti de la Yaue ploaie, ploaie de primavara! Yaue scoate fulgerele si\
+      \ va trimite o ploaie imbelsugata pentru toata verdeata de pe camp."
+    textWithDiacritics: "Cereţi de la Yaue ploaie, ploaie de primăvară! Yaue scoate\
       \ fulgerele şi vă trimite o ploaie îmbelşugată pentru toată verdeaţa de pe câ\
       mp."
     chapter: null
@@ -999,10 +993,10 @@ chapterPojo:
     chapter: null
   - verseNumber: 3
     text: "„Mania Mea s-a aprins impotriva pastorilor si voi pedepsi pe tapi. Caci\
-      \ YaHWeH Eylohim al ostirilor Isi cerceteaza turma, casa lui Iuda, si o va face\
+      \ Yaue Elohim al ostirilor Isi cerceteaza turma, casa lui Iuda, si o va face\
       \ ca pe calul Sau de slava in lupta."
     textWithDiacritics: "„Mânia Mea s-a aprins împotriva păstorilor şi voi pedepsi\
-      \ pe ţapi. Căci YaHWeH Eylohim al oştirilor Îşi cercetează turma, casa lui Iuda,\
+      \ pe ţapi. Căci Yaue Elohim al oştirilor Îşi cercetează turma, casa lui Iuda,\
       \ şi o va face ca pe calul Său de slavă în luptă."
     chapter: null
   - verseNumber: 4
@@ -1014,26 +1008,26 @@ chapterPojo:
     chapter: null
   - verseNumber: 5
     text: "Ei vor fi ca niste viteji care calca in picioare noroiul de pe ulite; in\
-      \ lupta, se vor lupta, pentru ca YaHWeH va fi cu ei; iar calaretii vor fi acoperiti\
+      \ lupta, se vor lupta, pentru ca Yaue va fi cu ei; iar calaretii vor fi acoperiti\
       \ de rusine."
     textWithDiacritics: "Ei vor fi ca nişte viteji care calcă în picioare noroiul\
-      \ de pe uliţe; în luptă, se vor lupta, pentru că YaHWeH va fi cu ei; iar că\
-      lăreţii vor fi acoperiţi de ruşine."
+      \ de pe uliţe; în luptă, se vor lupta, pentru că Yaue va fi cu ei; iar călă\
+      reţii vor fi acoperiţi de ruşine."
     chapter: null
   - verseNumber: 6
     text: "Voi intari casa lui Iuda si voi izbavi casa lui Iosif; ii voi aduce inapoi,\
       \ caci Mi-este mila de ei, si vor fi ca si cand niciodata nu i-as fi lepadat;\
-      \ caci Eu sunt YaHWeH, Eylohim al lor, si-i voi asculta."
+      \ caci Eu sunt Yaue, Elohim al lor, si-i voi asculta."
     textWithDiacritics: "Voi întări casa lui Iuda şi voi izbăvi casa lui Iosif; î\
       i voi aduce înapoi, căci Mi-este milă de ei, şi vor fi ca şi când niciodată\
-      \ nu i-aş fi lepădat; căci Eu sunt YaHWeH, Eylohim al lor, şi-i voi asculta."
+      \ nu i-aş fi lepădat; căci Eu sunt Yaue, Elohim al lor, şi-i voi asculta."
     chapter: null
   - verseNumber: 7
     text: "Efraim va fi ca un viteaz; inima lor se va bucura ca de vin; fiii lor vor\
-      \ vedea lucrul acesta si se vor inveseli, inima lor se va bucura in YaHWeH."
+      \ vedea lucrul acesta si se vor inveseli, inima lor se va bucura in Yaue."
     textWithDiacritics: "Efraim va fi ca un viteaz; inima lor se va bucura ca de vin;\
       \ fiii lor vor vedea lucrul acesta şi se vor înveseli, inima lor se va bucura\
-      \ în YaHWeH."
+      \ în Yaue."
     chapter: null
   - verseNumber: 8
     text: "Le voi fluiera si-i voi aduna, caci i-am rascumparat, si se vor inmulti\
@@ -1062,9 +1056,8 @@ chapterPojo:
       ntă, şi toiagul de cârmuire al Egiptului va pieri."
     chapter: null
   - verseNumber: 12
-    text: "Ii voi intari in YaHWeH, si vor umbla in Numele Lui, zice YaHWeH!”"
-    textWithDiacritics: "Îi voi întări în YaHWeH, şi vor umbla în Numele Lui, zice\
-      \ YaHWeH!”"
+    text: "Ii voi intari in Yaue, si vor umbla in Numele Lui, zice Yaue!”"
+    textWithDiacritics: "Îi voi întări în Yaue, şi vor umbla în Numele Lui, zice Yaue!”"
     chapter: null
 - number: 11
   book: null
@@ -1087,22 +1080,22 @@ chapterPojo:
       \ fala; puii de lei mugesc, căci desişul Iordanului este nimicit."
     chapter: null
   - verseNumber: 4
-    text: "Asa vorbeste YaHWeH, Eylohim al meu: „Paste oile de taiat!"
-    textWithDiacritics: "Aşa vorbeşte YaHWeH, Eylohim al meu: „Paşte oile de tăiat!"
+    text: "Asa vorbeste Yaue, Elohim al meu: „Paste oile de taiat!"
+    textWithDiacritics: "Aşa vorbeşte Yaue, Elohim al meu: „Paşte oile de tăiat!"
     chapter: null
   - verseNumber: 5
     text: "Caci cei ce le cumpara le taie si nu se simt vinovati. Si cel ce le vinde\
-      \ zice: „Binecuvantat sa fie YaHWeH, caci ma imbogatesc!” Si pastorii lor nu\
-      \ le cruta."
+      \ zice: „Binecuvantat sa fie Yaue, caci ma imbogatesc!” Si pastorii lor nu le\
+      \ cruta."
     textWithDiacritics: "Căci cei ce le cumpără le taie şi nu se simt vinovaţi. Ş\
-      i cel ce le vinde zice: „Binecuvântat să fie YaHWeH, căci mă îmbogăţesc!” Ş\
-      i păstorii lor nu le cruţă."
+      i cel ce le vinde zice: „Binecuvântat să fie Yaue, căci mă îmbogăţesc!” Şi pă\
+      storii lor nu le cruţă."
     chapter: null
   - verseNumber: 6
-    text: "Caci nu mai am mila de locuitorii tarii – zice YaHWeH – ci, iata, dau pe\
+    text: "Caci nu mai am mila de locuitorii tarii – zice Yaue – ci, iata, dau pe\
       \ oameni, pe unii in mainile altora si in mainile imparatului lor; ei vor pustii\
       \ tara, si n-o voi izbavi din mainile lor.”"
-    textWithDiacritics: "Căci nu mai am milă de locuitorii ţării – zice YaHWeH – ci,\
+    textWithDiacritics: "Căci nu mai am milă de locuitorii ţării – zice Yaue – ci,\
       \ iată, dau pe oameni, pe unii în mâinile altora şi în mâinile împăratului lor;\
       \ ei vor pustii ţara, şi n-o voi izbăvi din mâinile lor.”"
     chapter: null
@@ -1135,9 +1128,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 11
     text: "Si cand s-a rupt, in ziua aceea, nenorocitele acelea de oi care au luat\
-      \ seama la mine au cunoscut astfel ca acesta era Cuvantul lui YaHWeH."
+      \ seama la mine au cunoscut astfel ca acesta era Cuvantul lui Yaue."
     textWithDiacritics: "Şi când s-a rupt, în ziua aceea, nenorocitele acelea de oi\
-      \ care au luat seama la mine au cunoscut astfel că acesta era Cuvântul lui YaHWeH."
+      \ care au luat seama la mine au cunoscut astfel că acesta era Cuvântul lui Yaue."
     chapter: null
   - verseNumber: 12
     text: "Eu le-am zis: „Daca gasiti cu cale, dati-mi plata; daca nu, nu mi-o dati!”\
@@ -1146,12 +1139,12 @@ chapterPojo:
       \ nu mi-o daţi!” Şi mi-au cântărit ca plată, treizeci de arginţi."
     chapter: null
   - verseNumber: 13
-    text: "Dar YaHWeH mi-a zis: „Arunca olarului pretul acesta scump cu care m-au\
-      \ pretuit!” Si am luat cei treizeci de arginti si i-am aruncat in Casa lui YaHWeH\
-      \ pentru olar."
-    textWithDiacritics: "Dar YaHWeH mi-a zis: „Aruncă olarului preţul acesta scump\
-      \ cu care m-au preţuit!” Şi am luat cei treizeci de arginţi şi i-am aruncat\
-      \ în Casa lui YaHWeH pentru olar."
+    text: "Dar Yaue mi-a zis: „Arunca olarului pretul acesta scump cu care m-au pretuit!”\
+      \ Si am luat cei treizeci de arginti si i-am aruncat in Casa lui Yaue pentru\
+      \ olar."
+    textWithDiacritics: "Dar Yaue mi-a zis: „Aruncă olarului preţul acesta scump cu\
+      \ care m-au preţuit!” Şi am luat cei treizeci de arginţi şi i-am aruncat în\
+      \ Casa lui Yaue pentru olar."
     chapter: null
   - verseNumber: 14
     text: "Apoi mi-am rupt al doilea toiag „Legamant”, ca sa rup fratia dintre Iuda\
@@ -1160,8 +1153,8 @@ chapterPojo:
       ţia dintre Iuda şi Israel."
     chapter: null
   - verseNumber: 15
-    text: "YaHWeH mi-a zis: „Ia si uneltele unui pastor nebun!"
-    textWithDiacritics: "YaHWeH mi-a zis: „Ia şi uneltele unui păstor nebun!"
+    text: "Yaue mi-a zis: „Ia si uneltele unui pastor nebun!"
+    textWithDiacritics: "Yaue mi-a zis: „Ia şi uneltele unui păstor nebun!"
     chapter: null
   - verseNumber: 16
     text: "Caci iata ca voi ridica in tara un pastor caruia nu-i va pasa de oile care\
@@ -1185,11 +1178,11 @@ chapterPojo:
   book: null
   versePojo:
   - verseNumber: 1
-    text: "Prorocia, cuvantul lui YaHWeH despre Israel. Asa vorbeste YaHWeH care a\
-      \ intins cerurile si a intemeiat pamantul, si a intocmit duhul omului din el:"
-    textWithDiacritics: "Prorocia, cuvântul lui YaHWeH despre Israel. Aşa vorbeşte\
-      \ YaHWeH care a întins cerurile şi a întemeiat pământul, şi a întocmit duhul\
-      \ omului din el:"
+    text: "Prorocia, cuvantul lui Yaue despre Israel. Asa vorbeste Yaue care a intins\
+      \ cerurile si a intemeiat pamantul, si a intocmit duhul omului din el:"
+    textWithDiacritics: "Prorocia, cuvântul lui Yaue despre Israel. Aşa vorbeşte Yaue\
+      \ care a întins cerurile şi a întemeiat pământul, şi a întocmit duhul omului\
+      \ din el:"
     chapter: null
   - verseNumber: 2
     text: "„Iata, voi preface Ierusalimul intr-un potir de ametire pentru toate popoarele\
@@ -1206,18 +1199,18 @@ chapterPojo:
       \ pământului se vor strânge împotriva lui."
     chapter: null
   - verseNumber: 4
-    text: "In ziua aceea, zice YaHWeH, voi lovi cu ameteala pe toti caii si cu turbare\
+    text: "In ziua aceea, zice Yaue, voi lovi cu ameteala pe toti caii si cu turbare\
       \ pe cei ce vor calari pe ei; dar voi avea ochii deschisi asupra casei lui Iuda\
       \ si voi orbi toti caii popoarelor."
-    textWithDiacritics: "În ziua aceea, zice YaHWeH, voi lovi cu ameţeală pe toţi\
-      \ caii şi cu turbare pe cei ce vor călări pe ei; dar voi avea ochii deschiş\
-      i asupra casei lui Iuda şi voi orbi toţi caii popoarelor."
+    textWithDiacritics: "În ziua aceea, zice Yaue, voi lovi cu ameţeală pe toţi caii\
+      \ şi cu turbare pe cei ce vor călări pe ei; dar voi avea ochii deschişi asupra\
+      \ casei lui Iuda şi voi orbi toţi caii popoarelor."
     chapter: null
   - verseNumber: 5
     text: "Capeteniile lui Iuda vor zice in inima lor: „Locuitorii Ierusalimului sunt\
-      \ taria noastra, prin YaHWeH al ostirilor, Eylohim al lor.”"
+      \ taria noastra, prin Yaue al ostirilor, Elohim al lor.”"
     textWithDiacritics: "Căpeteniile lui Iuda vor zice în inima lor: „Locuitorii Ierusalimului\
-      \ sunt tăria noastră, prin YaHWeH al oştirilor, Eylohim al lor.”"
+      \ sunt tăria noastră, prin Yaue al oştirilor, Elohim al lor.”"
     chapter: null
   - verseNumber: 6
     text: "In ziua aceea, voi face pe capeteniile lui Iuda ca o vatra de foc sub lemn,\
@@ -1230,19 +1223,18 @@ chapterPojo:
       şi la locul lui cel vechi."
     chapter: null
   - verseNumber: 7
-    text: "YaHWeH va Mantui mai intai corturile lui Iuda, pentru ca slava casei lui\
+    text: "Yaue va Mantui mai intai corturile lui Iuda, pentru ca slava casei lui\
       \ David si fala locuitorilor Ierusalimului sa nu se inalte peste Iuda."
-    textWithDiacritics: "YaHWeH va Mântui mai întâi corturile lui Iuda, pentru ca\
-      \ slava casei lui David şi fala locuitorilor Ierusalimului să nu se înalţe peste\
-      \ Iuda."
+    textWithDiacritics: "Yaue va Mântui mai întâi corturile lui Iuda, pentru ca slava\
+      \ casei lui David şi fala locuitorilor Ierusalimului să nu se înalţe peste Iuda."
     chapter: null
   - verseNumber: 8
-    text: "In ziua aceea, YaHWeH va ocroti pe locuitorii Ierusalimului, asa ca cel\
-      \ mai slab dintre ei va fi in ziua aceea ca David; si casa lui David va fi ca\
-      \ Eylohim, ca Ingerul lui YaHWeH inaintea lor."
-    textWithDiacritics: "În ziua aceea, YaHWeH va ocroti pe locuitorii Ierusalimului,\
+    text: "In ziua aceea, Yaue va ocroti pe locuitorii Ierusalimului, asa ca cel mai\
+      \ slab dintre ei va fi in ziua aceea ca David; si casa lui David va fi ca Elohim,\
+      \ ca Ingerul lui Yaue inaintea lor."
+    textWithDiacritics: "În ziua aceea, Yaue va ocroti pe locuitorii Ierusalimului,\
       \ aşa că cel mai slab dintre ei va fi în ziua aceea ca David; şi casa lui David\
-      \ va fi ca Eylohim, ca Îngerul lui YaHWeH înaintea lor."
+      \ va fi ca Elohim, ca Îngerul lui Yaue înaintea lor."
     chapter: null
   - verseNumber: 9
     text: "In ziua aceea, voi cauta sa nimicesc toate popoarele care vor veni impotriva\
@@ -1295,22 +1287,22 @@ chapterPojo:
       \ Ierusalimului un izvor pentru păcat şi necurăţie."
     chapter: null
   - verseNumber: 2
-    text: "In ziua aceea – zice YaHWeH Eylohim al ostirilor – voi starpi din tara\
-      \ numele dumnezeilor, ca nimeni sa nu-si mai aduca aminte de ei; voi scoate,\
-      \ de asemenea, din tara pe prorocii mincinosi si duhul necurat."
-    textWithDiacritics: "În ziua aceea – zice YaHWeH Eylohim al oştirilor – voi stâ\
-      rpi din ţară numele dumnezeilor, ca nimeni să nu-şi mai aducă aminte de ei;\
-      \ voi scoate, de asemenea, din ţară pe prorocii mincinoşi şi duhul necurat."
+    text: "In ziua aceea – zice Yaue Elohim al ostirilor – voi starpi din tara numele\
+      \ dumnezeilor, ca nimeni sa nu-si mai aduca aminte de ei; voi scoate, de asemenea,\
+      \ din tara pe prorocii mincinosi si duhul necurat."
+    textWithDiacritics: "În ziua aceea – zice Yaue Elohim al oştirilor – voi stârpi\
+      \ din ţară numele dumnezeilor, ca nimeni să nu-şi mai aducă aminte de ei; voi\
+      \ scoate, de asemenea, din ţară pe prorocii mincinoşi şi duhul necurat."
     chapter: null
   - verseNumber: 3
     text: "Si daca va mai proroci cineva, atunci tatal sau si mama sa, insisi parintii\
-      \ lui, ii vor zice: „Tu nu vei trai, caci ai spus minciuni in Numele lui YaHWeH\
+      \ lui, ii vor zice: „Tu nu vei trai, caci ai spus minciuni in Numele lui Yaue\
       \ ”; si tatal sau si mama sa, cei care l-au nascut, il vor strapunge, cand va\
       \ proroci."
     textWithDiacritics: "Şi dacă va mai proroci cineva, atunci tatăl său şi mama sa,\
       \ înşişi părinţii lui, îi vor zice: „Tu nu vei trăi, căci ai spus minciuni î\
-      n Numele lui YaHWeH ”; şi tatăl său şi mama sa, cei care l-au născut, îl vor\
-      \ străpunge, când va proroci."
+      n Numele lui Yaue ”; şi tatăl său şi mama sa, cei care l-au născut, îl vor stră\
+      punge, când va proroci."
     chapter: null
   - verseNumber: 4
     text: "In ziua aceea, prorocii se vor rusina fiecare de vedeniile lor, cand vor\
@@ -1333,36 +1325,36 @@ chapterPojo:
     chapter: null
   - verseNumber: 7
     text: "Scoala-te, sabie, asupra pastorului Meu si asupra omului care Imi este\
-      \ frate! – zice YaHWeH Eylohim al ostirilor. Loveste pe pastor, si se vor risipi\
+      \ frate! – zice Yaue Elohim al ostirilor. Loveste pe pastor, si se vor risipi\
       \ oile! Si Imi voi intoarce mana spre cei mici."
     textWithDiacritics: "Scoală-te, sabie, asupra păstorului Meu şi asupra omului\
-      \ care Îmi este frate! – zice YaHWeH Eylohim al oştirilor. Loveşte pe păstor,\
-      \ şi se vor risipi oile! Şi Îmi voi întoarce mâna spre cei mici."
+      \ care Îmi este frate! – zice Yaue Elohim al oştirilor. Loveşte pe păstor, ş\
+      i se vor risipi oile! Şi Îmi voi întoarce mâna spre cei mici."
     chapter: null
   - verseNumber: 8
-    text: "In toata tara, zice YaHWeH, doua treimi vor fi nimicite, vor pieri, iar\
-      \ cealalta treime va ramane."
-    textWithDiacritics: "În toată ţara, zice YaHWeH, două treimi vor fi nimicite,\
-      \ vor pieri, iar cealaltă treime va rămâne."
+    text: "In toata tara, zice Yaue, doua treimi vor fi nimicite, vor pieri, iar cealalta\
+      \ treime va ramane."
+    textWithDiacritics: "În toată ţara, zice Yaue, două treimi vor fi nimicite, vor\
+      \ pieri, iar cealaltă treime va rămâne."
     chapter: null
   - verseNumber: 9
     text: "Dar treimea aceasta din urma o voi pune in foc si o voi curata cum se curata\
       \ argintul, o voi lamuri cum se lamureste aurul. Ei vor chema Numele Meu, si\
       \ ii voi asculta; Eu voi zice: „Acesta este poporul Meu!” Si ei vor zice: „\
-      \ YaHWeH este Eylohim al meu!”"
+      \ Yaue este Elohim al meu!”"
     textWithDiacritics: "Dar treimea aceasta din urmă o voi pune în foc şi o voi cură\
       ţa cum se curăţă argintul, o voi lămuri cum se lămureşte aurul. Ei vor chema\
       \ Numele Meu, şi îi voi asculta; Eu voi zice: „Acesta este poporul Meu!” Şi\
-      \ ei vor zice: „ YaHWeH este Eylohim al meu!”"
+      \ ei vor zice: „ Yaue este Elohim al meu!”"
     chapter: null
 - number: 14
   book: null
   versePojo:
   - verseNumber: 1
-    text: "Iata, vine ziua lui YaHWeH, cand prazile tale vor fi impartite in mijlocul\
+    text: "Iata, vine ziua lui Yaue, cand prazile tale vor fi impartite in mijlocul\
       \ tau."
-    textWithDiacritics: "Iată, vine ziua lui YaHWeH, când prăzile tale vor fi împă\
-      rţite în mijlocul tău."
+    textWithDiacritics: "Iată, vine ziua lui Yaue, când prăzile tale vor fi împărţ\
+      ite în mijlocul tău."
     chapter: null
   - verseNumber: 2
     text: "Atunci voi strange toate popoarele la razboi impotriva Ierusalimului. Cetatea\
@@ -1375,9 +1367,9 @@ chapterPojo:
       \ cu desăvârşire din cetate."
     chapter: null
   - verseNumber: 3
-    text: "Ci YaHWeH Se va arata si va lupta impotriva acestor neamuri, cum S-a luptat\
+    text: "Ci Yaue Se va arata si va lupta impotriva acestor neamuri, cum S-a luptat\
       \ in ziua bataliei."
-    textWithDiacritics: "Ci YaHWeH Se va arăta şi va lupta împotriva acestor neamuri,\
+    textWithDiacritics: "Ci Yaue Se va arăta şi va lupta împotriva acestor neamuri,\
       \ cum S-a luptat în ziua bătăliei."
     chapter: null
   - verseNumber: 4
@@ -1394,12 +1386,12 @@ chapterPojo:
   - verseNumber: 5
     text: "Veti fugi atunci in valea muntilor Mei, caci valea dintre munti se va intinde\
       \ pana la Atel; si veti fugi cum ati fugit de cutremurul de pamant de pe vremea\
-      \ lui Ozia, imparatul lui Iuda. Si atunci va veni YaHWeH, Eylohim al meu, si\
-      \ toti sfintii ingeri , impreuna cu El!"
+      \ lui Ozia, imparatul lui Iuda. Si atunci va veni Yaue, Elohim al meu, si toti\
+      \ sfintii ingeri , impreuna cu El!"
     textWithDiacritics: "Veţi fugi atunci în valea munţilor Mei, căci valea dintre\
       \ munţi se va întinde până la Aţel; şi veţi fugi cum aţi fugit de cutremurul\
-      \ de pământ de pe vremea lui Ozia, împăratul lui Iuda. Şi atunci va veni YaHWeH,\
-      \ Eylohim al meu, şi toţi sfinţii îngeri , împreună cu El!"
+      \ de pământ de pe vremea lui Ozia, împăratul lui Iuda. Şi atunci va veni Yaue,\
+      \ Elohim al meu, şi toţi sfinţii îngeri , împreună cu El!"
     chapter: null
   - verseNumber: 6
     text: "In ziua aceea, nu va mai fi lumina; stelele stralucitoare se vor ascunde."
@@ -1407,10 +1399,10 @@ chapterPojo:
       \ se vor ascunde."
     chapter: null
   - verseNumber: 7
-    text: "Va fi o zi deosebita, cunoscuta de YaHWeH, nu va fi nici zi, nici noapte,\
+    text: "Va fi o zi deosebita, cunoscuta de Yaue, nu va fi nici zi, nici noapte,\
       \ dar spre seara se va arata Lumina."
-    textWithDiacritics: "Va fi o zi deosebită, cunoscută de YaHWeH, nu va fi nici\
-      \ zi, nici noapte, dar spre seară se va arăta Lumina."
+    textWithDiacritics: "Va fi o zi deosebită, cunoscută de Yaue, nu va fi nici zi,\
+      \ nici noapte, dar spre seară se va arăta Lumina."
     chapter: null
   - verseNumber: 8
     text: "In ziua aceea, vor izvori ape vii din Ierusalim si vor curge jumatate spre\
@@ -1420,10 +1412,10 @@ chapterPojo:
       i vara şi iarna."
     chapter: null
   - verseNumber: 9
-    text: "Si YaHWeH va fi Imparat peste tot pamantul. In ziua aceea, YaHWeH va fi\
-      \ singurul Stapan, si Numele Lui va fi singurul Nume."
-    textWithDiacritics: "Şi YaHWeH va fi Împărat peste tot pământul. În ziua aceea,\
-      \ YaHWeH va fi singurul Stăpân, şi Numele Lui va fi singurul Nume."
+    text: "Si Yaue va fi Imparat peste tot pamantul. In ziua aceea, Yaue va fi singurul\
+      \ Stapan, si Numele Lui va fi singurul Nume."
+    textWithDiacritics: "Şi Yaue va fi Împărat peste tot pământul. În ziua aceea,\
+      \ Yaue va fi singurul Stăpân, şi Numele Lui va fi singurul Nume."
     chapter: null
   - verseNumber: 10
     text: "Toata tara va ajunge ca sesul Iordanului, de la Gheba pana la Rimon, la\
@@ -1443,18 +1435,17 @@ chapterPojo:
       \ Ierusalimul va fi liniştit."
     chapter: null
   - verseNumber: 12
-    text: "Dar iata urgia cu care va lovi YaHWeH pe toate popoarele care vor lupta\
-      \ impotriva Ierusalimului: Le va putrezi carnea stand inca in picioare, le vor\
-      \ putrezi ochii in gaurile lor si le va putrezi limba in gura."
-    textWithDiacritics: "Dar iată urgia cu care va lovi YaHWeH pe toate popoarele\
-      \ care vor lupta împotriva Ierusalimului: Le va putrezi carnea stând încă î\
-      n picioare, le vor putrezi ochii în găurile lor şi le va putrezi limba în gură\
-      ."
+    text: "Dar iata urgia cu care va lovi Yaue pe toate popoarele care vor lupta impotriva\
+      \ Ierusalimului: Le va putrezi carnea stand inca in picioare, le vor putrezi\
+      \ ochii in gaurile lor si le va putrezi limba in gura."
+    textWithDiacritics: "Dar iată urgia cu care va lovi Yaue pe toate popoarele care\
+      \ vor lupta împotriva Ierusalimului: Le va putrezi carnea stând încă în picioare,\
+      \ le vor putrezi ochii în găurile lor şi le va putrezi limba în gură."
     chapter: null
   - verseNumber: 13
-    text: "In ziua aceea, YaHWeH va trimite o mare invalmaseala in ei; unul va apuca\
+    text: "In ziua aceea, Yaue va trimite o mare invalmaseala in ei; unul va apuca\
       \ mana altuia si vor ridica mana unii asupra altora."
-    textWithDiacritics: "În ziua aceea, YaHWeH va trimite o mare învălmăşeală în ei;\
+    textWithDiacritics: "În ziua aceea, Yaue va trimite o mare învălmăşeală în ei;\
       \ unul va apuca mâna altuia şi vor ridica mâna unii asupra altora."
     chapter: null
   - verseNumber: 14
@@ -1471,27 +1462,27 @@ chapterPojo:
     chapter: null
   - verseNumber: 16
     text: "Toti cei ce vor mai ramane din toate neamurile venite impotriva Ierusalimului\
-      \ se vor sui in fiecare an sa se inchine inaintea Imparatului, YaHWeH Eylohim\
-      \ al ostirilor, si sa praznuiasca Sarbatoarea Corturilor."
+      \ se vor sui in fiecare an sa se inchine inaintea Imparatului, Yaue Elohim al\
+      \ ostirilor, si sa praznuiasca Sarbatoarea Corturilor."
     textWithDiacritics: "Toţi cei ce vor mai rămâne din toate neamurile venite împotriva\
       \ Ierusalimului se vor sui în fiecare an să se închine înaintea Împăratului,\
-      \ YaHWeH Eylohim al oştirilor, şi să prăznuiască Sărbătoarea Corturilor."
+      \ Yaue Elohim al oştirilor, şi să prăznuiască Sărbătoarea Corturilor."
     chapter: null
   - verseNumber: 17
     text: "Daca unele din familiile pamantului nu vor voi sa se suie la Ierusalim\
-      \ ca sa se inchine inaintea Imparatului, YaHWeH Eylohim al ostirilor, nu va\
-      \ cadea ploaie peste ele."
+      \ ca sa se inchine inaintea Imparatului, Yaue Elohim al ostirilor, nu va cadea\
+      \ ploaie peste ele."
     textWithDiacritics: "Dacă unele din familiile pământului nu vor voi să se suie\
-      \ la Ierusalim ca să se închine înaintea Împăratului, YaHWeH Eylohim al oştirilor,\
+      \ la Ierusalim ca să se închine înaintea Împăratului, Yaue Elohim al oştirilor,\
       \ nu va cădea ploaie peste ele."
     chapter: null
   - verseNumber: 18
     text: "Daca familia Egiptului nu se va sui, daca nu va veni, nu va cadea ploaie\
-      \ nici peste ea; va fi lovita cu aceeasi urgie cu care va lovi YaHWeH neamurile\
+      \ nici peste ea; va fi lovita cu aceeasi urgie cu care va lovi Yaue neamurile\
       \ care nu se vor sui sa praznuiasca Sarbatoarea Corturilor."
     textWithDiacritics: "Dacă familia Egiptului nu se va sui, dacă nu va veni, nu\
       \ va cădea ploaie nici peste ea; va fi lovită cu aceeaşi urgie cu care va lovi\
-      \ YaHWeH neamurile care nu se vor sui să prăznuiască Sărbătoarea Corturilor."
+      \ Yaue neamurile care nu se vor sui să prăznuiască Sărbătoarea Corturilor."
     chapter: null
   - verseNumber: 19
     text: "Aceasta va fi pedeapsa Egiptului si pedeapsa tuturor popoarelor care nu\
@@ -1501,19 +1492,18 @@ chapterPojo:
     chapter: null
   - verseNumber: 20
     text: "In ziua aceea, va sta scris pana si pe zurgalaii cailor: „Sfintit pentru\
-      \ YaHWeH!” Si oalele din Casa lui YaHWeH vor fi ca potirele de jertfa inaintea\
-      \ altarului."
+      \ Yaue!” Si oalele din Casa lui Yaue vor fi ca potirele de jertfa inaintea altarului."
     textWithDiacritics: "În ziua aceea, va sta scris până şi pe zurgălăii cailor:\
-      \ „Sfinţiț pentru YaHWeH!” Şi oalele din Casa lui YaHWeH vor fi ca potirele\
-      \ de jertfă înaintea altarului."
+      \ „Sfinţiț pentru Yaue!” Şi oalele din Casa lui Yaue vor fi ca potirele de jertfă\
+      \ înaintea altarului."
     chapter: null
   - verseNumber: 21
-    text: "Orice oala din Ierusalim si din Iuda va fi inchinata lui YaHWeH Eylohim\
-      \ al ostirilor; toti cei ce vor aduce jertfe vor veni si se vor sluji de ele\
-      \ ca sa-si fiarba carnea; si nu vor mai fi canaanitia in Casa lui YaHWeH in\
-      \ ziua aceea. [ a) Sau: negustori ] HalleluYah"
+    text: "Orice oala din Ierusalim si din Iuda va fi inchinata lui Yaue Elohim al\
+      \ ostirilor; toti cei ce vor aduce jertfe vor veni si se vor sluji de ele ca\
+      \ sa-si fiarba carnea; si nu vor mai fi canaanitia in Casa lui Yaue in ziua\
+      \ aceea. [ a) Sau: negustori ] HalleluYah"
     textWithDiacritics: "Orice oală din Ierusalim şi din Iuda va fi închinată lui\
-      \ YaHWeH Eylohim al oştirilor; toţi cei ce vor aduce jertfe vor veni şi se vor\
+      \ Yaue Elohim al oştirilor; toţi cei ce vor aduce jertfe vor veni şi se vor\
       \ sluji de ele ca să-şi fiarbă carnea; şi nu vor mai fi canaaniţia în Casa lui\
-      \ YaHWeH în ziua aceea. [ a) Sau: negustori ] HalleluYah"
+      \ Yaue în ziua aceea. [ a) Sau: negustori ] HalleluYah"
     chapter: null

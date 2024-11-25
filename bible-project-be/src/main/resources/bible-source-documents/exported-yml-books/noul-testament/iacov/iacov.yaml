@@ -15,10 +15,10 @@ chapterPojo:
   book: null
   versePojo:
   - verseNumber: 1
-    text: "Iacov, rob al lui YaHWeH si al Stapinului Yasua haMasiya, catre cele douasprezece\
+    text: "Iacov, rob al lui Yaue si al Stapinului Yasua haMasiya, catre cele douasprezece\
       \ semintii care sunt imprastiate: Sanatate!"
-    textWithDiacritics: "Iacov, rob al lui YaHWeH şi al Stăpînului Yașua haMaşiya,\
-      \ către cele douăsprezece seminţii care sunt împrăştiate: Sănătate!"
+    textWithDiacritics: "Iacov, rob al lui Yaue şi al Stăpînului Yașua haMaşiya, că\
+      tre cele douăsprezece seminţii care sunt împrăştiate: Sănătate!"
     chapter: null
   - verseNumber: 2
     text: "Fratii mei, sa priviti ca o mare bucurie cind treceti prin felurite incercari,"
@@ -37,11 +37,11 @@ chapterPojo:
       \ fiţi desăvîrşiţi, întregi şi să nu duceţi lipsă de nimic."
     chapter: null
   - verseNumber: 5
-    text: "Daca vreunuia dintre voi ii lipseste intelepciunea, s-o ceara de la YaHWeH,\
+    text: "Daca vreunuia dintre voi ii lipseste intelepciunea, s-o ceara de la Yaue,\
       \ care da tuturor cu mina larga si fara mustrare, si ea ii va fi data."
     textWithDiacritics: "Dacă vreunuia dintre voi îi lipseşte înţelepciunea, s-o ceară\
-      \ de la YaHWeH, care dă tuturor cu mînă largă şi fără mustrare, şi ea îi va\
-      \ fi dată."
+      \ de la Yaue, care dă tuturor cu mînă largă şi fără mustrare, şi ea îi va fi\
+      \ dată."
     chapter: null
   - verseNumber: 6
     text: "Dar s-o ceara cu credinta, fara sa se indoiasca deloc: pentru ca cine se\
@@ -51,9 +51,9 @@ chapterPojo:
       ncoace şi încolo."
     chapter: null
   - verseNumber: 7
-    text: "Un astfel de om sa nu se astepte sa primeasca ceva de la YaHWeH,"
+    text: "Un astfel de om sa nu se astepte sa primeasca ceva de la Yaue,"
     textWithDiacritics: "Un astfel de om să nu se aştepte să primească ceva de la\
-      \ YaHWeH,"
+      \ Yaue,"
     chapter: null
   - verseNumber: 8
     text: "caci este un om nehotarit si nestatornic in toate caile sale."
@@ -79,16 +79,16 @@ chapterPojo:
     chapter: null
   - verseNumber: 12
     text: "Ferice de cel ce rabda ispita. Caci, dupa ce a fost gasit bun, va primi\
-      \ cununa vietii pe care a fagaduit-o YaHWeH celor ce-L iubesc."
+      \ cununa vietii pe care a fagaduit-o Yaue celor ce-L iubesc."
     textWithDiacritics: "Ferice de cel ce rabdă ispita. Căci, după ce a fost găsit\
-      \ bun, va primi cununa vieţii pe care a făgăduit-o YaHWeH celor ce-L iubesc."
+      \ bun, va primi cununa vieţii pe care a făgăduit-o Yaue celor ce-L iubesc."
     chapter: null
   - verseNumber: 13
-    text: "Nimeni, cind este ispitit, sa nu zica: „Sunt ispitit de YaHWeH.” Caci YaHWeH\
+    text: "Nimeni, cind este ispitit, sa nu zica: „Sunt ispitit de Yaue.” Caci Yaue\
       \ nu poate fi ispitit ca sa faca rau, si El insusi nu ispiteste pe nimeni."
-    textWithDiacritics: "Nimeni, cînd este ispitit, să nu zică: „Sunt ispitit de YaHWeH.”\
-      \ Căci YaHWeH nu poate fi ispitit ca să facă rău, şi El însuşi nu ispiteşte\
-      \ pe nimeni."
+    textWithDiacritics: "Nimeni, cînd este ispitit, să nu zică: „Sunt ispitit de Yaue.”\
+      \ Căci Yaue nu poate fi ispitit ca să facă rău, şi El însuşi nu ispiteşte pe\
+      \ nimeni."
     chapter: null
   - verseNumber: 14
     text: "Ci fiecare este ispitit, cind este atras de pofta lui insusi si momit."
@@ -125,8 +125,8 @@ chapterPojo:
       \ să fie grabnic la ascultare, încet la vorbire, zăbavnic la mînie;"
     chapter: null
   - verseNumber: 20
-    text: "caci minia omului nu lucreaza neprihanirea lui YaHWeH."
-    textWithDiacritics: "căci mînia omului nu lucrează neprihănirea lui YaHWeH."
+    text: "caci minia omului nu lucreaza neprihanirea lui Yaue."
+    textWithDiacritics: "căci mînia omului nu lucrează neprihănirea lui Yaue."
     chapter: null
   - verseNumber: 21
     text: "De aceea lepadati orice necuratie si orice revarsare de rautate, si primiti\
@@ -164,12 +164,12 @@ chapterPojo:
       \ ci îşi înşală inima, religia unui astfel de om este zadarnică."
     chapter: null
   - verseNumber: 27
-    text: "Religia curata si neintinata, inaintea lui YaHWeH, Tatal nostru, este sa\
+    text: "Religia curata si neintinata, inaintea lui Yaue, Tatal nostru, este sa\
       \ cercetam pe orfani si pe vaduve in necazurile lor si sa ne pazim neintinati\
       \ de lume."
-    textWithDiacritics: "Religia curată şi neîntinată, înaintea lui YaHWeH, Tatăl\
-      \ nostru, este să cercetăm pe orfani şi pe văduve în necazurile lor şi să ne\
-      \ păzim neîntinaţi de lume."
+    textWithDiacritics: "Religia curată şi neîntinată, înaintea lui Yaue, Tatăl nostru,\
+      \ este să cercetăm pe orfani şi pe văduve în necazurile lor şi să ne păzim neî\
+      ntinaţi de lume."
     chapter: null
 - number: 2
   book: null
@@ -201,12 +201,12 @@ chapterPojo:
       i voi judecători cu gînduri rele?"
     chapter: null
   - verseNumber: 5
-    text: "Ascultati, preaiubitii mei frati: n-a ales YaHWeH pe cei ce sunt saraci\
-      \ in ochii lumii acesteia, ca sa-i faca bogati in credinta si mostenitori ai\
-      \ Imparatiei pe care a fagaduit-o celor ce-L iubesc?"
-    textWithDiacritics: "Ascultaţi, preaiubiţii mei fraţi: n-a ales YaHWeH pe cei\
-      \ ce sunt săraci în ochii lumii acesteia, ca să-i facă bogaţi în credinţă ş\
-      i moştenitori ai Împărăţiei pe care a făgăduit-o celor ce-L iubesc?"
+    text: "Ascultati, preaiubitii mei frati: n-a ales Yaue pe cei ce sunt saraci in\
+      \ ochii lumii acesteia, ca sa-i faca bogati in credinta si mostenitori ai Imparatiei\
+      \ pe care a fagaduit-o celor ce-L iubesc?"
+    textWithDiacritics: "Ascultaţi, preaiubiţii mei fraţi: n-a ales Yaue pe cei ce\
+      \ sunt săraci în ochii lumii acesteia, ca să-i facă bogaţi în credinţă şi moş\
+      tenitori ai Împărăţiei pe care a făgăduit-o celor ce-L iubesc?"
     chapter: null
   - verseNumber: 6
     text: "Si voi injositi pe cel sarac! Oare nu bogatii va asupresc si va tirasc\
@@ -286,9 +286,9 @@ chapterPojo:
       -mi credinţa ta fără lucru, şi eu îţi voi arăta credinţa mea din lucru meu.”"
     chapter: null
   - verseNumber: 19
-    text: "Tu crezi ca YaHWeH este unul si bine faci; dar si dracii cred… si se infioara!"
-    textWithDiacritics: "Tu crezi că YaHWeH este unul şi bine faci; dar şi dracii\
-      \ cred… şi se înfioară!"
+    text: "Tu crezi ca Yaue este unul si bine faci; dar si dracii cred… si se infioara!"
+    textWithDiacritics: "Tu crezi că Yaue este unul şi bine faci; dar şi dracii cred…\
+      \ şi se înfioară!"
     chapter: null
   - verseNumber: 20
     text: "Vrei, dar, sa intelegi, om prost, ca Credinta fara lucru este zadarnica?"
@@ -307,11 +307,11 @@ chapterPojo:
       a a ajuns desăvîrşită."
     chapter: null
   - verseNumber: 23
-    text: "Astfel s-a implinit Scriptura care zice: „Avraam a crezut pe YaHWeH, si\
-      \ i s-a socotit ca neprihanire;” el a fost numit „prietenul lui YaHWeH.”"
+    text: "Astfel s-a implinit Scriptura care zice: „Avraam a crezut pe Yaue, si i\
+      \ s-a socotit ca neprihanire;” el a fost numit „prietenul lui Yaue.”"
     textWithDiacritics: "Astfel s-a împlinit Scriptura care zice: „Avraam a crezut\
-      \ pe YaHWeH, şi i s-a socotit ca neprihănire;” el a fost numit „prietenul lui\
-      \ YaHWeH.”"
+      \ pe Yaue, şi i s-a socotit ca neprihănire;” el a fost numit „prietenul lui\
+      \ Yaue.”"
     chapter: null
   - verseNumber: 24
     text: "Vedeti, dar, ca omul este socotit neprihanit prin Lucru, si nu numai prin\
@@ -386,10 +386,10 @@ chapterPojo:
       \ nu se poate înfrîna, este plină de o otravă de moarte."
     chapter: null
   - verseNumber: 9
-    text: "Cu ea binecuvintam pe YaHWeH, Tatal nostru, si tot cu ea blestemam pe oameni,\
+    text: "Cu ea binecuvintam pe Yaue, Tatal nostru, si tot cu ea blestemam pe oameni,\
       \ care sunt creati dupa asemanarea Lui."
-    textWithDiacritics: "Cu ea binecuvîntăm pe YaHWeH, Tatăl nostru, şi tot cu ea\
-      \ blestemăm pe oameni, care sunt creați după asemănarea Lui."
+    textWithDiacritics: "Cu ea binecuvîntăm pe Yaue, Tatăl nostru, şi tot cu ea blestemă\
+      m pe oameni, care sunt creați după asemănarea Lui."
     chapter: null
   - verseNumber: 10
     text: "Din aceeasi gura iese si binecuvintarea si blestemul! Nu trebuie sa fie\
@@ -466,34 +466,34 @@ chapterPojo:
       \ să risipiţi în plăcerile voastre."
     chapter: null
   - verseNumber: 4
-    text: "Suflete preacurvare! Nu sti ca prietenia lumii este vrajmasie cu YaHWeH?\
-      \ Asa ca cine vrea sa fie prieten cu lumea se face vrajmas cu YaHWeH."
+    text: "Suflete preacurvare! Nu sti ca prietenia lumii este vrajmasie cu Yaue?\
+      \ Asa ca cine vrea sa fie prieten cu lumea se face vrajmas cu Yaue."
     textWithDiacritics: "Suflete preacurvare! Nu şti că prietenia lumii este vrăjmă\
-      şie cu YaHWeH? Aşa că cine vrea să fie prieten cu lumea se face vrăjmaş cu YaHWeH."
+      şie cu Yaue? Aşa că cine vrea să fie prieten cu lumea se face vrăjmaş cu Yaue."
     chapter: null
   - verseNumber: 5
-    text: "Credeti ca degeaba vorbeste Scriptura? Duhul pe care L-a pus YaHWeH sa\
-      \ locuiasca in noi ne vrea cu gelozie pentru Sine."
+    text: "Credeti ca degeaba vorbeste Scriptura? Duhul pe care L-a pus Yaue sa locuiasca\
+      \ in noi ne vrea cu gelozie pentru Sine."
     textWithDiacritics: "Credeţi că degeaba vorbeşte Scriptura? Duhul pe care L-a\
-      \ pus YaHWeH să locuiască în noi ne vrea cu gelozie pentru Sine."
+      \ pus Yaue să locuiască în noi ne vrea cu gelozie pentru Sine."
     chapter: null
   - verseNumber: 6
-    text: "Dar, in schimb, ne da un har si mai mare. De aceea zice Scriptura: „ YaHWeH\
+    text: "Dar, in schimb, ne da un har si mai mare. De aceea zice Scriptura: „ Yaue\
       \ sta impotriva celor mindri, dar da har celor smeriti.”"
     textWithDiacritics: "Dar, în schimb, ne dă un har şi mai mare. De aceea zice Scriptura:\
-      \ „ YaHWeH stă împotriva celor mîndri, dar dă har celor smeriţi.”"
+      \ „ Yaue stă împotriva celor mîndri, dar dă har celor smeriţi.”"
     chapter: null
   - verseNumber: 7
-    text: "Supuneti-va, dar, lui YaHWeH. Impotriviti-va diavolului, si el va fugi\
-      \ de la voi."
-    textWithDiacritics: "Supuneţi-vă, dar, lui YaHWeH. Împotriviţi-vă diavolului,\
-      \ şi el va fugi de la voi."
+    text: "Supuneti-va, dar, lui Yaue. Impotriviti-va diavolului, si el va fugi de\
+      \ la voi."
+    textWithDiacritics: "Supuneţi-vă, dar, lui Yaue. Împotriviţi-vă diavolului, ş\
+      i el va fugi de la voi."
     chapter: null
   - verseNumber: 8
-    text: "Apropiati-va de YaHWeH si El Se va apropia de voi. Curatati-va miinile,\
-      \ pacatosilor; curatati-va inima, oameni cu inima impartita!"
-    textWithDiacritics: "Apropiaţi-vă de YaHWeH şi El Se va apropia de voi. Curăţ\
-      aţi-vă mîinile, păcătoşilor; curăţaţi-vă inima, oameni cu inima împărţită!"
+    text: "Apropiati-va de Yaue si El Se va apropia de voi. Curatati-va miinile, pacatosilor;\
+      \ curatati-va inima, oameni cu inima impartita!"
+    textWithDiacritics: "Apropiaţi-vă de Yaue şi El Se va apropia de voi. Curăţaţ\
+      i-vă mîinile, păcătoşilor; curăţaţi-vă inima, oameni cu inima împărţită!"
     chapter: null
   - verseNumber: 9
     text: "Simtiti-va ticalosia; tinguiti-va si plingeti! Risul vostru sa se prefaca\
@@ -502,8 +502,8 @@ chapterPojo:
       \ să se prefacă în tînguire, şi bucuria voastră în întristare:"
     chapter: null
   - verseNumber: 10
-    text: "smeriti-va inaintea lui YaHWeH, si El va va inalta."
-    textWithDiacritics: "smeriţi-vă înaintea lui YaHWeH, şi El vă va înălţa."
+    text: "smeriti-va inaintea lui Yaue, si El va va inalta."
+    textWithDiacritics: "smeriţi-vă înaintea lui Yaue, şi El vă va înălţa."
     chapter: null
   - verseNumber: 11
     text: "Nu va vorbiti de rau unii pe altii, fratilor! Cine vorbeste de rau pe un\
@@ -534,9 +534,9 @@ chapterPojo:
       a voastră? Nu sunteţi decît un abur care se arată puţintel, şi apoi piere."
     chapter: null
   - verseNumber: 15
-    text: "Voi, dimpotriva, ar trebui sa ziceti: „Daca va vrea YaHWeH, vom trai si\
-      \ vom face cutare sau cutare lucru.”"
-    textWithDiacritics: "Voi, dimpotrivă, ar trebui să ziceţi: „Dacă va vrea YaHWeH,\
+    text: "Voi, dimpotriva, ar trebui sa ziceti: „Daca va vrea Yaue, vom trai si vom\
+      \ face cutare sau cutare lucru.”"
+    textWithDiacritics: "Voi, dimpotrivă, ar trebui să ziceţi: „Dacă va vrea Yaue,\
       \ vom trăi şi vom face cutare sau cutare lucru.”"
     chapter: null
   - verseNumber: 16
@@ -574,10 +574,10 @@ chapterPojo:
   - verseNumber: 4
     text: "Iata ca plata lucratorilor care v-au secerat cimpiile, si pe care le-ati\
       \ oprit-o prin inselaciune, striga! Si strigatele seceratorilor au ajuns la\
-      \ urechile lui YaHWeH, Eylohim al ostirilor."
+      \ urechile lui Yaue, Elohim al ostirilor."
     textWithDiacritics: "Iată că plata lucrătorilor care v-au secerat cîmpiile, ş\
       i pe care le-aţi oprit-o prin înşelăciune, strigă! Şi strigătele secerătorilor\
-      \ au ajuns la urechile lui YaHWeH, Eylohim al oştirilor."
+      \ au ajuns la urechile lui Yaue, Elohim al oştirilor."
     chapter: null
   - verseNumber: 5
     text: "Ati trait pe pamint in placeri si in desfatari. V-ati saturat inimile chiar\
@@ -612,17 +612,17 @@ chapterPojo:
     chapter: null
   - verseNumber: 10
     text: "Fratii mei, luati ca pilda de suferinta si de rabdare pe prorocii care\
-      \ au vorbit in Numele lui YaHWeH."
+      \ au vorbit in Numele lui Yaue."
     textWithDiacritics: "Fraţii mei, luaţi ca pildă de suferinţă şi de răbdare pe\
-      \ prorocii care au vorbit în Numele lui YaHWeH."
+      \ prorocii care au vorbit în Numele lui Yaue."
     chapter: null
   - verseNumber: 11
     text: "Iata, noi numim fericiti pe cei ce au rabdat. Ati auzit vorbindu-se despre\
-      \ rabdarea lui Iov si ati vazut ce sfirsit i-a dat YaHWeH si cum YaHWeH este\
-      \ plin de mila si de indurare."
+      \ rabdarea lui Iov si ati vazut ce sfirsit i-a dat Yaue si cum Yaue este plin\
+      \ de mila si de indurare."
     textWithDiacritics: "Iată, noi numim fericiţi pe cei ce au răbdat. Aţi auzit vorbindu-se\
-      \ despre răbdarea lui Iov şi aţi văzut ce sfîrşit i-a dat YaHWeH şi cum YaHWeH\
-      \ este plin de milă şi de îndurare."
+      \ despre răbdarea lui Iov şi aţi văzut ce sfîrşit i-a dat Yaue şi cum Yaue este\
+      \ plin de milă şi de îndurare."
     chapter: null
   - verseNumber: 12
     text: "Mai presus de toate fratii mei, sa nu va jurati nici pe cer, nici pe pamint,\
@@ -647,10 +647,10 @@ chapterPojo:
       \ lui Yașua. [ a) Sau: bătrîni ]"
     chapter: null
   - verseNumber: 15
-    text: "Rugaciunea facuta cu credinta va Mintui pe cel bolnav, si YaHWeH il va\
-      \ insanatosi; si, daca a facut pacate, ii vor fi iertate."
+    text: "Rugaciunea facuta cu credinta va Mintui pe cel bolnav, si Yaue il va insanatosi;\
+      \ si, daca a facut pacate, ii vor fi iertate."
     textWithDiacritics: "Rugăciunea făcută cu credinţă va Mîntui pe cel bolnav, ş\
-      i YaHWeH îl va însănătoşi; şi, dacă a făcut păcate, îi vor fi iertate."
+      i Yaue îl va însănătoşi; şi, dacă a făcut păcate, îi vor fi iertate."
     chapter: null
   - verseNumber: 16
     text: "Marturisiti-va unii altora pacatele si rugati-va unii pentru altii, ca\
