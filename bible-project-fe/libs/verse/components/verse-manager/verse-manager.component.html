@@ -10,9 +10,9 @@
       </bible-verse>
     </span>
   } @else {
-    @if (bookEditInfo) {
+    @if (getBookEditInfo()) {
       <bible-verse-editor
-        [bookEditInfo]="bookEditInfo"
+        [bookEditInfo]="getBookEditInfo()"
         (textUpdate)="textUpdate($event)"
       ></bible-verse-editor>
     }
@@ -20,7 +20,7 @@
 
   @if (this.shouldDisplayVerseOptions || shouldEditVerse) {
     <bible-verse-options
-      [bookEditInfo]="bookEditInfo"
+      [bookEditInfo]="getBookEditInfo()"
       [isVerseInEditMode]="shouldEditVerse"
       (shouldEnterEditMode)="shouldEditVerse = !shouldEditVerse"
       (shouldCloseOptions)="shouldDisplayVerseOptions = !shouldDisplayVerseOptions"

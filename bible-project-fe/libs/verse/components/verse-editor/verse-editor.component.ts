@@ -38,7 +38,8 @@ import { VerseHighlighterComponent } from '../verse-highlighter/verse-highlighte
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class VerseEditorComponent implements OnInit {
-  @Input({ required: true }) bookEditInfo!: BookEditInfo;
+  @Input({ required: true, transform: forceIntoBookEditInfo })
+  bookEditInfo!: BookEditInfo;
   @Output() textUpdate: EventEmitter<string> = new EventEmitter();
 
   protected rows: number = 1;
@@ -51,10 +52,6 @@ export class VerseEditorComponent implements OnInit {
     private readonly bibleToastrService: BibleToastrService,
     private readonly siteStoreService: SiteStoreService,
   ) {}
-
-  protected hasBeenEdited(): boolean {
-    return this.textWithDiacritics !== this.bookEditInfo.textWithDiacritics;
-  }
 
   ngOnInit(): void {
     this.textWithDiacritics = this.bookEditInfo.textWithDiacritics;
@@ -88,6 +85,10 @@ export class VerseEditorComponent implements OnInit {
       );
   }
 
+  protected hasBeenEdited(): boolean {
+    return this.textWithDiacritics !== this.bookEditInfo.textWithDiacritics;
+  }
+
   private handleUpdateResponse(
     result: VerseUpdateResponse,
     bookEditInfo: BookEditInfo,
@@ -112,4 +113,8 @@ export class VerseEditorComponent implements OnInit {
     );
     this.textUpdate.emit(bookInfo.textWithDiacritics);
   }
+}
+
+function forceIntoBookEditInfo(bookEditInfo: BookEditInfo | null) {
+  return bookEditInfo as BookEditInfo;
 }

@@ -7,7 +7,7 @@ export function buildBookEditInfo(
   bibleBooks: BibleBook[] | null,
   selectedBook: SelectedBibleBook | null,
   bibleVerse: BibleVerse | null,
-) {
+): BookEditInfo | null {
   const bookEditInfo: BookEditInfo = {
     abbreviation: null,
   } as BookEditInfo;

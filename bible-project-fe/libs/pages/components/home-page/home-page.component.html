@@ -15,7 +15,7 @@
       <br />
       @if (selectedBook && selectedBook.chapterNumbers.length > 0) {
         <div id="section_chapter" class="h2 fw-bold pt-3 pb-2 text-title-colour">Capitolul:</div>
-        @for (chapterNumber of selectedBook.chapterNumbers; track chapterNumber) {
+        @for (chapterNumber of selectedBook.chapterNumbers; track ((selectedBook.bookId || 0) + chapterNumber)) {
           <button class="btn me-1 mb-1 me-md-2 mb-md-2"
                   [ngClass]="chapterNumber === selectedBook.chapterNumber ? 'btn-dark' : 'btn-outline-dark'"
                   (click)="loadChapter(chapterNumber)"
@@ -28,7 +28,7 @@
                  class="fw-bold fs-2 pt-2 pb-2 text-center text-title-colour">{{ selectedBook.bookName }}
               - {{ selectedBook.chapterNumber }}
             </div>
-            @for (bibleVerse of bibleVerses; track bibleVerse.verseNumber) {
+            @for (bibleVerse of bibleVerses; track (bibleVerse.verseNumber + selectedBook.chapterNumber)) {
               <bible-verse-manager
                 [bibleVerse]="bibleVerse"
                 [selectedBook]="selectedBook"
