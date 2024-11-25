@@ -6,3 +6,10 @@ export interface BookEditInfo {
   chapterNumber: number;
   verseNumber: number;
 }
+
+export function buildVerseFooterDetails(bookEditInfo: BookEditInfo): string {
+  if (!bookEditInfo.abbreviation)
+    return `(${bookEditInfo.bookName} ${bookEditInfo.chapterNumber}:${bookEditInfo.verseNumber})`;
+
+  return `(${bookEditInfo.abbreviation} ${bookEditInfo.chapterNumber}:${bookEditInfo.verseNumber})`;
+}

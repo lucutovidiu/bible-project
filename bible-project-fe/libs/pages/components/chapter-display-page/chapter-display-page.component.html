@@ -10,17 +10,17 @@
           </div>
           @for (bibleVerse of bibleVerses; track bibleVerse.verseNumber) {
             @if (selectedBook.verseNumber == bibleVerse.verseNumber) {
-              <bible-verse
+              <bible-verse-manager
                 [bibleVerse]="bibleVerse"
                 [selectedBook]="selectedBook"
                 [hasJumpSection]="true"
                 [highlightWholeVerse]="true"
-              ></bible-verse>
+              ></bible-verse-manager>
             } @else {
-              <bible-verse
+              <bible-verse-manager
                 [bibleVerse]="bibleVerse"
                 [selectedBook]="selectedBook"
-              ></bible-verse>
+              ></bible-verse-manager>
             }
           }
         }

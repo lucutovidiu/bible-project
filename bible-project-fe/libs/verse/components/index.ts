@@ -1,1 +1,1 @@
-export * from './verse/verse.component';
+export * from './verse-manager/verse-manager.component';

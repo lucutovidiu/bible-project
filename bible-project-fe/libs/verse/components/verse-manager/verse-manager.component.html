@@ -1,0 +1,29 @@
+@if (bibleVerse) {
+  @if (!shouldEditVerse) {
+    <span (click)="displayVerseOptions()">
+      <bible-verse
+        [bibleVerse]="bibleVerse"
+        [highlightWords]="highlightWords"
+        [highlightWholeVerse]="highlightWholeVerse"
+        [hasJumpSection]="hasJumpSection"
+      >
+      </bible-verse>
+    </span>
+  } @else {
+    @if (bookEditInfo) {
+      <bible-verse-editor
+        [bookEditInfo]="bookEditInfo"
+        (textUpdate)="textUpdate($event)"
+      ></bible-verse-editor>
+    }
+  }
+
+  @if (this.shouldDisplayVerseOptions || shouldEditVerse) {
+    <bible-verse-options
+      [bookEditInfo]="bookEditInfo"
+      [isVerseInEditMode]="shouldEditVerse"
+      (shouldEnterEditMode)="shouldEditVerse = !shouldEditVerse"
+      (shouldCloseOptions)="shouldDisplayVerseOptions = !shouldDisplayVerseOptions"
+    ></bible-verse-options>
+  }
+}

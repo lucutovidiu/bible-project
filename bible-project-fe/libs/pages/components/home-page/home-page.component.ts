@@ -1,9 +1,4 @@
-import {
-  ChangeDetectionStrategy,
-  Component,
-  HostListener,
-  OnInit,
-} from '@angular/core';
+import { ChangeDetectionStrategy, Component, OnInit } from '@angular/core';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { BehaviorSubject, catchError, throwError } from 'rxjs';
 import { CommonModule } from '@angular/common';
@@ -17,7 +12,7 @@ import {
   LoadingIndicatorBoxComponent,
   SelectedBibleBook,
 } from '@bible/shared';
-import { VerseComponent } from '@bible/verse';
+import { VerseManagerComponent } from '@bible/verse';
 
 import { HomePageService } from '../../services/home-page-service/home-page.service';
 
@@ -30,7 +25,7 @@ import { HomePageService } from '../../services/home-page-service/home-page.serv
     CommonModule,
     LoadingIndicatorBoxComponent,
     InfiniteLoadingComponent,
-    VerseComponent,
+    VerseManagerComponent,
   ],
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
@@ -71,34 +66,6 @@ export class HomePageComponent implements OnInit {
   ngOnInit(): void {
     this.homeService.getMenuData();
     this.findChapterNumberByBook();
-  }
-
-  @HostListener('window:keyup', ['$event'])
-  keyEvent(event: KeyboardEvent) {
-    if (event.key == KEY_CODE.RIGHT_ARROW) {
-      if (this.selectedBook !== null) {
-        if (
-          this.selectedBook.chapterNumber !==
-          this.selectedBook.chapterNumbers.length
-        ) {
-          if (this.selectedBook.chapterNumber) {
-            this.loadChapter(this.selectedBook.chapterNumber + 1);
-          }
-        }
-      }
-    }
-    if (event.key == KEY_CODE.LEFT_ARROW) {
-      if (this.selectedBook !== null) {
-        if (
-          this.selectedBook.chapterNumber !==
-          this.selectedBook.chapterNumbers.length
-        ) {
-          if (this.selectedBook.chapterNumber) {
-            this.loadChapter(this.selectedBook.chapterNumber - 1);
-          }
-        }
-      }
-    }
   }
 
   private findChapterNumberByBook() {

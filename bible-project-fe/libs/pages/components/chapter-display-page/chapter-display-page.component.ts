@@ -3,12 +3,12 @@ import { ActivatedRoute, Params } from '@angular/router';
 import { BehaviorSubject } from 'rxjs';
 import { AsyncPipe } from '@angular/common';
 
-import { VerseComponent } from '@bible/verse';
+import { VerseManagerComponent } from '@bible/verse';
 import {
+  BibleVerse,
   HtmlFunctions,
   LoadingIndicatorBoxComponent,
   SelectedBibleBook,
-  BibleVerse,
 } from '@bible/shared';
 
 import { ChapterDisplayService } from '../../services/chapter-display-service/chapter-display.service';
@@ -19,7 +19,7 @@ import { ChapterDisplayService } from '../../services/chapter-display-service/ch
   templateUrl: './chapter-display-page.component.html',
   styleUrl: './chapter-display-page.component.scss',
   changeDetection: ChangeDetectionStrategy.OnPush,
-  imports: [VerseComponent, LoadingIndicatorBoxComponent, AsyncPipe],
+  imports: [VerseManagerComponent, LoadingIndicatorBoxComponent, AsyncPipe],
 })
 export class ChapterDisplayPageComponent implements OnInit {
   protected selectedBook: SelectedBibleBook | null = null;

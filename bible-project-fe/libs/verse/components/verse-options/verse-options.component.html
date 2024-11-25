@@ -1,0 +1,15 @@
+<div class="fs-2 d-flex justify-content-end">
+  <div (click)="enterEditMode()">
+    <button class="btn btn-sm btn-outline-dark">
+      @if(isVerseInEditMode) {
+        <i class="bi bi-x-octagon"></i> Anulează Editare
+      } @else {
+        <i class="bi bi-pencil-square"></i> Editează
+      }
+    </button>
+  </div>
+
+  <div class="ms-2" (click)="copyTextToClipboard()">
+    <button class="btn btn-sm btn-outline-dark"><i class="bi bi-clipboard-check"></i> Copiază</button>
+    </div>
+</div>

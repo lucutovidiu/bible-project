@@ -3,7 +3,7 @@ import { ActivatedRoute, RouterLink } from '@angular/router';
 import { AsyncPipe, NgClass, NgForOf, NgIf } from '@angular/common';
 
 import { LoadingIndicatorBoxComponent } from '@bible/shared';
-import { VerseComponent } from '@bible/verse';
+import { VerseManagerComponent } from '@bible/verse';
 
 import { SearchPageService } from '../../services/search-page-service/search-page.service';
 
@@ -19,7 +19,7 @@ import { SearchPageService } from '../../services/search-page-service/search-pag
     NgClass,
     RouterLink,
     LoadingIndicatorBoxComponent,
-    VerseComponent,
+    VerseManagerComponent,
   ],
   changeDetection: ChangeDetectionStrategy.OnPush,
 })

@@ -10,10 +10,10 @@
               <div class="col-12 col-lg-6" *ngFor="let bibleVerse of bibleVerses">
                 <div class="verse-box h-100 d-flex flex-wrap align-content-between">
                   <div>
-                    <bible-verse
+                    <bible-verse-manager
                       [bibleVerse]="bibleVerse"
                       [highlightWords]="searchTextWords"
-                    ></bible-verse>
+                    ></bible-verse-manager>
                   </div>
                   <div class="mt-2 w-100">
                     <div class="row g-2">

@@ -13,7 +13,7 @@ migration:
   enabled: false
 import-export:
   # Exporting DB to usually a yaml file
-  export-enabled: true
+  export-enabled: false
   # Updating DB from yml file
   import-enabled: false
   file-metadata-enabled: false

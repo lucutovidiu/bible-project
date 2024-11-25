@@ -29,11 +29,11 @@
               - {{ selectedBook.chapterNumber }}
             </div>
             @for (bibleVerse of bibleVerses; track bibleVerse.verseNumber) {
-              <bible-verse
+              <bible-verse-manager
                 [bibleVerse]="bibleVerse"
                 [selectedBook]="selectedBook"
                 [bibleBooks]="bibleBooks"
-              ></bible-verse>
+              ></bible-verse-manager>
             }
             <div class="mt-3 w-100">
               <div class="text-center">

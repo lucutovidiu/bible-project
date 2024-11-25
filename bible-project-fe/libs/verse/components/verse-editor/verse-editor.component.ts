@@ -9,16 +9,19 @@ import {
 } from '@angular/core';
 import { NgClass } from '@angular/common';
 import { FormsModule } from '@angular/forms';
+import { catchError, finalize, throwError } from 'rxjs';
 
 import {
   BibleBookService,
   BibleToastrService,
   BookEditInfo,
+  buildVerseFooterDetails,
+  InfiniteLoadingComponent,
   SiteStoreService,
+  TextAreaUtil,
   VerseUpdateResponse,
 } from '@bible/shared';
 
-import { getVerseFooterDetails } from '../';
 import { VerseHighlighterComponent } from '../verse-highlighter/verse-highlighter.component';
 
 @Component({
@@ -26,16 +29,22 @@ import { VerseHighlighterComponent } from '../verse-highlighter/verse-highlighte
   standalone: true,
   templateUrl: './verse-editor.component.html',
   styleUrl: './verse-editor.component.scss',
-  imports: [NgClass, VerseHighlighterComponent, FormsModule],
+  imports: [
+    NgClass,
+    VerseHighlighterComponent,
+    FormsModule,
+    InfiniteLoadingComponent,
+  ],
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class VerseEditorComponent implements OnInit {
   @Input({ required: true }) bookEditInfo!: BookEditInfo;
   @Output() textUpdate: EventEmitter<string> = new EventEmitter();
 
-  charsPerLine: number = 50;
-  rows: number = 1;
+  protected rows: number = 1;
   protected textWithDiacritics = '';
+  protected isLoading = false;
+  private readonly textAreaUtil: TextAreaUtil = new TextAreaUtil();
 
   constructor(
     private bibleBookService: BibleBookService,
@@ -43,25 +52,39 @@ export class VerseEditorComponent implements OnInit {
     private readonly siteStoreService: SiteStoreService,
   ) {}
 
+  protected hasBeenEdited(): boolean {
+    return this.textWithDiacritics !== this.bookEditInfo.textWithDiacritics;
+  }
+
   ngOnInit(): void {
     this.textWithDiacritics = this.bookEditInfo.textWithDiacritics;
-
     this.onResize();
   }
 
   @HostListener('window:resize', [])
   onResize(): void {
-    this.updateCharsPerLine();
-    this.calculateRows();
+    this.textAreaUtil.recalculateCharsPerLine(window.innerWidth);
+    this.rows = this.textAreaUtil.dynamicRowCalculator(
+      this.bookEditInfo.textWithDiacritics,
+    );
   }
 
   changeText() {
-    const bookEditRequest: BookEditInfo = this.bookEditInfo;
+    const bookEditRequest: BookEditInfo = { ...this.bookEditInfo };
     bookEditRequest.textWithDiacritics = this.textWithDiacritics;
+
+    this.isLoading = true;
     this.bibleBookService
       .patchBibleVerseText(bookEditRequest)
+      .pipe(
+        catchError((err) => {
+          this.handleVerseUpdateFail();
+          return throwError(() => err);
+        }),
+        finalize(() => (this.isLoading = false)),
+      )
       .subscribe((result) =>
-        this.handleUpdateResponse(result, this.bookEditInfo as BookEditInfo),
+        this.handleUpdateResponse(result, bookEditRequest),
       );
   }
 
@@ -69,47 +92,24 @@ export class VerseEditorComponent implements OnInit {
     result: VerseUpdateResponse,
     bookEditInfo: BookEditInfo,
   ) {
-    const toastrBody = getVerseFooterDetails(bookEditInfo);
+    const toastrBody = buildVerseFooterDetails(bookEditInfo);
     if (result.result) {
       this.bibleToastrService.info(toastrBody, 'Verset updatat', false, 2000);
       this.textUpdate.emit(this.textWithDiacritics);
       this.siteStoreService.resetPartialStoredBibleVerses(bookEditInfo);
     } else {
-      this.bibleToastrService.error(
-        toastrBody,
-        'Verset neupdatat',
-        false,
-        2000,
-      );
-      this.textUpdate.emit(bookEditInfo.textWithDiacritics);
+      this.handleVerseUpdateFail();
     }
   }
 
-  private calculateRows(): void {
-    const text = '' + this.bookEditInfo.textWithDiacritics;
-    const adjustedText = text.replace(/\n/g, ' '.repeat(this.charsPerLine)); // Each newline counts as a full line
-    this.rows = Math.ceil(adjustedText.length / this.charsPerLine);
-  }
-
-  private updateCharsPerLine(): void {
-    const width = window.innerWidth;
-
-    // Adjust based on screen width (simple example, customize as needed)
-    if (width >= 1024) {
-      // Desktop: Larger screens
-      this.charsPerLine = 105;
-    } else if (width >= 768) {
-      // Tablet: Medium screens
-      this.charsPerLine = 60;
-    } else if (width >= 500) {
-      // Tablet: Medium screens
-      this.charsPerLine = 50;
-    } else if (width >= 440) {
-      // Tablet: Medium screens
-      this.charsPerLine = 40;
-    } else {
-      // Mobile: Smaller screens
-      this.charsPerLine = 35;
-    }
+  private handleVerseUpdateFail() {
+    const bookInfo = this.bookEditInfo as BookEditInfo;
+    this.bibleToastrService.error(
+      buildVerseFooterDetails(bookInfo),
+      'Verset ne-editat',
+      false,
+      2000,
+    );
+    this.textUpdate.emit(bookInfo.textWithDiacritics);
   }
 }
