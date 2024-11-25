@@ -584,12 +584,6 @@ chapterPojo:
 - number: 3
   book: null
   versePojo:
-  - verseNumber: 8
-    text: "Sa aiba grija de toate uneltele Cortului intilnirii si de tot ce este poruncit\
-      \ copiilor lui Israel: ei sa faca slujba Cortului."
-    textWithDiacritics: "Să aibă grijă de toate uneltele Cortului întîlnirii şi de\
-      \ tot ce este poruncit copiilor lui Israel: ei să facă slujba Cortului."
-    chapter: null
   - verseNumber: 1
     text: "Iata saminta lui Aaron si a lui Moise, pe vremea cind a vorbit Yaue cu\
       \ Moise, pe muntele Sinai."
@@ -632,6 +626,12 @@ chapterPojo:
     textWithDiacritics: "Ei să aibă grijă de tot ce este dat în paza lui şi de tot\
       \ ce este poruncit întregii adunări, înaintea Cortului întîlnirii: să facă slujba\
       \ Cortului."
+    chapter: null
+  - verseNumber: 8
+    text: "Sa aiba grija de toate uneltele Cortului intilnirii si de tot ce este poruncit\
+      \ copiilor lui Israel: ei sa faca slujba Cortului."
+    textWithDiacritics: "Să aibă grijă de toate uneltele Cortului întîlnirii şi de\
+      \ tot ce este poruncit copiilor lui Israel: ei să facă slujba Cortului."
     chapter: null
   - verseNumber: 9
     text: "Sa dai pe leviti lui Aaron si fiilor lui; ei sa-i fie dati lui in totul,\
@@ -908,11 +908,6 @@ chapterPojo:
 - number: 4
   book: null
   versePojo:
-  - verseNumber: 48
-    text: "toti cei iesiti la numaratoare, au fost opt mii cinci sute optzeci."
-    textWithDiacritics: "toţi cei ieşiţi la numărătoare, au fost opt mii cinci sute\
-      \ optzeci."
-    chapter: null
   - verseNumber: 1
     text: "Yaue a vorbit lui Moise si lui Aaron si a zis:"
     textWithDiacritics: "Yaue a vorbit lui Moise şi lui Aaron şi a zis:"
@@ -1247,6 +1242,11 @@ chapterPojo:
       \ cincizeci de ani, toţi cei ce erau în stare să facă vreo slujbă şi să ducă\
       \ Cortul întîlnirii,"
     chapter: null
+  - verseNumber: 48
+    text: "toti cei iesiti la numaratoare, au fost opt mii cinci sute optzeci."
+    textWithDiacritics: "toţi cei ieşiţi la numărătoare, au fost opt mii cinci sute\
+      \ optzeci."
+    chapter: null
   - verseNumber: 49
     text: "Le-au facut numaratoarea dupa porunca lui Yaue data prin Moise, aratind\
       \ fiecaruia slujba pe care trebuia s-o faca si ce trebuia sa duca; le-au facut\
@@ -1482,12 +1482,6 @@ chapterPojo:
 - number: 6
   book: null
   versePojo:
-  - verseNumber: 10
-    text: "In ziua a opta sa aduca preotului doua turturele sau doi pui de porumbel,\
-      \ la usa Cortului intilnirii."
-    textWithDiacritics: "În ziua a opta să aducă preotului două turturele sau doi\
-      \ pui de porumbel, la uşa Cortului întîlnirii."
-    chapter: null
   - verseNumber: 1
     text: "Yaue a vorbit lui Moise si a zis:"
     textWithDiacritics: "Yaue a vorbit lui Moise şi a zis:"
@@ -1550,6 +1544,12 @@ chapterPojo:
     textWithDiacritics: "Dacă moare cineva de moarte năprasnică lîngă el, şi capul\
       \ lui închinat se face astfel necurat, să-şi radă capul în ziua curăţării, ş\
       i anume, să şi-l radă a şaptea zi."
+    chapter: null
+  - verseNumber: 10
+    text: "In ziua a opta sa aduca preotului doua turturele sau doi pui de porumbel,\
+      \ la usa Cortului intilnirii."
+    textWithDiacritics: "În ziua a opta să aducă preotului două turturele sau doi\
+      \ pui de porumbel, la uşa Cortului întîlnirii."
     chapter: null
   - verseNumber: 11
     text: "Preotul sa jertfeasca pe unul ca jertfa de ispasire, iar pe celalalt ca\
@@ -1669,26 +1669,6 @@ chapterPojo:
 - number: 7
   book: null
   versePojo:
-  - verseNumber: 7
-    text: "A dat doua care si patru boi fiilor lui Gherson, dupa cum cereau slujbele\
-      \ lor;"
-    textWithDiacritics: "A dat două care şi patru boi fiilor lui Gherşon, după cum\
-      \ cereau slujbele lor;"
-    chapter: null
-  - verseNumber: 36
-    text: "A cincea zi, capetenia fiilor lui Simeon, Selumiel, fiul lui Turisadai,"
-    textWithDiacritics: "A cincea zi, căpetenia fiilor lui Simeon, Şelumiel, fiul\
-      \ lui Ţurişadai,"
-    chapter: null
-  - verseNumber: 66
-    text: "A zecea zi, capetenia fiilor lui Dan, Ahiezer, fiul lui Amisadai,"
-    textWithDiacritics: "A zecea zi, căpetenia fiilor lui Dan, Ahiezer, fiul lui Amiş\
-      adai,"
-    chapter: null
-  - verseNumber: 6
-    text: "Moise a luat carele si boii si le-a dat Levitilor."
-    textWithDiacritics: "Moise a luat carele şi boii şi le-a dat Leviţilor."
-    chapter: null
   - verseNumber: 1
     text: "Cind a ispravit Moise de asezat Cortul, l-a uns si l-a sfintit impreuna\
       \ cu toate uneltele lui, precum si altarul cu toate uneltele lui; le-a uns si\
@@ -1723,6 +1703,16 @@ chapterPojo:
     textWithDiacritics: "„Ia de la ei aceste lucruri şi să le întrebuinţezi pentru\
       \ slujba Cortului întîlnirii; să le dai leviţilor, fiecăruia după cum cere slujba\
       \ lui.”"
+    chapter: null
+  - verseNumber: 6
+    text: "Moise a luat carele si boii si le-a dat Levitilor."
+    textWithDiacritics: "Moise a luat carele şi boii şi le-a dat Leviţilor."
+    chapter: null
+  - verseNumber: 7
+    text: "A dat doua care si patru boi fiilor lui Gherson, dupa cum cereau slujbele\
+      \ lor;"
+    textWithDiacritics: "A dat două care şi patru boi fiilor lui Gherşon, după cum\
+      \ cereau slujbele lor;"
     chapter: null
   - verseNumber: 8
     text: "a dat patru care si opt boi fiilor lui Merari, dupa cum cereau slujbele\
@@ -1891,6 +1881,11 @@ chapterPojo:
     textWithDiacritics: "şi, pentru jertfa de mulţumire: doi boi, cinci berbeci, cinci\
       \ ţapi, cinci miei de pînă la un an. Acesta a fost darul lui Eliţur, fiul lui\
       \ Şedeur."
+    chapter: null
+  - verseNumber: 36
+    text: "A cincea zi, capetenia fiilor lui Simeon, Selumiel, fiul lui Turisadai,"
+    textWithDiacritics: "A cincea zi, căpetenia fiilor lui Simeon, Şelumiel, fiul\
+      \ lui Ţurişadai,"
     chapter: null
   - verseNumber: 37
     text: "a adus: o farfurie de argint, in greutate de o suta treizeci de sekeli,\
@@ -2061,6 +2056,11 @@ chapterPojo:
     textWithDiacritics: "şi, pentru jertfa de mulţumire: doi boi, cinci berbeci, cinci\
       \ ţapi, cinci miei de pînă la un an. Acesta a fost darul lui Abidan, fiul lui\
       \ Ghideoni."
+    chapter: null
+  - verseNumber: 66
+    text: "A zecea zi, capetenia fiilor lui Dan, Ahiezer, fiul lui Amisadai,"
+    textWithDiacritics: "A zecea zi, căpetenia fiilor lui Dan, Ahiezer, fiul lui Amiş\
+      adai,"
     chapter: null
   - verseNumber: 67
     text: "a adus: o farfurie de argint, in greutate de o suta treizeci de sekeli,\
@@ -3324,16 +3324,6 @@ chapterPojo:
 - number: 14
   book: null
   versePojo:
-  - verseNumber: 20
-    text: "Si Yaue a zis: „Iert cum ai cerut."
-    textWithDiacritics: "Şi Yaue a zis: „Iert cum ai cerut."
-    chapter: null
-  - verseNumber: 21
-    text: "Dar cit este de adevarat ca Eu sunt viu si ca slava lui Yaue va umple tot\
-      \ pamintul,"
-    textWithDiacritics: "Dar cît este de adevărat că Eu sunt viu şi că slava lui Yaue\
-      \ va umple tot pămîntul,"
-    chapter: null
   - verseNumber: 1
     text: "Toata Adunarea a ridicat glasul si a inceput sa tipe. Si poporul a plins\
       \ in noaptea aceea."
@@ -3461,6 +3451,16 @@ chapterPojo:
       \ cum ai iertat poporului acestuia din Egipt pina aici.”"
     textWithDiacritics: "Iartă, dar, fără de Legea poporului acestuia, după mărimea\
       \ îndurării Tale, cum ai iertat poporului acestuia din Egipt pînă aici.”"
+    chapter: null
+  - verseNumber: 20
+    text: "Si Yaue a zis: „Iert cum ai cerut."
+    textWithDiacritics: "Şi Yaue a zis: „Iert cum ai cerut."
+    chapter: null
+  - verseNumber: 21
+    text: "Dar cit este de adevarat ca Eu sunt viu si ca slava lui Yaue va umple tot\
+      \ pamintul,"
+    textWithDiacritics: "Dar cît este de adevărat că Eu sunt viu şi că slava lui Yaue\
+      \ va umple tot pămîntul,"
     chapter: null
   - verseNumber: 22
     text: "tot atit de adevarat este ca toti cei ce au vazut cu ochii lor slava Mea\
@@ -3895,17 +3895,6 @@ chapterPojo:
 - number: 16
   book: null
   versePojo:
-  - verseNumber: 4
-    text: "Cind a auzit Moise lucrul acesta, a cazut cu fata la pamint."
-    textWithDiacritics: "Cînd a auzit Moise lucrul acesta, a căzut cu faţa la pămî\
-      nt."
-    chapter: null
-  - verseNumber: 29
-    text: "Daca oamenii acestia vor muri cum mor toti oamenii si daca vor avea aceeasi\
-      \ soarta ca toti oamenii, nu m-a trimis Yaue;"
-    textWithDiacritics: "Dacă oamenii aceştia vor muri cum mor toţi oamenii şi dacă\
-      \ vor avea aceeaşi soartă ca toţi oamenii, nu m-a trimis Yaue;"
-    chapter: null
   - verseNumber: 1
     text: "Core, fiul lui Itehar, fiul lui Chehat, fiul lui Levi, s-a rasculat impreuna\
       \ cu Datan si Abiram, fiii lui"
@@ -3927,6 +3916,11 @@ chapterPojo:
     textWithDiacritics: "Ei s-au adunat împotriva lui Moise şi Aaron şi le-au zis:\
       \ „Destul! Căci toată Adunarea, toţi sunt sfinţi, şi Yaue este în mijlocul lor.\
       \ Pentru ce vă ridicaţi voi mai presus de Adunarea lui Yaue?”"
+    chapter: null
+  - verseNumber: 4
+    text: "Cind a auzit Moise lucrul acesta, a cazut cu fata la pamint."
+    textWithDiacritics: "Cînd a auzit Moise lucrul acesta, a căzut cu faţa la pămî\
+      nt."
     chapter: null
   - verseNumber: 5
     text: "A vorbit lui Core si la toata ceata lui si a zis: „Miine, Yaue va arata\
@@ -4081,6 +4075,12 @@ chapterPojo:
       \ lucruri si ca nu lucrez din capul meu."
     textWithDiacritics: "Moise a zis: „Iată cum veţi cunoaşte că Yaue m-a trimis să\
       \ fac toate aceste lucruri şi că nu lucrez din capul meu."
+    chapter: null
+  - verseNumber: 29
+    text: "Daca oamenii acestia vor muri cum mor toti oamenii si daca vor avea aceeasi\
+      \ soarta ca toti oamenii, nu m-a trimis Yaue;"
+    textWithDiacritics: "Dacă oamenii aceştia vor muri cum mor toţi oamenii şi dacă\
+      \ vor avea aceeaşi soartă ca toţi oamenii, nu m-a trimis Yaue;"
     chapter: null
   - verseNumber: 30
     text: "dar daca Yaue va face un lucru nemaiauzit, daca pamintul isi va deschide\

@@ -6,9 +6,13 @@ import jakarta.inject.Inject;
 import ro.bible.importexport.service.BookExporterService;
 import ro.bible.importexport.service.YamlExporterService;
 import ro.bible.persistence.model.BookPojo;
+import ro.bible.persistence.model.ChapterPojo;
+import ro.bible.persistence.model.VersePojo;
 import ro.bible.persistence.service.BookService;
 import ro.bible.shared.service.YamlMapperService;
 
+import java.util.Comparator;
+import java.util.List;
 import java.util.Optional;
 
 @ApplicationScoped
@@ -31,6 +35,7 @@ public class YamlBookExporterService implements BookExporterService {
         Optional<BookPojo> entireBookByName = bookService.getEntireBookByName(bookName);
         if (entireBookByName.isPresent()) {
             BookPojo bookPojo = entireBookByName.get();
+            orderChaptersAndVerses(bookPojo);
 //            replaceWords(bookPojo);
             convertToYaml(bookPojo)
                     .ifPresentOrElse(bookContent -> exportYamlBook(bookPojo, bookContent), () ->
@@ -39,6 +44,20 @@ public class YamlBookExporterService implements BookExporterService {
         } else {
             Log.errorf("Book: '%s', not found in the database", bookName);
         }
+    }
+
+    private void orderChaptersAndVerses(BookPojo bookPojo) {
+        bookPojo.getChapterPojo().forEach(chapterPojo -> {
+            List<VersePojo> list = chapterPojo.getVersePojo().stream()
+                    .sorted(Comparator.comparing(VersePojo::getVerseNumber))
+                    .toList();
+            chapterPojo.setVersePojo(list);
+        });
+
+        List<ChapterPojo> list = bookPojo.getChapterPojo().stream()
+                .sorted(Comparator.comparing(ChapterPojo::getNumber)).toList();
+
+        bookPojo.setChapterPojo(list);
     }
 
 //    private void replaceWords(BookPojo bookPojo) {

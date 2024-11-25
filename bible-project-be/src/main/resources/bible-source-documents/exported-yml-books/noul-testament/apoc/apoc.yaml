@@ -11,6 +11,824 @@ requiresUpdate: false
 inProgress: false
 bookOrder: 80
 chapterPojo:
+- number: 1
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Descoperirea lui Yasua haMasiya pe care i-a dat-o Yaue, ca sa arate robilor\
+      \ Sai lucrurile care au sa se intimple in curind. Si le-a facut-o cunoscut,\
+      \ trimitind, prin ingerul Sau, la robul Sau Ioan"
+    textWithDiacritics: "Descoperirea lui Yașua haMaşiya pe care i-a dat-o Yaue, ca\
+      \ să arate robilor Săi lucrurile care au să se întîmple în curînd. Şi le-a fă\
+      cut-o cunoscut, trimiţînd, prin îngerul Său, la robul Său Ioan"
+    chapter: null
+  - verseNumber: 2
+    text: "care a Marturisit despre Cuvintul lui Yaue si despre Marturia lui Yasua\
+      \ haMasiya si a spus tot ce a vazut."
+    textWithDiacritics: "care a Mărturisit despre Cuvîntul lui Yaue şi despre Mărturia\
+      \ lui Yașua haMaşiya şi a spus tot ce a văzut."
+    chapter: null
+  - verseNumber: 3
+    text: "Ferice de cine citeste si de cei ce asculta cuvintele acestei prorocii\
+      \ si pazesc lucrurile scrise in ea! Caci vremea este aproape!"
+    textWithDiacritics: "Ferice de cine citeşte şi de cei ce ascultă cuvintele acestei\
+      \ prorocii şi păzesc lucrurile scrise în ea! Căci vremea este aproape!"
+    chapter: null
+  - verseNumber: 4
+    text: "Ioan, catre cele sapte Adunari care sunt in Asia: Har si pace voua din\
+      \ partea Celui ce este, Celui ce era si Celui ce vine din partea celor sapte\
+      \ Duhuri, care stau inaintea scaunului Sau de stapinire,"
+    textWithDiacritics: "Ioan, către cele şapte Adunări care sunt în Asia: Har şi\
+      \ pace vouă din partea Celui ce este, Celui ce era şi Celui ce vine din partea\
+      \ celor şapte Duhuri, care stau înaintea scaunului Său de stăpînire,"
+    chapter: null
+  - verseNumber: 5
+    text: "Din partea lui Yasua haMasiya, Martorul credincios, Cel intii nascut din\
+      \ morti, Stapinul imparatilor pamintului! Acel, care ne iubeste, care ne-a spalat\
+      \ de pacatele noastre cu singele Sau,"
+    textWithDiacritics: "Din partea lui Yașua haMaşiya, Martorul credincios, Cel î\
+      ntîi născut din morţi, Stăpînul împăraţilor pămîntului! Acel, care ne iubeş\
+      te, care ne-a spălat de păcatele noastre cu sîngele Său,"
+    chapter: null
+  - verseNumber: 6
+    text: "si ne-a facut imparati si preoti pentru al Sau Elohim si Tata: a Lui sa\
+      \ fie slava si puterea in vecii vecilor! HalleluYa"
+    textWithDiacritics: "şi ne-a făcut împăraţi şi preoţi pentru al Său Elohim şi\
+      \ Tată: a Lui să fie slava şi puterea în vecii vecilor! HalleluYa"
+    chapter: null
+  - verseNumber: 7
+    text: "Iata ca El vine pe nori. Si orice ochi Il va vedea si cei ce L-au strapuns.\
+      \ Si toate semintiile pamintului se vor boci din pricina Lui! Da, HalleluYa"
+    textWithDiacritics: "Iată că El vine pe nori. Şi orice ochi Îl va vedea şi cei\
+      \ ce L-au străpuns. Şi toate seminţiile pămîntului se vor boci din pricina Lui!\
+      \ Da, HalleluYa"
+    chapter: null
+  - verseNumber: 8
+    text: "„Eu sunt Alef si Tau, Inceputul si Sfirsitul”, zice Yaue, Elohim, „Cel\
+      \ ce este, Cel ce era si Cel ce vine, Cel Atotputernic.”"
+    textWithDiacritics: "„Eu sunt Alef şi Tau, Începutul şi Sfîrşitul”, zice Yaue,\
+      \ Elohim, „Cel ce este, Cel ce era şi Cel ce vine, Cel Atotputernic.”"
+    chapter: null
+  - verseNumber: 9
+    text: "Eu Ioan fratele vostru, care sunt partas cu voi la necaz, la Imparatie\
+      \ si la rabdarea in Yasua haMasiya, ma aflam in ostrovul care se cheama Patmos,\
+      \ din pricina Cuvintului lui Yaue si din pricina Marturiei lui Yasua haMasiya."
+    textWithDiacritics: "Eu Ioan fratele vostru, care sunt părtaş cu voi la necaz,\
+      \ la Împărăţie şi la răbdarea în Yașua haMaşiya, mă aflam în ostrovul care se\
+      \ cheamă Patmos, din pricina Cuvîntului lui Yaue şi din pricina Mărturiei lui\
+      \ Yașua haMaşiya."
+    chapter: null
+  - verseNumber: 10
+    text: "Prin Duhul Sau eram in ziua lui Yaue. Si am auzit inapoia mea un glas puternic,\
+      \ ca sunetul unei trimbite,"
+    textWithDiacritics: "Prin Duhul Său eram în ziua lui Yaue. Şi am auzit înapoia\
+      \ mea un glas puternic, ca sunetul unei trîmbiţe,"
+    chapter: null
+  - verseNumber: 11
+    text: "care zicea: „Eu sunt Alep si Tau, Cel Dintii si Cel de pe Urma. Ce vezi,\
+      \ scrie intr-o carte si trimite-o celor sapte Adunari: la Efes, Smirna, Pergam,\
+      \ Tiatira, Sardes, Filadelfia si Laodiceea.”"
+    textWithDiacritics: "care zicea: „Eu sunt Alep şi Tau, Cel Dintîi şi Cel de pe\
+      \ Urmă. Ce vezi, scrie într-o carte şi trimite-o celor şapte Adunari: la Efes,\
+      \ Smirna, Pergam, Tiatira, Sardes, Filadelfia şi Laodiceea.”"
+    chapter: null
+  - verseNumber: 12
+    text: "M-am intors sa vad glasul care-mi vorbea. Si, cind m-am intors, am vazut\
+      \ sapte sfesnice de aur."
+    textWithDiacritics: "M-am întors să văd glasul care-mi vorbea. Şi, cînd m-am î\
+      ntors, am văzut şapte sfeşnice de aur."
+    chapter: null
+  - verseNumber: 13
+    text: "Si in mijlocul celor sapte sfesnice, pe Cineva care semana cu Fiul Omului,\
+      \ imbracat cu o haina lunga pina la picioare si incins la piept cu un briu de\
+      \ aur."
+    textWithDiacritics: "Şi în mijlocul celor şapte sfeşnice, pe Cineva care semă\
+      na cu Fiul Omului, îmbrăcat cu o haină lungă pînă la picioare şi încins la piept\
+      \ cu un brîu de aur."
+    chapter: null
+  - verseNumber: 14
+    text: "Capul si parul Lui erau albe ca lina alba, ca zapada; ochii Lui erau ca\
+      \ para focului;"
+    textWithDiacritics: "Capul şi părul Lui erau albe ca lîna albă, ca zăpada; ochii\
+      \ Lui erau ca para focului;"
+    chapter: null
+  - verseNumber: 15
+    text: "picioarele Lui erau ca arama aprinsa si arsa intr-un cuptor; si glasul\
+      \ Lui era ca vuietul unor ape mari."
+    textWithDiacritics: "picioarele Lui erau ca arama aprinsă şi arsă într-un cuptor;\
+      \ şi glasul Lui era ca vuietul unor ape mari."
+    chapter: null
+  - verseNumber: 16
+    text: "In mina dreapta tinea sapte stele. Din gura Lui iesea o sabie ascutita\
+      \ cu doua taisuri, si fata Lui era ca soarele cind straluceste in toata puterea\
+      \ lui."
+    textWithDiacritics: "În mîna dreaptă ţinea şapte stele. Din gura Lui ieşea o sabie\
+      \ ascuţită cu două tăişuri, şi faţa Lui era ca soarele cînd străluceşte în toată\
+      \ puterea lui."
+    chapter: null
+  - verseNumber: 17
+    text: "Cind L-am vazut am cazut la picioarele Lui ca mort. El Si-a pus mina dreapta\
+      \ peste mine si a zis: „Nu te teme! Eu sunt. Sint Cel Dintii si Cel de pe Urma,"
+    textWithDiacritics: "Cînd L-am văzut am căzut la picioarele Lui ca mort. El Ş\
+      i-a pus mîna dreaptă peste mine şi a zis: „Nu te teme! Eu sunt. Sînt Cel Dintî\
+      i şi Cel de pe Urmă,"
+    chapter: null
+  - verseNumber: 18
+    text: "Cel Viu. Am fost mort, si iata ca sunt viu in vecii vecilor. Eu tin cheile\
+      \ mortii si ale Locuintei mortilor."
+    textWithDiacritics: "Cel Viu. Am fost mort, şi iată că sunt viu în vecii vecilor.\
+      \ Eu ţin cheile morţii şi ale Locuinţei morţilor."
+    chapter: null
+  - verseNumber: 19
+    text: "Scrie dar, lucrurile pe care le-ai vazut, lucrurile care sunt si cele care\
+      \ au sa fie dupa ele."
+    textWithDiacritics: "Scrie dar, lucrurile pe care le-ai văzut, lucrurile care\
+      \ sunt şi cele care au să fie după ele."
+    chapter: null
+  - verseNumber: 20
+    text: "Taina celor sapte stele pe care le-ai vazut in mina dreapta a Mea si a\
+      \ celor sapte sfesnice de aur: cele sapte stele sunt ingerii celor sapte Adunari;\
+      \ si cele sapte sfesnice sunt sapte Adunari."
+    textWithDiacritics: "Taina celor şapte stele pe care le-ai văzut în mîna dreaptă\
+      \ a Mea şi a celor şapte sfeşnice de aur: cele şapte stele sunt îngerii celor\
+      \ şapte Adunari; şi cele şapte sfeşnice sunt şapte Adunari."
+    chapter: null
+- number: 2
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Ingerului Adunarii din Efes scrie-i: „Iata ce zice Cel ce tine cele sapte\
+      \ stele in mina dreapta si Cel ce umbla prin mijlocul celor sapte sfesnice de\
+      \ aur:"
+    textWithDiacritics: "Îngerului Adunării din Efes scrie-i: „Iată ce zice Cel ce\
+      \ ţine cele şapte stele în mîna dreaptă şi Cel ce umblă prin mijlocul celor\
+      \ şapte sfeşnice de aur:"
+    chapter: null
+  - verseNumber: 2
+    text: "„Stiulucrul tau, osteneala ta si rabdarea ta, si ca nu poti suferi pe cei\
+      \ rai; ca ai pus la incercare pe cei ce zic ca sunt apostoli, si nu sunt, si\
+      \ i-ai gasit mincinosi."
+    textWithDiacritics: "„Ştiulucrul tău, osteneala ta şi răbdarea ta, şi că nu poţ\
+      i suferi pe cei răi; că ai pus la încercare pe cei ce zic că sunt apostoli,\
+      \ şi nu sunt, şi i-ai găsit mincinoşi."
+    chapter: null
+  - verseNumber: 3
+    text: "Stiu ca ai rabdare, ca ai suferit din pricina Numelui Meu si ca n-ai obosit."
+    textWithDiacritics: "Ştiu că ai răbdare, că ai suferit din pricina Numelui Meu\
+      \ şi că n-ai obosit."
+    chapter: null
+  - verseNumber: 4
+    text: "Dar ce am impotriva ta este ca ti-ai parasit dragostea dintii."
+    textWithDiacritics: "Dar ce am împotriva ta este că ţi-ai părăsit dragostea dintî\
+      i."
+    chapter: null
+  - verseNumber: 5
+    text: "Adu-ti, dar, aminte de unde ai cazut; pocaieste-te si intoarce-te la lucru\
+      \ tau din dragostea dintii. Altfel, voi veni la tine si-ti voi lua sfesnicul\
+      \ din locul lui, daca nu te pocaiesti."
+    textWithDiacritics: "Adu-ţi, dar, aminte de unde ai căzut; pocăieşte-te şi întoarce-te\
+      \ la lucru tău din dragostea dintîi. Altfel, voi veni la tine şi-ţi voi lua\
+      \ sfeşnicul din locul lui, dacă nu te pocăieşti."
+    chapter: null
+  - verseNumber: 6
+    text: "Ai insa lucrul acesta bun: ca urasti lucrarile nicolaitilor pe care si\
+      \ Eu le urasc."
+    textWithDiacritics: "Ai însă lucrul acesta bun: că urăşti lucrările nicolaiţilor\
+      \ pe care şi Eu le urăsc."
+    chapter: null
+  - verseNumber: 7
+    text: "Cine are urechi sa asculte ce zice Adunarilor Duhul: „Celui ce va birui\
+      \ ii voi da sa manince din pomul vietii, care este in raiul lui Yaue.”"
+    textWithDiacritics: "Cine are urechi să asculte ce zice Adunărilor Duhul: „Celui\
+      \ ce va birui îi voi da să mănînce din pomul vieţii, care este în raiul lui\
+      \ Yaue.”"
+    chapter: null
+  - verseNumber: 8
+    text: "Ingerului Adunarii din Smirna scrie-i: „Iata ce zice Cel Dintii si Cel\
+      \ de pe Urma, Cel ce a murit si a inviat:"
+    textWithDiacritics: "Îngerului Adunării din Smirna scrie-i: „Iată ce zice Cel\
+      \ Dintîi şi Cel de pe Urmă, Cel ce a murit şi a înviat:"
+    chapter: null
+  - verseNumber: 9
+    text: "„Stiu necazul tau si saracia ta dar esti bogat si batjocurile din partea\
+      \ celor ce zic ca sunt iudei, si nu sunt, ci sunt o sinagoga a Satanei."
+    textWithDiacritics: "„Ştiu necazul tău şi sărăcia ta dar eşti bogat şi batjocurile\
+      \ din partea celor ce zic că sunt iudei, şi nu sunt, ci sunt o sinagogă a Satanei."
+    chapter: null
+  - verseNumber: 10
+    text: "Nu te teme nicidecum de ce ai sa suferi. Iata ca diavolul are sa arunce\
+      \ in temnita pe unii din voi, ca sa va incerce. Si veti avea un necaz de zece\
+      \ zile. Fii credincios pina la moarte, si-ti voi da cununa vietii.”"
+    textWithDiacritics: "Nu te teme nicidecum de ce ai să suferi. Iată că diavolul\
+      \ are să arunce în temniţă pe unii din voi, ca să vă încerce. Şi veţi avea un\
+      \ necaz de zece zile. Fii credincios pînă la moarte, şi-ţi voi da cununa vieţ\
+      ii.”"
+    chapter: null
+  - verseNumber: 11
+    text: "Cine are urechi sa asculte ce zice Adunarilor Duhul: „Cel ce va birui nicidecum\
+      \ nu va fi vatamat de a doua moarte.”"
+    textWithDiacritics: "Cine are urechi să asculte ce zice Adunărilor Duhul: „Cel\
+      \ ce va birui nicidecum nu va fi vătămat de a doua moarte.”"
+    chapter: null
+  - verseNumber: 12
+    text: "Ingerului Adunarii din Pergam scrie-i: „Iata ce zice Cel ce are sabia ascutita\
+      \ cu doua taisuri:"
+    textWithDiacritics: "Îngerului Adunării din Pergam scrie-i: „Iată ce zice Cel\
+      \ ce are sabia ascuţită cu două tăişuri:"
+    chapter: null
+  - verseNumber: 13
+    text: "„Stiu unde locuiesti: acolo unde este scaunul de stapinire al Satanei.\
+      \ Tu tii Numele Meu si n-ai lepadat credinta Mea nici chiar in zilele acelea\
+      \ cind Antipa, martorul Meu credincios, a fost ucis la voi, acolo unde locuieste\
+      \ Satana."
+    textWithDiacritics: "„Ştiu unde locuieşti: acolo unde este scaunul de stăpînire\
+      \ al Satanei. Tu ţii Numele Meu şi n-ai lepădat credinţa Mea nici chiar în zilele\
+      \ acelea cînd Antipa, martorul Meu credincios, a fost ucis la voi, acolo unde\
+      \ locuieşte Satana."
+    chapter: null
+  - verseNumber: 14
+    text: "Dar am ceva impotriva ta. Tu ai acolo niste oameni care tin de invatatura\
+      \ lui Balaam, care a invatat pe Balac sa puna o piatra de poticnire inaintea\
+      \ copiilor lui Israel, ca sa manince din lucrurile jertfite idolilor si sa se\
+      \ dedea la curvie."
+    textWithDiacritics: "Dar am ceva împotriva ta. Tu ai acolo nişte oameni care ţ\
+      in de învăţătura lui Balaam, care a învăţat pe Balac să pună o piatră de poticnire\
+      \ înaintea copiilor lui Israel, ca să mănînce din lucrurile jertfite idolilor\
+      \ şi să se dedea la curvie."
+    chapter: null
+  - verseNumber: 15
+    text: "Tot asa, si tu ai citiva care, de asemenea, tin invatatura nicolaitilor\
+      \ pe care Eu o urasc."
+    textWithDiacritics: "Tot aşa, şi tu ai cîţiva care, de asemenea, ţin învăţătura\
+      \ nicolaiţilor pe care Eu o urăsc."
+    chapter: null
+  - verseNumber: 16
+    text: "Pocaieste-te, dar. Altfel, voi veni la tine curind si Ma voi razboi cu\
+      \ ei cu sabia gurii Mele.”"
+    textWithDiacritics: "Pocăieşte-te, dar. Altfel, voi veni la tine curînd şi Mă\
+      \ voi război cu ei cu sabia gurii Mele.”"
+    chapter: null
+  - verseNumber: 17
+    text: "Cine are urechi sa asculte ce zice Adunarilor Duhul: „Celui ce va birui\
+      \ ii voi da sa manince din mana ascunsa si-i voi da o piatra alba; si pe piatra\
+      \ aceasta este scris un nume nou pe care nu-l stie nimeni decit acela care-l\
+      \ primeste.”"
+    textWithDiacritics: "Cine are urechi să asculte ce zice Adunărilor Duhul: „Celui\
+      \ ce va birui îi voi da să mănînce din mana ascunsă şi-i voi da o piatră albă\
+      ; şi pe piatra aceasta este scris un nume nou pe care nu-l ştie nimeni decî\
+      t acela care-l primeşte.”"
+    chapter: null
+  - verseNumber: 18
+    text: "Ingerului Adunarii din Tiatira scrie-i: „Iata ce zice Fiul lui Yaue, care\
+      \ are ochii ca para focului si ale carui picioare sunt ca arama aprinsa:"
+    textWithDiacritics: "Îngerului Adunării din Tiatira scrie-i: „Iată ce zice Fiul\
+      \ lui Yaue, care are ochii ca para focului şi ale cărui picioare sunt ca arama\
+      \ aprinsă:"
+    chapter: null
+  - verseNumber: 19
+    text: "„Stiu lucrule tale, dragostea ta, credinta ta, slujba ta, rabdarea ta si\
+      \ lucruarile tale de pe urma, ca sunt mai multe decit cele dintii."
+    textWithDiacritics: "„Ştiu lucrule tale, dragostea ta, credinţa ta, slujba ta,\
+      \ răbdarea ta şi lucruările tale de pe urmă, că sunt mai multe decît cele dintî\
+      i."
+    chapter: null
+  - verseNumber: 20
+    text: "Dar iata ce am impotriva ta: tu lasi ca Izabela, femeia aceea care se zice\
+      \ prorocita, sa invete si sa amageasca pe robii Mei sa se dedea la curvie si\
+      \ sa manince din lucrurile jertfite idolilor."
+    textWithDiacritics: "Dar iată ce am împotriva ta: tu laşi ca Izabela, femeia aceea\
+      \ care se zice prorociţă, să înveţe şi să amăgească pe robii Mei să se dedea\
+      \ la curvie şi să mănînce din lucrurile jertfite idolilor."
+    chapter: null
+  - verseNumber: 21
+    text: "I-am dat vreme sa se pocaiasca, dar nu vrea sa se pocaiasca de curvia ei!"
+    textWithDiacritics: "I-am dat vreme să se pocăiască, dar nu vrea să se pocăiască\
+      \ de curvia ei!"
+    chapter: null
+  - verseNumber: 22
+    text: "Iata ca am s-o arunc bolnava in pat; si celor ce preacurvesc cu ea am sa\
+      \ le trimit un necaz mare, daca nu se vor pocai de lucrul lor."
+    textWithDiacritics: "Iată că am s-o arunc bolnavă în pat; şi celor ce preacurvesc\
+      \ cu ea am să le trimit un necaz mare, dacă nu se vor pocăi de lucrul lor."
+    chapter: null
+  - verseNumber: 23
+    text: "Voi lovi cu moartea pe copiii ei. Si toate Adunarele vor cunoaste ca „\
+      Eu sunt Cel ce cercetez rarunchii si inima” si voi rasplati fiecaruia din voi\
+      \ dupa lucrul lui."
+    textWithDiacritics: "Voi lovi cu moartea pe copiii ei. Şi toate Adunarele vor\
+      \ cunoaşte că „Eu sunt Cel ce cercetez rărunchii şi inima” şi voi răsplăti fiecă\
+      ruia din voi după lucrul lui."
+    chapter: null
+  - verseNumber: 24
+    text: "Voua insa tuturor celorlalti din Tiatira, care nu aveti invatatura aceasta\
+      \ si n-ati cunoscut „adincimile Satanei” cum le numesc ei, va zic: „Nu pun peste\
+      \ voi alta greutate."
+    textWithDiacritics: "Vouă însă tuturor celorlalţi din Tiatira, care nu aveţi î\
+      nvăţătura aceasta şi n-aţi cunoscut „adîncimile Satanei” cum le numesc ei, vă\
+      \ zic: „Nu pun peste voi altă greutate."
+    chapter: null
+  - verseNumber: 25
+    text: "Numai tineti cu tarie ce aveti, pina voi veni!"
+    textWithDiacritics: "Numai ţineţi cu tărie ce aveţi, pînă voi veni!"
+    chapter: null
+  - verseNumber: 26
+    text: "Celui ce va birui si celui ce va pazi pina la sfirsit lucrarile Mele ii\
+      \ voi da stapinire peste popoare."
+    textWithDiacritics: "Celui ce va birui şi celui ce va păzi pînă la sfîrşit lucră\
+      rile Mele îi voi da stăpînire peste popoare."
+    chapter: null
+  - verseNumber: 27
+    text: "Le va cirmui cu un toiag de fier si le va zdrobi ca pe niste vase de lut,\
+      \ cum am primit si Eu putere de la Tatal Meu."
+    textWithDiacritics: "Le va cîrmui cu un toiag de fier şi le va zdrobi ca pe niş\
+      te vase de lut, cum am primit şi Eu putere de la Tatăl Meu."
+    chapter: null
+  - verseNumber: 28
+    text: "Si-i voi da luceafarul de dimineata.”"
+    textWithDiacritics: "Şi-i voi da luceafărul de dimineaţă.”"
+    chapter: null
+  - verseNumber: 29
+    text: "Cine are urechi sa asculte ce zice Adunarilor Duhul.”"
+    textWithDiacritics: "Cine are urechi să asculte ce zice Adunărilor Duhul.”"
+    chapter: null
+- number: 3
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Ingerului Adunarii din Sardes scrie-i: „Iata ce zice Cel ce are cele sapte\
+      \ Duhuri ale lui Yaue si cele sapte stele: „Stiulucrul tau: ca iti merge numele\
+      \ ca traiesti, dar esti mort."
+    textWithDiacritics: "Îngerului Adunării din Sardes scrie-i: „Iată ce zice Cel\
+      \ ce are cele şapte Duhuri ale lui Yaue şi cele şapte stele: „Ştiulucrul tă\
+      u: că îţi merge numele că trăieşti, dar eşti mort."
+    chapter: null
+  - verseNumber: 2
+    text: "Vegheaza si intareste ce ramine, care e pe moarte, caci n-am gasit lucrarile\
+      \ tale desavirsite inaintea lui Yaue."
+    textWithDiacritics: "Veghează şi întăreşte ce rămîne, care e pe moarte, căci n-am\
+      \ găsit lucrările tale desăvîrşite înaintea lui Yaue."
+    chapter: null
+  - verseNumber: 3
+    text: "Adu-ti aminte, dar, cum ai primit si auzit! Tine si pocaieste-te! Daca\
+      \ nu veghezi, voi veni ca un hot, si nu vei sti in care ceas voi veni peste\
+      \ tine."
+    textWithDiacritics: "Adu-ţi aminte, dar, cum ai primit şi auzit! Ţine şi pocă\
+      ieşte-te! Dacă nu veghezi, voi veni ca un hoţ, şi nu vei şti în care ceas voi\
+      \ veni peste tine."
+    chapter: null
+  - verseNumber: 4
+    text: "Totusi ai in Sardes citeva nume care nu si-au minjit hainele. Ei vor umbla\
+      \ impreuna cu Mine, imbracati in alb, fiindca sunt vrednici."
+    textWithDiacritics: "Totuşi ai în Sardes cîteva nume care nu şi-au mînjit hainele.\
+      \ Ei vor umbla împreună cu Mine, îmbrăcaţi în alb, fiindcă sunt vrednici."
+    chapter: null
+  - verseNumber: 5
+    text: "Cel ce va birui va fi imbracat astfel in haine albe. Nu-i voi sterge nicidecum\
+      \ numele din Cartea vietii si voi Marturisi numele lui inaintea Tatalui Meu\
+      \ si inaintea ingerilor Lui.”"
+    textWithDiacritics: "Cel ce va birui va fi îmbrăcat astfel în haine albe. Nu-i\
+      \ voi şterge nicidecum numele din Cartea vieţii şi voi Mărturisi numele lui\
+      \ înaintea Tatălui Meu şi înaintea îngerilor Lui.”"
+    chapter: null
+  - verseNumber: 6
+    text: "Cine are urechi sa asculte ce zice Adunarilor Duhul.”"
+    textWithDiacritics: "Cine are urechi să asculte ce zice Adunărilor Duhul.”"
+    chapter: null
+  - verseNumber: 7
+    text: "Ingerului Adunarii din Filadelfia scrie-i: „Iata ce zice Cel Sfint, Cel\
+      \ Adevarat, Cel ce tine cheia lui David, Cel ce deschide, si nimeni nu va inchide,\
+      \ Cel ce inchide si nimeni nu va deschide:"
+    textWithDiacritics: "Îngerului Adunării din Filadelfia scrie-i: „Iată ce zice\
+      \ Cel Sfînt, Cel Adevărat, Cel ce ţine cheia lui David, Cel ce deschide, şi\
+      \ nimeni nu va închide, Cel ce închide şi nimeni nu va deschide:"
+    chapter: null
+  - verseNumber: 8
+    text: "„Stiulucrul tau: iata, ti-am pus inainte o usa deschisa pe care nimeni\
+      \ n-o poate inchide, caci ai putina putere, si ai pazit Cuvintul Meu si n-ai\
+      \ tagaduit Numele Meu."
+    textWithDiacritics: "„Ştiulucrul tău: iată, ţi-am pus înainte o uşă deschisă pe\
+      \ care nimeni n-o poate închide, căci ai puţină putere, şi ai păzit Cuvîntul\
+      \ Meu şi n-ai tăgăduit Numele Meu."
+    chapter: null
+  - verseNumber: 9
+    text: "Iata ca iti dau din cei ce sunt in sinagoga Satanei, care zic ca sunt iudei\
+      \ si nu sunt, ci mint; iata ca ii voi face sa vina sa se inchine la picioarele\
+      \ tale, si sa stie ca te-am iubit."
+    textWithDiacritics: "Iată că îţi dau din cei ce sunt în sinagoga Satanei, care\
+      \ zic că sunt iudei şi nu sunt, ci mint; iată că îi voi face să vină să se î\
+      nchine la picioarele tale, şi să ştie că te-am iubit."
+    chapter: null
+  - verseNumber: 10
+    text: "Fiindca ai pazit Cuvintul rabdarii Mele, te voi pazi si Eu de ceasul incercarii,\
+      \ care are sa vina peste lumea intreaga ca sa incerce pe locuitorii pamintului."
+    textWithDiacritics: "Fiindcă ai păzit Cuvîntul răbdării Mele, te voi păzi şi Eu\
+      \ de ceasul încercării, care are să vină peste lumea întreagă ca să încerce\
+      \ pe locuitorii pămîntului."
+    chapter: null
+  - verseNumber: 11
+    text: "Eu vin curind. Pastreaza ce ai, ca nimeni sa nu-ti ia cununa."
+    textWithDiacritics: "Eu vin curînd. Păstrează ce ai, ca nimeni să nu-ţi ia cununa."
+    chapter: null
+  - verseNumber: 12
+    text: "Pe cel ce va birui il voi face un stilp in Templul lui Elohim al Meu, si\
+      \ nu va mai iesi afara din el. Voi scrie pe el Numele lui Elohim al Meu, si\
+      \ numele cetatii lui Elohim al Meu, Noul Ierusalim, care are sa se coboare din\
+      \ cer de la Elohim al Meu, si Eu voi scrie pe el Numele Meu cel nou.”"
+    textWithDiacritics: "Pe cel ce va birui îl voi face un stîlp în Templul lui Elohim\
+      \ al Meu, şi nu va mai ieşi afară din el. Voi scrie pe el Numele lui Elohim\
+      \ al Meu, şi numele cetăţii lui Elohim al Meu, Noul Ierusalim, care are să se\
+      \ coboare din cer de la Elohim al Meu, şi Eu voi scrie pe el Numele Meu cel\
+      \ nou.”"
+    chapter: null
+  - verseNumber: 13
+    text: "Cine are urechi sa asculte ce zice Adunarilor Duhul.”"
+    textWithDiacritics: "Cine are urechi să asculte ce zice Adunărilor Duhul.”"
+    chapter: null
+  - verseNumber: 14
+    text: "Ingerului Adunarii din Laodiceea scrie-i: „Iata ce zice Cel ce este; HalleluYa,\
+      \ Martorul credincios si adevarat, Inceputul creatiei lui Yaue:"
+    textWithDiacritics: "Îngerului Adunării din Laodiceea scrie-i: „Iată ce zice Cel\
+      \ ce este; HalleluYa, Martorul credincios şi adevărat, Începutul creației lui\
+      \ Yaue:"
+    chapter: null
+  - verseNumber: 15
+    text: "„Stiu lucrarile tale: ca nu esti nici rece, nici in clocot. O, daca ai\
+      \ fi rece sau in clocot!"
+    textWithDiacritics: "„Ştiu lucrările tale: că nu eşti nici rece, nici în clocot.\
+      \ O, dacă ai fi rece sau în clocot!"
+    chapter: null
+  - verseNumber: 16
+    text: "Dar, fiindca esti caldicel, nici rece, nici in clocot, am sa te vars din\
+      \ gura Mea."
+    textWithDiacritics: "Dar, fiindcă eşti căldicel, nici rece, nici în clocot, am\
+      \ să te vărs din gura Mea."
+    chapter: null
+  - verseNumber: 17
+    text: "Pentru ca zici: „Sunt bogat, m-am imbogatit, si nu duc lipsa de nimic,”\
+      \ si nu stii ca esti ticalos, nenorocit, sarac, orb si gol,"
+    textWithDiacritics: "Pentru că zici: „Sunt bogat, m-am îmbogăţit, şi nu duc lipsă\
+      \ de nimic,” şi nu ştii că eşti ticălos, nenorocit, sărac, orb şi gol,"
+    chapter: null
+  - verseNumber: 18
+    text: "te sfatuiesc sa cumperi de la Mine aur curatat prin foc, ca sa te imbogatesti;\
+      \ si haine albe, ca sa te imbraci cu ele si sa nu ti se vada rusinea goliciunii\
+      \ tale; si doctorie pentru ochi, ca sa-ti ungi ochii si sa vezi."
+    textWithDiacritics: "te sfătuiesc să cumperi de la Mine aur curăţat prin foc,\
+      \ ca să te îmbogăţeşti; şi haine albe, ca să te îmbraci cu ele şi să nu ţi se\
+      \ vadă ruşinea goliciunii tale; şi doctorie pentru ochi, ca să-ţi ungi ochii\
+      \ şi să vezi."
+    chapter: null
+  - verseNumber: 19
+    text: "Eu mustru si pedepsesc pe toti aceia pe care-i iubesc. Fii plin de rivna,\
+      \ dar, si pocaieste-te!"
+    textWithDiacritics: "Eu mustru şi pedepsesc pe toţi aceia pe care-i iubesc. Fii\
+      \ plin de rîvnă, dar, şi pocăieşte-te!"
+    chapter: null
+  - verseNumber: 20
+    text: "Iata Eu stau la usa si bat. Daca aude cineva glasul Meu si deschide usa,\
+      \ voi intra la el, voi cina cu el, si el cu Mine."
+    textWithDiacritics: "Iată Eu stau la uşă şi bat. Dacă aude cineva glasul Meu ş\
+      i deschide uşa, voi intra la el, voi cina cu el, şi el cu Mine."
+    chapter: null
+  - verseNumber: 21
+    text: "Celui ce va birui ii voi da sa sada cu Mine pe scaunul Meu de stapinire,\
+      \ dupa cum si Eu am biruit si am sezut cu Tatal Meu pe scaunul Lui de stapinire.”"
+    textWithDiacritics: "Celui ce va birui îi voi da să şadă cu Mine pe scaunul Meu\
+      \ de stăpînire, după cum şi Eu am biruit şi am şezut cu Tatăl Meu pe scaunul\
+      \ Lui de stăpînire.”"
+    chapter: null
+  - verseNumber: 22
+    text: "Cine are urechi sa asculte ce zice Adunarilor Duhul.”"
+    textWithDiacritics: "Cine are urechi să asculte ce zice Adunărilor Duhul.”"
+    chapter: null
+- number: 4
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Dupa aceste lucruri, m-am uitat si iata ca o usa era deschisa in cer. Glasul\
+      \ cel dintii, pe care-l auzisem ca sunetul unei trimbite si care vorbea cu mine,\
+      \ mi-a zis: „Suie-te aici, si-ti voi arata ce are sa se intimple dupa aceste\
+      \ lucruri!”"
+    textWithDiacritics: "După aceste lucruri, m-am uitat şi iată că o uşă era deschisă\
+      \ în cer. Glasul cel dintîi, pe care-l auzisem ca sunetul unei trîmbiţe şi care\
+      \ vorbea cu mine, mi-a zis: „Suie-te aici, şi-ţi voi arăta ce are să se întî\
+      mple după aceste lucruri!”"
+    chapter: null
+  - verseNumber: 2
+    text: "Numaidecit am fost rapit in Duhul. Si iata ca in cer era pus un scaun de\
+      \ stapinire, si pe scaunul acesta de stapinire sedea Cineva."
+    textWithDiacritics: "Numaidecît am fost răpit în Duhul. Şi iată că în cer era\
+      \ pus un scaun de stăpînire, şi pe scaunul acesta de stăpînire şedea Cineva."
+    chapter: null
+  - verseNumber: 3
+    text: "Cel ce sedea pe el avea infatisarea unei pietre de jasp si de sardiu; si\
+      \ scaunul de stapinire era inconjurat cu un curcubeu ca o piatra de smarald\
+      \ la vedere."
+    textWithDiacritics: "Cel ce şedea pe el avea înfăţişarea unei pietre de jasp ş\
+      i de sardiu; şi scaunul de stăpînire era înconjurat cu un curcubeu ca o piatră\
+      \ de smarald la vedere."
+    chapter: null
+  - verseNumber: 4
+    text: "Imprejurul scaunului de stapinire stateau douazeci si patru de scaune de\
+      \ stapinire; si pe aceste scaune de stapinire stateau douazeci si patru de batrini,\
+      \ imbracati in haine albe; si pe capete aveau cununi de aur."
+    textWithDiacritics: "Împrejurul scaunului de stăpînire stăteau douăzeci şi patru\
+      \ de scaune de stăpînire; şi pe aceste scaune de stăpînire stăteau douăzeci\
+      \ şi patru de bătrîni, îmbrăcaţi în haine albe; şi pe capete aveau cununi de\
+      \ aur."
+    chapter: null
+  - verseNumber: 5
+    text: "Din scaunul de stapinire ieseau fulgere, glasuri si tunete. Inaintea scaunului\
+      \ de stapinire ardeau sapte lampi de foc, care sunt cele sapte Duhuri ale lui\
+      \ Yaue."
+    textWithDiacritics: "Din scaunul de stăpînire ieşeau fulgere, glasuri şi tunete.\
+      \ Înaintea scaunului de stăpînire ardeau şapte lămpi de foc, care sunt cele\
+      \ şapte Duhuri ale lui Yaue."
+    chapter: null
+  - verseNumber: 6
+    text: "In fata scaunului de stapinire mai este un fel de mare de sticla, asemenea\
+      \ cristalului. In mijlocul scaunului de stapinire si imprejurul scaunului de\
+      \ stapinire stau patru fapturi vii, pline cu ochi pe dinainte si pe dinapoi."
+    textWithDiacritics: "În faţa scaunului de stăpînire mai este un fel de mare de\
+      \ sticlă, asemenea cristalului. În mijlocul scaunului de stăpînire şi împrejurul\
+      \ scaunului de stăpînire stau patru făpturi vii, pline cu ochi pe dinainte ş\
+      i pe dinapoi."
+    chapter: null
+  - verseNumber: 7
+    text: "Cea dintii faptura vie seamana cu un leu; a doua seamana cu un vitel; a\
+      \ treia are fata ca a unui om; si a patra seamana cu un vultur care zboara."
+    textWithDiacritics: "Cea dintîi făptură vie seamănă cu un leu; a doua seamănă\
+      \ cu un viţel; a treia are faţa ca a unui om; şi a patra seamănă cu un vultur\
+      \ care zboară."
+    chapter: null
+  - verseNumber: 8
+    text: "Fiecare din aceste patru fapturi vii avea cite sase aripi si erau pline\
+      \ cu ochii de jur imprejur si pe dinauntru. Zi si noapte strigau fara incetare:\
+      \ „Sfint, sfint, sfint, este Yaue Cel Atotputernic, care era, care este, care\
+      \ vine!”"
+    textWithDiacritics: "Fiecare din aceste patru făpturi vii avea cîte şase aripi\
+      \ şi erau pline cu ochii de jur împrejur şi pe dinăuntru. Zi şi noapte strigau\
+      \ fără încetare: „Sfînt, sfînt, sfînt, este Yaue Cel Atotputernic, care era,\
+      \ care este, care vine!”"
+    chapter: null
+  - verseNumber: 9
+    text: "Cind aceste fapturi vii aduceau slava, cinste si multumiri Celui ce sedea\
+      \ pe scaunul de stapinire si care este viu in vecii vecilor,"
+    textWithDiacritics: "Cînd aceste făpturi vii aduceau slavă, cinste şi mulţumiri\
+      \ Celui ce şedea pe scaunul de stăpînire şi care este viu în vecii vecilor,"
+    chapter: null
+  - verseNumber: 10
+    text: "cei douazeci si patru de batrini cadeau inaintea Celui ce sedea pe scaunul\
+      \ de stapinire si se inchinau Celui ce este viu in vecii vecilor, isi aruncau\
+      \ cununile inaintea scaunului de stapinire si ziceau:"
+    textWithDiacritics: "cei douăzeci şi patru de bătrîni cădeau înaintea Celui ce\
+      \ şedea pe scaunul de stăpînire şi se închinau Celui ce este viu în vecii vecilor,\
+      \ îşi aruncau cununile înaintea scaunului de stăpînire şi ziceau:"
+    chapter: null
+  - verseNumber: 11
+    text: "„Vrednic esti, o Yaue, sa primesti slava, cinstea si puterea, caci Tu ai\
+      \ creat toate lucrurile si prin voia Ta stau in fiinta si au fost create!”"
+    textWithDiacritics: "„Vrednic eşti, o Yaue, să primeşti slava, cinstea şi puterea,\
+      \ căci Tu ai creat toate lucrurile şi prin voia Ta stau în fiinţă şi au fost\
+      \ create!”"
+    chapter: null
+- number: 5
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Apoi am vazut in mina dreapta a Celui ce sedea pe scaunul de stapinire\
+      \ o carte scrisa pe din launtru si pe din afara, pecetluita cu sapte peceti."
+    textWithDiacritics: "Apoi am văzut în mîna dreaptă a Celui ce şedea pe scaunul\
+      \ de stăpînire o carte scrisă pe din lăuntru şi pe din afară, pecetluită cu\
+      \ şapte peceţi."
+    chapter: null
+  - verseNumber: 2
+    text: "Si am vazut un inger puternic, care striga cu glas tare: „Cine este vrednic\
+      \ sa deschida cartea si sa-i rupa pecetile?”"
+    textWithDiacritics: "Şi am văzut un înger puternic, care striga cu glas tare:\
+      \ „Cine este vrednic să deschidă cartea şi să-i rupă peceţile?”"
+    chapter: null
+  - verseNumber: 3
+    text: "Si nu se gasea nimeni, nici in cer nici pe pamint, nici sub pamint, care\
+      \ sa poata deschide cartea, nici sa se uite in ea."
+    textWithDiacritics: "Şi nu se găsea nimeni, nici în cer nici pe pămînt, nici sub\
+      \ pămînt, care să poată deschide cartea, nici să se uite în ea."
+    chapter: null
+  - verseNumber: 4
+    text: "Si am plins mult pentru ca nimeni nu fusese gasit vrednic sa deschida cartea\
+      \ si sa se uite in ea."
+    textWithDiacritics: "Şi am plîns mult pentru că nimeni nu fusese găsit vrednic\
+      \ să deschidă cartea şi să se uite în ea."
+    chapter: null
+  - verseNumber: 5
+    text: "Si unul din batrini mi-a zis: „Nu plinge; iata ca Leul din semintia lui\
+      \ Iuda, Radacina lui David, a biruit ca sa deschida cartea si cele sapte peceti\
+      \ ale ei."
+    textWithDiacritics: "Şi unul din bătrîni mi-a zis: „Nu plînge; iată că Leul din\
+      \ seminţia lui Iuda, Rădăcina lui David, a biruit ca să deschidă cartea şi cele\
+      \ şapte peceţi ale ei."
+    chapter: null
+  - verseNumber: 6
+    text: "Si la mijloc, intre scaunul de stapinire si cele patru fapturi vii si intre\
+      \ batrini, am vazut stind in picioare un Miel. Parea junghiat si avea sapte\
+      \ coarne si sapte ochii, care sunt cele sapte Duhuri ale lui Yaue trimise in\
+      \ tot pamintul."
+    textWithDiacritics: "Şi la mijloc, între scaunul de stăpînire şi cele patru fă\
+      pturi vii şi între bătrîni, am văzut stînd în picioare un Miel. Părea junghiat\
+      \ şi avea şapte coarne şi şapte ochii, care sunt cele şapte Duhuri ale lui Yaue\
+      \ trimise în tot pămîntul."
+    chapter: null
+  - verseNumber: 7
+    text: "El a venit si a luat cartea din mina dreapta a Celui ce sedea pe scaunul\
+      \ de stapinire."
+    textWithDiacritics: "El a venit şi a luat cartea din mîna dreaptă a Celui ce ş\
+      edea pe scaunul de stăpînire."
+    chapter: null
+  - verseNumber: 8
+    text: "Cind a luat cartea, cele patru fapturi vii si cei douazeci si patru de\
+      \ batrini s-au aruncat la pamint inaintea Mielului, avind fiecare cite o lauta\
+      \ si potire de aur pline cu tamiie, care sunt rugaciunile sfintilor."
+    textWithDiacritics: "Cînd a luat cartea, cele patru făpturi vii şi cei douăzeci\
+      \ şi patru de bătrîni s-au aruncat la pămînt înaintea Mielului, avînd fiecare\
+      \ cîte o lăută şi potire de aur pline cu tămîie, care sunt rugăciunile sfinţ\
+      ilor."
+    chapter: null
+  - verseNumber: 9
+    text: "Si cintau o cintare noua si ziceau: „Vrednic esti Tu sa iei cartea si sa-i\
+      \ rupi pecetile: caci ai fost junghiat si ai rascumparat pentru Yaue, cu singele\
+      \ Tau, oameni din orice semintie, de orice limba, din orice norod si de orice\
+      \ neam."
+    textWithDiacritics: "Şi cîntau o cîntare nouă şi ziceau: „Vrednic eşti Tu să iei\
+      \ cartea şi să-i rupi peceţile: căci ai fost junghiat şi ai răscumpărat pentru\
+      \ Yaue, cu sîngele Tău, oameni din orice seminţie, de orice limbă, din orice\
+      \ norod şi de orice neam."
+    chapter: null
+  - verseNumber: 10
+    text: "Ai facut din noi imparati si preoti pentru al nostru Elohim, si vom imparati\
+      \ pe pamint!”"
+    textWithDiacritics: "Ai făcut din noi împărăţi şi preoţi pentru al nostru Elohim,\
+      \ şi vom împărăţi pe pămînt!”"
+    chapter: null
+  - verseNumber: 11
+    text: "M-am uitat si imprejurul scaunului de stapinire, in jurul fapturilor vii\
+      \ si in jurul batrinilor am auzit glasul multor ingeri. Numarul lor era de zece\
+      \ mii de ori zece mii si mii de mii."
+    textWithDiacritics: "M-am uitat şi împrejurul scaunului de stăpînire, în jurul\
+      \ făpturilor vii şi în jurul bătrînilor am auzit glasul multor îngeri. Numă\
+      rul lor era de zece mii de ori zece mii şi mii de mii."
+    chapter: null
+  - verseNumber: 12
+    text: "Ei ziceau cu glas tare: „Vrednic este Mielul, care a fost junghiat, sa\
+      \ primeasca puterea, bogatia, intelepciunea, taria, cinstea, slava si lauda!”"
+    textWithDiacritics: "Ei ziceau cu glas tare: „Vrednic este Mielul, care a fost\
+      \ junghiat, să primească puterea, bogăţia, înţelepciunea, tăria, cinstea, slava\
+      \ şi lauda!”"
+    chapter: null
+  - verseNumber: 13
+    text: "Si pe toate fapturile care sunt in cer, pe pamint, sub pamint, pe mare,\
+      \ si tot ce se afla in aceste locuri, le-am auzit zicind: „A Celui ce sade pe\
+      \ scaunul de stapinire si a Mielului sa fie lauda cinstea, slava si stapinirea\
+      \ in vecii vecilor!”"
+    textWithDiacritics: "Şi pe toate făpturile care sunt în cer, pe pămînt, sub pă\
+      mînt, pe mare, şi tot ce se află în aceste locuri, le-am auzit zicînd: „A Celui\
+      \ ce şade pe scaunul de stăpînire şi a Mielului să fie lauda cinstea, slava\
+      \ şi stăpînirea în vecii vecilor!”"
+    chapter: null
+  - verseNumber: 14
+    text: "Si cele patru fapturi vii ziceau: „HalleluYa!” Si cei douazeci si patru\
+      \ de batrini s-au aruncat la pamint si s-au inchinat Celui ce este viu in vecii\
+      \ vecilor!"
+    textWithDiacritics: "Şi cele patru făpturi vii ziceau: „HalleluYa!” Şi cei două\
+      zeci şi patru de bătrîni s-au aruncat la pămînt şi s-au închinat Celui ce este\
+      \ viu în vecii vecilor!"
+    chapter: null
+- number: 6
+  book: null
+  versePojo:
+  - verseNumber: 1
+    text: "Cind a rupt Mielul cea dintii din cele sapte peceti, m-am uitat si am auzit\
+      \ pe una din cele patru fapturi vii zicind cu un glas ca de tunet: „Vino si\
+      \ vezi!”"
+    textWithDiacritics: "Cînd a rupt Mielul cea dintîi din cele şapte peceţi, m-am\
+      \ uitat şi am auzit pe una din cele patru făpturi vii zicînd cu un glas ca de\
+      \ tunet: „Vino şi vezi!”"
+    chapter: null
+  - verseNumber: 2
+    text: "M-am uitat si iata ca s-a aratat un Cal Alb. Cel ce statea pe el avea un\
+      \ arc i s-a dat o cununa si a pornit biruitor si ca sa biruie."
+    textWithDiacritics: "M-am uitat şi iată că s-a arătat un Cal Alb. Cel ce stătea\
+      \ pe el avea un arc i s-a dat o cunună şi a pornit biruitor şi ca să biruie."
+    chapter: null
+  - verseNumber: 3
+    text: "Cind a rupt Mielul a doua pecete, am auzit pe a doua faptura vie zicind:\
+      \ „Vino si vezi.”"
+    textWithDiacritics: "Cînd a rupt Mielul a doua pecete, am auzit pe a doua făptură\
+      \ vie zicînd: „Vino şi vezi.”"
+    chapter: null
+  - verseNumber: 4
+    text: "Si s-a aratat un alt cal, un Cal Rosu. Cel ce statea pe el a primit puterea\
+      \ sa ia pacea de pe pamint, pentru ca oamenii sa se injunghie unii pe altii,\
+      \ si i s-a dat o sabie mare."
+    textWithDiacritics: "Şi s-a arătat un alt cal, un Cal Roşu. Cel ce stătea pe el\
+      \ a primit puterea să ia pacea de pe pămînt, pentru ca oamenii să se înjunghie\
+      \ unii pe alţii, şi i s-a dat o sabie mare."
+    chapter: null
+  - verseNumber: 5
+    text: "Cind a rupt Mielul pecetea a treia, am auzit pe a treia faptura vie zicind:\
+      \ „Vino si vezi!” M-am uitat si iata ca s-a aratat un Cal Negru. Cel ce statea\
+      \ pe el avea in mina o cumpana."
+    textWithDiacritics: "Cînd a rupt Mielul pecetea a treia, am auzit pe a treia fă\
+      ptură vie zicînd: „Vino şi vezi!” M-am uitat şi iată că s-a arătat un Cal Negru.\
+      \ Cel ce stătea pe el avea în mînă o cumpănă."
+    chapter: null
+  - verseNumber: 6
+    text: "Si, in mijlocul celor patru fapturi vii, am auzit un glas care zicea: „\
+      O masura de griu pentru un sekel! Trei masuri de orz pentru un sekel! Dar sa\
+      \ nu vatami untdelemnul si vinul!”"
+    textWithDiacritics: "Şi, în mijlocul celor patru făpturi vii, am auzit un glas\
+      \ care zicea: „O măsură de grîu pentru un şekel! Trei măsuri de orz pentru un\
+      \ şekel! Dar să nu vatămi untdelemnul şi vinul!”"
+    chapter: null
+  - verseNumber: 7
+    text: "Cind a rupt Mielul pecetea a patra, am auzit glasul fapturii a patra zicind:\
+      \ „Vino si vezi!”"
+    textWithDiacritics: "Cînd a rupt Mielul pecetea a patra, am auzit glasul făpturii\
+      \ a patra zicînd: „Vino şi vezi!”"
+    chapter: null
+  - verseNumber: 8
+    text: "M-am uitat si iata ca s-a aratat un Cal Galbui. Cel ce statea pe el se\
+      \ numea Moartea, si impreuna cu el venea dupa el Locuinta mortilor. Li s-a dat\
+      \ putere peste a patra parte a pamintului, ca sa ucida cu sabia, cu foamete,\
+      \ cu molima si cu fiarele pamintului. [Cal galbui: poate fi :Verzui ]"
+    textWithDiacritics: "M-am uitat şi iată că s-a arătat un Cal Gălbui. Cel ce stă\
+      tea pe el se numea Moartea, şi împreună cu el venea după el Locuinţa morţilor.\
+      \ Li s-a dat putere peste a patra parte a pămîntului, ca să ucidă cu sabia,\
+      \ cu foamete, cu molimă şi cu fiarele pămîntului. [Cal galbui: poate fi :Verzui\
+      \ ]"
+    chapter: null
+  - verseNumber: 9
+    text: "Cind a rupt Mielul pecetea a cincea, am vazut sub altar sufletele celor\
+      \ ce fusesera injunghiati din pricina Cuvintului lui Yaue si din pricina Marturisirii\
+      \ pe care o tinusera."
+    textWithDiacritics: "Cînd a rupt Mielul pecetea a cincea, am văzut sub altar sufletele\
+      \ celor ce fuseseră înjunghiaţi din pricina Cuvîntului lui Yaue şi din pricina\
+      \ Mărturisirii pe care o ţinuseră."
+    chapter: null
+  - verseNumber: 10
+    text: "Ei strigau cu glas tare si ziceau: „Pina cind, Stapine, Tu care esti Sfint\
+      \ si Adevarat, zabovesti sa judeci si sa razbuni singele nostru asupra locuitorilor\
+      \ pamintului?”"
+    textWithDiacritics: "Ei strigau cu glas tare şi ziceau: „Pînă cînd, Stăpîne, Tu\
+      \ care eşti Sfînt şi Adevărat, zăboveşti să judeci şi să răzbuni sîngele nostru\
+      \ asupra locuitorilor pămîntului?”"
+    chapter: null
+  - verseNumber: 11
+    text: "Fiecaruia din ei i s-a dat o haina alba si li s-a spus sa se mai odihneasca\
+      \ putina vreme, pina se va implini numarul slujbasilor de lucru si al fratilor\
+      \ lor, care aveau sa fie omoriti ca si ei."
+    textWithDiacritics: "Fiecăruia din ei i s-a dat o haină albă şi li s-a spus să\
+      \ se mai odihnească puţină vreme, pînă se va împlini numărul slujbaşilor de\
+      \ lucru şi al fraţilor lor, care aveau să fie omorîţi ca şi ei."
+    chapter: null
+  - verseNumber: 12
+    text: "Cind a rupt Mielul pecetea a sasea, m-am uitat si iata ca s-a facut un\
+      \ mare cutremur de pamint. Soarele s-a facut negru ca un sac de par, luna s-a\
+      \ facut toata ca singele,"
+    textWithDiacritics: "Cînd a rupt Mielul pecetea a şasea, m-am uitat şi iată că\
+      \ s-a făcut un mare cutremur de pămînt. Soarele s-a făcut negru ca un sac de\
+      \ păr, luna s-a făcut toată ca sîngele,"
+    chapter: null
+  - verseNumber: 13
+    text: "si stelele au cazut din cer pe pamint, cum cad smochinele verzi din pom,\
+      \ cind este scuturat de un vint puternic."
+    textWithDiacritics: "şi stelele au căzut din cer pe pămînt, cum cad smochinele\
+      \ verzi din pom, cînd este scuturat de un vînt puternic."
+    chapter: null
+  - verseNumber: 14
+    text: "Cerul s-a strins ca o carte de piele pe care o faci sul. Si toti muntii\
+      \ si toate ostroavele s-au mutat din locurile lor."
+    textWithDiacritics: "Cerul s-a strîns ca o carte de piele pe care o faci sul.\
+      \ Şi toţi munţii şi toate ostroavele s-au mutat din locurile lor."
+    chapter: null
+  - verseNumber: 15
+    text: "Imparatii pamintului, stapinitori, capitanii ostilor, cei bogati si cei\
+      \ puternici, toti robii si toti oamenii slobozi s-au ascuns in pesteri si in\
+      \ stincile muntilor."
+    textWithDiacritics: "Împăraţii pămîntului, stăpînitori, căpitanii oştilor, cei\
+      \ bogaţi şi cei puternici, toţi robii şi toţi oamenii slobozi s-au ascuns î\
+      n peşteri şi în stîncile munţilor."
+    chapter: null
+  - verseNumber: 16
+    text: "Si ziceau muntilor si stincilor: „Cadeti peste noi si ascundeti-ne de fata\
+      \ Celui ce sade pe scaunul de stapinire si de minia Mielului;"
+    textWithDiacritics: "Şi ziceau munţilor şi stîncilor: „Cădeţi peste noi şi ascundeţ\
+      i-ne de faţa Celui ce şade pe scaunul de stăpînire şi de mînia Mielului;"
+    chapter: null
+  - verseNumber: 17
+    text: "caci a venit ziua cea mare a miniei Lui, si cine poate sta in picioare?”"
+    textWithDiacritics: "căci a venit ziua cea mare a mîniei Lui, şi cine poate sta\
+      \ în picioare?”"
+    chapter: null
 - number: 7
   book: null
   versePojo:
@@ -2109,822 +2927,4 @@ chapterPojo:
     text: "Harul lui Yaue, prin Yasua haMasiya sa fie cu voi cu toti! HalleluYa! HalleluYah"
     textWithDiacritics: "Harul lui Yaue, prin Yașua haMaşiya să fie cu voi cu toţ\
       i! HalleluYa! HalleluYah"
-    chapter: null
-- number: 1
-  book: null
-  versePojo:
-  - verseNumber: 1
-    text: "Descoperirea lui Yasua haMasiya pe care i-a dat-o Yaue, ca sa arate robilor\
-      \ Sai lucrurile care au sa se intimple in curind. Si le-a facut-o cunoscut,\
-      \ trimitind, prin ingerul Sau, la robul Sau Ioan"
-    textWithDiacritics: "Descoperirea lui Yașua haMaşiya pe care i-a dat-o Yaue, ca\
-      \ să arate robilor Săi lucrurile care au să se întîmple în curînd. Şi le-a fă\
-      cut-o cunoscut, trimiţînd, prin îngerul Său, la robul Său Ioan"
-    chapter: null
-  - verseNumber: 2
-    text: "care a Marturisit despre Cuvintul lui Yaue si despre Marturia lui Yasua\
-      \ haMasiya si a spus tot ce a vazut."
-    textWithDiacritics: "care a Mărturisit despre Cuvîntul lui Yaue şi despre Mărturia\
-      \ lui Yașua haMaşiya şi a spus tot ce a văzut."
-    chapter: null
-  - verseNumber: 3
-    text: "Ferice de cine citeste si de cei ce asculta cuvintele acestei prorocii\
-      \ si pazesc lucrurile scrise in ea! Caci vremea este aproape!"
-    textWithDiacritics: "Ferice de cine citeşte şi de cei ce ascultă cuvintele acestei\
-      \ prorocii şi păzesc lucrurile scrise în ea! Căci vremea este aproape!"
-    chapter: null
-  - verseNumber: 4
-    text: "Ioan, catre cele sapte Adunari care sunt in Asia: Har si pace voua din\
-      \ partea Celui ce este, Celui ce era si Celui ce vine din partea celor sapte\
-      \ Duhuri, care stau inaintea scaunului Sau de stapinire,"
-    textWithDiacritics: "Ioan, către cele şapte Adunări care sunt în Asia: Har şi\
-      \ pace vouă din partea Celui ce este, Celui ce era şi Celui ce vine din partea\
-      \ celor şapte Duhuri, care stau înaintea scaunului Său de stăpînire,"
-    chapter: null
-  - verseNumber: 5
-    text: "Din partea lui Yasua haMasiya, Martorul credincios, Cel intii nascut din\
-      \ morti, Stapinul imparatilor pamintului! Acel, care ne iubeste, care ne-a spalat\
-      \ de pacatele noastre cu singele Sau,"
-    textWithDiacritics: "Din partea lui Yașua haMaşiya, Martorul credincios, Cel î\
-      ntîi născut din morţi, Stăpînul împăraţilor pămîntului! Acel, care ne iubeş\
-      te, care ne-a spălat de păcatele noastre cu sîngele Său,"
-    chapter: null
-  - verseNumber: 6
-    text: "si ne-a facut imparati si preoti pentru al Sau Elohim si Tata: a Lui sa\
-      \ fie slava si puterea in vecii vecilor! HalleluYa"
-    textWithDiacritics: "şi ne-a făcut împăraţi şi preoţi pentru al Său Elohim şi\
-      \ Tată: a Lui să fie slava şi puterea în vecii vecilor! HalleluYa"
-    chapter: null
-  - verseNumber: 7
-    text: "Iata ca El vine pe nori. Si orice ochi Il va vedea si cei ce L-au strapuns.\
-      \ Si toate semintiile pamintului se vor boci din pricina Lui! Da, HalleluYa"
-    textWithDiacritics: "Iată că El vine pe nori. Şi orice ochi Îl va vedea şi cei\
-      \ ce L-au străpuns. Şi toate seminţiile pămîntului se vor boci din pricina Lui!\
-      \ Da, HalleluYa"
-    chapter: null
-  - verseNumber: 8
-    text: "„Eu sunt Alef si Tau, Inceputul si Sfirsitul”, zice Yaue, Elohim, „Cel\
-      \ ce este, Cel ce era si Cel ce vine, Cel Atotputernic.”"
-    textWithDiacritics: "„Eu sunt Alef şi Tau, Începutul şi Sfîrşitul”, zice Yaue,\
-      \ Elohim, „Cel ce este, Cel ce era şi Cel ce vine, Cel Atotputernic.”"
-    chapter: null
-  - verseNumber: 9
-    text: "Eu Ioan fratele vostru, care sunt partas cu voi la necaz, la Imparatie\
-      \ si la rabdarea in Yasua haMasiya, ma aflam in ostrovul care se cheama Patmos,\
-      \ din pricina Cuvintului lui Yaue si din pricina Marturiei lui Yasua haMasiya."
-    textWithDiacritics: "Eu Ioan fratele vostru, care sunt părtaş cu voi la necaz,\
-      \ la Împărăţie şi la răbdarea în Yașua haMaşiya, mă aflam în ostrovul care se\
-      \ cheamă Patmos, din pricina Cuvîntului lui Yaue şi din pricina Mărturiei lui\
-      \ Yașua haMaşiya."
-    chapter: null
-  - verseNumber: 10
-    text: "Prin Duhul Sau eram in ziua lui Yaue. Si am auzit inapoia mea un glas puternic,\
-      \ ca sunetul unei trimbite,"
-    textWithDiacritics: "Prin Duhul Său eram în ziua lui Yaue. Şi am auzit înapoia\
-      \ mea un glas puternic, ca sunetul unei trîmbiţe,"
-    chapter: null
-  - verseNumber: 11
-    text: "care zicea: „Eu sunt Alep si Tau, Cel Dintii si Cel de pe Urma. Ce vezi,\
-      \ scrie intr-o carte si trimite-o celor sapte Adunari: la Efes, Smirna, Pergam,\
-      \ Tiatira, Sardes, Filadelfia si Laodiceea.”"
-    textWithDiacritics: "care zicea: „Eu sunt Alep şi Tau, Cel Dintîi şi Cel de pe\
-      \ Urmă. Ce vezi, scrie într-o carte şi trimite-o celor şapte Adunari: la Efes,\
-      \ Smirna, Pergam, Tiatira, Sardes, Filadelfia şi Laodiceea.”"
-    chapter: null
-  - verseNumber: 12
-    text: "M-am intors sa vad glasul care-mi vorbea. Si, cind m-am intors, am vazut\
-      \ sapte sfesnice de aur."
-    textWithDiacritics: "M-am întors să văd glasul care-mi vorbea. Şi, cînd m-am î\
-      ntors, am văzut şapte sfeşnice de aur."
-    chapter: null
-  - verseNumber: 13
-    text: "Si in mijlocul celor sapte sfesnice, pe Cineva care semana cu Fiul Omului,\
-      \ imbracat cu o haina lunga pina la picioare si incins la piept cu un briu de\
-      \ aur."
-    textWithDiacritics: "Şi în mijlocul celor şapte sfeşnice, pe Cineva care semă\
-      na cu Fiul Omului, îmbrăcat cu o haină lungă pînă la picioare şi încins la piept\
-      \ cu un brîu de aur."
-    chapter: null
-  - verseNumber: 14
-    text: "Capul si parul Lui erau albe ca lina alba, ca zapada; ochii Lui erau ca\
-      \ para focului;"
-    textWithDiacritics: "Capul şi părul Lui erau albe ca lîna albă, ca zăpada; ochii\
-      \ Lui erau ca para focului;"
-    chapter: null
-  - verseNumber: 15
-    text: "picioarele Lui erau ca arama aprinsa si arsa intr-un cuptor; si glasul\
-      \ Lui era ca vuietul unor ape mari."
-    textWithDiacritics: "picioarele Lui erau ca arama aprinsă şi arsă într-un cuptor;\
-      \ şi glasul Lui era ca vuietul unor ape mari."
-    chapter: null
-  - verseNumber: 16
-    text: "In mina dreapta tinea sapte stele. Din gura Lui iesea o sabie ascutita\
-      \ cu doua taisuri, si fata Lui era ca soarele cind straluceste in toata puterea\
-      \ lui."
-    textWithDiacritics: "În mîna dreaptă ţinea şapte stele. Din gura Lui ieşea o sabie\
-      \ ascuţită cu două tăişuri, şi faţa Lui era ca soarele cînd străluceşte în toată\
-      \ puterea lui."
-    chapter: null
-  - verseNumber: 17
-    text: "Cind L-am vazut am cazut la picioarele Lui ca mort. El Si-a pus mina dreapta\
-      \ peste mine si a zis: „Nu te teme! Eu sunt. Sint Cel Dintii si Cel de pe Urma,"
-    textWithDiacritics: "Cînd L-am văzut am căzut la picioarele Lui ca mort. El Ş\
-      i-a pus mîna dreaptă peste mine şi a zis: „Nu te teme! Eu sunt. Sînt Cel Dintî\
-      i şi Cel de pe Urmă,"
-    chapter: null
-  - verseNumber: 18
-    text: "Cel Viu. Am fost mort, si iata ca sunt viu in vecii vecilor. Eu tin cheile\
-      \ mortii si ale Locuintei mortilor."
-    textWithDiacritics: "Cel Viu. Am fost mort, şi iată că sunt viu în vecii vecilor.\
-      \ Eu ţin cheile morţii şi ale Locuinţei morţilor."
-    chapter: null
-  - verseNumber: 19
-    text: "Scrie dar, lucrurile pe care le-ai vazut, lucrurile care sunt si cele care\
-      \ au sa fie dupa ele."
-    textWithDiacritics: "Scrie dar, lucrurile pe care le-ai văzut, lucrurile care\
-      \ sunt şi cele care au să fie după ele."
-    chapter: null
-  - verseNumber: 20
-    text: "Taina celor sapte stele pe care le-ai vazut in mina dreapta a Mea si a\
-      \ celor sapte sfesnice de aur: cele sapte stele sunt ingerii celor sapte Adunari;\
-      \ si cele sapte sfesnice sunt sapte Adunari."
-    textWithDiacritics: "Taina celor şapte stele pe care le-ai văzut în mîna dreaptă\
-      \ a Mea şi a celor şapte sfeşnice de aur: cele şapte stele sunt îngerii celor\
-      \ şapte Adunari; şi cele şapte sfeşnice sunt şapte Adunari."
-    chapter: null
-- number: 2
-  book: null
-  versePojo:
-  - verseNumber: 1
-    text: "Ingerului Adunarii din Efes scrie-i: „Iata ce zice Cel ce tine cele sapte\
-      \ stele in mina dreapta si Cel ce umbla prin mijlocul celor sapte sfesnice de\
-      \ aur:"
-    textWithDiacritics: "Îngerului Adunării din Efes scrie-i: „Iată ce zice Cel ce\
-      \ ţine cele şapte stele în mîna dreaptă şi Cel ce umblă prin mijlocul celor\
-      \ şapte sfeşnice de aur:"
-    chapter: null
-  - verseNumber: 2
-    text: "„Stiulucrul tau, osteneala ta si rabdarea ta, si ca nu poti suferi pe cei\
-      \ rai; ca ai pus la incercare pe cei ce zic ca sunt apostoli, si nu sunt, si\
-      \ i-ai gasit mincinosi."
-    textWithDiacritics: "„Ştiulucrul tău, osteneala ta şi răbdarea ta, şi că nu poţ\
-      i suferi pe cei răi; că ai pus la încercare pe cei ce zic că sunt apostoli,\
-      \ şi nu sunt, şi i-ai găsit mincinoşi."
-    chapter: null
-  - verseNumber: 3
-    text: "Stiu ca ai rabdare, ca ai suferit din pricina Numelui Meu si ca n-ai obosit."
-    textWithDiacritics: "Ştiu că ai răbdare, că ai suferit din pricina Numelui Meu\
-      \ şi că n-ai obosit."
-    chapter: null
-  - verseNumber: 4
-    text: "Dar ce am impotriva ta este ca ti-ai parasit dragostea dintii."
-    textWithDiacritics: "Dar ce am împotriva ta este că ţi-ai părăsit dragostea dintî\
-      i."
-    chapter: null
-  - verseNumber: 5
-    text: "Adu-ti, dar, aminte de unde ai cazut; pocaieste-te si intoarce-te la lucru\
-      \ tau din dragostea dintii. Altfel, voi veni la tine si-ti voi lua sfesnicul\
-      \ din locul lui, daca nu te pocaiesti."
-    textWithDiacritics: "Adu-ţi, dar, aminte de unde ai căzut; pocăieşte-te şi întoarce-te\
-      \ la lucru tău din dragostea dintîi. Altfel, voi veni la tine şi-ţi voi lua\
-      \ sfeşnicul din locul lui, dacă nu te pocăieşti."
-    chapter: null
-  - verseNumber: 6
-    text: "Ai insa lucrul acesta bun: ca urasti lucrarile nicolaitilor pe care si\
-      \ Eu le urasc."
-    textWithDiacritics: "Ai însă lucrul acesta bun: că urăşti lucrările nicolaiţilor\
-      \ pe care şi Eu le urăsc."
-    chapter: null
-  - verseNumber: 7
-    text: "Cine are urechi sa asculte ce zice Adunarilor Duhul: „Celui ce va birui\
-      \ ii voi da sa manince din pomul vietii, care este in raiul lui Yaue.”"
-    textWithDiacritics: "Cine are urechi să asculte ce zice Adunărilor Duhul: „Celui\
-      \ ce va birui îi voi da să mănînce din pomul vieţii, care este în raiul lui\
-      \ Yaue.”"
-    chapter: null
-  - verseNumber: 8
-    text: "Ingerului Adunarii din Smirna scrie-i: „Iata ce zice Cel Dintii si Cel\
-      \ de pe Urma, Cel ce a murit si a inviat:"
-    textWithDiacritics: "Îngerului Adunării din Smirna scrie-i: „Iată ce zice Cel\
-      \ Dintîi şi Cel de pe Urmă, Cel ce a murit şi a înviat:"
-    chapter: null
-  - verseNumber: 9
-    text: "„Stiu necazul tau si saracia ta dar esti bogat si batjocurile din partea\
-      \ celor ce zic ca sunt iudei, si nu sunt, ci sunt o sinagoga a Satanei."
-    textWithDiacritics: "„Ştiu necazul tău şi sărăcia ta dar eşti bogat şi batjocurile\
-      \ din partea celor ce zic că sunt iudei, şi nu sunt, ci sunt o sinagogă a Satanei."
-    chapter: null
-  - verseNumber: 10
-    text: "Nu te teme nicidecum de ce ai sa suferi. Iata ca diavolul are sa arunce\
-      \ in temnita pe unii din voi, ca sa va incerce. Si veti avea un necaz de zece\
-      \ zile. Fii credincios pina la moarte, si-ti voi da cununa vietii.”"
-    textWithDiacritics: "Nu te teme nicidecum de ce ai să suferi. Iată că diavolul\
-      \ are să arunce în temniţă pe unii din voi, ca să vă încerce. Şi veţi avea un\
-      \ necaz de zece zile. Fii credincios pînă la moarte, şi-ţi voi da cununa vieţ\
-      ii.”"
-    chapter: null
-  - verseNumber: 11
-    text: "Cine are urechi sa asculte ce zice Adunarilor Duhul: „Cel ce va birui nicidecum\
-      \ nu va fi vatamat de a doua moarte.”"
-    textWithDiacritics: "Cine are urechi să asculte ce zice Adunărilor Duhul: „Cel\
-      \ ce va birui nicidecum nu va fi vătămat de a doua moarte.”"
-    chapter: null
-  - verseNumber: 12
-    text: "Ingerului Adunarii din Pergam scrie-i: „Iata ce zice Cel ce are sabia ascutita\
-      \ cu doua taisuri:"
-    textWithDiacritics: "Îngerului Adunării din Pergam scrie-i: „Iată ce zice Cel\
-      \ ce are sabia ascuţită cu două tăişuri:"
-    chapter: null
-  - verseNumber: 13
-    text: "„Stiu unde locuiesti: acolo unde este scaunul de stapinire al Satanei.\
-      \ Tu tii Numele Meu si n-ai lepadat credinta Mea nici chiar in zilele acelea\
-      \ cind Antipa, martorul Meu credincios, a fost ucis la voi, acolo unde locuieste\
-      \ Satana."
-    textWithDiacritics: "„Ştiu unde locuieşti: acolo unde este scaunul de stăpînire\
-      \ al Satanei. Tu ţii Numele Meu şi n-ai lepădat credinţa Mea nici chiar în zilele\
-      \ acelea cînd Antipa, martorul Meu credincios, a fost ucis la voi, acolo unde\
-      \ locuieşte Satana."
-    chapter: null
-  - verseNumber: 14
-    text: "Dar am ceva impotriva ta. Tu ai acolo niste oameni care tin de invatatura\
-      \ lui Balaam, care a invatat pe Balac sa puna o piatra de poticnire inaintea\
-      \ copiilor lui Israel, ca sa manince din lucrurile jertfite idolilor si sa se\
-      \ dedea la curvie."
-    textWithDiacritics: "Dar am ceva împotriva ta. Tu ai acolo nişte oameni care ţ\
-      in de învăţătura lui Balaam, care a învăţat pe Balac să pună o piatră de poticnire\
-      \ înaintea copiilor lui Israel, ca să mănînce din lucrurile jertfite idolilor\
-      \ şi să se dedea la curvie."
-    chapter: null
-  - verseNumber: 15
-    text: "Tot asa, si tu ai citiva care, de asemenea, tin invatatura nicolaitilor\
-      \ pe care Eu o urasc."
-    textWithDiacritics: "Tot aşa, şi tu ai cîţiva care, de asemenea, ţin învăţătura\
-      \ nicolaiţilor pe care Eu o urăsc."
-    chapter: null
-  - verseNumber: 16
-    text: "Pocaieste-te, dar. Altfel, voi veni la tine curind si Ma voi razboi cu\
-      \ ei cu sabia gurii Mele.”"
-    textWithDiacritics: "Pocăieşte-te, dar. Altfel, voi veni la tine curînd şi Mă\
-      \ voi război cu ei cu sabia gurii Mele.”"
-    chapter: null
-  - verseNumber: 17
-    text: "Cine are urechi sa asculte ce zice Adunarilor Duhul: „Celui ce va birui\
-      \ ii voi da sa manince din mana ascunsa si-i voi da o piatra alba; si pe piatra\
-      \ aceasta este scris un nume nou pe care nu-l stie nimeni decit acela care-l\
-      \ primeste.”"
-    textWithDiacritics: "Cine are urechi să asculte ce zice Adunărilor Duhul: „Celui\
-      \ ce va birui îi voi da să mănînce din mana ascunsă şi-i voi da o piatră albă\
-      ; şi pe piatra aceasta este scris un nume nou pe care nu-l ştie nimeni decî\
-      t acela care-l primeşte.”"
-    chapter: null
-  - verseNumber: 18
-    text: "Ingerului Adunarii din Tiatira scrie-i: „Iata ce zice Fiul lui Yaue, care\
-      \ are ochii ca para focului si ale carui picioare sunt ca arama aprinsa:"
-    textWithDiacritics: "Îngerului Adunării din Tiatira scrie-i: „Iată ce zice Fiul\
-      \ lui Yaue, care are ochii ca para focului şi ale cărui picioare sunt ca arama\
-      \ aprinsă:"
-    chapter: null
-  - verseNumber: 19
-    text: "„Stiu lucrule tale, dragostea ta, credinta ta, slujba ta, rabdarea ta si\
-      \ lucruarile tale de pe urma, ca sunt mai multe decit cele dintii."
-    textWithDiacritics: "„Ştiu lucrule tale, dragostea ta, credinţa ta, slujba ta,\
-      \ răbdarea ta şi lucruările tale de pe urmă, că sunt mai multe decît cele dintî\
-      i."
-    chapter: null
-  - verseNumber: 20
-    text: "Dar iata ce am impotriva ta: tu lasi ca Izabela, femeia aceea care se zice\
-      \ prorocita, sa invete si sa amageasca pe robii Mei sa se dedea la curvie si\
-      \ sa manince din lucrurile jertfite idolilor."
-    textWithDiacritics: "Dar iată ce am împotriva ta: tu laşi ca Izabela, femeia aceea\
-      \ care se zice prorociţă, să înveţe şi să amăgească pe robii Mei să se dedea\
-      \ la curvie şi să mănînce din lucrurile jertfite idolilor."
-    chapter: null
-  - verseNumber: 21
-    text: "I-am dat vreme sa se pocaiasca, dar nu vrea sa se pocaiasca de curvia ei!"
-    textWithDiacritics: "I-am dat vreme să se pocăiască, dar nu vrea să se pocăiască\
-      \ de curvia ei!"
-    chapter: null
-  - verseNumber: 22
-    text: "Iata ca am s-o arunc bolnava in pat; si celor ce preacurvesc cu ea am sa\
-      \ le trimit un necaz mare, daca nu se vor pocai de lucrul lor."
-    textWithDiacritics: "Iată că am s-o arunc bolnavă în pat; şi celor ce preacurvesc\
-      \ cu ea am să le trimit un necaz mare, dacă nu se vor pocăi de lucrul lor."
-    chapter: null
-  - verseNumber: 23
-    text: "Voi lovi cu moartea pe copiii ei. Si toate Adunarele vor cunoaste ca „\
-      Eu sunt Cel ce cercetez rarunchii si inima” si voi rasplati fiecaruia din voi\
-      \ dupa lucrul lui."
-    textWithDiacritics: "Voi lovi cu moartea pe copiii ei. Şi toate Adunarele vor\
-      \ cunoaşte că „Eu sunt Cel ce cercetez rărunchii şi inima” şi voi răsplăti fiecă\
-      ruia din voi după lucrul lui."
-    chapter: null
-  - verseNumber: 24
-    text: "Voua insa tuturor celorlalti din Tiatira, care nu aveti invatatura aceasta\
-      \ si n-ati cunoscut „adincimile Satanei” cum le numesc ei, va zic: „Nu pun peste\
-      \ voi alta greutate."
-    textWithDiacritics: "Vouă însă tuturor celorlalţi din Tiatira, care nu aveţi î\
-      nvăţătura aceasta şi n-aţi cunoscut „adîncimile Satanei” cum le numesc ei, vă\
-      \ zic: „Nu pun peste voi altă greutate."
-    chapter: null
-  - verseNumber: 25
-    text: "Numai tineti cu tarie ce aveti, pina voi veni!"
-    textWithDiacritics: "Numai ţineţi cu tărie ce aveţi, pînă voi veni!"
-    chapter: null
-  - verseNumber: 26
-    text: "Celui ce va birui si celui ce va pazi pina la sfirsit lucrarile Mele ii\
-      \ voi da stapinire peste popoare."
-    textWithDiacritics: "Celui ce va birui şi celui ce va păzi pînă la sfîrşit lucră\
-      rile Mele îi voi da stăpînire peste popoare."
-    chapter: null
-  - verseNumber: 27
-    text: "Le va cirmui cu un toiag de fier si le va zdrobi ca pe niste vase de lut,\
-      \ cum am primit si Eu putere de la Tatal Meu."
-    textWithDiacritics: "Le va cîrmui cu un toiag de fier şi le va zdrobi ca pe niş\
-      te vase de lut, cum am primit şi Eu putere de la Tatăl Meu."
-    chapter: null
-  - verseNumber: 28
-    text: "Si-i voi da luceafarul de dimineata.”"
-    textWithDiacritics: "Şi-i voi da luceafărul de dimineaţă.”"
-    chapter: null
-  - verseNumber: 29
-    text: "Cine are urechi sa asculte ce zice Adunarilor Duhul.”"
-    textWithDiacritics: "Cine are urechi să asculte ce zice Adunărilor Duhul.”"
-    chapter: null
-- number: 3
-  book: null
-  versePojo:
-  - verseNumber: 1
-    text: "Ingerului Adunarii din Sardes scrie-i: „Iata ce zice Cel ce are cele sapte\
-      \ Duhuri ale lui Yaue si cele sapte stele: „Stiulucrul tau: ca iti merge numele\
-      \ ca traiesti, dar esti mort."
-    textWithDiacritics: "Îngerului Adunării din Sardes scrie-i: „Iată ce zice Cel\
-      \ ce are cele şapte Duhuri ale lui Yaue şi cele şapte stele: „Ştiulucrul tă\
-      u: că îţi merge numele că trăieşti, dar eşti mort."
-    chapter: null
-  - verseNumber: 2
-    text: "Vegheaza si intareste ce ramine, care e pe moarte, caci n-am gasit lucrarile\
-      \ tale desavirsite inaintea lui Yaue."
-    textWithDiacritics: "Veghează şi întăreşte ce rămîne, care e pe moarte, căci n-am\
-      \ găsit lucrările tale desăvîrşite înaintea lui Yaue."
-    chapter: null
-  - verseNumber: 3
-    text: "Adu-ti aminte, dar, cum ai primit si auzit! Tine si pocaieste-te! Daca\
-      \ nu veghezi, voi veni ca un hot, si nu vei sti in care ceas voi veni peste\
-      \ tine."
-    textWithDiacritics: "Adu-ţi aminte, dar, cum ai primit şi auzit! Ţine şi pocă\
-      ieşte-te! Dacă nu veghezi, voi veni ca un hoţ, şi nu vei şti în care ceas voi\
-      \ veni peste tine."
-    chapter: null
-  - verseNumber: 4
-    text: "Totusi ai in Sardes citeva nume care nu si-au minjit hainele. Ei vor umbla\
-      \ impreuna cu Mine, imbracati in alb, fiindca sunt vrednici."
-    textWithDiacritics: "Totuşi ai în Sardes cîteva nume care nu şi-au mînjit hainele.\
-      \ Ei vor umbla împreună cu Mine, îmbrăcaţi în alb, fiindcă sunt vrednici."
-    chapter: null
-  - verseNumber: 5
-    text: "Cel ce va birui va fi imbracat astfel in haine albe. Nu-i voi sterge nicidecum\
-      \ numele din Cartea vietii si voi Marturisi numele lui inaintea Tatalui Meu\
-      \ si inaintea ingerilor Lui.”"
-    textWithDiacritics: "Cel ce va birui va fi îmbrăcat astfel în haine albe. Nu-i\
-      \ voi şterge nicidecum numele din Cartea vieţii şi voi Mărturisi numele lui\
-      \ înaintea Tatălui Meu şi înaintea îngerilor Lui.”"
-    chapter: null
-  - verseNumber: 6
-    text: "Cine are urechi sa asculte ce zice Adunarilor Duhul.”"
-    textWithDiacritics: "Cine are urechi să asculte ce zice Adunărilor Duhul.”"
-    chapter: null
-  - verseNumber: 7
-    text: "Ingerului Adunarii din Filadelfia scrie-i: „Iata ce zice Cel Sfint, Cel\
-      \ Adevarat, Cel ce tine cheia lui David, Cel ce deschide, si nimeni nu va inchide,\
-      \ Cel ce inchide si nimeni nu va deschide:"
-    textWithDiacritics: "Îngerului Adunării din Filadelfia scrie-i: „Iată ce zice\
-      \ Cel Sfînt, Cel Adevărat, Cel ce ţine cheia lui David, Cel ce deschide, şi\
-      \ nimeni nu va închide, Cel ce închide şi nimeni nu va deschide:"
-    chapter: null
-  - verseNumber: 8
-    text: "„Stiulucrul tau: iata, ti-am pus inainte o usa deschisa pe care nimeni\
-      \ n-o poate inchide, caci ai putina putere, si ai pazit Cuvintul Meu si n-ai\
-      \ tagaduit Numele Meu."
-    textWithDiacritics: "„Ştiulucrul tău: iată, ţi-am pus înainte o uşă deschisă pe\
-      \ care nimeni n-o poate închide, căci ai puţină putere, şi ai păzit Cuvîntul\
-      \ Meu şi n-ai tăgăduit Numele Meu."
-    chapter: null
-  - verseNumber: 9
-    text: "Iata ca iti dau din cei ce sunt in sinagoga Satanei, care zic ca sunt iudei\
-      \ si nu sunt, ci mint; iata ca ii voi face sa vina sa se inchine la picioarele\
-      \ tale, si sa stie ca te-am iubit."
-    textWithDiacritics: "Iată că îţi dau din cei ce sunt în sinagoga Satanei, care\
-      \ zic că sunt iudei şi nu sunt, ci mint; iată că îi voi face să vină să se î\
-      nchine la picioarele tale, şi să ştie că te-am iubit."
-    chapter: null
-  - verseNumber: 10
-    text: "Fiindca ai pazit Cuvintul rabdarii Mele, te voi pazi si Eu de ceasul incercarii,\
-      \ care are sa vina peste lumea intreaga ca sa incerce pe locuitorii pamintului."
-    textWithDiacritics: "Fiindcă ai păzit Cuvîntul răbdării Mele, te voi păzi şi Eu\
-      \ de ceasul încercării, care are să vină peste lumea întreagă ca să încerce\
-      \ pe locuitorii pămîntului."
-    chapter: null
-  - verseNumber: 11
-    text: "Eu vin curind. Pastreaza ce ai, ca nimeni sa nu-ti ia cununa."
-    textWithDiacritics: "Eu vin curînd. Păstrează ce ai, ca nimeni să nu-ţi ia cununa."
-    chapter: null
-  - verseNumber: 12
-    text: "Pe cel ce va birui il voi face un stilp in Templul lui Elohim al Meu, si\
-      \ nu va mai iesi afara din el. Voi scrie pe el Numele lui Elohim al Meu, si\
-      \ numele cetatii lui Elohim al Meu, Noul Ierusalim, care are sa se coboare din\
-      \ cer de la Elohim al Meu, si Eu voi scrie pe el Numele Meu cel nou.”"
-    textWithDiacritics: "Pe cel ce va birui îl voi face un stîlp în Templul lui Elohim\
-      \ al Meu, şi nu va mai ieşi afară din el. Voi scrie pe el Numele lui Elohim\
-      \ al Meu, şi numele cetăţii lui Elohim al Meu, Noul Ierusalim, care are să se\
-      \ coboare din cer de la Elohim al Meu, şi Eu voi scrie pe el Numele Meu cel\
-      \ nou.”"
-    chapter: null
-  - verseNumber: 13
-    text: "Cine are urechi sa asculte ce zice Adunarilor Duhul.”"
-    textWithDiacritics: "Cine are urechi să asculte ce zice Adunărilor Duhul.”"
-    chapter: null
-  - verseNumber: 14
-    text: "Ingerului Adunarii din Laodiceea scrie-i: „Iata ce zice Cel ce este; HalleluYa,\
-      \ Martorul credincios si adevarat, Inceputul creatiei lui Yaue:"
-    textWithDiacritics: "Îngerului Adunării din Laodiceea scrie-i: „Iată ce zice Cel\
-      \ ce este; HalleluYa, Martorul credincios şi adevărat, Începutul creației lui\
-      \ Yaue:"
-    chapter: null
-  - verseNumber: 15
-    text: "„Stiu lucrarile tale: ca nu esti nici rece, nici in clocot. O, daca ai\
-      \ fi rece sau in clocot!"
-    textWithDiacritics: "„Ştiu lucrările tale: că nu eşti nici rece, nici în clocot.\
-      \ O, dacă ai fi rece sau în clocot!"
-    chapter: null
-  - verseNumber: 16
-    text: "Dar, fiindca esti caldicel, nici rece, nici in clocot, am sa te vars din\
-      \ gura Mea."
-    textWithDiacritics: "Dar, fiindcă eşti căldicel, nici rece, nici în clocot, am\
-      \ să te vărs din gura Mea."
-    chapter: null
-  - verseNumber: 17
-    text: "Pentru ca zici: „Sunt bogat, m-am imbogatit, si nu duc lipsa de nimic,”\
-      \ si nu stii ca esti ticalos, nenorocit, sarac, orb si gol,"
-    textWithDiacritics: "Pentru că zici: „Sunt bogat, m-am îmbogăţit, şi nu duc lipsă\
-      \ de nimic,” şi nu ştii că eşti ticălos, nenorocit, sărac, orb şi gol,"
-    chapter: null
-  - verseNumber: 18
-    text: "te sfatuiesc sa cumperi de la Mine aur curatat prin foc, ca sa te imbogatesti;\
-      \ si haine albe, ca sa te imbraci cu ele si sa nu ti se vada rusinea goliciunii\
-      \ tale; si doctorie pentru ochi, ca sa-ti ungi ochii si sa vezi."
-    textWithDiacritics: "te sfătuiesc să cumperi de la Mine aur curăţat prin foc,\
-      \ ca să te îmbogăţeşti; şi haine albe, ca să te îmbraci cu ele şi să nu ţi se\
-      \ vadă ruşinea goliciunii tale; şi doctorie pentru ochi, ca să-ţi ungi ochii\
-      \ şi să vezi."
-    chapter: null
-  - verseNumber: 19
-    text: "Eu mustru si pedepsesc pe toti aceia pe care-i iubesc. Fii plin de rivna,\
-      \ dar, si pocaieste-te!"
-    textWithDiacritics: "Eu mustru şi pedepsesc pe toţi aceia pe care-i iubesc. Fii\
-      \ plin de rîvnă, dar, şi pocăieşte-te!"
-    chapter: null
-  - verseNumber: 20
-    text: "Iata Eu stau la usa si bat. Daca aude cineva glasul Meu si deschide usa,\
-      \ voi intra la el, voi cina cu el, si el cu Mine."
-    textWithDiacritics: "Iată Eu stau la uşă şi bat. Dacă aude cineva glasul Meu ş\
-      i deschide uşa, voi intra la el, voi cina cu el, şi el cu Mine."
-    chapter: null
-  - verseNumber: 21
-    text: "Celui ce va birui ii voi da sa sada cu Mine pe scaunul Meu de stapinire,\
-      \ dupa cum si Eu am biruit si am sezut cu Tatal Meu pe scaunul Lui de stapinire.”"
-    textWithDiacritics: "Celui ce va birui îi voi da să şadă cu Mine pe scaunul Meu\
-      \ de stăpînire, după cum şi Eu am biruit şi am şezut cu Tatăl Meu pe scaunul\
-      \ Lui de stăpînire.”"
-    chapter: null
-  - verseNumber: 22
-    text: "Cine are urechi sa asculte ce zice Adunarilor Duhul.”"
-    textWithDiacritics: "Cine are urechi să asculte ce zice Adunărilor Duhul.”"
-    chapter: null
-- number: 4
-  book: null
-  versePojo:
-  - verseNumber: 1
-    text: "Dupa aceste lucruri, m-am uitat si iata ca o usa era deschisa in cer. Glasul\
-      \ cel dintii, pe care-l auzisem ca sunetul unei trimbite si care vorbea cu mine,\
-      \ mi-a zis: „Suie-te aici, si-ti voi arata ce are sa se intimple dupa aceste\
-      \ lucruri!”"
-    textWithDiacritics: "După aceste lucruri, m-am uitat şi iată că o uşă era deschisă\
-      \ în cer. Glasul cel dintîi, pe care-l auzisem ca sunetul unei trîmbiţe şi care\
-      \ vorbea cu mine, mi-a zis: „Suie-te aici, şi-ţi voi arăta ce are să se întî\
-      mple după aceste lucruri!”"
-    chapter: null
-  - verseNumber: 2
-    text: "Numaidecit am fost rapit in Duhul. Si iata ca in cer era pus un scaun de\
-      \ stapinire, si pe scaunul acesta de stapinire sedea Cineva."
-    textWithDiacritics: "Numaidecît am fost răpit în Duhul. Şi iată că în cer era\
-      \ pus un scaun de stăpînire, şi pe scaunul acesta de stăpînire şedea Cineva."
-    chapter: null
-  - verseNumber: 3
-    text: "Cel ce sedea pe el avea infatisarea unei pietre de jasp si de sardiu; si\
-      \ scaunul de stapinire era inconjurat cu un curcubeu ca o piatra de smarald\
-      \ la vedere."
-    textWithDiacritics: "Cel ce şedea pe el avea înfăţişarea unei pietre de jasp ş\
-      i de sardiu; şi scaunul de stăpînire era înconjurat cu un curcubeu ca o piatră\
-      \ de smarald la vedere."
-    chapter: null
-  - verseNumber: 4
-    text: "Imprejurul scaunului de stapinire stateau douazeci si patru de scaune de\
-      \ stapinire; si pe aceste scaune de stapinire stateau douazeci si patru de batrini,\
-      \ imbracati in haine albe; si pe capete aveau cununi de aur."
-    textWithDiacritics: "Împrejurul scaunului de stăpînire stăteau douăzeci şi patru\
-      \ de scaune de stăpînire; şi pe aceste scaune de stăpînire stăteau douăzeci\
-      \ şi patru de bătrîni, îmbrăcaţi în haine albe; şi pe capete aveau cununi de\
-      \ aur."
-    chapter: null
-  - verseNumber: 5
-    text: "Din scaunul de stapinire ieseau fulgere, glasuri si tunete. Inaintea scaunului\
-      \ de stapinire ardeau sapte lampi de foc, care sunt cele sapte Duhuri ale lui\
-      \ Yaue."
-    textWithDiacritics: "Din scaunul de stăpînire ieşeau fulgere, glasuri şi tunete.\
-      \ Înaintea scaunului de stăpînire ardeau şapte lămpi de foc, care sunt cele\
-      \ şapte Duhuri ale lui Yaue."
-    chapter: null
-  - verseNumber: 6
-    text: "In fata scaunului de stapinire mai este un fel de mare de sticla, asemenea\
-      \ cristalului. In mijlocul scaunului de stapinire si imprejurul scaunului de\
-      \ stapinire stau patru fapturi vii, pline cu ochi pe dinainte si pe dinapoi."
-    textWithDiacritics: "În faţa scaunului de stăpînire mai este un fel de mare de\
-      \ sticlă, asemenea cristalului. În mijlocul scaunului de stăpînire şi împrejurul\
-      \ scaunului de stăpînire stau patru făpturi vii, pline cu ochi pe dinainte ş\
-      i pe dinapoi."
-    chapter: null
-  - verseNumber: 7
-    text: "Cea dintii faptura vie seamana cu un leu; a doua seamana cu un vitel; a\
-      \ treia are fata ca a unui om; si a patra seamana cu un vultur care zboara."
-    textWithDiacritics: "Cea dintîi făptură vie seamănă cu un leu; a doua seamănă\
-      \ cu un viţel; a treia are faţa ca a unui om; şi a patra seamănă cu un vultur\
-      \ care zboară."
-    chapter: null
-  - verseNumber: 8
-    text: "Fiecare din aceste patru fapturi vii avea cite sase aripi si erau pline\
-      \ cu ochii de jur imprejur si pe dinauntru. Zi si noapte strigau fara incetare:\
-      \ „Sfint, sfint, sfint, este Yaue Cel Atotputernic, care era, care este, care\
-      \ vine!”"
-    textWithDiacritics: "Fiecare din aceste patru făpturi vii avea cîte şase aripi\
-      \ şi erau pline cu ochii de jur împrejur şi pe dinăuntru. Zi şi noapte strigau\
-      \ fără încetare: „Sfînt, sfînt, sfînt, este Yaue Cel Atotputernic, care era,\
-      \ care este, care vine!”"
-    chapter: null
-  - verseNumber: 9
-    text: "Cind aceste fapturi vii aduceau slava, cinste si multumiri Celui ce sedea\
-      \ pe scaunul de stapinire si care este viu in vecii vecilor,"
-    textWithDiacritics: "Cînd aceste făpturi vii aduceau slavă, cinste şi mulţumiri\
-      \ Celui ce şedea pe scaunul de stăpînire şi care este viu în vecii vecilor,"
-    chapter: null
-  - verseNumber: 10
-    text: "cei douazeci si patru de batrini cadeau inaintea Celui ce sedea pe scaunul\
-      \ de stapinire si se inchinau Celui ce este viu in vecii vecilor, isi aruncau\
-      \ cununile inaintea scaunului de stapinire si ziceau:"
-    textWithDiacritics: "cei douăzeci şi patru de bătrîni cădeau înaintea Celui ce\
-      \ şedea pe scaunul de stăpînire şi se închinau Celui ce este viu în vecii vecilor,\
-      \ îşi aruncau cununile înaintea scaunului de stăpînire şi ziceau:"
-    chapter: null
-  - verseNumber: 11
-    text: "„Vrednic esti, o Yaue, sa primesti slava, cinstea si puterea, caci Tu ai\
-      \ creat toate lucrurile si prin voia Ta stau in fiinta si au fost create!”"
-    textWithDiacritics: "„Vrednic eşti, o Yaue, să primeşti slava, cinstea şi puterea,\
-      \ căci Tu ai creat toate lucrurile şi prin voia Ta stau în fiinţă şi au fost\
-      \ create!”"
-    chapter: null
-- number: 5
-  book: null
-  versePojo:
-  - verseNumber: 1
-    text: "Apoi am vazut in mina dreapta a Celui ce sedea pe scaunul de stapinire\
-      \ o carte scrisa pe din launtru si pe din afara, pecetluita cu sapte peceti."
-    textWithDiacritics: "Apoi am văzut în mîna dreaptă a Celui ce şedea pe scaunul\
-      \ de stăpînire o carte scrisă pe din lăuntru şi pe din afară, pecetluită cu\
-      \ şapte peceţi."
-    chapter: null
-  - verseNumber: 2
-    text: "Si am vazut un inger puternic, care striga cu glas tare: „Cine este vrednic\
-      \ sa deschida cartea si sa-i rupa pecetile?”"
-    textWithDiacritics: "Şi am văzut un înger puternic, care striga cu glas tare:\
-      \ „Cine este vrednic să deschidă cartea şi să-i rupă peceţile?”"
-    chapter: null
-  - verseNumber: 3
-    text: "Si nu se gasea nimeni, nici in cer nici pe pamint, nici sub pamint, care\
-      \ sa poata deschide cartea, nici sa se uite in ea."
-    textWithDiacritics: "Şi nu se găsea nimeni, nici în cer nici pe pămînt, nici sub\
-      \ pămînt, care să poată deschide cartea, nici să se uite în ea."
-    chapter: null
-  - verseNumber: 4
-    text: "Si am plins mult pentru ca nimeni nu fusese gasit vrednic sa deschida cartea\
-      \ si sa se uite in ea."
-    textWithDiacritics: "Şi am plîns mult pentru că nimeni nu fusese găsit vrednic\
-      \ să deschidă cartea şi să se uite în ea."
-    chapter: null
-  - verseNumber: 5
-    text: "Si unul din batrini mi-a zis: „Nu plinge; iata ca Leul din semintia lui\
-      \ Iuda, Radacina lui David, a biruit ca sa deschida cartea si cele sapte peceti\
-      \ ale ei."
-    textWithDiacritics: "Şi unul din bătrîni mi-a zis: „Nu plînge; iată că Leul din\
-      \ seminţia lui Iuda, Rădăcina lui David, a biruit ca să deschidă cartea şi cele\
-      \ şapte peceţi ale ei."
-    chapter: null
-  - verseNumber: 6
-    text: "Si la mijloc, intre scaunul de stapinire si cele patru fapturi vii si intre\
-      \ batrini, am vazut stind in picioare un Miel. Parea junghiat si avea sapte\
-      \ coarne si sapte ochii, care sunt cele sapte Duhuri ale lui Yaue trimise in\
-      \ tot pamintul."
-    textWithDiacritics: "Şi la mijloc, între scaunul de stăpînire şi cele patru fă\
-      pturi vii şi între bătrîni, am văzut stînd în picioare un Miel. Părea junghiat\
-      \ şi avea şapte coarne şi şapte ochii, care sunt cele şapte Duhuri ale lui Yaue\
-      \ trimise în tot pămîntul."
-    chapter: null
-  - verseNumber: 7
-    text: "El a venit si a luat cartea din mina dreapta a Celui ce sedea pe scaunul\
-      \ de stapinire."
-    textWithDiacritics: "El a venit şi a luat cartea din mîna dreaptă a Celui ce ş\
-      edea pe scaunul de stăpînire."
-    chapter: null
-  - verseNumber: 8
-    text: "Cind a luat cartea, cele patru fapturi vii si cei douazeci si patru de\
-      \ batrini s-au aruncat la pamint inaintea Mielului, avind fiecare cite o lauta\
-      \ si potire de aur pline cu tamiie, care sunt rugaciunile sfintilor."
-    textWithDiacritics: "Cînd a luat cartea, cele patru făpturi vii şi cei douăzeci\
-      \ şi patru de bătrîni s-au aruncat la pămînt înaintea Mielului, avînd fiecare\
-      \ cîte o lăută şi potire de aur pline cu tămîie, care sunt rugăciunile sfinţ\
-      ilor."
-    chapter: null
-  - verseNumber: 9
-    text: "Si cintau o cintare noua si ziceau: „Vrednic esti Tu sa iei cartea si sa-i\
-      \ rupi pecetile: caci ai fost junghiat si ai rascumparat pentru Yaue, cu singele\
-      \ Tau, oameni din orice semintie, de orice limba, din orice norod si de orice\
-      \ neam."
-    textWithDiacritics: "Şi cîntau o cîntare nouă şi ziceau: „Vrednic eşti Tu să iei\
-      \ cartea şi să-i rupi peceţile: căci ai fost junghiat şi ai răscumpărat pentru\
-      \ Yaue, cu sîngele Tău, oameni din orice seminţie, de orice limbă, din orice\
-      \ norod şi de orice neam."
-    chapter: null
-  - verseNumber: 10
-    text: "Ai facut din noi imparati si preoti pentru al nostru Elohim, si vom imparati\
-      \ pe pamint!”"
-    textWithDiacritics: "Ai făcut din noi împărăţi şi preoţi pentru al nostru Elohim,\
-      \ şi vom împărăţi pe pămînt!”"
-    chapter: null
-  - verseNumber: 11
-    text: "M-am uitat si imprejurul scaunului de stapinire, in jurul fapturilor vii\
-      \ si in jurul batrinilor am auzit glasul multor ingeri. Numarul lor era de zece\
-      \ mii de ori zece mii si mii de mii."
-    textWithDiacritics: "M-am uitat şi împrejurul scaunului de stăpînire, în jurul\
-      \ făpturilor vii şi în jurul bătrînilor am auzit glasul multor îngeri. Numă\
-      rul lor era de zece mii de ori zece mii şi mii de mii."
-    chapter: null
-  - verseNumber: 12
-    text: "Ei ziceau cu glas tare: „Vrednic este Mielul, care a fost junghiat, sa\
-      \ primeasca puterea, bogatia, intelepciunea, taria, cinstea, slava si lauda!”"
-    textWithDiacritics: "Ei ziceau cu glas tare: „Vrednic este Mielul, care a fost\
-      \ junghiat, să primească puterea, bogăţia, înţelepciunea, tăria, cinstea, slava\
-      \ şi lauda!”"
-    chapter: null
-  - verseNumber: 13
-    text: "Si pe toate fapturile care sunt in cer, pe pamint, sub pamint, pe mare,\
-      \ si tot ce se afla in aceste locuri, le-am auzit zicind: „A Celui ce sade pe\
-      \ scaunul de stapinire si a Mielului sa fie lauda cinstea, slava si stapinirea\
-      \ in vecii vecilor!”"
-    textWithDiacritics: "Şi pe toate făpturile care sunt în cer, pe pămînt, sub pă\
-      mînt, pe mare, şi tot ce se află în aceste locuri, le-am auzit zicînd: „A Celui\
-      \ ce şade pe scaunul de stăpînire şi a Mielului să fie lauda cinstea, slava\
-      \ şi stăpînirea în vecii vecilor!”"
-    chapter: null
-  - verseNumber: 14
-    text: "Si cele patru fapturi vii ziceau: „HalleluYa!” Si cei douazeci si patru\
-      \ de batrini s-au aruncat la pamint si s-au inchinat Celui ce este viu in vecii\
-      \ vecilor!"
-    textWithDiacritics: "Şi cele patru făpturi vii ziceau: „HalleluYa!” Şi cei două\
-      zeci şi patru de bătrîni s-au aruncat la pămînt şi s-au închinat Celui ce este\
-      \ viu în vecii vecilor!"
-    chapter: null
-- number: 6
-  book: null
-  versePojo:
-  - verseNumber: 1
-    text: "Cind a rupt Mielul cea dintii din cele sapte peceti, m-am uitat si am auzit\
-      \ pe una din cele patru fapturi vii zicind cu un glas ca de tunet: „Vino si\
-      \ vezi!”"
-    textWithDiacritics: "Cînd a rupt Mielul cea dintîi din cele şapte peceţi, m-am\
-      \ uitat şi am auzit pe una din cele patru făpturi vii zicînd cu un glas ca de\
-      \ tunet: „Vino şi vezi!”"
-    chapter: null
-  - verseNumber: 2
-    text: "M-am uitat si iata ca s-a aratat un Cal Alb. Cel ce statea pe el avea un\
-      \ arc i s-a dat o cununa si a pornit biruitor si ca sa biruie."
-    textWithDiacritics: "M-am uitat şi iată că s-a arătat un Cal Alb. Cel ce stătea\
-      \ pe el avea un arc i s-a dat o cunună şi a pornit biruitor şi ca să biruie."
-    chapter: null
-  - verseNumber: 3
-    text: "Cind a rupt Mielul a doua pecete, am auzit pe a doua faptura vie zicind:\
-      \ „Vino si vezi.”"
-    textWithDiacritics: "Cînd a rupt Mielul a doua pecete, am auzit pe a doua făptură\
-      \ vie zicînd: „Vino şi vezi.”"
-    chapter: null
-  - verseNumber: 4
-    text: "Si s-a aratat un alt cal, un Cal Rosu. Cel ce statea pe el a primit puterea\
-      \ sa ia pacea de pe pamint, pentru ca oamenii sa se injunghie unii pe altii,\
-      \ si i s-a dat o sabie mare."
-    textWithDiacritics: "Şi s-a arătat un alt cal, un Cal Roşu. Cel ce stătea pe el\
-      \ a primit puterea să ia pacea de pe pămînt, pentru ca oamenii să se înjunghie\
-      \ unii pe alţii, şi i s-a dat o sabie mare."
-    chapter: null
-  - verseNumber: 5
-    text: "Cind a rupt Mielul pecetea a treia, am auzit pe a treia faptura vie zicind:\
-      \ „Vino si vezi!” M-am uitat si iata ca s-a aratat un Cal Negru. Cel ce statea\
-      \ pe el avea in mina o cumpana."
-    textWithDiacritics: "Cînd a rupt Mielul pecetea a treia, am auzit pe a treia fă\
-      ptură vie zicînd: „Vino şi vezi!” M-am uitat şi iată că s-a arătat un Cal Negru.\
-      \ Cel ce stătea pe el avea în mînă o cumpănă."
-    chapter: null
-  - verseNumber: 6
-    text: "Si, in mijlocul celor patru fapturi vii, am auzit un glas care zicea: „\
-      O masura de griu pentru un sekel! Trei masuri de orz pentru un sekel! Dar sa\
-      \ nu vatami untdelemnul si vinul!”"
-    textWithDiacritics: "Şi, în mijlocul celor patru făpturi vii, am auzit un glas\
-      \ care zicea: „O măsură de grîu pentru un şekel! Trei măsuri de orz pentru un\
-      \ şekel! Dar să nu vatămi untdelemnul şi vinul!”"
-    chapter: null
-  - verseNumber: 7
-    text: "Cind a rupt Mielul pecetea a patra, am auzit glasul fapturii a patra zicind:\
-      \ „Vino si vezi!”"
-    textWithDiacritics: "Cînd a rupt Mielul pecetea a patra, am auzit glasul făpturii\
-      \ a patra zicînd: „Vino şi vezi!”"
-    chapter: null
-  - verseNumber: 8
-    text: "M-am uitat si iata ca s-a aratat un Cal Galbui. Cel ce statea pe el se\
-      \ numea Moartea, si impreuna cu el venea dupa el Locuinta mortilor. Li s-a dat\
-      \ putere peste a patra parte a pamintului, ca sa ucida cu sabia, cu foamete,\
-      \ cu molima si cu fiarele pamintului. [Cal galbui: poate fi :Verzui ]"
-    textWithDiacritics: "M-am uitat şi iată că s-a arătat un Cal Gălbui. Cel ce stă\
-      tea pe el se numea Moartea, şi împreună cu el venea după el Locuinţa morţilor.\
-      \ Li s-a dat putere peste a patra parte a pămîntului, ca să ucidă cu sabia,\
-      \ cu foamete, cu molimă şi cu fiarele pămîntului. [Cal galbui: poate fi :Verzui\
-      \ ]"
-    chapter: null
-  - verseNumber: 9
-    text: "Cind a rupt Mielul pecetea a cincea, am vazut sub altar sufletele celor\
-      \ ce fusesera injunghiati din pricina Cuvintului lui Yaue si din pricina Marturisirii\
-      \ pe care o tinusera."
-    textWithDiacritics: "Cînd a rupt Mielul pecetea a cincea, am văzut sub altar sufletele\
-      \ celor ce fuseseră înjunghiaţi din pricina Cuvîntului lui Yaue şi din pricina\
-      \ Mărturisirii pe care o ţinuseră."
-    chapter: null
-  - verseNumber: 10
-    text: "Ei strigau cu glas tare si ziceau: „Pina cind, Stapine, Tu care esti Sfint\
-      \ si Adevarat, zabovesti sa judeci si sa razbuni singele nostru asupra locuitorilor\
-      \ pamintului?”"
-    textWithDiacritics: "Ei strigau cu glas tare şi ziceau: „Pînă cînd, Stăpîne, Tu\
-      \ care eşti Sfînt şi Adevărat, zăboveşti să judeci şi să răzbuni sîngele nostru\
-      \ asupra locuitorilor pămîntului?”"
-    chapter: null
-  - verseNumber: 11
-    text: "Fiecaruia din ei i s-a dat o haina alba si li s-a spus sa se mai odihneasca\
-      \ putina vreme, pina se va implini numarul slujbasilor de lucru si al fratilor\
-      \ lor, care aveau sa fie omoriti ca si ei."
-    textWithDiacritics: "Fiecăruia din ei i s-a dat o haină albă şi li s-a spus să\
-      \ se mai odihnească puţină vreme, pînă se va împlini numărul slujbaşilor de\
-      \ lucru şi al fraţilor lor, care aveau să fie omorîţi ca şi ei."
-    chapter: null
-  - verseNumber: 12
-    text: "Cind a rupt Mielul pecetea a sasea, m-am uitat si iata ca s-a facut un\
-      \ mare cutremur de pamint. Soarele s-a facut negru ca un sac de par, luna s-a\
-      \ facut toata ca singele,"
-    textWithDiacritics: "Cînd a rupt Mielul pecetea a şasea, m-am uitat şi iată că\
-      \ s-a făcut un mare cutremur de pămînt. Soarele s-a făcut negru ca un sac de\
-      \ păr, luna s-a făcut toată ca sîngele,"
-    chapter: null
-  - verseNumber: 13
-    text: "si stelele au cazut din cer pe pamint, cum cad smochinele verzi din pom,\
-      \ cind este scuturat de un vint puternic."
-    textWithDiacritics: "şi stelele au căzut din cer pe pămînt, cum cad smochinele\
-      \ verzi din pom, cînd este scuturat de un vînt puternic."
-    chapter: null
-  - verseNumber: 14
-    text: "Cerul s-a strins ca o carte de piele pe care o faci sul. Si toti muntii\
-      \ si toate ostroavele s-au mutat din locurile lor."
-    textWithDiacritics: "Cerul s-a strîns ca o carte de piele pe care o faci sul.\
-      \ Şi toţi munţii şi toate ostroavele s-au mutat din locurile lor."
-    chapter: null
-  - verseNumber: 15
-    text: "Imparatii pamintului, stapinitori, capitanii ostilor, cei bogati si cei\
-      \ puternici, toti robii si toti oamenii slobozi s-au ascuns in pesteri si in\
-      \ stincile muntilor."
-    textWithDiacritics: "Împăraţii pămîntului, stăpînitori, căpitanii oştilor, cei\
-      \ bogaţi şi cei puternici, toţi robii şi toţi oamenii slobozi s-au ascuns î\
-      n peşteri şi în stîncile munţilor."
-    chapter: null
-  - verseNumber: 16
-    text: "Si ziceau muntilor si stincilor: „Cadeti peste noi si ascundeti-ne de fata\
-      \ Celui ce sade pe scaunul de stapinire si de minia Mielului;"
-    textWithDiacritics: "Şi ziceau munţilor şi stîncilor: „Cădeţi peste noi şi ascundeţ\
-      i-ne de faţa Celui ce şade pe scaunul de stăpînire şi de mînia Mielului;"
-    chapter: null
-  - verseNumber: 17
-    text: "caci a venit ziua cea mare a miniei Lui, si cine poate sta in picioare?”"
-    textWithDiacritics: "căci a venit ziua cea mare a mîniei Lui, şi cine poate sta\
-      \ în picioare?”"
     chapter: null
