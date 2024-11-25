@@ -12,6 +12,8 @@ quarkus:
 migration:
   enabled: false
 import-export:
-  export-enabled: false
+  # Exporting DB to usually a yaml file
+  export-enabled: true
+  # Updating DB from yml file
   import-enabled: false
   file-metadata-enabled: false

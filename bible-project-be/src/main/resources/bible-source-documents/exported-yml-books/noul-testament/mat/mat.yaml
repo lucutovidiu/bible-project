@@ -1405,14 +1405,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 17
     text: "ca sa se implineasca ce fusese vestit prin prorocul Isaia, care zice: „\
-      El a luat asupra Lui neputintele noastre si a purtat bolile noastre.” Tora-Pericopa\
-      \ 5 - Chayai Sarah 23 : 1 - 25 : 18 Haftarah - 1Imp. / Melechim Alef 1 : 1 :\
-      \ 31 Legamintul Innoit - Matei / Mattitiyahu 8 : 18 - 22 Cum sa urmam pe Yasua"
+      El a luat asupra Lui neputintele noastre si a purtat bolile noastre.”"
     textWithDiacritics: "ca să se împlinească ce fusese vestit prin prorocul Isaia,\
-      \ care zice: „El a luat asupra Lui neputinţele noastre şi a purtat bolile noastre.”\
-      \ Tora-Pericopa 5 - Chayai Sarah 23 : 1 - 25 : 18 Haftarah - 1Împ. / Melechim\
-      \ Alef 1 : 1 : 31 Legămîntul Înnoit - Matei / Mattitiyahu 8 : 18 - 22 Cum să\
-      \ urmăm pe Yașua"
+      \ care zice: „El a luat asupra Lui neputinţele noastre şi a purtat bolile noastre.”"
     chapter: null
   - verseNumber: 18
     text: "Yasua a vazut multe noroade imprejurul Sau si a poruncit sa treaca de cealalta\
@@ -1469,9 +1464,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 27
     text: "Oamenii aceia se mirau si ziceau: „Ce fel de om este acesta, de-L asculta\
-      \ pina si vinturile si marea?” Doi indraciti sunt tamaduiti"
+      \ pina si vinturile si marea?”"
     textWithDiacritics: "Oamenii aceia se mirau şi ziceau: „Ce fel de om este acesta,\
-      \ de-L ascultă pînă şi vînturile şi marea?” Doi îndrăciţi sunt tămăduiţi"
+      \ de-L ascultă pînă şi vînturile şi marea?”"
     chapter: null
   - verseNumber: 28
     text: "Cind a ajuns Yasua de partea cealalta, in tinutul Gadarenilor, L-au intimpinat\
