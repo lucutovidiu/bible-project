@@ -5,13 +5,12 @@ import {
   Input,
   Output,
 } from '@angular/core';
+
 import {
   BibleToastrService,
   BookEditInfo,
-  HtmlFunctions,
-  buildVerseFooterDetails,
+  ClipboardCopyService,
 } from '@bible/shared';
-import { ClipboardCopyService } from '../../../shared/services/clipboard-copy/clipboard-copy.service';
 
 @Component({
   selector: 'bible-verse-options',
@@ -24,7 +23,7 @@ export class VerseOptionsComponent {
   @Input({ required: true }) bookEditInfo: BookEditInfo | null = null;
   @Input() isVerseInEditMode: boolean = false;
   @Output() shouldEnterEditMode: EventEmitter<void> = new EventEmitter();
-  @Output() shouldCloseOptions: EventEmitter<void> = new EventEmitter();
+  @Output() shouldCloseOptions: EventEmitter<boolean> = new EventEmitter();
 
   constructor(private readonly bibleToastrService: BibleToastrService) {}
 
@@ -37,6 +36,6 @@ export class VerseOptionsComponent {
       this.bookEditInfo,
       this.bibleToastrService,
     ).copyTextToClipboard();
-    this.shouldCloseOptions.emit();
+    this.shouldCloseOptions.emit(true);
   }
 }

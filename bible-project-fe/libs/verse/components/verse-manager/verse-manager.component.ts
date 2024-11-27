@@ -1,16 +1,14 @@
-import {
-  ChangeDetectionStrategy,
-  Component,
-  Input,
-  OnInit,
-} from '@angular/core';
-import { NgClass } from '@angular/common';
+import { ChangeDetectionStrategy, Component, Input } from '@angular/core';
+import { AsyncPipe, NgClass } from '@angular/common';
+import { BehaviorSubject } from 'rxjs';
 
 import {
   BibleBook,
+  BibleToastrService,
   BibleVerse,
   BookEditInfo,
   buildBookEditInfo,
+  ClipboardCopyService,
   SelectedBibleBook,
 } from '@bible/shared';
 
@@ -28,6 +26,7 @@ import { VerseComponent } from '../verse/verse.component';
     VerseOptionsComponent,
     NgClass,
     VerseComponent,
+    AsyncPipe,
   ],
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
@@ -40,7 +39,18 @@ export class VerseManagerComponent {
   @Input() hasJumpSection = false;
 
   protected shouldEditVerse = false;
-  protected shouldDisplayVerseOptions = false;
+  protected shouldDisplayVerseOptions$ = new BehaviorSubject<boolean>(false);
+  private clickTimeout: number[] = [];
+
+  constructor(private readonly bibleToastrService: BibleToastrService) {}
+
+  protected copyTextToClipboard() {
+    this.clearAllIntervals();
+    new ClipboardCopyService(
+      this.getBookEditInfo(),
+      this.bibleToastrService,
+    ).copyTextToClipboard();
+  }
 
   protected getBookEditInfo(): BookEditInfo | null {
     return buildBookEditInfo(
@@ -51,13 +61,26 @@ export class VerseManagerComponent {
   }
 
   protected displayVerseOptions() {
-    this.shouldDisplayVerseOptions = !this.shouldDisplayVerseOptions;
+    this.clickTimeout.push(
+      setTimeout(() => {
+        this.shouldDisplayVerseOptions$.next(
+          !this.shouldDisplayVerseOptions$.value,
+        );
+      }, 200),
+    );
   }
 
   protected textUpdate(textWithDiacritics: string) {
-    this.shouldDisplayVerseOptions = !this.shouldDisplayVerseOptions;
+    this.shouldDisplayVerseOptions$.next(
+      !this.shouldDisplayVerseOptions$.value,
+    );
     this.shouldEditVerse = !this.shouldEditVerse;
     this.updateBibleVerse(textWithDiacritics);
+  }
+
+  private clearAllIntervals() {
+    this.clickTimeout.forEach(clearTimeout);
+    this.clickTimeout = [];
   }
 
   private updateBibleVerse(textWithDiacritics: string) {

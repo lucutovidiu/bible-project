@@ -1,7 +1,8 @@
 @if (bibleVerse) {
   @if (!shouldEditVerse) {
-    <span (click)="displayVerseOptions()"
-    (dblclick)="verseOptions.copyTextToClipboard()">
+    <span (dblclick)="copyTextToClipboard()"
+      (click)="displayVerseOptions()"
+    >
       <bible-verse
         [bibleVerse]="bibleVerse"
         [highlightWords]="highlightWords"
@@ -19,12 +20,14 @@
     }
   }
 
-  @if (this.shouldDisplayVerseOptions || shouldEditVerse) {
-    <bible-verse-options
-      [bookEditInfo]="getBookEditInfo()"
-      [isVerseInEditMode]="shouldEditVerse"
-      (shouldEnterEditMode)="shouldEditVerse = !shouldEditVerse"
-      (shouldCloseOptions)="shouldDisplayVerseOptions = !shouldDisplayVerseOptions"
-    ></bible-verse-options>
+  @if(this.shouldDisplayVerseOptions$ | async; as shouldDisplayVerseOptions) {
+    @if (shouldDisplayVerseOptions || shouldEditVerse) {
+      <bible-verse-options
+        [bookEditInfo]="getBookEditInfo()"
+        [isVerseInEditMode]="shouldEditVerse"
+        (shouldEnterEditMode)="shouldEditVerse = !shouldEditVerse"
+        (shouldCloseOptions)="shouldDisplayVerseOptions$.next($event)"
+      ></bible-verse-options>
+    }
   }
 }
