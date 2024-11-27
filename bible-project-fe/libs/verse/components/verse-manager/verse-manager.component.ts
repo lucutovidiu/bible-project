@@ -42,7 +42,9 @@ export class VerseManagerComponent {
   protected shouldDisplayVerseOptions$ = new BehaviorSubject<boolean>(false);
   private clickTimeout: number[] = [];
 
-  constructor(private readonly bibleToastrService: BibleToastrService) {}
+  constructor(private readonly bibleToastrService: BibleToastrService) {
+    this.shouldEditVerse = false;
+  }
 
   protected copyTextToClipboard() {
     this.clearAllIntervals();

@@ -28,7 +28,7 @@
                  class="fw-bold fs-2 pt-2 pb-2 text-center text-title-colour">{{ selectedBook.bookName }}
               - {{ selectedBook.chapterNumber }}
             </div>
-            @for (bibleVerse of bibleVerses; track (bibleVerse.verseNumber + selectedBook.chapterNumber)) {
+            @for (bibleVerse of bibleVerses; track bibleVerse.text) {
               <bible-verse-manager
                 [bibleVerse]="bibleVerse"
                 [selectedBook]="selectedBook"
