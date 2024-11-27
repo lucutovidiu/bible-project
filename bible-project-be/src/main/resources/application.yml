@@ -49,3 +49,5 @@ import-export:
   export-enabled: false
   import-enabled: false
   file-metadata-enabled: false
+application-config:
+  api-key: 82385bfd-dbed-4910-963d-a302c8504ad4

@@ -5,29 +5,39 @@
       <div class="h2 fw-bold pt-3 pb-2 text-title-colour">Setari</div>
       <div [formGroup]="namesForm">
         <ng-container>
-          <label class="h4 fw-bold pt-3 pb-2 text-title-colour" for="FathersName">Numele Tatalui:</label>
           <div class="row">
-            <div class="col-9 col-sm-6 col-md-5 col-lg-4 col-xl-3">
-              <select class="form-select select-width" formControlName="FathersName" id="FathersName">
-                <option [value]="SettingsService.FATHERS_DEFAULT_NAME">{{ SettingsService.FATHERS_DEFAULT_NAME }}
-                </option>
-<!--                <option [value]="SettingsService.YAHUAH">{{ SettingsService.YAHUAH }}</option>-->
-                <option [value]="SettingsService.YAUE">{{ SettingsService.YAUE }}</option>
-              </select>
+              <div class="col">
+                <div class="input-group mb-3">
+                  <span class="input-group-text" id="basic-addon3">Api Key</span>
+                  <input formControlName="apiKey" type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3">
+                </div>
             </div>
           </div>
         </ng-container>
-        <ng-container>
-          <label class="h4 fw-bold pt-3 pb-2 text-title-colour" for="SonsName">Numele Fiului:</label>
-          <div class="row">
-            <div class="col-9 col-sm-6 col-md-5 col-lg-4 col-xl-3">
-              <select class="form-select select-width" formControlName="SonsName" id="SonsName">
-                <option [value]="SettingsService.SONS_DEFAULT_NAME">{{ SettingsService.SONS_DEFAULT_NAME }}</option>
-<!--                <option [value]="SettingsService.SONS_NEW_NAME">{{ SettingsService.SONS_NEW_NAME }}</option>-->
-              </select>
-            </div>
-          </div>
-        </ng-container>
+        <!--        <ng-container>-->
+        <!--          <label class="h4 fw-bold pt-3 pb-2 text-title-colour" for="FathersName">Numele Tatalui:</label>-->
+        <!--          <div class="row">-->
+        <!--            <div class="col-9 col-sm-6 col-md-5 col-lg-4 col-xl-3">-->
+        <!--              <select class="form-select select-width" formControlName="FathersName" id="FathersName">-->
+        <!--                <option [value]="SettingsService.FATHERS_DEFAULT_NAME">{{ SettingsService.FATHERS_DEFAULT_NAME }}-->
+        <!--                </option>-->
+        <!--&lt;!&ndash;                <option [value]="SettingsService.YAHUAH">{{ SettingsService.YAHUAH }}</option>&ndash;&gt;-->
+        <!--                <option [value]="SettingsService.YAUE">{{ SettingsService.YAUE }}</option>-->
+        <!--              </select>-->
+        <!--            </div>-->
+        <!--          </div>-->
+        <!--        </ng-container>-->
+        <!--        <ng-container>-->
+        <!--          <label class="h4 fw-bold pt-3 pb-2 text-title-colour" for="SonsName">Numele Fiului:</label>-->
+        <!--          <div class="row">-->
+        <!--            <div class="col-9 col-sm-6 col-md-5 col-lg-4 col-xl-3">-->
+        <!--              <select class="form-select select-width" formControlName="SonsName" id="SonsName">-->
+        <!--                <option [value]="SettingsService.SONS_DEFAULT_NAME">{{ SettingsService.SONS_DEFAULT_NAME }}</option>-->
+        <!--&lt;!&ndash;                <option [value]="SettingsService.SONS_NEW_NAME">{{ SettingsService.SONS_NEW_NAME }}</option>&ndash;&gt;-->
+        <!--              </select>-->
+        <!--            </div>-->
+        <!--          </div>-->
+        <!--        </ng-container>-->
         <ng-container>
           <div class="row">
             <div class="col">
@@ -35,7 +45,7 @@
             </div>
           </div>
         </ng-container>
-        <br/>
+        <br />
       </div>
     </div>
 

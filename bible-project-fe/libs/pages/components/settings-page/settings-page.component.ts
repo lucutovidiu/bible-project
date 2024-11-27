@@ -15,6 +15,7 @@ import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 
 import { SettingsPageService } from '@bible/pages';
 import { SiteStoreService } from '@bible/shared';
+import { InterceptorStorage } from '../../../shared/services/interceptor/interceptor-storage';
 
 @Component({
   selector: 'bible-settings-page',
@@ -37,13 +38,18 @@ export class SettingsPageComponent implements OnInit {
       validators: [Validators.required],
       nonNullable: true,
     }),
+    apiKey: new FormControl<string>('', {
+      validators: [Validators.required],
+      nonNullable: true,
+    }),
   });
-  protected readonly SettingsService = SettingsPageService;
+  // protected readonly SettingsService = SettingsPageService;
   private readonly destroyRef: DestroyRef = inject(DestroyRef);
 
   constructor(
     private readonly fb: FormBuilder,
     private readonly settingsServiceService: SettingsPageService,
+    private readonly interceptorStorage: InterceptorStorage,
     private readonly siteStoreService: SiteStoreService,
   ) {}
 
@@ -52,17 +58,23 @@ export class SettingsPageComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.formControl.FathersName.valueChanges
+    // this.formControl.FathersName.valueChanges
+    //   .pipe(takeUntilDestroyed(this.destroyRef))
+    //   .subscribe((FathersName) => {
+    //     this.settingsServiceService.updateFatherName(FathersName);
+    //     this.clearStoredVerses();
+    //   });
+    // this.formControl.SonsName.valueChanges
+    //   .pipe(takeUntilDestroyed(this.destroyRef))
+    //   .subscribe((SonsName) => {
+    //     this.settingsServiceService.updateSonsName(SonsName);
+    //     this.clearStoredVerses();
+    //   });
+    this.formControl.apiKey.valueChanges
       .pipe(takeUntilDestroyed(this.destroyRef))
-      .subscribe((FathersName) => {
-        this.settingsServiceService.updateFatherName(FathersName);
-        this.clearStoredVerses();
-      });
-    this.formControl.SonsName.valueChanges
-      .pipe(takeUntilDestroyed(this.destroyRef))
-      .subscribe((SonsName) => {
-        this.settingsServiceService.updateSonsName(SonsName);
-        this.clearStoredVerses();
+      .subscribe((apiKey) => {
+        this.interceptorStorage.storeApiKey(apiKey);
+        this.settingsServiceService.updateApiKey(apiKey);
       });
     this.settingsServiceService.settings$
       .pipe(takeUntilDestroyed(this.destroyRef))
@@ -72,6 +84,10 @@ export class SettingsPageComponent implements OnInit {
           emitEvent: false,
         });
         this.formControl.FathersName.patchValue(settings.FathersName, {
+          onlySelf: true,
+          emitEvent: false,
+        });
+        this.formControl.apiKey.patchValue(settings.apiKey, {
           onlySelf: true,
           emitEvent: false,
         });

@@ -6,6 +6,7 @@ import { BibleBook } from '../../model';
 export interface SettingsPageState {
   FathersName: string;
   SonsName: string;
+  apiKey: string;
 }
 
 export interface SitePreferencesState {
@@ -41,6 +42,7 @@ export function createSitePreferencesStateInitialState(): SitePreferencesState {
     settings: {
       FathersName: SettingsPageService.YAUE,
       SonsName: SettingsPageService.SONS_DEFAULT_NAME,
+      apiKey: '',
     },
   };
 }

@@ -3,6 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { ToastrModule } from 'ngx-toastr';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {
+  HTTP_INTERCEPTORS,
   provideHttpClient,
   withInterceptorsFromDi,
 } from '@angular/common/http';
@@ -12,7 +13,7 @@ import { SharedEnvModule } from '@bible/env-management';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { environment } from '../environments/local/environment';
-import { NavBarComponent } from '@bible/shared';
+import { ApiKeyInterceptor, NavBarComponent } from '@bible/shared';
 
 @NgModule({
   declarations: [AppComponent],
@@ -36,6 +37,13 @@ import { NavBarComponent } from '@bible/shared';
     }),
     NavBarComponent,
   ],
-  providers: [provideHttpClient(withInterceptorsFromDi())],
+  providers: [
+    provideHttpClient(withInterceptorsFromDi()),
+    {
+      provide: HTTP_INTERCEPTORS,
+      useClass: ApiKeyInterceptor,
+      multi: true,
+    },
+  ],
 })
 export class AppModule {}

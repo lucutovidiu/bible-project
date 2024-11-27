@@ -101,4 +101,14 @@ export class SitePreferencesStoreService extends Store<SitePreferencesState> {
       },
     }));
   }
+
+  updateApiKey(apiKey: string) {
+    this.update((state) => ({
+      ...state,
+      settings: {
+        ...state.settings,
+        apiKey,
+      },
+    }));
+  }
 }

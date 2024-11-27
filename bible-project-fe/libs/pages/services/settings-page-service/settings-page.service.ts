@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Observable } from 'rxjs';
+import { map, Observable } from 'rxjs';
 
 import {
   SettingsPageState,
@@ -27,6 +27,12 @@ export class SettingsPageService {
     return this.sitePreferencesQueryService.settings$;
   }
 
+  get isApiKeySet$(): Observable<boolean> {
+    return this.sitePreferencesQueryService.settings$.pipe(
+      map((p) => p.apiKey !== '' && p.apiKey.length > 10),
+    );
+  }
+
   resetStore() {
     this.sitePreferencesStoreService.reset();
   }
@@ -37,5 +43,9 @@ export class SettingsPageService {
 
   updateSonsName(SonsName: string) {
     this.sitePreferencesStoreService.updateSonsName(SonsName);
+  }
+
+  updateApiKey(apiKey: string) {
+    this.sitePreferencesStoreService.updateApiKey(apiKey);
   }
 }
