@@ -232,9 +232,11 @@ chapterPojo:
     chapter: null
   - verseNumber: 6
     text: "El, macar ca are chipul lui Yaue, totusi n-a crezut ca un lucru de apucat\
-      \ sa fie deopotriva cu Yaue,"
+      \ sa fie deopotriva cu Yaue,[ El, macar ca are chipul lui Yaue, nici nu s-a\
+      \ gandit sa fie egal cu Yaue,(Ioan 14:28) ]"
     textWithDiacritics: "El, măcar că are chipul lui Yaue, totuşi n-a crezut ca un\
-      \ lucru de apucat să fie deopotrivă cu Yaue,"
+      \ lucru de apucat să fie deopotrivă cu Yaue,[ El, măcar că are chipul lui Yaue,\
+      \ nici nu s-a gândit sa fie egal cu Yaue,(Ioan 14:28) ]"
     chapter: null
   - verseNumber: 7
     text: "ci S-a dezbracat pe Sine insusi si a luat un chip de rob facindu-Se asemenea\
@@ -502,9 +504,9 @@ chapterPojo:
       ngînd: sunt mulţi care se poartă ca vrăjmaşi ai răstigniri lui haMaşiya ."
     chapter: null
   - verseNumber: 19
-    text: "Sfirsitul lor va fi pierzarea,. Slujesc dumnezeuluilor pintecele, si slava\
+    text: "Sfirsitul lor va fi pierzarea,. Slujesc dumnezeului lor pintecele, si slava\
       \ lor este in rusinea lor si se gindesc la lucrurile de pe pamint."
-    textWithDiacritics: "Sfîrşitul lor va fi pierzarea,. Slujesc dumnezeuluilor pî\
+    textWithDiacritics: "Sfîrşitul lor va fi pierzarea,. Slujesc dumnezeului lor pî\
       ntecele, şi slava lor este în ruşinea lor şi se gîndesc la lucrurile de pe pă\
       mînt."
     chapter: null
@@ -576,13 +578,9 @@ chapterPojo:
     chapter: null
   - verseNumber: 9
     text: "Ce ati invatat, ce ati primit si auzit de la mine si ce ati vazut in mine,\
-      \ faceti. Si Elohim al pacii va fi cu voi. Tora - Pericopa 20 - Tetzaveh 27\
-      \ : 20 - 30 : 10 Haftarah - Ezechiel / Yechezkel 43 : 10 - 27 Legamintul Innoit\
-      \ - Filipeni / Fylypsiyah 4 : 10 - 20"
+      \ faceti. Si Elohim al pacii va fi cu voi."
     textWithDiacritics: "Ce aţi învăţat, ce aţi primit şi auzit de la mine şi ce aţ\
-      i văzut în mine, faceţi. Şi Elohim al păcii va fi cu voi. Tora - Pericopa 20\
-      \ - Tetzaveh 27 : 20 - 30 : 10 Haftarah - Ezechiel / Yechezkel 43 : 10 - 27\
-      \ Legămîntul Înnoit - Filipeni / Fylypsiyah 4 : 10 - 20"
+      i văzut în mine, faceţi. Şi Elohim al păcii va fi cu voi."
     chapter: null
   - verseNumber: 10
     text: "Am avut o mare bucurie in Yaue, ca, in sfirsit, ati putut sa va innoiti\
@@ -648,8 +646,8 @@ chapterPojo:
       \ după bogăţia Sa, în slavă, în Yașua haMaşiya."
     chapter: null
   - verseNumber: 20
-    text: "A lui Yaue Tatal nostru sa fie slava in vecii vecilor! HalleluYa."
-    textWithDiacritics: "A lui Yaue Tatăl nostru să fie slava în vecii vecilor! HalleluYa."
+    text: "A lui Yaue Tatal nostru sa fie slava in vecii vecilor! HalleluYah."
+    textWithDiacritics: "A lui Yaue Tatăl nostru să fie slava în vecii vecilor! HalleluYah."
     chapter: null
   - verseNumber: 21
     text: "Transmiteti salutari fiecarui sfint in haMasiya Yasua. Fratii care sunt\
@@ -662,7 +660,7 @@ chapterPojo:
     textWithDiacritics: "Toţi sfinţii vă trimit salutări, mai ales cei din casa cezarului."
     chapter: null
   - verseNumber: 23
-    text: "Harul lui Yasua haMasiya sa fie cu voi cu toti! HalleluYa. HalleluYah"
-    textWithDiacritics: "Harul lui Yașua haMaşiya să fie cu voi cu toţi! HalleluYa.\
+    text: "Harul lui Yasua haMasiya sa fie cu voi cu toti! HalleluYah. HalleluYah"
+    textWithDiacritics: "Harul lui Yașua haMaşiya să fie cu voi cu toţi! HalleluYah.\
       \ HalleluYah"
     chapter: null

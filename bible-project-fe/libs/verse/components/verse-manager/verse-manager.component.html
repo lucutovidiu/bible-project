@@ -1,6 +1,7 @@
 @if (bibleVerse) {
   @if (!shouldEditVerse) {
-    <span (click)="displayVerseOptions()">
+    <span (click)="displayVerseOptions()"
+    (dblclick)="verseOptions.copyTextToClipboard()">
       <bible-verse
         [bibleVerse]="bibleVerse"
         [highlightWords]="highlightWords"

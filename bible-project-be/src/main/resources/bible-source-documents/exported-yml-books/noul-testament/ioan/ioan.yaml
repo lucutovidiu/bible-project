@@ -15,13 +15,9 @@ chapterPojo:
   book: null
   versePojo:
   - verseNumber: 1
-    text: "La inceput era Cuvintul, si Cuvintul era cu Elohim, si Cuvintul era Elohim.\
-      \ [ Aramaica : Miltha - Puterea/Forta/Esenta ] [ La inceput era Miltha si Torah[Legea]\
-      \ vie, si Torah[Legea] vie era cu Yaue, si Torah[Legea] vie era Yaue. ]"
+    text: "La inceput era Cuvintul, si Cuvintul era cu Elohim, si Cuvintul era Elohim."
     textWithDiacritics: "La început era Cuvîntul, şi Cuvîntul era cu Elohim, şi Cuvî\
-      ntul era Elohim. [ Aramaica : Miltha - Puterea/Forta/Esenta ] [ La început era\
-      \ Miltha şi Torah[Legea] vie, şi Torah[Legea] vie era cu Yaue, şi Torah[Legea]\
-      \ vie era Yaue. ]"
+      ntul era Elohim."
     chapter: null
   - verseNumber: 2
     text: "El era la inceput cu Elohim."
@@ -1944,10 +1940,10 @@ chapterPojo:
   - verseNumber: 39
     text: "Spunea cuvintele acestea despre Duhul pe care aveau sa-L primeasca cei\
       \ ce vor crede in El. Caci fagaduinta Lui, nu o capatase inca, Yasua nu fusese\
-      \ inca proslavit. Incercari pentru prinderea lui Yasua"
+      \ inca proslavit. "
     textWithDiacritics: "Spunea cuvintele acestea despre Duhul pe care aveau să-L\
       \ primească cei ce vor crede în El. Căci făgăduința Lui, nu o căpătase încă\
-      , Yașua nu fusese încă proslăvit. Încercări pentru prinderea lui Yașua"
+      , Yașua nu fusese încă proslăvit. "
     chapter: null
   - verseNumber: 40
     text: "Unii din norod, cind au auzit aceste cuvinte, ziceau: „Acesta este cu adevarat\
