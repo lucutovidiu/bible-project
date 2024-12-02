@@ -5,15 +5,11 @@ import {
   Input,
   Output,
 } from '@angular/core';
-
-import {
-  BibleToastrService,
-  BookEditInfo,
-  ClipboardCopyService,
-} from '@bible/shared';
-import { SettingsPageService } from '@bible/pages';
 import { Observable } from 'rxjs';
 import { AsyncPipe } from '@angular/common';
+
+import { BookEditInfo, ClipboardCopyService } from '@bible/shared';
+import { SettingsPageService } from '@bible/pages';
 
 @Component({
   selector: 'bible-verse-options',
@@ -33,7 +29,7 @@ export class VerseOptionsComponent {
     this.settingsServiceService.isApiKeySet$;
 
   constructor(
-    private readonly bibleToastrService: BibleToastrService,
+    private readonly clipboardCopyService: ClipboardCopyService,
     private readonly settingsServiceService: SettingsPageService,
   ) {}
 
@@ -42,10 +38,7 @@ export class VerseOptionsComponent {
   }
 
   protected copyTextToClipboard() {
-    new ClipboardCopyService(
-      this.bookEditInfo,
-      this.bibleToastrService,
-    ).copyTextToClipboard();
+    this.clipboardCopyService.copyTextToClipboard(this.bookEditInfo);
     this.shouldCloseOptions.emit(true);
   }
 }

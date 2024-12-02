@@ -8,6 +8,7 @@ export interface BibleVerseStored {
 
 export interface SelectedBibleBook {
   bookName: string | null;
+  abbreviation: string | null;
   bookId: number | null;
   chapterNumbers: number[];
   chapterNumber: number | null;

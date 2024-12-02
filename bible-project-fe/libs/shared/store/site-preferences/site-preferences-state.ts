@@ -27,6 +27,7 @@ export function createSitePreferencesStateInitialState(): SitePreferencesState {
     homePage: {
       selectedBibleBook: {
         bookName: null,
+        abbreviation: null,
         bookId: null,
         chapterNumbers: [],
         chapterNumber: null,

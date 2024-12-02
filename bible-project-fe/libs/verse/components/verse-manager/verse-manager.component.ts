@@ -42,16 +42,13 @@ export class VerseManagerComponent {
   protected shouldDisplayVerseOptions$ = new BehaviorSubject<boolean>(false);
   private clickTimeout: number[] = [];
 
-  constructor(private readonly bibleToastrService: BibleToastrService) {
+  constructor(private readonly clipboardCopyService: ClipboardCopyService) {
     this.shouldEditVerse = false;
   }
 
   protected copyTextToClipboard() {
     this.clearAllIntervals();
-    new ClipboardCopyService(
-      this.getBookEditInfo(),
-      this.bibleToastrService,
-    ).copyTextToClipboard();
+    this.clipboardCopyService.copyTextToClipboard(this.getBookEditInfo());
   }
 
   protected getBookEditInfo(): BookEditInfo | null {

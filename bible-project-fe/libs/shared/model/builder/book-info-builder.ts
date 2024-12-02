@@ -33,8 +33,9 @@ export function buildBookEditInfo(
 
   if (!bibleBooks) {
     bookEditInfo.chapterNumber = selectedBook.chapterNumber || 0;
-    bookEditInfo.verseNumber = selectedBook.verseNumber || 0;
+    bookEditInfo.verseNumber = bibleVerse.verseNumber || 0;
     bookEditInfo.bookName = selectedBook.bookName || '';
+    bookEditInfo.abbreviation = selectedBook.abbreviation || '';
     bookEditInfo.bookId = selectedBook.bookId || 0;
     return bookEditInfo;
   }

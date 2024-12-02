@@ -1,7 +1,7 @@
 import { ChangeDetectionStrategy, Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Params } from '@angular/router';
 import { BehaviorSubject } from 'rxjs';
-import { AsyncPipe } from '@angular/common';
+import { AsyncPipe, JsonPipe } from '@angular/common';
 
 import { VerseManagerComponent } from '@bible/verse';
 import {
@@ -19,7 +19,12 @@ import { ChapterDisplayService } from '../../services/chapter-display-service/ch
   templateUrl: './chapter-display-page.component.html',
   styleUrl: './chapter-display-page.component.scss',
   changeDetection: ChangeDetectionStrategy.OnPush,
-  imports: [VerseManagerComponent, LoadingIndicatorBoxComponent, AsyncPipe],
+  imports: [
+    VerseManagerComponent,
+    LoadingIndicatorBoxComponent,
+    AsyncPipe,
+    JsonPipe,
+  ],
 })
 export class ChapterDisplayPageComponent implements OnInit {
   protected selectedBook: SelectedBibleBook | null = null;
@@ -51,6 +56,7 @@ export class ChapterDisplayPageComponent implements OnInit {
   private updateSelectedBook(params: Params) {
     this.selectedBook = {
       bookName: params['bookName'],
+      abbreviation: params['abbreviation'] || null,
       bookId: Number.parseInt(params['bookId']),
       chapterNumber: Number.parseInt(params['chapterNumber']),
       verseNumber: Number.parseInt(params['verseNumber']),
