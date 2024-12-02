@@ -34,8 +34,6 @@ public class BibleFinderResource {
     public List<VersePojo> findPlacesInTheBibleByVerseText(@PathParam("verseText") String verseText) {
         Log.info("Get findPlacesInTheBibleByVerseText");
 
-        return bibleFinderService.findPlacesInTheBibleByVerseText(verseText).stream()
-                .sorted(Comparator.comparing(verse -> verse.getChapter().getBook().getTestament()))
-                .toList();
+        return bibleFinderService.findPlacesInTheBibleByVerseText(verseText);
     }
 }

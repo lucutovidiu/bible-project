@@ -9,6 +9,7 @@ import ro.bible.importexport.service.BookExporterService;
 import ro.bible.importexport.service.BookImporterService;
 import ro.bible.importexport.service.impl.BookFileMetadataExporter;
 import ro.bible.persistence.service.BookService;
+import ro.bible.persistence.service.VerseService;
 
 @ApplicationScoped
 public class BibleExporterService {
@@ -23,6 +24,8 @@ public class BibleExporterService {
     BookService bookService;
     @Inject
     BookFileMetadataExporter bookFileMetadataExporter;
+    @Inject
+    VerseService verseService;
 
     @Scheduled(every = "5m")
     public void exportBooksMetadata() {
@@ -40,6 +43,8 @@ public class BibleExporterService {
             Log.info("Exporting Books");
             bookService.getAllBooks().forEach(bookPojo ->
                     bookExporterService.exportBook(bookPojo.getName()));
+//            bookService.getAllBooks().forEach(bookPojo ->
+//                    verseService.updateSearchVector(bookPojo.getBookId()));
         } else {
             Log.info("Skipping Exporting books");
         }
