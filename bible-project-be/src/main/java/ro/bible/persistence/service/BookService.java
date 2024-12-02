@@ -8,6 +8,8 @@ import ro.bible.persistence.entity.BookEntity;
 import ro.bible.persistence.entity.ChapterEntity;
 import ro.bible.persistence.entity.VerseEntity;
 import ro.bible.persistence.model.BookPojo;
+import ro.bible.persistence.model.ChapterPojo;
+import ro.bible.persistence.model.VersePojo;
 import ro.bible.persistence.repository.BookRepository;
 import ro.bible.persistence.repository.ChapterRepository;
 import ro.bible.persistence.repository.VerseRepository;
@@ -135,6 +137,44 @@ public class BookService {
         }
 
         return true;
+    }
+
+    @Transactional
+    public void bulkPatchVersesToDb(BookPojo bookPojo) {
+        Optional<BookEntity> byBookName = bookRepository.findByBookName(bookPojo.getName());
+
+        if(byBookName.isPresent()) {
+            Log.infof("Pathing, bookName: '%s'", bookPojo.getName());
+            BookEntity bookEntity = byBookName.get();
+            bookEntity.getChapters()
+                    .forEach(chapterEntity -> updateChapter(chapterEntity,bookPojo));
+        } else {
+            Log.errorf("Book NOT Found: '%s', for pathing", bookPojo.getName());
+        }
+    }
+
+    private void updateChapter(ChapterEntity chapterEntity, BookPojo bookPojo) {
+        Optional<ChapterPojo> foundChapter = bookPojo.getChapterPojo().stream()
+                .filter(chapterPojo -> chapterPojo.getNumber() == chapterEntity.getNumber())
+                .findFirst();
+
+        if(foundChapter.isPresent()) {
+            ChapterPojo chapterPojo = foundChapter.get();
+            chapterPojo.getVersePojo()
+                    .forEach(versePojo -> {
+                        chapterEntity.getVerses().stream()
+                                .filter(verseEntity -> verseEntity.getVerseNumber() == versePojo.getVerseNumber())
+                                .findFirst()
+                                .ifPresent(verseEntity -> updateVerse(verseEntity, versePojo));
+                    });
+        } else {
+            Log.errorf("Chapter NOT found no: '%s', for updating", chapterEntity.getNumber());
+        }
+    }
+
+    private void updateVerse(VerseEntity verseEntity, VersePojo versePojo) {
+        verseEntity.setText(versePojo.getText());
+        verseEntity.setTextWithDiacritics(versePojo.getTextWithDiacritics());
     }
 
     public long getBookCount() {

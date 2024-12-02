@@ -13,6 +13,8 @@ import ro.bible.shared.model.BookTestament;
 import ro.bible.shared.service.YamlMapperService;
 import ro.bible.shared.util.FileUtil;
 
+import java.time.Duration;
+import java.time.Instant;
 import java.util.Optional;
 
 @ApplicationScoped
@@ -28,6 +30,16 @@ public class YamlBookImporterService implements BookImporterService {
         Log.info("Started importing Books");
         BibleUtil.getBookInfoList()
                 .forEach(this::importBook);
+    }
+
+    @Override
+    public void patchAllBooksBulk() {
+        Instant start = Instant.now();
+        Log.info("Started importing Books in Bulk");
+        BibleUtil.getBookInfoList()
+                .forEach(this::patchBookBulk);
+        Instant end = Instant.now();
+        Log.infof("Finished importing Books in Bulk in: '%s' seconds", Duration.between(start, end).getSeconds());
     }
 
     @Override
@@ -69,6 +81,16 @@ public class YamlBookImporterService implements BookImporterService {
                 .ifPresentOrElse(bookPojo -> importerService.updateOrCreateBook(bookInfo, bookPojo), () -> {
                     Log.errorf("Book NOT found: %s, testament: %s", bookInfo.getBookName(), bookInfo.getTestament());
                 });
+        Log.infof("Finished Importing Book: %s", bookInfo.toString());
+    }
+
+    private void patchBookBulk(BookInfo bookInfo) {
+        Log.infof("Pathing Book bulk: %s", bookInfo.toString());
+        retrieveBookPojo(bookInfo)
+                .flatMap(this::convertToYaml)
+                .ifPresentOrElse(bookPojo -> importerService.patchBookBulkVersesAndChapters(bookInfo, bookPojo),
+                        () -> Log.errorf("Book NOT found: %s, testament: %s", bookInfo.getBookName(), bookInfo.getTestament()));
+        Log.infof("Finished Pathing bulk Book: %s", bookInfo.toString());
     }
 
     private Optional<BookPojo> convertToYaml(String bookYamlString) {

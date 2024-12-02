@@ -5,6 +5,7 @@ import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 import ro.bible.persistence.model.BookPojo;
+import ro.bible.persistence.model.ChapterPojo;
 import ro.bible.shared.model.BookInfo;
 
 import java.util.ArrayList;

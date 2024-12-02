@@ -6,6 +6,8 @@ public interface BookImporterService {
 
     void importAllBooks();
 
+    void patchAllBooksBulk();
+
     void importByBookTestament(BookTestament bookTestament);
 
     void importByBookName(String bookName);

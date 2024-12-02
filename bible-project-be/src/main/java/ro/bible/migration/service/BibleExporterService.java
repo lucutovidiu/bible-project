@@ -56,7 +56,8 @@ public class BibleExporterService {
             Log.info("Importing Books");
 //            bookImporterService.importByBookName("1 Ioan");
 //            bookImporterService.importByBookTestament(BookTestament.APOCRYPHA);
-            bookImporterService.importAllBooks();
+//            bookImporterService.importAllBooks();
+            bookImporterService.patchAllBooksBulk();
 //            bookImporterService.importBooksMetadataOnly();
         } else {
             Log.info("Skipping Importing books");

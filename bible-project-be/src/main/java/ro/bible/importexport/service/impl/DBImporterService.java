@@ -25,6 +25,17 @@ public class DBImporterService implements ImporterService {
     }
 
     @Override
+    public void patchBookBulkVersesAndChapters(BookInfo bookInfo, BookPojo bookPojo) {
+        bookInfo.updateBookInfo(bookPojo);
+        bookService.updateOrCreateBook(bookInfo);
+        bulkPatchVersesToDb(bookPojo);
+    }
+
+    private void bulkPatchVersesToDb(BookPojo bookPojo) {
+        bookService.bulkPatchVersesToDb(bookPojo);
+    }
+
+    @Override
     public void importBookTableOnly(BookInfo bookInfo) {
         bookService.updateOrCreateBook(bookInfo);
     }

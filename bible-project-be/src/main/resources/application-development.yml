@@ -15,5 +15,5 @@ import-export:
   # Exporting DB to usually a yaml file
   export-enabled: false
   # Updating DB from yml file
-  import-enabled: false
+  import-enabled: true
   file-metadata-enabled: false
