@@ -9,7 +9,7 @@ print_colored() {
 
 brew services stop certbot
 
-sudo certbot certonly --standalone -d "prowebart.co.uk" -d "bible.prowebart.co.uk" -d "bible-be.prowebart.co.uk"
+sudo certbot certonly --standalone -d "prowebart.co.uk" -d "bible.prowebart.co.uk" -d "bible-be.prowebart.co.uk" -d "online-shop.prowebart.co.uk"
 
 
 

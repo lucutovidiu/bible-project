@@ -1,4 +1,4 @@
-version: "3"
+version: "3.8"
 services:
   nginx-service:
     build:
@@ -6,7 +6,9 @@ services:
       dockerfile: Dockerfile
     restart: always
     ports:
-      - "443:443"
+      - target: 443
+        published: 443
+        mode: host
     networks:
       - bible-project-network
 

@@ -1,1 +1,5 @@
 .idea
+db/.env
+fe/.env
+be/.env
+nginx/certificates
