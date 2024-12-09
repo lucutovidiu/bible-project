@@ -1,4 +1,4 @@
-version: "3"
+version: "3.8"
 services:
   nginx-service:
     build:
@@ -6,7 +6,7 @@ services:
       dockerfile: Dockerfile
     restart: always
     ports:
-      - "443:443"
+      - "8080:8080"
     networks:
       - bible-project-network
 

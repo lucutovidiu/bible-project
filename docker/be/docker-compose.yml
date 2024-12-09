@@ -6,8 +6,10 @@ services:
       context: ../../bible-project-be
       dockerfile: ./src/main/docker/Dockerfile.jvm
     image: bible-project/bible-project-be:1.0.1
-    ports:
-      - "9000:8989"
+#    ports:
+#      - "8989:8989"
+#    expose:
+#      - "8989:8989"
     environment:
       datasource_username: ${datasource_username}
       datasource_password: ${datasource_password}

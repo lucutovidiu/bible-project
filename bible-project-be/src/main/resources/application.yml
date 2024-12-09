@@ -42,6 +42,11 @@ quarkus:
     migrate-at-start: true
     baseline-on-migrate: true
     schemas: public
+  hibernate-orm:
+    # Enable SQL logging
+    log:
+      sql: true
+      format-sql: true
 
 migration:
   enabled: false

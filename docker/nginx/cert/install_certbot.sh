@@ -9,12 +9,12 @@ print_colored() {
 
 brew services stop certbot
 
-sudo certbot certonly --standalone -d "prowebart.co.uk" -d "bible.prowebart.co.uk" -d "bible-be.prowebart.co.uk"
-
-
+sudo certbot certonly --standalone -d "prowebart.co.uk" -d "bible.prowebart.co.uk" -d "bible-be.prowebart.co.uk" -d "online-shop.prowebart.co.uk" -d "croitorie.prowebart.co.uk" -d "lazurconcept.prowebart.co.uk"
 
 sudo cat /etc/letsencrypt/live/bible-be.prowebart.co.uk/fullchain.pem | tee /Users/ovidiulucut/work/personal_repos/bible-project/docker/nginx/certificates/wild_cert/fullchain.pem
 sudo cat /etc/letsencrypt/live/bible-be.prowebart.co.uk/privkey.pem | tee /Users/ovidiulucut/work/personal_repos/bible-project/docker/nginx/certificates/wild_cert/privkey.pem
+
+sudo nginx -s reload
 
 Certificate is saved at: /etc/letsencrypt/live/bible-be.prowebart.co.uk/fullchain.pem
 Key is saved at:         /etc/letsencrypt/live/bible-be.prowebart.co.uk/privkey.pem
